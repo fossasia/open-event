@@ -4,10 +4,11 @@
 All the GET endpoints are suffix to the domain where we will set up the [organiser server](https://github.com/fossasia/open-event-orga-server)   
 
 ### Event
-``` GET /get/v1/event.json ``` 
+` GET /get/v1/event.json `  
+
 
 Example response - 
-```
+```javascript
 {
   "event": {
     "name": "OpenEvent",
@@ -23,13 +24,26 @@ Example response -
 
 
 ### Sessions
-``` GET /get/v1/sessions.json ``` 
+` GET /get/v1/sessions.json ` 
 
 ### Speakers
-``` GET /get/v1/speakers.json ``` 
+` GET /get/v1/speakers.json ` 
 
 ### Sponsors
-``` GET /get/v1/sponsors.json ``` 
+` GET /get/v1/sponsors.json ` 
+
+Example response  - 
+```
+sponsors []
+  0
+    name = Google
+    url = http://google.com
+    logo = http://google.com/logo.png
+  1
+    name = RedHat
+    url = http://redhat.org
+    logo = http://redhat.org/logo.png 
+```
 
 ### Microlocation
-``` GET /get/v1/microlocations.json ``` 
+` GET /get/v1/microlocations.json ` 
