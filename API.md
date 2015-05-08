@@ -33,16 +33,23 @@ Example response -
 ` GET /get/v1/sponsors.json ` 
 
 Example response  - 
-```
-sponsors []
-  0
-    name = Google
-    url = http://google.com
-    logo = http://google.com/logo.png
-  1
-    name = RedHat
-    url = http://redhat.org
-    logo = http://redhat.org/logo.png 
+```javascript
+{
+  "sponsors": [
+    {
+      "0": {
+        "name": "Google",
+        "url": "http://google.com",
+        "logo": "http://google.com/logo.png"
+      },
+      "1": {
+        "name": "RedHat",
+        "url": "http://redhat.org",
+        "logo": "http://redhat.org/logo.png"
+      }
+    }
+  ]
+}
 ```
 
 ### Microlocation
