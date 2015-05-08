@@ -37,16 +37,14 @@ Example response  -
 {
   "sponsors": [
     {
-      "0": {
-        "name": "Google",
-        "url": "http://google.com",
-        "logo": "http://google.com/logo.png"
-      },
-      "1": {
-        "name": "RedHat",
-        "url": "http://redhat.org",
-        "logo": "http://redhat.org/logo.png"
-      }
+      "name": "Google",
+      "url": "http://google.com",
+      "logo": "http://google.com/logo.png"
+    },
+    {
+      "name": "RedHat",
+      "url": "http://redhat.org",
+      "logo": "http://redhat.org/logo.png"
     }
   ]
 }
