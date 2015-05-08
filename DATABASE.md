@@ -10,13 +10,14 @@ Basic information about the event.
 
 | Column      | Data Type      | Notes       |
 |:------------|:---------------| ------------|
-| eventname   | string         | 
+| name        | string         | 
+| logo        | string         | url to logo
 | timestart   | timestamp      | 
 | timeend     | timestamp      |
 | loclat      | float          | latitude of location
 | loclang     | float          | longitude of location
 | locname     | string         | name of event location
-|
+
 
 
 ### Sessions  
@@ -36,3 +37,4 @@ Information about the sponsors.
 
 
 ### Microlocation
+Information about stalls/auditoriums etc inside the event location, so we can generate a microlocation map from it. 
