@@ -26,6 +26,32 @@ Example response -
 ### Sessions
 ` GET /get/v1/sessions.json ` 
 
+### Tracks 
+` GET /get/v1/tracks.json `
+
+Example response -   
+```javascript
+{
+  "tracks": [
+    {
+      "id": 1,
+      "name": "Linux",
+      "description": "All things to talk about Linux"
+    },
+    {
+      "id": 2,
+      "name": "Android",
+      "description": "All things to talk about Android"
+    },
+    {
+      "id": 3,
+      "name": "Java",
+      "description": "All things to talk about Java"
+    }
+  ]
+}
+```
+
 ### Speakers
 ` GET /get/v1/speakers.json ` 
 
@@ -51,4 +77,33 @@ Example response  -
 ```
 
 ### Microlocation
-` GET /get/v1/microlocations.json ` 
+` GET /get/v1/microlocations.json `  
+
+Example Response -  
+```javascript
+{
+  "microlocations": [
+    {
+      "id": 0,
+      "name": "Stage 7",
+      "latitude": "75.12312",
+      "longitude": "123.11212",
+      "floor": 2
+    },
+    {
+      "id": 1,
+      "name": "Hall 3",
+      "latitude": "75.12312",
+      "longitude": "123.11212",
+      "floor": 1
+    },
+    {
+      "id": 2,
+      "name": "Stage 2",
+      "latitude": "75.12212",
+      "longitude": "123.14512",
+      "floor": 1
+    }
+  ]
+}
+```
