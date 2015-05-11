@@ -21,7 +21,30 @@ Basic information about the event.
 
 
 ### Sessions  
-Information about the sessions.  
+Information about the sessions.   
+
+| Column          | Data Type      | Notes       |
+|:----------------|:---------------| ------------|
+| sessionid       | int [autoincr] | primary key, auto increments, unique for each row
+| title           | string         | title of session
+| subtitle        | string         |
+| abstract        | string         | short summary
+| description     | string         | full text, longer summary
+| timestart       | timestamp      | full timestamp with "+TZ" 
+| timeend         | timestamp      |
+| type            | string         | talk/workshop/seminar/discussion
+| track           | string         | track id
+| speakers        | int-array      | array of speaker id's who are speaking
+| level           | string         | beginner/intermediate/advanced
+| microlocation   | int            | microlocation id
+
+### Tracks
+Information about tracks.
+| Column          | Data Type      | Notes       |
+|:----------------|:---------------| ------------|
+| trackid         | int [autoincr] | primary key, auto increments, unique for each row
+| name            | string         |
+| description     | string         |
 
 ### Speakers
 Information about the speakers.  
@@ -31,6 +54,7 @@ Information about the speakers.
 | speakerid       | int [autoincr] | primary key, auto increments, unique for each row
 | name            | string         |
 | photo           | string         | url to photo 
+| bio             | string         | short biography
 | email           | email id       |
 | web             | string         | https://userswebsite.com
 | twitter         | string         | only the handle, without http://twitter/ part
@@ -53,4 +77,12 @@ Information about the sponsors.
 
 
 ### Microlocation
-Information about stalls/auditoriums etc inside the event location, so we can generate a microlocation map from it. 
+Information about stalls/auditoriums etc inside the event location, so we can generate a microlocation map from it.  
+
+| Column          | Data Type      | Notes       |
+|:----------------|:---------------| ------------|
+| locationid      | int [autoincr] | primary key, auto increments, unique for each row
+| name            | string         | location name, like "Stage 7", "Room 10"
+| latitude        | float          |
+| longitude       | float          |
+| floor           | int            |
