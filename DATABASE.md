@@ -3,7 +3,7 @@
 This document defines the schema used to store the data in the backend. The data could be stored in SQLite db file or just plain json files. This database will be directly modified only by the [orga-server](https://github.com/fossasia/open-event-orga-server). For the [orga-webclient](https://github.com/fossasia/open-event-orga-webclient), the server will provide access to this data over the defined [API](/API.md), to view/modify.  
 
 ## Tables
-Following are the various tables, and details about their columns.  
+Following are the various tables, and details about their columns. Fields marked in **bold** cannot be empty, and must contain values.   
 
 ### Event
 Basic information about the event.    
@@ -25,25 +25,26 @@ Information about the sessions.
 
 | Column          | Data Type      | Notes       |
 |:----------------|:---------------| ------------|
-| sessionid       | int [autoincr] | primary key, auto increments, unique for each row
-| title           | string         | title of session
+| **sessionid**   | int [autoincr] | primary key, auto increments, unique for each row
+| **title**       | string         | title of session
 | subtitle        | string         |
 | abstract        | string         | short summary
 | description     | string         | full text, longer summary
-| timestart       | timestamp      | full timestamp with "+TZ" 
-| timeend         | timestamp      |
-| type            | string         | talk/workshop/seminar/discussion
+| **timestart**   | timestamp      | full timestamp with "+TZ" 
+| **timeend**     | timestamp      |
+| **type**        | string         | talk/workshop/seminar/discussion
 | track           | string         | track id
 | speakers        | int-array      | array of speaker id's who are speaking
 | level           | string         | beginner/intermediate/advanced
 | microlocation   | int            | microlocation id
 
 ### Tracks
-Information about tracks.
+Information about tracks.   
+
 | Column          | Data Type      | Notes       |
 |:----------------|:---------------| ------------|
-| trackid         | int [autoincr] | primary key, auto increments, unique for each row
-| name            | string         |
+| **trackid**     | int [autoincr] | primary key, auto increments, unique for each row
+| **name**        | string         |
 | description     | string         |
 
 ### Speakers
@@ -51,8 +52,8 @@ Information about the speakers.
 
 | Column          | Data Type      | Notes       |
 |:----------------|:---------------| ------------|
-| speakerid       | int [autoincr] | primary key, auto increments, unique for each row
-| name            | string         |
+| **speakerid**   | int [autoincr] | primary key, auto increments, unique for each row
+| **name**        | string         |
 | photo           | string         | url to photo 
 | bio             | string         | short biography
 | email           | email id       |
@@ -61,19 +62,19 @@ Information about the speakers.
 | facebook        | string         | only the handle, without http://facebook/ part
 | github          | string         | only the handle, without http://github.com/ part
 | linkedin        | string         | full link to linkedin profile
-| organisation    | string         | 
-| position        | string         | title within organisation
+| **organisation**| string         | 
+| **position**    | string         | title within organisation
 | country         | string         |
-| sessions        | int-array      | array of session id's where speaker is speaking
+| **sessions**        | int-array      | array of session id's where speaker is speaking
 
 ### Sponsors
 Information about the sponsors.   
 
 | Column      | Data Type      | Notes       |
 |:------------|:---------------| ------------|
-| name        | string         |
-| url         | string         |
-| logo        | string         | url to png of logo
+| **name**        | string         |
+| **url**         | string         |
+| **logo**        | string         | url to png of logo
 
 
 ### Microlocation
@@ -81,8 +82,8 @@ Information about stalls/auditoriums etc inside the event location, so we can ge
 
 | Column          | Data Type      | Notes       |
 |:----------------|:---------------| ------------|
-| locationid      | int [autoincr] | primary key, auto increments, unique for each row
-| name            | string         | location name, like "Stage 7", "Room 10"
+| **locationid**      | int [autoincr] | primary key, auto increments, unique for each row
+| **name**            | string         | location name, like "Stage 7", "Room 10"
 | latitude        | float          |
 | longitude       | float          |
 | floor           | int            |
