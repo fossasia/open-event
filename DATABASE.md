@@ -24,7 +24,23 @@ Basic information about the event.
 Information about the sessions.  
 
 ### Speakers
-Information about the speakers.   
+Information about the speakers.  
+
+| Column          | Data Type      | Notes       |
+|:----------------|:---------------| ------------|
+| speakerid       | int [autoincr] | primary key, auto increments, unique for each row
+| name            | string         |
+| photo           | string         | url to photo 
+| email           | email id       |
+| web             | string         | https://userswebsite.com
+| twitter         | string         | only the handle, without http://twitter/ part
+| facebook        | string         | only the handle, without http://facebook/ part
+| github          | string         | only the handle, without http://github.com/ part
+| linkedin        | string         | full link to linkedin profile
+| organisation    | string         | 
+| position        | string         | title within organisation
+| country         | string         |
+| sessions        | int-array      | array of session id's where speaker is speaking
 
 ### Sponsors
 Information about the sponsors.   
