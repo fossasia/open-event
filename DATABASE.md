@@ -8,15 +8,15 @@ Following are the various tables, and details about their columns. Fields marked
 ### Event
 Basic information about the event.    
 
-| Column      | Data Type      | Notes       |
-|:------------|:---------------| ------------|
-| name        | string         | 
-| logo        | string         | url to logo
-| timestart   | timestamp      | 
-| timeend     | timestamp      |
-| loclat      | float          | latitude of location
-| loclang     | float          | longitude of location
-| locname     | string         | name of event location
+| Column          | Data Type      | Notes       |
+|:----------------|:---------------| ------------|
+| **name**        | string         | 
+| **logo**        | string         | url to logo
+| **timestart**   | timestamp      | 
+| **timeend**     | timestamp      |
+| **loclat**      | float          | latitude of location
+| **loclang**     | float          | longitude of location
+| **locname**     | string         | name of event location
 
 
 
@@ -25,7 +25,7 @@ Information about the sessions.
 
 | Column          | Data Type      | Notes       |
 |:----------------|:---------------| ------------|
-| **sessionid**   | int [autoincr] | primary key, auto increments, unique for each row
+| **id**          | int [autoincr] | primary key, auto increments, unique for each row
 | **title**       | string         | title of session
 | subtitle        | string         |
 | abstract        | string         | short summary
@@ -43,7 +43,7 @@ Information about tracks.
 
 | Column          | Data Type      | Notes       |
 |:----------------|:---------------| ------------|
-| **trackid**     | int [autoincr] | primary key, auto increments, unique for each row
+| **id**          | int [autoincr] | primary key, auto increments, unique for each row
 | **name**        | string         |
 | description     | string         |
 
@@ -52,7 +52,7 @@ Information about the speakers.
 
 | Column          | Data Type      | Notes       |
 |:----------------|:---------------| ------------|
-| **speakerid**   | int [autoincr] | primary key, auto increments, unique for each row
+| **id**          | int [autoincr] | primary key, auto increments, unique for each row
 | **name**        | string         |
 | photo           | string         | url to photo 
 | bio             | string         | short biography
@@ -82,8 +82,8 @@ Information about stalls/auditoriums etc inside the event location, so we can ge
 
 | Column          | Data Type      | Notes       |
 |:----------------|:---------------| ------------|
-| **locationid**      | int [autoincr] | primary key, auto increments, unique for each row
-| **name**            | string         | location name, like "Stage 7", "Room 10"
+| **id**          | int [autoincr] | primary key, auto increments, unique for each row
+| **name**        | string         | location name, like "Stage 7", "Room 10"
 | latitude        | float          |
 | longitude       | float          |
 | floor           | int            |
