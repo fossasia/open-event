@@ -8,15 +8,15 @@ Following are the various tables, and details about their columns. Fields marked
 ### Event
 Basic information about the event.    
 
-| Column          | Data Type      | Notes       |
-|:----------------|:---------------| ------------|
-| **name**        | string         | 
-| **logo**        | string         | url to logo
-| **timestart**   | timestamp      | 
-| **timeend**     | timestamp      |
-| **loclat**      | float          | latitude of location
-| **loclang**     | float          | longitude of location
-| **locname**     | string         | name of event location
+| Column            | Data Type      | Notes       |
+|:------------------|:---------------| ------------|
+| **name**          | string         | 
+| **logo**          | string         | url to logo
+| **start_time**    | timestamp      | 
+| **end_time**      | timestamp      |
+| **latitude**      | float          | latitude of location
+| **longitude**     | float          | longitude of location
+| **location_name** | string         | name of event location
 
 
 
@@ -33,7 +33,7 @@ Information about the sessions.
 | **timestart**   | timestamp      | full timestamp with "+TZ" 
 | **timeend**     | timestamp      |
 | **type**        | string         | talk/workshop/seminar/discussion
-| track           | string         | track id
+| track           | int         | track id
 | speakers        | int-array      | array of speaker id's who are speaking
 | level           | string         | beginner/intermediate/advanced
 | microlocation   | int            | microlocation id
