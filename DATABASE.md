@@ -30,8 +30,8 @@ Information about the sessions.
 | subtitle        | string         |
 | abstract        | string         | short summary
 | description     | string         | full text, longer summary
-| **timestart**   | timestamp      | full timestamp with "+TZ" 
-| **timeend**     | timestamp      |
+| **start_time**  | timestamp      | full timestamp with "+TZ" 
+| **end_time**    | timestamp      |
 | **type**        | string         | talk/workshop/seminar/discussion
 | track           | int         | track id
 | speakers        | int-array      | array of speaker id's who are speaking
@@ -72,6 +72,7 @@ Information about the sponsors.
 
 | Column      | Data Type      | Notes       |
 |:------------|:---------------| ------------|
+| **id**          | int [autoincr] | primary key, auto increments, unique for each row
 | **name**        | string         |
 | **url**         | string         |
 | **logo**        | string         | url to png of logo
