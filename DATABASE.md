@@ -12,8 +12,8 @@ Basic information about the event.
 |:------------------|:---------------| ------------|
 | **name**          | string         | 
 | **logo**          | string         | url to logo
-| **start_time**    | timestamp      | 
-| **end_time**      | timestamp      |
+| **start_time**    | timestamp      | full timestamp in ISO 8601 format, with +TZ or Zulu time
+| **end_time**      | timestamp      | full timestamp in ISO 8601 format, with +TZ or Zulu time
 | **latitude**      | float          | latitude of location
 | **longitude**     | float          | longitude of location
 | **location_name** | string         | name of event location
@@ -30,7 +30,7 @@ Information about the sessions.
 | subtitle        | string         |
 | abstract        | string         | short summary
 | description     | string         | full text, longer summary
-| **start_time**  | timestamp      | full timestamp with "+TZ" 
+| **start_time**  | timestamp      | full timestamp in ISO 8601 format, with +TZ or Zulu time 
 | **end_time**    | timestamp      |
 | **type**        | string         | talk/workshop/seminar/discussion
 | track           | int         | track id
