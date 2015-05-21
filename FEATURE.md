@@ -1,6 +1,10 @@
 #Feature List and Technologies
 
 ##Open-Event Organiser Server/Web Client
+- Database sqlite/postgresql
+- Provides Api for WebApp and Android App (Configuration, Session, Speakers, Sponsors etc.)
+- Possibility changes configuration(Gui colors, conference logo) 
+- CRUD methods for (Session, Events, etc) in admin panel
 
 ## Open-Event WebApp
 - Responsible Web Design(RWD)
