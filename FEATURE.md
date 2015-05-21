@@ -9,7 +9,8 @@
 - Offline support for the app
 
 ## Open-Event WebApp
-
+- Responsible Web Design(RWD)
+- Shows information about Session, Speakers, Map of location, Sponsors
 
 ## Open-Event Android App
 
