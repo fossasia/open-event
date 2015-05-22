@@ -3,7 +3,7 @@
 ##Open-Event Organiser Server/Web Client
 - Database sqlite/postgresql
 - Provides Api for WebApp and Android App (Configuration, Session, Speakers, Sponsors etc.)
-- Possibility changes configuration(Gui colors, conference logo) 
+- Possibility changes configuration(Gui colors, conference logo, timezone, event title, event email) 
 - CRUD methods for (Session, Events, etc) in admin panel
 
 ## Open-Event WebApp
