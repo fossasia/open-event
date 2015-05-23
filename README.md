@@ -7,10 +7,6 @@ Each specific component's source code has it's own Github Repo, links provided i
 [Github Repo](https://github.com/fossasia/open-event-orga-server)   
 The server which will manage all the data of the event. Backed by a database, it provides API endpoints to fetch the data, and also to modify/update it.    
 
-### Open-Event Organiser Web Client
-[Github Repo](https://github.com/fossasia/open-event-orga-webclient)   
-This is the web frontend that sits on top of the organiser server. It will interact with the backend strictly with definied APIs, so that people can also create their own web client to manage the data, based on the APIs, if they choose to not use our web client.    
-
 ### Open-Event WebApp
 [Github Repo](https://github.com/fossasia/open-event-webapp)   
 A mobile-friendly webapp, which shows all information about the event like Sessions, Speakers, Map of location, Sponsors etc. The idea is to make a ready-to-port webapp, that can be wrapped into iOS, Windows, Chrome etc apps - ie. those platforms we are not immediately supporting natively.    
