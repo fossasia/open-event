@@ -17,3 +17,11 @@
 - Data retrieval through json api using volley library
 - versioning check from the api on start of data download
 - Offline support for the app
+- Wearable app
+- Notifications for upcoming events
+- Sharing event information
+- Customisable theme based on data provided by orga server
+- Support to the latest devices
+- Bookmarks for Favorite sessions
+- Google Calendar sync
+- Social media Compatibilty( All Twitter, Facebook etc.)
