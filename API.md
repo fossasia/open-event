@@ -33,9 +33,24 @@ Example response -
 }
 ```
 
+` GET /get/v1/event/<event-id>  `  
+
+Example Response (for event-id = 3, ie /get/v1/event/3) - 
+```javascript
+
+{
+  "end_time": "2015-05-08T16:00:00", 
+  "id": 3, 
+  "latitude": 23.3455, 
+  "location_name": "Berlin Station", 
+  "longitude": 78.1233, 
+  "name": "Re:Publica", 
+  "start_time": "2015-05-01T14:00:00"
+}
+```
 
 ### Sessions
-` GET /get/v1/sessions  ` 
+` GET /get/v1/event/<event-id>/sessions  ` 
 
 Example response -    
 ```javascript
@@ -104,7 +119,7 @@ Example response -
 ```
 
 ### Tracks 
-` GET /get/v1/tracks  `
+` GET /get/v1/event/<event-id>/tracks  `
 
 Example response -   
 ```javascript
@@ -130,10 +145,10 @@ Example response -
 ```
 
 ### Speakers
-` GET /get/v1/speakers  ` 
+` GET /get/v1/event/<event-id>/speakers  ` 
 
 ### Sponsors
-` GET /get/v1/sponsors  ` 
+` GET /get/v1/event/<event-id>/sponsors  ` 
 
 Example response  - 
 ```javascript
@@ -154,7 +169,7 @@ Example response  -
 ```
 
 ### Microlocation
-` GET /get/v1/microlocations  `  
+` GET /get/v1/event/<event-id>/microlocations  `  
 
 Example Response -  
 ```javascript
@@ -186,7 +201,7 @@ Example Response -
 ```
 
 ### Configuration
-` GET /get/v1/configuration  `  
+` GET /get/v1/event/<event-id>/configuration  `  
 
 Example Response -  
 ```javascript
