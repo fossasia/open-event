@@ -10,15 +10,26 @@ All the GET endpoints are suffix to the domain where we will set up the [organis
 Example response - 
 ```javascript
 {
-  "event": {
-    "name": "OpenEvent",
-    "logo": "http://openevent.org/logo.png",
-    "timestart": "2015-05-08T16:44:36.150Z",
-    "timeend": "2015-05-08T16:44:36.150Z",
-    "loclat": "75.12315",
-    "loclang": "123.22312",
-    "locname": "Eventsarena Auditorium"
-  }
+  "events": [
+    {
+      "end_time": "2015-05-08T16:00:00", 
+      "id": 3, 
+      "latitude": 23.3455, 
+      "location_name": "Berlin Station", 
+      "longitude": 78.1233, 
+      "name": "Re:Publica", 
+      "start_time": "2015-05-01T14:00:00"
+    }, 
+    {
+      "end_time": "2015-06-12T05:00:00", 
+      "id": 4, 
+      "latitude": 56.8876, 
+      "location_name": "Singapore", 
+      "longitude": 123.4567, 
+      "name": "FOSSASIA", 
+      "start_time": "2015-06-10T05:00:00"
+    }
+  ]
 }
 ```
 
