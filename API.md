@@ -4,7 +4,7 @@
 All the GET endpoints are suffix to the domain where we will set up the [organiser server](https://github.com/fossasia/open-event-orga-server)   
 
 ### Event
-` GET /get/v1/event.json `  
+` GET /get/v1/event  `  
 
 
 Example response - 
@@ -35,7 +35,7 @@ Example response -
 
 
 ### Sessions
-` GET /get/v1/sessions.json ` 
+` GET /get/v1/sessions  ` 
 
 Example response -    
 ```javascript
@@ -104,7 +104,7 @@ Example response -
 ```
 
 ### Tracks 
-` GET /get/v1/tracks.json `
+` GET /get/v1/tracks  `
 
 Example response -   
 ```javascript
@@ -130,10 +130,10 @@ Example response -
 ```
 
 ### Speakers
-` GET /get/v1/speakers.json ` 
+` GET /get/v1/speakers  ` 
 
 ### Sponsors
-` GET /get/v1/sponsors.json ` 
+` GET /get/v1/sponsors  ` 
 
 Example response  - 
 ```javascript
@@ -154,7 +154,7 @@ Example response  -
 ```
 
 ### Microlocation
-` GET /get/v1/microlocations.json `  
+` GET /get/v1/microlocations  `  
 
 Example Response -  
 ```javascript
@@ -186,7 +186,7 @@ Example Response -
 ```
 
 ### Configuration
-` GET /get/v1/configuration.json `  
+` GET /get/v1/configuration  `  
 
 Example Response -  
 ```javascript
