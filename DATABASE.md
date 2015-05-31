@@ -22,6 +22,8 @@ Basic information about the event.
 
 ### Sessions  
 Information about the sessions.   
+**Note** for each separate event, there will be one Sessions table called sessions_<eventid> 
+So, if there are 3 events, there will be 3 tables, `session_1`, `session_2`, `session_3` 
 
 | Column          | Data Type      | Notes       |
 |:----------------|:---------------| ------------|
@@ -40,6 +42,8 @@ Information about the sessions.
 
 ### Tracks
 Information about tracks.   
+**NOTE** Similar to sessions, for each event, a track table called tracks_<eventid> 
+
 
 | Column          | Data Type      | Notes       |
 |:----------------|:---------------| ------------|
@@ -88,3 +92,17 @@ Information about stalls/auditoriums etc inside the event location, so we can ge
 | latitude        | float          |
 | longitude       | float          |
 | floor           | int            |
+
+### Version
+This table contains versioning data, that helps client know whether or not to refresh data.
+**NOTE** A single versions table will hold versioning data for all events. 
+
+| Column          | Data Type      | Notes       |
+|:----------------|:---------------| ------------|
+| **id**          | int [autoincr] | primary key, auto increments, unique for each row
+| **eventid**     | int            | foreign key, corresponds to 'id' key in events table
+| session_ver     | int            | increases everytime sessions data of this event is changed
+| speakers_ver    | int            | increases everytime speakers data of this event is changed
+| tracks_ver      | int            | increases everytime tracks data of this event is changed
+| sponsors_ver    | int
+| microlocations_ver     | int    |  
