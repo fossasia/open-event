@@ -22,7 +22,7 @@ Basic information about the event.
 
 ### Sessions  
 Information about the sessions.   
-**Note** for each separate event, there will be one Sessions table called sessions_<eventid> 
+**Note** for each separate event, there will be one Sessions table called `sessions_<eventid>` 
 So, if there are 3 events, there will be 3 tables, `session_1`, `session_2`, `session_3` 
 
 | Column          | Data Type      | Notes       |
@@ -42,7 +42,7 @@ So, if there are 3 events, there will be 3 tables, `session_1`, `session_2`, `se
 
 ### Tracks
 Information about tracks.   
-**NOTE** Similar to sessions, for each event, a track table called tracks_<eventid> 
+**NOTE** Similar to sessions, for each event, a track table called `tracks_<eventid>` 
 
 
 | Column          | Data Type      | Notes       |
