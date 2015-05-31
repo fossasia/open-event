@@ -199,22 +199,3 @@ Example Response -
   ]
 }
 ```
-
-### Configuration
-` GET /get/v1/event/<event-id>/configuration  `  
-
-Example Response -  
-```javascript
-
-{
-  "configuration": {
-    "color": "#0433ff",
-    "email": "rafal@test.com",
-    "id": 1,
-    "logo": "link_to_logo",
-    "title": "Open-Event"
-  }
-}
-
-```
-
