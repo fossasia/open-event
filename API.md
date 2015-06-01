@@ -167,13 +167,7 @@ Example response -
       "country": "India",
       "sessions": [
         {
-          "id": 3,
-          "title": "How to make OpenEvent"
-        },
-        {
-          "id": 5,
-          "title": "How to write this Data api"
-        }
+          3,5          
       ]
     },
     {
@@ -191,14 +185,7 @@ Example response -
       "position": "Student",
       "country": "India",
       "sessions": [
-        {
-          "id": 3,
-          "title": "How to make OpenEvent"
-        },
-        {
-          "id": 5,
-          "title": "How to write this Data api"
-        }
+        3,5
       ]
     }
   ]
