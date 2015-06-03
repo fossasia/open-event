@@ -39,13 +39,17 @@ Example Response (for event-id = 3, ie /get/v1/event/3) -
 ```javascript
 
 {
-  "end_time": "2015-05-08T16:00:00", 
-  "id": 3, 
-  "latitude": 23.3455, 
-  "location_name": "Berlin Station", 
-  "longitude": 78.1233, 
-  "name": "Re:Publica", 
-  "start_time": "2015-05-01T14:00:00"
+  "events": [
+    {
+      "end_time": "2015-05-08T16:00:00", 
+      "id": 3, 
+      "latitude": 23.3455, 
+      "location_name": "Berlin Station", 
+      "longitude": 78.1233, 
+      "name": "Re:Publica", 
+      "start_time": "2015-05-01T14:00:00"
+    }
+  ]
 }
 ```
 
