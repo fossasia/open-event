@@ -248,3 +248,25 @@ Example Response -
   ]
 }
 ```
+
+### The latest Version
+` GET /get/v1/version `  
+
+Example Response -  
+```
+{
+  "version": 
+  [
+    {
+      "event_id": 2,
+      "event_ver": 2,
+      "id": 19,
+      "microlocations_ver": 0,
+      "session_ver": 3,
+      "speakers_ver": 1,
+      "sponsors_ver": 0,
+      "tracks_ver": 0
+    }
+  ]
+}
+```
