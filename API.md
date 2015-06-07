@@ -270,3 +270,25 @@ Example Response -
   ]
 }
 ```
+### The latest Version of Event
+` GET /get/v1/event/<event_id>/version `  
+
+Example Response -  
+`/get/v1/event/1/version ` 
+```
+{
+  "version": 
+  [
+    {
+      "event_id": 1,
+      "event_ver": 2,
+      "id": 19,
+      "microlocations_ver": 0,
+      "session_ver": 3,
+      "speakers_ver": 1,
+      "sponsors_ver": 0,
+      "tracks_ver": 0
+    }
+  ]
+}
+```
