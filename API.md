@@ -136,17 +136,20 @@ Example response -
     {
       "id": 1,
       "name": "Linux",
-      "description": "All things to talk about Linux"
+      "description": "All things to talk about Linux",
+      "track_image_url": "http://www.menucool.com/slider/jsImgSlider/images/image-slider-2.jpg"
     },
     {
       "id": 2,
       "name": "Android",
-      "description": "All things to talk about Android"
+      "description": "All things to talk about Android",
+      "track_image_url": "http://www.menucool.com/slider/jsImgSlider/images/image-slider-2.jpg"
     },
     {
       "id": 3,
       "name": "Java",
-      "description": "All things to talk about Java"
+      "description": "All things to talk about Java",
+      "track_image_url": "http://www.menucool.com/slider/jsImgSlider/images/image-slider-2.jpg"
     }
   ]
 }
