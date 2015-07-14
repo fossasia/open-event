@@ -1,11 +1,13 @@
 {
   "sponsors": [
     {
+      "id": 1,
       "name": "Google",
       "url": "http://google.com",
       "logo": "http://google.com/logo.png"
     },
     {
+      "id": 2,
       "name": "RedHat",
       "url": "http://redhat.org",
       "logo": "http://redhat.org/logo.png"
