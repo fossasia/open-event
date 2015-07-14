@@ -1,16 +1,17 @@
+
 {
   "sponsors": [
     {
-      "id": 1,
-      "name": "Google",
-      "url": "http://google.com",
-      "logo": "http://google.com/logo.png"
-    },
+      "id": 1, 
+      "logo": "http://fineprintnyc.com/images/blog/history-of-logos/google/google-logo.png", 
+      "name": "Google", 
+      "url": "www.google.com"
+    }, 
     {
-      "id": 2,
-      "name": "RedHat",
-      "url": "http://redhat.org",
-      "logo": "http://redhat.org/logo.png"
+      "id": 2, 
+      "logo": "http://mysecureshell.readthedocs.org/en/latest/_images/logo_redhat.png", 
+      "name": "Redhat", 
+      "url": "https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCMQFjAA&url=http%3A%2F%2Fwww.redhat.com%2Fen&ei=BfxlVeiAJ9G2uASj04HACA&usg=AFQjCNGukJZv1KpyD8oca9tB5awdhHOC4A&sig2=4ugQGcXmaHSOF1-3bLdSeA&bvm=bv.93990622,d.c2E"
     }
   ]
 }

@@ -21,5 +21,12 @@
       "longitude": "123.14512",
       "floor": 1
     }
+
+      "floor": 1, 
+      "id": 3, 
+      "latitude": 27.0, 
+      "longitude": -122.400546, 
+      "name": "moscone"
+    }
   ]
 }

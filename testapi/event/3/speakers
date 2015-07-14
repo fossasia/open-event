@@ -1,41 +1,62 @@
 {
-  "speakers": [
-    {
-      "id": 4,
-      "name": "Arnav Gupta",
-      "photo": "http://championswimmer.in/photo.png",
-      "biography": "A jolly good fellow",
-      "email": "championswimmer@gmail.com",
-      "web": "http://championswimmer.in",
-      "twitter": "championswimmer",
-      "facebook": "championswimmer",
-      "linkedin": "http://linkedin.com/in/arnavgupta",
-      "github": "championswimmer",
-      "organisation": "DTU",
-      "position": "Student",
-      "country": "India",
-      "sessions": [
-        3,5
-      ]
-    },
-    {
-      "id": 2,
-      "name": "Manan Wason",
-      "photo": "http://manan.in/photo.png",
-      "biography": "A jolly good fellow",
-      "email": "mananwason@gmail.com",
-      "web": "http://mananwason.in",
-      "twitter": "mananwason",
-      "facebook": "mananwason",
-      "linkedin": "http://linkedin.com/in/mananwason",
-      "github": "mananwason",
-      "organisation": "IIIT-D",
-      "position": "Student",
-      "country": "India",
-      "sessions": [
-        
-          3,5
-      ]
-    }
-  ]
+speakers: [
+{
+biography: "Manan is a sophomore studying at IIIT Delhi and is working with FOSSASIA for GSOC 2015 on a project called 2015",
+country: "India",
+email: "manan13056@iiitd.ac.in",
+facebook: "https://twitter.com/mananwason9",
+github: "github.com/mananwason",
+id: 1,
+linkedin: "https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&sqi=2&ved=0CB0QFjAA&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fwilliamhgates&ei=ITxjVfbROITJuASlnIHICg&usg=AFQjCNGFcm3HfIjnY3wmDWDasbrbAe7M0w&sig2=6dIp7z6R-AWFX7iessKy6Q&bvm=bv.93990622,d.c2E",
+name: "Manan Wason",
+organisation: "Fossasia",
+photo: "https://avatars0.githubusercontent.com/u/2479753?v=3&s=400",
+position: "Student developer",
+sessions: [
+1,
+4,
+5
+],
+twitter: "https://twitter.com/mananwason9",
+web: "mananwason.wordpress.com"
+},
+{
+biography: "Arnav is a student at DTU and is working with FOSSASIA for GSOC 2015 on a project called Open event.",
+country: "India",
+email: "championswimmer@gmail.com",
+facebook: "facebook.com/championswimmer",
+github: "github.com/championswimmer",
+id: 2,
+linkedin: "",
+name: "Arnav Gupta",
+organisation: "FOSSASIA",
+photo: "https://avatars3.githubusercontent.com/u/1327050?v=3&s=400",
+position: "Student developer",
+sessions: [
+1,
+5
+],
+twitter: "https://twitter.com/championswimmer",
+web: "championswimmer.in"
+},
+{
+biography: "Bill is the founder of microsoft",
+country: "United States",
+email: "bill@live.com",
+facebook: "facebook.com/championswimmer",
+github: "github.com/championswimmer",
+id: 3,
+linkedin: "",
+name: "Bill gates",
+organisation: "Microsoft",
+photo: "http://upload.wikimedia.org/wikipedia/commons/0/01/Bill_Gates_July_2014.jpg",
+position: "Founder",
+sessions: [
+1,
+4
+],
+twitter: "https://www.google.co.in/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CB0QFjAA&url=https%3A%2F%2Ftwitter.com%2Fbillgates&ei=wjtjVar7F4PnuQSMsIOQBA&usg=AFQjCNH2rOCC8tBoJQBFzBHahh3_l283uQ&sig2=Iy-ug9nR6rdfC7aePhTqrQ&bvm=bv.93990622,d.c2E",
+web: "live.com"
+}
+]
 }
