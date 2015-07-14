@@ -1,19 +1,24 @@
 {
-  "tracks": [
-    {
-      "id": 1,
-      "name": "Linux",
-      "description": "All things to talk about Linux"
-    },
-    {
-      "id": 2,
-      "name": "Android",
-      "description": "All things to talk about Android"
-    },
-    {
-      "id": 3,
-      "name": "Java",
-      "description": "All things to talk about Java"
-    }
-  ]
+"tracks": [
+	{
+		"description": "track1",
+		"id": 1,
+		"name": "track1",
+		"track_image_url": ""
+	},
+	{  
+	    "description": "All things to talk about Android",
+		"id": 2,
+		"name": "Android",
+		"track_image_url": ""
+
+	},
+	{
+		"id": 3,
+		"name": "Java",
+		"description": "All things to talk about Java",    
+		"track_image_url": ""
+
+	}
+		]
 }
