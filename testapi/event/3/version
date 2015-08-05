@@ -2,9 +2,9 @@
 {
   "version": [
     {
-      "event_id": 4, 
-      "event_ver": 0, 
-      "id": 26, 
+      "event_id": 6, 
+      "event_ver": 1, 
+      "id": 27, 
       "microlocations_ver": 0, 
       "session_ver": 4, 
       "speakers_ver": 3, 
