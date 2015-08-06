@@ -19,72 +19,7 @@
       "name": "Culture", 
       "track_image_url": null
     }, 
-    {
-      "description": "", 
-      "id": 7, 
-      "name": "Fashiontech", 
-      "track_image_url": null
-    }, 
-    {
-      "description": "", 
-      "id": 8, 
-      "name": "Global Innovation Gathering", 
-      "track_image_url": null
-    }, 
-    {
-      "description": "", 
-      "id": 9, 
-      "name": "Media", 
-      "track_image_url": null
-    }, 
-    {
-      "description": "", 
-      "id": 10, 
-      "name": "Media Convention", 
-      "track_image_url": null
-    }, 
-    {
-      "description": "", 
-      "id": 11, 
-      "name": "Other", 
-      "track_image_url": null
-    }, 
-    {
-      "description": "", 
-      "id": 12, 
-      "name": "Politics & Society", 
-      "track_image_url": null
-    }, 
-    {
-      "description": "", 
-      "id": 13, 
-      "name": "re:cord Musicday", 
-      "track_image_url": null
-    }, 
-    {
-      "description": "", 
-      "id": 14, 
-      "name": "re:health", 
-      "track_image_url": null
-    }, 
-    {
-      "description": "", 
-      "id": 15, 
-      "name": "re:publica", 
-      "track_image_url": null
-    }, 
-    {
-      "description": "", 
-      "id": 16, 
-      "name": "re:think Mobility", 
-      "track_image_url": null
-    }, 
-    {
-      "description": "", 
-      "id": 17, 
-      "name": "Research & Education", 
-      "track_image_url": null
-    }, 
+     
     {
       "description": "", 
       "id": 18, 
