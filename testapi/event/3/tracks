@@ -1,30 +1,25 @@
 
 {
-  "tracks": [
-    {
-      "description": "", 
-      "id": 4, 
-      "name": "Business & Innovation", 
-      "track_image_url": null
-    }, 
-    {
-      "description": "", 
-      "id": 5, 
-      "name": "City Of The Future", 
-      "track_image_url": null
-    }, 
-    {
-      "description": "", 
-      "id": 6, 
-      "name": "Culture", 
-      "track_image_url": null
-    }, 
-     
-    {
-      "description": "", 
-      "id": 18, 
-      "name": "Science & Technology", 
-      "track_image_url": null
-    }
-  ]
+"tracks": [
+  {
+    "description": "track1",
+    "id": 1,
+    "name": "track1",
+    "track_image_url": ""
+  },
+  {  
+      "description": "All things to talk about Android",
+    "id": 2,
+    "name": "Android",
+    "track_image_url": ""
+
+  },
+  {
+    "id": 3,
+    "name": "Java",
+    "description": "All things to talk about Java",    
+    "track_image_url": ""
+
+  }
+    ]
 }
