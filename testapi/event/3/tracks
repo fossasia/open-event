@@ -1,25 +1,29 @@
-
 {
 "tracks": [
   {
-    "description": "",
-    "id": 1,
-    "name": "track1",
-    "track_image_url": ""
-  },
-  {  
+      "description": "track1", 
+      "id": 1, 
+      "name": "track1", 
+      "track_image_url": "http://sd.keepcalm-o-matic.co.uk/i/keep-calm-and-be-super-awesome-1.png"
+    }, 
+    {
+      "description": "this is a super awesome track ", 
+      "id": 2, 
+      "name": "super awesome", 
+      "track_image_url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCGYT0pxOfTQ14XOXLQatKBfH06ESpgMiyRdptXu4u3M1jQzXjEQ"
+    },
+    {  
       "description": "All things to talk about Android",
-    "id": 2,
-    "name": "Android",
-    "track_image_url": ""
+      "id": 3,
+      "name": "Android",
+      "track_image_url": ""
+    },
+    {
+      "id": 4,
+      "name": "Java",
+      "description": "All things to talk about Java",    
+      "track_image_url": ""
 
-  },
-  {
-    "id": 3,
-    "name": "Java",
-    "description": "All things to talk about Java",    
-    "track_image_url": ""
-
-  }
-    ]
     }
+      ]
+}
