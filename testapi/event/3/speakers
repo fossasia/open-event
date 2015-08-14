@@ -1,5 +1,5 @@
 {
-  speakers: [
+  "speakers": [
     {
       biography: "Manan is a sophomore studying at IIIT Delhi and is working with FOSSASIA for GSOC 2015 on a project called 2015",
       country: "India",
