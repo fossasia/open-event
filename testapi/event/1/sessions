@@ -8,7 +8,7 @@
       "format": null, 
       "id": 1, 
       "level": null, 
-      "microlocation": null, 
+      "microlocation": 1, 
       "speakers": [
         {
           "id": 456, 
@@ -27,7 +27,7 @@
       "format": null, 
       "id": 2, 
       "level": null, 
-      "microlocation": null, 
+      "microlocation": 2, 
       "speakers": [
         {
           "id": 344, 
@@ -46,7 +46,7 @@
       "format": null, 
       "id": 3, 
       "level": null, 
-      "microlocation": null, 
+      "microlocation": 3, 
       "speakers": [
         {
           "id": 151, 
@@ -73,7 +73,7 @@
       "format": null, 
       "id": 4, 
       "level": null, 
-      "microlocation": null, 
+      "microlocation": 1, 
       "speakers": [
         {
           "id": 752, 
