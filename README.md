@@ -4,7 +4,7 @@ The FOSSASIA Open Event Project aims to make it easier for events, conferences, 
 Each specific component's source code has it's own Github Repo, links provided in the subsections below . This repository is for tracking milestones and issues, and maintaining a wiki about the project. Also, documentation about the JSON Schema, and how to use the template will be hosted on this repo. 
 
 ### How to create your event
-(https://open-event.herokuapp.com/admin/]
+https://open-event.herokuapp.com/admin/
 Select the link to sign up and create your event.
 
 ### Communication
