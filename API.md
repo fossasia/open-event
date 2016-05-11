@@ -178,7 +178,9 @@ Example response -
       "country": "India",
       "sessions": [
         {
-          3,5          
+            "id": 2,
+            "title": "Open Event"
+        }
       ]
     },
     {
@@ -196,7 +198,14 @@ Example response -
       "position": "Student",
       "country": "India",
       "sessions": [
-        3,5
+        {
+            "id": 2,
+            "title": "Open Event"
+        },
+        {
+            "id": 3,
+            "title": "Open-Event-Server"
+        }
       ]
     }
   ]
