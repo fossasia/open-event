@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "color": null, 
+      "email": null, 
+      "end_time": "2015-07-12T00:00:00", 
+      "id": 1, 
+      "latitude": null, 
+      "location_name": null, 
+      "logo": null, 
+      "longitude": null, 
+      "name": "event1", 
+      "slogan": null, 
+      "start_time": "2015-07-12T00:00:00", 
+      "url": null
+    }, 
+    {
+      "color": null, 
+      "email": null, 
+      "end_time": "2015-07-12T00:00:00", 
+      "id": 2, 
+      "latitude": null, 
+      "location_name": null, 
+      "logo": null, 
+      "longitude": null, 
+      "name": "event2", 
+      "slogan": null, 
+      "start_time": "2015-07-12T00:00:00", 
+      "url": null
+    }, 
+    {
+      "color": null, 
+      "email": null, 
+      "end_time": "2015-07-14T00:00:00", 
+      "id": 3, 
+      "latitude": null, 
+      "location_name": null, 
+      "logo": null, 
+      "longitude": null, 
+      "name": "event test", 
+      "slogan": null, 
+      "start_time": "2015-07-14T00:00:00", 
+      "url": null
+    }, 
+    {
+      "color": "#fdfdfd", 
+      "email": "dev@fossasia.org", 
+      "end_time": "2015-07-14T00:00:00", 
+      "id": 4, 
+      "latitude": 37.783839, 
+      "location_name": "Moscone centre", 
+      "logo": "http://mysecureshell.readthedocs.org/en/latest/_images/logo_redhat.png", 
+      "longitude": -122.400546, 
+      "name": "FOSSASIA", 
+      "slogan": "Fossasia", 
+      "start_time": "2015-05-28T13:00:00", 
+      "url": "www.google.com"
+    }
+  ]
+}
