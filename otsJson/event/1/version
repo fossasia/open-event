@@ -1,6 +1,6 @@
 
 {
-  "version": [
+  "version": 
     {
       "event_id": 6, 
       "event_ver": 1, 
@@ -11,5 +11,5 @@
       "sponsors_ver": 2, 
       "tracks_ver": 3
     }
-  ]
+  
 }
