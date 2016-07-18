@@ -20,6 +20,18 @@
     "organizer_name": "FOSSASIA",
     "privacy": "public",
     "schedule_published_on": "2016-03-18 00:00:00",
+    "version": [
+            {
+      "event_id": 6,
+      "event_ver": 1,
+      "id": 27,
+      "microlocations_ver": 0,
+      "session_ver": 4,
+      "speakers_ver": 3,
+      "sponsors_ver": 2,
+      "tracks_ver": 3
+            }
+    ],
     "social_links": [
             {
                 "id": 1,
