@@ -73,6 +73,10 @@
         "name": "Workshops", 
         "sessions": [
             {
+                "id": 22, 
+                "title": "metacollect - an open data service for refugee & integration projects"
+            }, 
+            {
                 "id": 15, 
                 "title": "Workshop Paper Prototyping"
             }, 
@@ -99,10 +103,6 @@
             {
                 "id": 21, 
                 "title": "Eigene Radiosendungen machen im 60-minutes Beginner Crash Course mit Audacity / Fast podcast production with audacity"
-            }, 
-            {
-                "id": 22, 
-                "title": "metacollect - an open data service for refugee & integration projects"
             }, 
             {
                 "id": 23, 
@@ -181,16 +181,12 @@
         "name": "OTS 1", 
         "sessions": [
             {
-                "id": 37, 
-                "title": "Welcome in Berlin!"
+                "id": 48, 
+                "title": "The Power of Open"
             }, 
             {
-                "id": 38, 
-                "title": "picoTCP"
-            }, 
-            {
-                "id": 39, 
-                "title": "Valentina digital pattern design"
+                "id": 49, 
+                "title": "The systemd Journal"
             }, 
             {
                 "id": 40, 
@@ -221,28 +217,8 @@
                 "title": "Suchmaschinen der Zukunft"
             }, 
             {
-                "id": 47, 
-                "title": "Making an Open Information Age"
-            }, 
-            {
-                "id": 48, 
-                "title": "The Power of Open"
-            }, 
-            {
-                "id": 49, 
-                "title": "The systemd Journal"
-            }, 
-            {
-                "id": 50, 
-                "title": "The rkt container runtime; explanation and demonstration"
-            }, 
-            {
                 "id": 51, 
                 "title": "Authenticated Anonymity by Math"
-            }, 
-            {
-                "id": 52, 
-                "title": "Das Freie Software 1x1: Mi\u00dfverst\u00e4ndnisse gekonnt aufkl\u00e4ren"
             }, 
             {
                 "id": 53, 
@@ -253,16 +229,40 @@
                 "title": "Thunderbird - Entwicklung und Ausblick"
             }, 
             {
-                "id": 55, 
-                "title": "Bioflux - A Personal Laboratory for everyone"
-            }, 
-            {
                 "id": 56, 
                 "title": "Bioflux - A Personal Laboratory for everyone"
             }, 
             {
                 "id": 57, 
                 "title": "Kurzes Wrap up und Ab geht's zur Lounge im Erdgeschoss bis 23 Uhr. / Wrap up and Lounge until 11pm in the ground floor space."
+            }, 
+            {
+                "id": 37, 
+                "title": "Welcome in Berlin!"
+            }, 
+            {
+                "id": 38, 
+                "title": "picoTCP"
+            }, 
+            {
+                "id": 39, 
+                "title": "Valentina digital pattern design"
+            }, 
+            {
+                "id": 47, 
+                "title": "Making an Open Information Age"
+            }, 
+            {
+                "id": 50, 
+                "title": "The rkt container runtime; explanation and demonstration"
+            }, 
+            {
+                "id": 52, 
+                "title": "Das Freie Software 1x1: Mi\u00dfverst\u00e4ndnisse gekonnt aufkl\u00e4ren"
+            }, 
+            {
+                "id": 55, 
+                "title": "Bioflux - A Personal Laboratory for everyone"
             }
         ], 
         "track_image_url": "http://lorempixel.com/400/200"
@@ -277,10 +277,6 @@
             {
                 "id": 66, 
                 "title": "Code Week Award Live-Hack"
-            }, 
-            {
-                "id": 58, 
-                "title": "Jugend Hackt"
             }, 
             {
                 "id": 59, 
@@ -311,16 +307,12 @@
                 "title": "Nutzerkommentare im Internet: Sind die Kommentare noch zu retten?"
             }, 
             {
-                "id": 67, 
-                "title": "Don't complain about bad documentation, learn to write it better!"
+                "id": 69, 
+                "title": "flashcat - your true open design chip flasher"
             }, 
             {
                 "id": 68, 
                 "title": "Creating Service Clouds with Kubernetes, CoreOS, Container and Co "
-            }, 
-            {
-                "id": 69, 
-                "title": "flashcat - your true open design chip flasher"
             }, 
             {
                 "id": 70, 
@@ -335,20 +327,28 @@
                 "title": "Degrees of Openness [\u00b0O]"
             }, 
             {
-                "id": 73, 
-                "title": "sehrgutachten und kleineAnfragen: Einmischen in Regierungsangelegenheiten"
-            }, 
-            {
                 "id": 74, 
                 "title": "Making participation: How to put participants in charge of their own e-democracy platform"
+            }, 
+            {
+                "id": 76, 
+                "title": "In der Galerie, Ebene 1: Kurzes Wrap up und Ab geht's zur Lounge im Erdgeschoss bis 23 Uhr. / Wrap up and Lounge until 11pm in the ground floor space."
             }, 
             {
                 "id": 75, 
                 "title": "Open Standards in perils? European Commission revises the European Interoperability Framework"
             }, 
             {
-                "id": 76, 
-                "title": "In der Galerie, Ebene 1: Kurzes Wrap up und Ab geht's zur Lounge im Erdgeschoss bis 23 Uhr. / Wrap up and Lounge until 11pm in the ground floor space."
+                "id": 58, 
+                "title": "Jugend Hackt"
+            }, 
+            {
+                "id": 67, 
+                "title": "Don't complain about bad documentation, learn to write it better!"
+            }, 
+            {
+                "id": 73, 
+                "title": "sehrgutachten und kleineAnfragen: Einmischen in Regierungsangelegenheiten"
             }
         ], 
         "track_image_url": "http://lorempixel.com/400/200"

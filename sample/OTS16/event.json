@@ -1,61 +1,79 @@
 {
-    "background_url": "http://2016.opentechsummit.net/img/15435769939_82ab5f1580_k.jpg",
-    "closing_datetime": "2016-05-04 00:00:00",
-    "color": null,
+    "background_url": "http://2016.opentechsummit.net/img/15435769939_82ab5f1580_k.jpg", 
+    "closing_datetime": "2016-05-04T00:00:00", 
+    "code_of_conduct": "", 
+    "copyright": {
+        "holder": null, 
+        "holder_url": null, 
+        "licence": null, 
+        "licence_url": null, 
+        "logo": null, 
+        "year": null
+    }, 
     "creator": {
-        "email": "super_admin@gmail.com",
+        "email": "s@g.com", 
         "id": 1
-    },
-    "description": "The OpenTechSummit brings the exciting ideas and creators of the open-Technology community in Berlin.",
-    "email": "contact@opentechsummit.net",
-    "start_time": "2016-05-05 09:00:00",
-    "event_url": "http://2016.opentechsummit.net",
-    "id": 1,
-    "latitude": 52.52,
-    "location_name": "Berlin",
-    "logo": "/images/Logo_OpenTecSummit_TXT_grey.png",
-    "longitude": 13.405,
-    "name": "Open Tech Summit",
-    "organizer_description": "Promoting open source ideas and technology throughout the world",
-    "organizer_name": "FOSSASIA",
-    "privacy": "public",
-    "schedule_published_on": "2016-05-04 09:00:00",
+    }, 
+    "description": "The OpenTechSummit brings the exciting ideas and creators of the open-Technology community in Berlin.", 
+    "email": "contact@opentechsummit.net", 
+    "end_time": "2016-05-05T21:00:00", 
+    "event_url": "http://2016.opentechsummit.net", 
+    "id": 1, 
+    "latitude": 52.52, 
+    "location_name": "Berlin", 
+    "logo": "/images/logo.png", 
+    "longitude": 13.405, 
+    "name": "Open Tech Summit", 
+    "organizer_description": "Promoting open source ideas and technology throughout the world", 
+    "organizer_name": "FOSSASIA", 
+    "privacy": "public", 
+    "schedule_published_on": "2016-05-04T09:00:00", 
+    "searchable_location_name": null, 
     "social_links": [
         {
-            "id": 1,
-            "link": "https://twitter.com/opntec",
+            "id": 1, 
+            "link": "https://twitter.com/opntec", 
             "name": "Twitter"
-        },
+        }, 
         {
-            "id": 2,
-            "link": "https://github.com/opentechsummit",
+            "id": 2, 
+            "link": "https://github.com/opentechsummit", 
             "name": "Github"
-        },
+        }, 
         {
-            "id": 3,
-            "link": "https://www.facebook.com/OpenTechSummit",
+            "id": 3, 
+            "link": "https://www.facebook.com/OpenTechSummit", 
             "name": "Facebook"
-        },
+        }, 
         {
-            "id": 4,
-            "link": "https://www.flickr.com/search/?q=openxlab",
+            "id": 4, 
+            "link": "https://www.flickr.com/search/?q=openxlab", 
             "name": "Flickr"
-        },
+        }, 
         {
-            "id": 5,
-            "link": "https://plus.google.com/u/0/111141930325574830495",
+            "id": 5, 
+            "link": "https://plus.google.com/u/0/111141930325574830495", 
             "name": "Google Plus"
-        },
+        }, 
         {
-            "id": 6,
-            "link": "https://www.youtube.com/channel/UCJoKp-gG2t7lH5_hiKp95yA",
+            "id": 6, 
+            "link": "https://www.youtube.com/channel/UCJoKp-gG2t7lH5_hiKp95yA", 
             "name": "YouTube"
         }
-    ],
-    "end_time": "2016-05-05 21:00:00",
-    "state": "Completed",
-    "ticket_url": "http://www.eventnook.com/event/ots16/register",
-    "topic": "Science & Technology",
-    "sub_topic": "Other",
-    "type": "Conference"
+    ], 
+    "start_time": "2016-05-05T09:00:00", 
+    "state": "Completed", 
+    "sub_topic": "Other", 
+    "ticket_url": "http://www.eventnook.com/event/ots16/register", 
+    "timezone": "UTC", 
+    "topic": "Science & Technology", 
+    "type": "Conference", 
+    "version": {
+        "event_ver": 6, 
+        "microlocations_ver": 8, 
+        "sessions_ver": 111, 
+        "speakers_ver": 77, 
+        "sponsors_ver": 7, 
+        "tracks_ver": 7
+    }
 }
