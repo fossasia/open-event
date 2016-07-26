@@ -74,11 +74,11 @@
     "topic": "Science & Technology", 
     "type": "Conference", 
     "version": {
-        "event_ver": 0, 
-        "microlocations_ver": 0, 
-        "sessions_ver": 0, 
-        "speakers_ver": 0, 
-        "sponsors_ver": 0, 
-        "tracks_ver": 0
+        "event_ver": 1, 
+        "microlocations_ver": 2, 
+        "sessions_ver": 3, 
+        "speakers_ver": 2, 
+        "sponsors_ver": 3, 
+        "tracks_ver": 4
     }
 }
