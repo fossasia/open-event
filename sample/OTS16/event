@@ -1,5 +1,12 @@
 {
     "background_url": "http://2016.opentechsummit.net/img/15435769939_82ab5f1580_k.jpg", 
+    "call_for_papers": {
+        "announcement": "<p>Wanna speak at our prestigious event. Send us a proposal</p>",
+        "end_date": "2016-05-04T20:30:00",
+        "privacy": "public",
+        "start_date": "2016-05-01T19:30:00",
+        "timezone": "UTC"
+    },
     "closing_datetime": "2016-05-04T00:00:00", 
     "code_of_conduct": "", 
     "copyright": {
