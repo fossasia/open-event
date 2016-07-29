@@ -1,5 +1,12 @@
 {
     "background_url": null, 
+    "call_for_papers": {
+        "announcement": "<p>Wanna speak at our prestigious event. Send us a proposal</p>",
+        "end_date": "2016-03-16T20:30:00",
+        "privacy": "public",
+        "start_date": "2016-03-10T19:30:00",
+        "timezone": "UTC"
+    },
     "closing_datetime": "2016-03-21T00:00:00", 
     "code_of_conduct": "", 
     "copyright": {
