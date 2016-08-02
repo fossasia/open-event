@@ -294,7 +294,7 @@
         "track_image_url": "http://lorempixel.com/400/200"
     }, 
     {
-        "color": "#3DC8C3", 
+        "color": "#1485CC", 
         "description": "OpenTech Workshops", 
         "id": 2, 
         "location": "Level 3, Lewis Lab", 
@@ -408,7 +408,7 @@
         "track_image_url": "http://lorempixel.com/400/200"
     }, 
     {
-        "color": "#3DC8C3", 
+        "color": "#B21212", 
         "description": "Tech Kids I", 
         "id": 3, 
         "location": "Level 1, Digital Design Studio", 
@@ -526,7 +526,7 @@
         "track_image_url": "http://lorempixel.com/400/200"
     }, 
     {
-        "color": "#3DC8C3", 
+        "color": "#9EFF56", 
         "description": "Tech Kids II", 
         "id": 4, 
         "location": "Level 1, Digital Design Studio", 
@@ -648,7 +648,7 @@
         "track_image_url": "http://lorempixel.com/400/200"
     }, 
     {
-        "color": "#3DC8C3", 
+        "color": "#E8782C", 
         "description": "Tech Kids III", 
         "id": 5, 
         "location": "Level 1, Observatory Room", 
@@ -710,7 +710,7 @@
         "track_image_url": "http://lorempixel.com/400/200"
     }, 
     {
-        "color": "#3DC8C3", 
+        "color": "#FF3046", 
         "description": "Hardware and IoT", 
         "id": 6, 
         "location": "Level 1, Eco Garden Lab", 
@@ -820,7 +820,7 @@
         "track_image_url": "http://lorempixel.com/400/200"
     }, 
     {
-        "color": "#3DC8C3", 
+        "color": "#BF532E", 
         "description": "DevOps", 
         "id": 7, 
         "location": "Level 3, Planck Lab", 
@@ -958,7 +958,7 @@
         "track_image_url": "http://lorempixel.com/400/200"
     }, 
     {
-        "color": "#3DC8C3", 
+        "color": "#FFF22A", 
         "description": "WebTech", 
         "id": 8, 
         "location": "Level 3, Faraday Lab", 
@@ -1084,7 +1084,7 @@
         "track_image_url": "http://lorempixel.com/400/200"
     }, 
     {
-        "color": "#3DC8C3", 
+        "color": "#1C9ECC", 
         "description": "Python", 
         "id": 9, 
         "location": "Level 3, Pauling Lab", 
@@ -1210,7 +1210,7 @@
         "track_image_url": "http://lorempixel.com/400/200"
     }, 
     {
-        "color": "#3DC8C3", 
+        "color": "#E0331F", 
         "description": "Big Data/Open Data", 
         "id": 10, 
         "location": "Level 3, Fermi Lab", 
@@ -1356,7 +1356,7 @@
         "track_image_url": "http://lorempixel.com/400/200"
     }, 
     {
-        "color": "#3DC8C3", 
+        "color": "#B062A1", 
         "description": "Databases", 
         "id": 11, 
         "location": "Level 2, Herschel Lab", 
@@ -1474,7 +1474,7 @@
         "track_image_url": "http://lorempixel.com/400/200"
     }, 
     {
-        "color": "#3DC8C3", 
+        "color": "#1CCCC5", 
         "description": "Internet, Society, Community", 
         "id": 12, 
         "location": "Level 2, Einstein Room", 
@@ -1580,7 +1580,7 @@
         "track_image_url": "http://lorempixel.com/400/200"
     }, 
     {
-        "color": "#3DC8C3", 
+        "color": "#5972B0", 
         "description": "Privacy and Security", 
         "id": 13, 
         "location": "Level 2, Einstein Hall", 
@@ -1630,7 +1630,7 @@
         "track_image_url": "http://lorempixel.com/400/200"
     }, 
     {
-        "color": "#3DC8C3", 
+        "color": "#FF3C11", 
         "description": "Science Hack Day", 
         "id": 14, 
         "location": "Level 1, Tinkering Studio", 
@@ -1808,7 +1808,7 @@
         "track_image_url": "http://lorempixel.com/400/200"
     }, 
     {
-        "color": "#3DC8C3", 
+        "color": "#84CC12", 
         "description": "Linux and MiniDebConf", 
         "id": 15, 
         "location": "Level 1, Observatory Room", 
@@ -1858,7 +1858,7 @@
         "track_image_url": "http://lorempixel.com/400/200"
     }, 
     {
-        "color": "#3DC8C3", 
+        "color": "#CC8312", 
         "description": "Design, VR, 3D", 
         "id": 16, 
         "location": "Level 1, Eco Garden Lab", 
@@ -1908,7 +1908,7 @@
         "track_image_url": "http://lorempixel.com/400/200"
     }, 
     {
-        "color": "#3DC8C3", 
+        "color": "#992EFF", 
         "description": "Exhibition", 
         "id": 17, 
         "location": "Level 1, Ground Floor, Scientist For a day, Hall A", 
@@ -2142,7 +2142,7 @@
         "track_image_url": "http://lorempixel.com/400/200"
     }, 
     {
-        "color": "#3DC8C3", 
+        "color": "#59B077", 
         "description": "Social Event", 
         "id": 18, 
         "location": "Level 2, Newton ", 
