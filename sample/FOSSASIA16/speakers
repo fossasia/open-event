@@ -1003,7 +1003,7 @@
         "mobile": null, 
         "name": "Carter Emmart", 
         "organisation": "Astrovisualization at the American Museum of Natural History", 
-        "photo": "http://localhost:5000/serve_static/media/events/112/speakers/2218/photo.jpg?quality=89&w=800", 
+        "photo": "", 
         "position": null, 
         "sessions": [
             {
