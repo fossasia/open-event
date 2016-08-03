@@ -36,6 +36,50 @@
             {
                 "id": 481, 
                 "title": "FOSSASIA"
+            },
+            {
+                "id": 71, 
+                "title": "Closing Notes of FOSSASIA 2016"
+            }, 
+            {
+                "id": 97, 
+                "title": "Closing Notes"
+            }, 
+            {
+                "id": 222, 
+                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
+            }, 
+            {
+                "id": 251, 
+                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
+            }, 
+            {
+                "id": 280, 
+                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
+            }, 
+            {
+                "id": 314, 
+                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
+            }, 
+            {
+                "id": 341, 
+                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
+            }, 
+            {
+                "id": 375, 
+                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
+            }, 
+            {
+                "id": 427, 
+                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
+            }, 
+            {
+                "id": 417, 
+                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
+            }, 
+            {
+                "id": 437, 
+                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
             }
         ], 
         "short_biography": "", 
@@ -959,7 +1003,7 @@
         "mobile": null, 
         "name": "Carter Emmart", 
         "organisation": "Astrovisualization at the American Museum of Natural History", 
-        "photo": "http://localhost:5000/serve_static/media/events/112/speakers/2218/photo.jpg?quality=89&w=800", 
+        "photo": "", 
         "position": null, 
         "sessions": [
             {
@@ -1405,69 +1449,6 @@
         "short_biography": "", 
         "twitter": "", 
         "website": "http://gylim78.blogspot.sg"
-    }, 
-    {
-        "country": "Not available", 
-        "email": "email@domain.com", 
-        "facebook": null, 
-        "github": "", 
-        "id": 60, 
-        "linkedin": "", 
-        "long_biography": "Hong Phuc, originally from Vietnam, has lived in the US, Singapore and Berlin. She was a speaker at the Chaos Communication Congress presenting the latest advances in Open Fashion and Technology. She is also the founder of FOSSASIA, the Asia organization bringing together an inspiring community across borders and ages to form a better future with Open Technologies and ICT. Hong Phuc organizes events like the annual FOSSASIA summit since 2009 and puts together Science Hackdays across the region in Vietnam, Dubai and China.", 
-        "mobile": null, 
-        "name": "Hong Phuc DANG", 
-        "organisation": "FOSSASIA", 
-        "photo": "", 
-        "position": null, 
-        "sessions": [
-            {
-                "id": 71, 
-                "title": "Closing Notes of FOSSASIA 2016"
-            }, 
-            {
-                "id": 97, 
-                "title": "Closing Notes"
-            }, 
-            {
-                "id": 222, 
-                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
-            }, 
-            {
-                "id": 251, 
-                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
-            }, 
-            {
-                "id": 280, 
-                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
-            }, 
-            {
-                "id": 314, 
-                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
-            }, 
-            {
-                "id": 341, 
-                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
-            }, 
-            {
-                "id": 375, 
-                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
-            }, 
-            {
-                "id": 427, 
-                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
-            }, 
-            {
-                "id": 417, 
-                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
-            }, 
-            {
-                "id": 437, 
-                "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
-            }
-        ], 
-        "short_biography": "", 
-        "twitter": "", 
-        "website": ""
     }, 
     {
         "country": "England", 
