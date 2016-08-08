@@ -8,5 +8,10 @@
         "id": 361, 
         "link": "https://twitter.com/eHealth_africa", 
         "name": "Twitter"
+    },
+    {
+        "id": 362,
+        "link": "https://www.eventbrite.de/e/global-health-security-focus-africa-tickets-25740798421", 
+        "name": "External Event URL"
     }
 ]

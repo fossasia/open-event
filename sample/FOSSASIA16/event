@@ -24,7 +24,6 @@
     "description": "FOSSASIA is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors. Projects at FOSSASIA range from open hardware, to design, graphics and software. FOSSASIA was established in 2009. Previous events took place in Cambodia and Vietnam.", 
     "email": "contact@fossasia.org", 
     "end_time": "2016-03-22T00:00:00", 
-    "event_url": "http://2016.fossasia.org/", 
     "id": 1, 
     "latitude": 1.346, 
     "location_name": "Singapore", 
@@ -71,6 +70,11 @@
             "id": 7, 
             "link": "https://www.linkedin.com/groups/FOSSASIA-3762811", 
             "name": "Linkedin"
+        },
+        {
+            "id": 8,
+            "event_url": "http://2016.fossasia.org/", 
+            "name": "External Event URL"
         }
     ], 
     "start_time": "2016-03-18T00:00:00", 

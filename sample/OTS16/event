@@ -65,6 +65,11 @@
             "id": 6, 
             "link": "https://www.youtube.com/channel/UCJoKp-gG2t7lH5_hiKp95yA", 
             "name": "YouTube"
+        },
+        {
+            "id": 7,
+            "link": "http://2016.opentechsummit.net",
+            "name": "External Event URL"
         }
     ], 
     "start_time": "2016-05-05T09:00:00", 

@@ -33,5 +33,10 @@
         "id": 7, 
         "link": "https://www.linkedin.com/groups/FOSSASIA-3762811", 
         "name": "Linkedin"
+    },
+    {
+        "id": 8,
+        "event_url": "http://2016.fossasia.org/", 
+        "name": "External Event URL"
     }
 ]
