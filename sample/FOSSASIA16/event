@@ -18,8 +18,7 @@
         "year": null
     }, 
     "creator": {
-        "email": "s@g.com", 
-        "id": 1
+        "email": "s@g.com"
     }, 
     "description": "FOSSASIA is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors. Projects at FOSSASIA range from open hardware, to design, graphics and software. FOSSASIA was established in 2009. Previous events took place in Cambodia and Vietnam.", 
     "email": "contact@fossasia.org", 
