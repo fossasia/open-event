@@ -1,138 +1,138 @@
 [
     {
-        "floor": null, 
+        "floor": 3, 
         "id": 1, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Level 3, Level 3, Dalton Hall", 
+        "name": "Dalton Hall", 
         "room": null
     }, 
     {
-        "floor": null, 
+        "floor": 3, 
         "id": 2, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Level 3, Lewis Lab", 
+        "name": "Lewis Lab", 
         "room": null
     }, 
     {
-        "floor": null, 
+        "floor": 1, 
         "id": 3, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Level 1, Digital Design Studio", 
+        "name": "Digital Design Studio", 
         "room": null
     }, 
     {
-        "floor": null, 
+        "floor": 1, 
         "id": 4, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Level 1, Digital Design Studio", 
+        "name": "Digital Design Studio", 
         "room": null
     }, 
     {
-        "floor": null, 
+        "floor": 1, 
         "id": 5, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Level 1, Observatory Room", 
+        "name": "Observatory Room", 
         "room": null
     }, 
     {
-        "floor": null, 
+        "floor": 1, 
         "id": 6, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Level 1, Eco Garden Lab", 
+        "name": "Eco Garden Lab", 
         "room": null
     }, 
     {
-        "floor": null, 
+        "floor": 3, 
         "id": 7, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Level 3, Planck Lab", 
+        "name": "Planck Lab", 
         "room": null
     }, 
     {
-        "floor": null, 
+        "floor": 3, 
         "id": 8, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Level 3, Faraday Lab", 
+        "name": "Faraday Lab", 
         "room": null
     }, 
     {
-        "floor": null, 
+        "floor": 3, 
         "id": 9, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Level 3, Pauling Lab", 
+        "name": "Pauling Lab", 
         "room": null
     }, 
     {
-        "floor": null, 
+        "floor": 3, 
         "id": 10, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Level 3, Fermi Lab", 
+        "name": "Fermi Lab", 
         "room": null
     }, 
     {
-        "floor": null, 
+        "floor": 2, 
         "id": 11, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Level 2, Herschel Lab", 
+        "name": "Herschel Lab", 
         "room": null
     }, 
     {
-        "floor": null, 
+        "floor": 2, 
         "id": 12, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Level 2, Einstein Room", 
+        "name": "Einstein Room", 
         "room": null
     }, 
     {
-        "floor": null, 
+        "floor": 2, 
         "id": 13, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Level 2, Einstein Hall", 
+        "name": "Einstein Hall", 
         "room": null
     }, 
     {
-        "floor": null, 
+        "floor": 1, 
         "id": 14, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Level 1, Tinkering Studio", 
+        "name": "Tinkering Studio", 
         "room": null
     }, 
     {
-        "floor": null, 
+        "floor": 1, 
         "id": 15, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Level 1, Observatory Room", 
+        "name": "Observatory Room", 
         "room": null
     }, 
     {
-        "floor": null, 
+        "floor": 1, 
         "id": 16, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Level 1, Eco Garden Lab", 
+        "name": "Eco Garden Lab", 
         "room": null
     }, 
     {
-        "floor": null, 
+        "floor": 1, 
         "id": 17, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Level 1, Ground Floor, Scientist For a day, Hall A", 
+        "name": "Ground Floor, Scientist For a day, Hall A", 
         "room": null
     }
 ]
