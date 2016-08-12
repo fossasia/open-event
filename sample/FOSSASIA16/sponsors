@@ -5,7 +5,7 @@
         "level": null, 
         "logo": "/images/sponsors/logo_1.png", 
         "name": "Google", 
-        "sponsor_type": null, 
+        "sponsor_type": "Diamond", 
         "url": "https://developers.google.com/open-source/"
     }, 
     {
@@ -14,7 +14,7 @@
         "level": null, 
         "logo": "/images/sponsors/logo_2.png", 
         "name": "RedHat", 
-        "sponsor_type": null, 
+        "sponsor_type": "Platinum", 
         "url": "http://redhat.com"
     }, 
     {
@@ -23,7 +23,7 @@
         "level": null, 
         "logo": "/images/sponsors/logo_3.png", 
         "name": "GitHub", 
-        "sponsor_type": null, 
+        "sponsor_type": "Platinum", 
         "url": "http://github.com"
     }, 
     {
@@ -32,7 +32,7 @@
         "level": null, 
         "logo": "/images/sponsors/logo_4.png", 
         "name": "MySQL", 
-        "sponsor_type": null, 
+        "sponsor_type": "Gold", 
         "url": "http://mysql.com"
     }, 
     {
@@ -41,7 +41,7 @@
         "level": null, 
         "logo": "/images/sponsors/logo_5.png", 
         "name": "FOSSASIA", 
-        "sponsor_type": null, 
+        "sponsor_type": "Diamond", 
         "url": "http://blog.fossasia.org/"
     }, 
     {
@@ -50,7 +50,7 @@
         "level": null, 
         "logo": "/images/sponsors/logo_6.png", 
         "name": "UNESCO", 
-        "sponsor_type": null, 
+        "sponsor_type": "Gold", 
         "url": "http://www.unesco.org/new/en/communication-and-information/access-to-knowledge/free-and-open-source-software-foss/"
     }, 
     {
@@ -59,7 +59,7 @@
         "level": null, 
         "logo": "/images/sponsors/logo_7.png", 
         "name": "MBM", 
-        "sponsor_type": null, 
+        "sponsor_type": "Gold", 
         "url": "http://mbm.asia/"
     }, 
     {
@@ -68,7 +68,7 @@
         "level": null, 
         "logo": "/images/sponsors/logo_8.png", 
         "name": "hackerspace.sg", 
-        "sponsor_type": null, 
+        "sponsor_type": "Silver", 
         "url": "https://hackerspace.sg/"
     }, 
     {
@@ -77,7 +77,7 @@
         "level": null, 
         "logo": "/images/sponsors/logo_9.png", 
         "name": "NUS Enterprise", 
-        "sponsor_type": null, 
+        "sponsor_type": "Silver", 
         "url": "http://enterprise.nus.edu.sg/"
     }, 
     {
@@ -86,7 +86,7 @@
         "level": null, 
         "logo": "/images/sponsors/logo_10.png", 
         "name": "Python", 
-        "sponsor_type": null, 
+        "sponsor_type": "Silver", 
         "url": "https://www.python.org/"
     }, 
     {
@@ -95,7 +95,7 @@
         "level": null, 
         "logo": "/images/sponsors/logo_11.png", 
         "name": "Science Centre Singapore", 
-        "sponsor_type": null, 
+        "sponsor_type": "Gold", 
         "url": "http://www.science.edu.sg/"
     }, 
     {
@@ -104,7 +104,7 @@
         "level": null, 
         "logo": "/images/sponsors/logo_12.png", 
         "name": "Youth Mobile", 
-        "sponsor_type": null, 
+        "sponsor_type": "Bronze", 
         "url": "http://www.youthmobile.org/"
     }
 ]
