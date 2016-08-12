@@ -9,11 +9,11 @@
     },
     "code_of_conduct": "", 
     "copyright": {
-        "holder": FOSSASIA, 
-        "holder_url": http://fossasia.org/contact/, 
-        "licence": Creative Commons Attribution License, 
-        "licence_url": http://creativecommons.org/licenses/by/4.0/, 
-        "logo": https://i.creativecommons.org/l/by/4.0/80x15.png, 
+        "holder": "FOSSASIA", 
+        "holder_url": "http://fossasia.org/contact/", 
+        "licence": "Creative Commons Attribution License", 
+        "licence_url": "http://creativecommons.org/licenses/by/4.0/", 
+        "logo": "https://i.creativecommons.org/l/by/4.0/80x15.png", 
         "year": 2016
     }, 
     "creator": {
