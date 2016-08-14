@@ -15,7 +15,7 @@
             "length": 0.3, 
             "name": "Welcome"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -52,7 +52,7 @@
             "length": 0.3, 
             "name": "Program Overview"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -89,7 +89,7 @@
             "length": 0.3, 
             "name": "Host Welcome"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -126,7 +126,7 @@
             "length": 0.3, 
             "name": "Keynote of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -163,7 +163,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -200,7 +200,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -237,7 +237,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -268,7 +268,7 @@
             "length": 0.3, 
             "name": "Keynote of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -305,7 +305,7 @@
             "length": 0.3, 
             "name": "Keynote of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -342,7 +342,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -379,7 +379,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -410,7 +410,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -447,7 +447,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -484,7 +484,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -521,7 +521,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -558,7 +558,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -595,7 +595,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -632,7 +632,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -669,7 +669,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -706,7 +706,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -743,7 +743,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -774,7 +774,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -805,7 +805,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -842,7 +842,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -879,7 +879,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -916,7 +916,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -953,7 +953,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -990,7 +990,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -1021,7 +1021,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -1052,7 +1052,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -1083,7 +1083,7 @@
             "length": 0.3, 
             "name": "Lightning Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1120,7 +1120,7 @@
             "length": 0.3, 
             "name": "Lightning Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1157,7 +1157,7 @@
             "length": 0.3, 
             "name": "Lightning Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1194,7 +1194,7 @@
             "length": 0.3, 
             "name": "Lightning Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1231,7 +1231,7 @@
             "length": 0.3, 
             "name": "Lightning Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1268,7 +1268,7 @@
             "length": 0.3, 
             "name": "Lightning Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1305,7 +1305,7 @@
             "length": 0.3, 
             "name": "Lightning Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1342,7 +1342,7 @@
             "length": 0.3, 
             "name": "Lightning Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1379,7 +1379,7 @@
             "length": 0.3, 
             "name": "Lightning Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1416,7 +1416,7 @@
             "length": 0.3, 
             "name": "Lightning Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1453,7 +1453,7 @@
             "length": 0.3, 
             "name": "Lightning Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1490,7 +1490,7 @@
             "length": 0.3, 
             "name": "Lightning Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1527,7 +1527,7 @@
             "length": 0.3, 
             "name": "Outreachy"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1564,7 +1564,7 @@
             "length": 0.3, 
             "name": "Session of 30 minutes "
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1601,7 +1601,7 @@
             "length": 0.3, 
             "name": "Lightning Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1638,7 +1638,7 @@
             "length": 0.3, 
             "name": "Lightning Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1675,7 +1675,7 @@
             "length": 0.3, 
             "name": "Lightning Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1712,7 +1712,7 @@
             "length": 0.3, 
             "name": "Lightning Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1749,7 +1749,7 @@
             "length": 0.3, 
             "name": "Keynote"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1786,7 +1786,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1823,7 +1823,7 @@
             "length": 0.3, 
             "name": "40 minutes (20 minute demonstration, 20 minute talk)"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1860,7 +1860,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1897,7 +1897,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -1934,7 +1934,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -1965,7 +1965,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2002,7 +2002,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2039,7 +2039,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2076,7 +2076,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2113,7 +2113,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -2144,7 +2144,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2181,7 +2181,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2218,7 +2218,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2255,7 +2255,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -2286,7 +2286,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -2317,7 +2317,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2354,7 +2354,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2391,7 +2391,7 @@
             "length": 0.3, 
             "name": "Presentations"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2428,7 +2428,7 @@
             "length": 0.3, 
             "name": "Presentations"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2465,7 +2465,7 @@
             "length": 0.3, 
             "name": "Presentations"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2502,7 +2502,7 @@
             "length": 0.3, 
             "name": "Presentations"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2539,7 +2539,7 @@
             "length": 0.3, 
             "name": "Presentations"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2576,7 +2576,7 @@
             "length": 0.3, 
             "name": "Presentations"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2613,7 +2613,7 @@
             "length": 0.3, 
             "name": "Presentations"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2650,7 +2650,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2687,7 +2687,7 @@
             "length": 0.3, 
             "name": "Workshop of 2 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2724,7 +2724,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -2755,7 +2755,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -2786,7 +2786,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -2817,7 +2817,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -2848,7 +2848,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -2879,7 +2879,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2916,7 +2916,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -2947,7 +2947,7 @@
             "length": 0.3, 
             "name": "Workshop of 2 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -2984,7 +2984,7 @@
             "length": 0.3, 
             "name": "Workshop of 2.5 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -3021,7 +3021,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -3058,7 +3058,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3089,7 +3089,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3120,7 +3120,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3151,7 +3151,7 @@
             "length": 0.3, 
             "name": "Workshop of 2 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -3188,7 +3188,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3219,7 +3219,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3250,7 +3250,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3281,7 +3281,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3312,7 +3312,7 @@
             "length": 0.3, 
             "name": "Workshop of 1.5 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -3349,7 +3349,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3380,7 +3380,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3411,7 +3411,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -3448,7 +3448,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3479,7 +3479,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -3516,7 +3516,7 @@
             "length": 0.3, 
             "name": "Workshop of 2 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -3553,7 +3553,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3584,7 +3584,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3615,7 +3615,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3646,7 +3646,7 @@
             "length": 0.3, 
             "name": "Workshop of 2 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -3683,7 +3683,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3714,7 +3714,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3745,7 +3745,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3776,7 +3776,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3807,7 +3807,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3838,7 +3838,7 @@
             "length": 0.3, 
             "name": "Workshop of 2 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -3875,7 +3875,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3906,7 +3906,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3937,7 +3937,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3968,7 +3968,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -3999,7 +3999,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4030,7 +4030,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4061,7 +4061,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4092,7 +4092,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -4129,7 +4129,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4160,7 +4160,7 @@
             "length": 0.3, 
             "name": "Workshop of 2 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -4197,7 +4197,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4228,7 +4228,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4259,7 +4259,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4290,7 +4290,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -4327,7 +4327,7 @@
             "length": 0.3, 
             "name": "Workshop of 2 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -4364,7 +4364,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4395,7 +4395,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4426,7 +4426,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4457,7 +4457,7 @@
             "length": 0.3, 
             "name": "Workshop of 1.5 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -4494,7 +4494,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4525,7 +4525,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4556,7 +4556,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4587,7 +4587,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4618,7 +4618,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4649,7 +4649,7 @@
             "length": 0.3, 
             "name": "Workshop of 2 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -4686,7 +4686,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4717,7 +4717,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4748,7 +4748,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4779,7 +4779,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4810,7 +4810,7 @@
             "length": 0.3, 
             "name": "Workshop of 2 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -4847,7 +4847,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4878,7 +4878,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4909,7 +4909,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4940,7 +4940,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -4971,7 +4971,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5002,7 +5002,7 @@
             "length": 0.3, 
             "name": "Workshop of 4 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -5039,7 +5039,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5070,7 +5070,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5101,7 +5101,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5132,7 +5132,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5163,7 +5163,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5194,7 +5194,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5225,7 +5225,7 @@
             "length": 0.3, 
             "name": "Closing Session in Main Hall"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5256,7 +5256,7 @@
             "length": 0.3, 
             "name": "Workshop of 2 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -5293,7 +5293,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5324,7 +5324,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5355,7 +5355,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5386,7 +5386,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5417,7 +5417,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5448,7 +5448,7 @@
             "length": 0.3, 
             "name": "Workshop of 1.5 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -5485,7 +5485,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5516,7 +5516,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5547,7 +5547,7 @@
             "length": 0.3, 
             "name": "Workshop of 1.5 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -5584,7 +5584,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5615,7 +5615,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5646,7 +5646,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5677,7 +5677,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -5714,7 +5714,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -5751,7 +5751,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5782,7 +5782,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -5819,7 +5819,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -5856,7 +5856,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -5893,7 +5893,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5924,7 +5924,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -5961,7 +5961,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -5992,7 +5992,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -6023,7 +6023,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6060,7 +6060,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6097,7 +6097,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6134,7 +6134,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -6165,7 +6165,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -6196,7 +6196,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -6227,7 +6227,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6264,7 +6264,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6301,7 +6301,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6338,7 +6338,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -6369,7 +6369,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6406,7 +6406,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6443,7 +6443,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6480,7 +6480,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6517,7 +6517,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -6548,7 +6548,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6585,7 +6585,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6622,7 +6622,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6659,7 +6659,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6696,7 +6696,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6733,7 +6733,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6770,7 +6770,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -6801,7 +6801,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -6832,7 +6832,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6869,7 +6869,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6906,7 +6906,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6943,7 +6943,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -6980,7 +6980,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -7011,7 +7011,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -7042,7 +7042,7 @@
             "length": 0.3, 
             "name": "Talk of 40 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -7079,7 +7079,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -7110,7 +7110,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -7147,7 +7147,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -7178,7 +7178,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -7215,7 +7215,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -7246,7 +7246,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -7277,7 +7277,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -7314,7 +7314,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -7345,7 +7345,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -7382,7 +7382,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -7413,7 +7413,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -7444,7 +7444,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -7481,7 +7481,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -7518,7 +7518,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -7549,7 +7549,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -7586,7 +7586,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -7617,7 +7617,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -7648,7 +7648,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -7685,7 +7685,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -7722,7 +7722,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -7759,7 +7759,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -7796,7 +7796,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -7833,7 +7833,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -7864,7 +7864,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -7895,7 +7895,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -7932,7 +7932,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -7969,7 +7969,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -8006,7 +8006,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -8037,7 +8037,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -8074,7 +8074,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -8111,7 +8111,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -8148,7 +8148,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -8179,7 +8179,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -8216,7 +8216,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -8247,7 +8247,7 @@
             "length": 0.3, 
             "name": "Workshop of 5 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -8284,7 +8284,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -8315,7 +8315,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -8346,7 +8346,7 @@
             "length": 0.3, 
             "name": "Workshop of 5 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -8377,7 +8377,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -8408,7 +8408,7 @@
             "length": 0.3, 
             "name": "Workshop of 5 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -8439,7 +8439,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -8470,7 +8470,7 @@
             "length": 0.3, 
             "name": "Workshop of 1.5 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -8507,7 +8507,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -8538,7 +8538,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -8569,7 +8569,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -8606,7 +8606,7 @@
             "length": 0.3, 
             "name": "Welcome Note"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -8643,7 +8643,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -8680,7 +8680,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -8717,7 +8717,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -8754,7 +8754,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -8785,7 +8785,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -8816,7 +8816,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -8853,7 +8853,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -8890,7 +8890,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -8927,7 +8927,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -8964,7 +8964,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -9001,7 +9001,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -9038,7 +9038,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -9075,7 +9075,7 @@
             "length": 0.3, 
             "name": "Workshop of 2 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -9112,7 +9112,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -9143,7 +9143,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -9174,7 +9174,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -9205,7 +9205,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -9236,7 +9236,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -9273,7 +9273,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -9304,7 +9304,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -9341,7 +9341,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -9372,7 +9372,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -9403,7 +9403,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -9440,7 +9440,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -9477,7 +9477,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -9508,7 +9508,7 @@
             "length": 0.3, 
             "name": "Workshop of 2 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -9545,7 +9545,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -9576,7 +9576,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -9607,7 +9607,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -9638,7 +9638,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -9675,7 +9675,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -9712,7 +9712,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -9743,7 +9743,7 @@
             "length": 0.3, 
             "name": "Talk of 60 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -9780,7 +9780,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -9811,7 +9811,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -9848,7 +9848,7 @@
             "length": 0.3, 
             "name": "Talk of 40 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -9885,7 +9885,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -9922,7 +9922,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -9953,7 +9953,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -9984,7 +9984,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -10021,7 +10021,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -10058,7 +10058,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -10095,7 +10095,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -10132,7 +10132,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -10163,7 +10163,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -10194,7 +10194,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -10231,7 +10231,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -10268,7 +10268,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -10299,7 +10299,7 @@
             "length": 0.3, 
             "name": "Workshop of 2 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -10336,7 +10336,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -10367,7 +10367,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -10398,7 +10398,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -10435,7 +10435,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -10466,7 +10466,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -10497,7 +10497,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -10534,7 +10534,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -10565,7 +10565,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -10602,7 +10602,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -10633,7 +10633,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -10664,7 +10664,7 @@
             "length": 0.3, 
             "name": "Workshop of 2 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -10701,7 +10701,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -10732,7 +10732,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -10763,7 +10763,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -10794,7 +10794,7 @@
             "length": 0.3, 
             "name": "Workshop of 1.5 hours"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -10831,7 +10831,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -10862,7 +10862,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -10893,7 +10893,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -10930,7 +10930,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -10961,7 +10961,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -10998,7 +10998,7 @@
             "length": 0.3, 
             "name": "Talk of 45 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -11035,7 +11035,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -11066,7 +11066,7 @@
             "length": 0.3, 
             "name": "Talk of 45 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -11103,7 +11103,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -11134,7 +11134,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -11165,7 +11165,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -11196,7 +11196,7 @@
             "length": 0.3, 
             "name": "Talk of 45 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -11233,7 +11233,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -11264,7 +11264,7 @@
             "length": 0.3, 
             "name": "Talk of 45 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -11301,7 +11301,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -11332,7 +11332,7 @@
             "length": 0.3, 
             "name": "Talk of 45 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -11369,7 +11369,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -11400,7 +11400,7 @@
             "length": 0.3, 
             "name": "Talk of 45 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -11437,7 +11437,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -11468,7 +11468,7 @@
             "length": 0.3, 
             "name": "Lightning Talks (30 minute slot)"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -11505,7 +11505,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -11536,7 +11536,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -11567,7 +11567,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -11604,7 +11604,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -11641,7 +11641,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -11678,7 +11678,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -11715,7 +11715,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -11752,7 +11752,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -11783,7 +11783,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -11820,7 +11820,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -11851,7 +11851,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -11888,7 +11888,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -11919,7 +11919,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -11956,7 +11956,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -11993,7 +11993,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12030,7 +12030,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12067,7 +12067,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12104,7 +12104,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -12135,7 +12135,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12172,7 +12172,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -12203,7 +12203,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -12234,7 +12234,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12271,7 +12271,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12308,7 +12308,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12345,7 +12345,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12382,7 +12382,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12419,7 +12419,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12456,7 +12456,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12493,7 +12493,7 @@
             "length": 0.3, 
             "name": "Panel of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12530,7 +12530,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -12561,7 +12561,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -12592,7 +12592,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12629,7 +12629,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -12660,7 +12660,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12697,7 +12697,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12734,7 +12734,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -12765,7 +12765,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12802,7 +12802,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -12833,7 +12833,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12870,7 +12870,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -12901,7 +12901,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -12938,7 +12938,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -12969,7 +12969,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13006,7 +13006,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13043,7 +13043,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13080,7 +13080,7 @@
             "length": 0.3, 
             "name": "Lightning Talk followed by Workshop on Saturday and Sunday"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13117,7 +13117,7 @@
             "length": 0.3, 
             "name": "Lightning Talk followed by Workshop on Saturday and Sunday"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13154,7 +13154,7 @@
             "length": 0.3, 
             "name": "Lightning Talk followed by Workshop on Saturday and Sunday"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13191,7 +13191,7 @@
             "length": 0.3, 
             "name": "Lightning Talk followed by Workshop on Saturday and Sunday"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13228,7 +13228,7 @@
             "length": 0.3, 
             "name": "Lightning Talk followed by Workshop on Saturday and Sunday"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13265,7 +13265,7 @@
             "length": 0.3, 
             "name": "Lightning Talk followed by Workshop on Saturday and Sunday"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13302,7 +13302,7 @@
             "length": 0.3, 
             "name": "Group Activity"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13339,7 +13339,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -13370,7 +13370,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -13401,7 +13401,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -13432,7 +13432,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13469,7 +13469,7 @@
             "length": 0.3, 
             "name": "Lightning Talk followed by Workshop on Saturday and Sunday"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13506,7 +13506,7 @@
             "length": 0.3, 
             "name": "Lightning Talk followed by Workshop on Saturday and Sunday"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13543,7 +13543,7 @@
             "length": 0.3, 
             "name": "Lightning Talk followed by Workshop on Saturday and Sunday"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13580,7 +13580,7 @@
             "length": 0.3, 
             "name": "Lightning Talk followed by Workshop on Saturday and Sunday"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13617,7 +13617,7 @@
             "length": 0.3, 
             "name": "Lightning Talk followed by Workshop on Saturday and Sunday"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13654,7 +13654,7 @@
             "length": 0.3, 
             "name": "Lightning Talk followed by Workshop on Saturday and Sunday"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13691,7 +13691,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -13722,7 +13722,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -13753,7 +13753,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -13784,7 +13784,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -13815,7 +13815,7 @@
             "length": 0.3, 
             "name": "Workshops and Science Hacking"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13852,7 +13852,7 @@
             "length": 0.3, 
             "name": "Workshops and Science Hacking"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13889,7 +13889,7 @@
             "length": 0.3, 
             "name": "Workshops and Science Hacking"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13926,7 +13926,7 @@
             "length": 0.3, 
             "name": "Workshops and Science Hacking"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -13963,7 +13963,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14000,7 +14000,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14037,7 +14037,7 @@
             "length": 0.3, 
             "name": "Workshops and Science Hacking"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14074,7 +14074,7 @@
             "length": 0.3, 
             "name": "Workshops and Science Hacking"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14111,7 +14111,7 @@
             "length": 0.3, 
             "name": "Workshops and Science Hacking"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14148,7 +14148,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -14179,7 +14179,7 @@
             "length": 0.3, 
             "name": "Workshops and Science Hacking"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14216,7 +14216,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -14247,7 +14247,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -14278,7 +14278,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14315,7 +14315,7 @@
             "length": 0.3, 
             "name": "Demos"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14352,7 +14352,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -14383,7 +14383,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14420,7 +14420,7 @@
             "length": 0.3, 
             "name": "Presentations"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14457,7 +14457,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14494,7 +14494,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14531,7 +14531,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -14562,7 +14562,7 @@
             "length": 0.3, 
             "name": "Workshop of 1 hour"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14599,7 +14599,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -14630,7 +14630,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14667,7 +14667,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -14698,7 +14698,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14735,7 +14735,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14772,7 +14772,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14809,7 +14809,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14846,7 +14846,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -14877,7 +14877,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14914,7 +14914,7 @@
             "length": 0.3, 
             "name": "Talk of 20 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14951,7 +14951,7 @@
             "length": 0.3, 
             "name": "Talk / Discussion of 40 minutes"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -14988,7 +14988,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -15019,7 +15019,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15056,7 +15056,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15093,7 +15093,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15130,7 +15130,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15167,7 +15167,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15204,7 +15204,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15241,7 +15241,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15278,7 +15278,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15315,7 +15315,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15352,7 +15352,7 @@
             "length": 0.3, 
             "name": "Job board in person"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15389,7 +15389,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15426,7 +15426,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15463,7 +15463,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15500,7 +15500,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15537,7 +15537,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15574,7 +15574,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15611,7 +15611,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15648,7 +15648,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -15679,7 +15679,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -15710,7 +15710,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15747,7 +15747,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15784,7 +15784,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15821,7 +15821,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15858,7 +15858,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15895,7 +15895,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15932,7 +15932,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -15969,7 +15969,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16006,7 +16006,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16043,7 +16043,7 @@
             "length": 0.3, 
             "name": "Job board in person"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16080,7 +16080,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16117,7 +16117,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16154,7 +16154,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16191,7 +16191,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16228,7 +16228,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16265,7 +16265,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16302,7 +16302,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16339,7 +16339,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -16370,7 +16370,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -16401,7 +16401,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16438,7 +16438,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16475,7 +16475,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16512,7 +16512,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16549,7 +16549,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16586,7 +16586,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16623,7 +16623,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16660,7 +16660,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16697,7 +16697,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16734,7 +16734,7 @@
             "length": 0.3, 
             "name": "Job board in person"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16771,7 +16771,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16808,7 +16808,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16845,7 +16845,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16882,7 +16882,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16919,7 +16919,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16956,7 +16956,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -16993,7 +16993,7 @@
             "length": 0.3, 
             "name": "Exhibition Area"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [
@@ -17030,7 +17030,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
@@ -17061,7 +17061,7 @@
             "length": 0.3, 
             "name": "Demo Talk"
         }, 
-        "short_abstract": "", 
+        "short_abstract": "Short Abstract for the event", 
         "signup_url": null, 
         "slides": null, 
         "speakers": [], 
