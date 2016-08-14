@@ -1,5 +1,5 @@
 {
-    "background_url": "/images/fossasia16.jpg", 
+    "background_image": "/images/fossasia16.jpg", 
     "call_for_papers": {
         "announcement": "<p>Wanna speak at our prestigious event. Send us a proposal</p>",
         "end_date": "2016-03-16T20:30:00",
