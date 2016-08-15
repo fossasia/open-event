@@ -4618,7 +4618,7 @@
         "mobile": null, 
         "name": "Hans Bakker", 
         "organisation": "AntWebsystems Co.,Ltd", 
-        "photo": "/images/speakers/HansBakker_111.gif", 
+        "photo": "/images/speakers/HansBakker_111.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4641,7 +4641,7 @@
         "mobile": null, 
         "name": "Sahil Shekhawat", 
         "organisation": "SymPy / PyDy", 
-        "photo": "/images/speakers/SahilShekhawat_128.svg", 
+        "photo": "/images/speakers/SahilShekhawat_128.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4764,7 +4764,7 @@
         "mobile": null, 
         "name": "Ankit -", 
         "organisation": "coala", 
-        "photo": "/images/speakers/Ankit-_186.svg", 
+        "photo": "/images/speakers/Ankit-_186.jpg", 
         "position": null, 
         "sessions": [
             {
