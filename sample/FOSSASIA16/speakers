@@ -36,7 +36,7 @@
             {
                 "id": 481, 
                 "title": "FOSSASIA"
-            },
+            }, 
             {
                 "id": 71, 
                 "title": "Closing Notes of FOSSASIA 2016"
@@ -232,7 +232,7 @@
         "mobile": null, 
         "name": "Cat Allman", 
         "organisation": "Google", 
-        "photo": "/images/speakers/photo_8.jpg", 
+        "photo": "/images/speakers/CatAllman_8.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -255,7 +255,7 @@
         "mobile": null, 
         "name": "Jan Nikolai Nelles", 
         "organisation": "Artist of \"The Other Nefertiti\"", 
-        "photo": "/images/speakers/photo_9.jpg", 
+        "photo": "/images/speakers/JanNikolaiNelles_9.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -294,7 +294,7 @@
         "mobile": null, 
         "name": "Mike McQuaid", 
         "organisation": "GitHub/Homebrew", 
-        "photo": "/images/speakers/photo_10", 
+        "photo": "/images/speakers/MikeMcquaid_10", 
         "position": null, 
         "sessions": [
             {
@@ -317,7 +317,7 @@
         "mobile": null, 
         "name": "Lennart Poettering", 
         "organisation": "Red Hat", 
-        "photo": "/images/speakers/photo_11.jpg", 
+        "photo": "/images/speakers/LennartPoettering_11.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -526,7 +526,7 @@
         "mobile": null, 
         "name": "Praveen Patil", 
         "organisation": "ExpEYES", 
-        "photo": "/images/speakers/photo_16.jpg", 
+        "photo": "/images/speakers/PraveenPatil_16.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -569,7 +569,7 @@
         "mobile": null, 
         "name": "Francis Bond", 
         "organisation": "Nanyang Technological University", 
-        "photo": "/images/speakers/photo_19", 
+        "photo": "/images/speakers/FrancisBond_19", 
         "position": null, 
         "sessions": [
             {
@@ -592,7 +592,7 @@
         "mobile": null, 
         "name": "Michael Christen", 
         "organisation": "YaCy.net", 
-        "photo": "/images/speakers/photo_20.jpg", 
+        "photo": "/images/speakers/MichaelChristen_20.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -619,7 +619,7 @@
         "mobile": null, 
         "name": "Elizabeth Joseph", 
         "organisation": "Hewlett Packard Enterprise", 
-        "photo": "/images/speakers/photo_21.png", 
+        "photo": "/images/speakers/ElizabethJoseph_21.png", 
         "position": null, 
         "sessions": [
             {
@@ -826,7 +826,7 @@
         "mobile": null, 
         "name": "Damini Satya Kammakomati", 
         "organisation": "Kony, Inc.", 
-        "photo": "/images/speakers/photo_26", 
+        "photo": "/images/speakers/DaminiSatyaKammakomati_26", 
         "position": null, 
         "sessions": [
             {
@@ -849,7 +849,7 @@
         "mobile": null, 
         "name": "Faris Muhamad Ali Fadloli", 
         "organisation": "CryoWerx", 
-        "photo": "/images/speakers/photo_29", 
+        "photo": "/images/speakers/FarisMuhamadAliFadloli_29", 
         "position": null, 
         "sessions": [
             {
@@ -872,7 +872,7 @@
         "mobile": null, 
         "name": "Kranthi Kiran Guduru", 
         "organisation": "Thinkbroad", 
-        "photo": "/images/speakers/photo_30", 
+        "photo": "/images/speakers/KranthiKiranGuduru_30", 
         "position": null, 
         "sessions": [
             {
@@ -899,7 +899,7 @@
         "mobile": null, 
         "name": "Sudheesh Singanamalla", 
         "organisation": "Loklak / National Institute of Technology Warangal", 
-        "photo": "/images/speakers/photo_32", 
+        "photo": "/images/speakers/SudheeshSinganamalla_32", 
         "position": null, 
         "sessions": [
             {
@@ -1049,7 +1049,7 @@
         "mobile": null, 
         "name": "Tim Oxley", 
         "organisation": "CampJS", 
-        "photo": "/images/speakers/photo_40.png", 
+        "photo": "/images/speakers/TimOxley_40.png", 
         "position": null, 
         "sessions": [
             {
@@ -1072,7 +1072,7 @@
         "mobile": null, 
         "name": "Saptarshi Purkayastha", 
         "organisation": "OpenMRS", 
-        "photo": "/images/speakers/photo_42.jpg", 
+        "photo": "/images/speakers/SaptarshiPurkayastha_42.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1095,7 +1095,7 @@
         "mobile": null, 
         "name": "Barry Threw, Jon Phillips", 
         "organisation": "#NEWPALMYRA", 
-        "photo": "/images/speakers/photo_56.jpg", 
+        "photo": "/images/speakers/BarryThrew,JonPhillips_56.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1299,7 +1299,7 @@
         "mobile": null, 
         "name": "Fran\u00e7ois Cartegnie", 
         "organisation": "VideoLAN", 
-        "photo": "/images/speakers/photo_46.jpg", 
+        "photo": "/images/speakers/Fran\u00e7oisCartegnie_46.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1322,7 +1322,7 @@
         "mobile": null, 
         "name": "Barry Threw", 
         "organisation": "#NEWPALMYRA", 
-        "photo": "/images/speakers/photo_48.jpg", 
+        "photo": "/images/speakers/BarryThrew_48.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1345,7 +1345,7 @@
         "mobile": null, 
         "name": "Toma\u017e Vajngerl", 
         "organisation": "Collabora Productivity", 
-        "photo": "/images/speakers/photo_49.jpeg", 
+        "photo": "/images/speakers/Toma\u017eVajngerl_49.jpeg", 
         "position": null, 
         "sessions": [
             {
@@ -1368,7 +1368,7 @@
         "mobile": null, 
         "name": "George Goh", 
         "organisation": "Red Hat", 
-        "photo": "/images/speakers/photo_53.jpg", 
+        "photo": "/images/speakers/GeorgeGoh_53.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1391,7 +1391,7 @@
         "mobile": null, 
         "name": "Susan Spencer", 
         "organisation": "Valentina", 
-        "photo": "/images/speakers/photo_57.jpg", 
+        "photo": "/images/speakers/SusanSpencer_57.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1507,7 +1507,7 @@
         "mobile": null, 
         "name": "Martin Andrews", 
         "organisation": "Red Cat Labs", 
-        "photo": "/images/speakers/photo_61.jpg", 
+        "photo": "/images/speakers/MartinAndrews_61.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1530,7 +1530,7 @@
         "mobile": null, 
         "name": "Ulrich Norbisrath", 
         "organisation": "ulno.net", 
-        "photo": "/images/speakers/photo_64.jpg", 
+        "photo": "/images/speakers/UlrichNorbisrath_64.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1569,7 +1569,7 @@
         "mobile": null, 
         "name": "Mike McQuaid, Sahil Bajaj", 
         "organisation": "GitHub/Homebrew/Grumpy Gits", 
-        "photo": "/images/speakers/photo_65", 
+        "photo": "/images/speakers/MikeMcquaid,SahilBajaj_65", 
         "position": null, 
         "sessions": [
             {
@@ -1592,7 +1592,7 @@
         "mobile": null, 
         "name": "Bruce Momjian", 
         "organisation": "EnterpriseDB", 
-        "photo": "/images/speakers/photo_67.jpg", 
+        "photo": "/images/speakers/BruceMomjian_67.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1615,7 +1615,7 @@
         "mobile": null, 
         "name": "Manan Wason", 
         "organisation": "IIIT Delhi", 
-        "photo": "/images/speakers/photo_68", 
+        "photo": "/images/speakers/MananWason_68", 
         "position": null, 
         "sessions": [
             {
@@ -1830,7 +1830,7 @@
         "mobile": null, 
         "name": "Jamen Loh", 
         "organisation": "OneMaker Group", 
-        "photo": "/images/speakers/photo_71.jpg", 
+        "photo": "/images/speakers/JamenLoh_71.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1853,7 +1853,7 @@
         "mobile": null, 
         "name": "Shivam Verma", 
         "organisation": "Ambient Dynamix/National University of Singapore", 
-        "photo": "/images/speakers/photo_76.jpg", 
+        "photo": "/images/speakers/ShivamVerma_76.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1876,7 +1876,7 @@
         "mobile": null, 
         "name": "Kushal Das", 
         "organisation": "Fedora Project", 
-        "photo": "/images/speakers/photo_80.jpg", 
+        "photo": "/images/speakers/KushalDas_80.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -2122,7 +2122,7 @@
         "mobile": null, 
         "name": "Carsten Haitzler", 
         "organisation": "Samsung Electronics", 
-        "photo": "/images/speakers/photo_86.jpg", 
+        "photo": "/images/speakers/CarstenHaitzler_86.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -2145,7 +2145,7 @@
         "mobile": null, 
         "name": "Akhil Pandey", 
         "organisation": "Mozilla", 
-        "photo": "/images/speakers/photo_90", 
+        "photo": "/images/speakers/AkhilPandey_90", 
         "position": null, 
         "sessions": [
             {
@@ -2168,7 +2168,7 @@
         "mobile": null, 
         "name": "Viral B. Shah", 
         "organisation": "Julia Computing", 
-        "photo": "/images/speakers/photo_96.jpg", 
+        "photo": "/images/speakers/ViralB.Shah_96.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -2191,7 +2191,7 @@
         "mobile": null, 
         "name": "Rahul Mahale", 
         "organisation": "BigBinary", 
-        "photo": "/images/speakers/photo_97.jpg", 
+        "photo": "/images/speakers/RahulMahale_97.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -2214,7 +2214,7 @@
         "mobile": null, 
         "name": "Breandan Considine", 
         "organisation": "JetBrains", 
-        "photo": "/images/speakers/photo_142.png", 
+        "photo": "/images/speakers/BreandanConsidine_142.png", 
         "position": null, 
         "sessions": [
             {
@@ -2467,7 +2467,7 @@
         "mobile": null, 
         "name": "Udayan Tandon", 
         "organisation": "coala-analyzer", 
-        "photo": "/images/speakers/photo_99.jpg", 
+        "photo": "/images/speakers/UdayanTandon_99.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -2490,7 +2490,7 @@
         "mobile": null, 
         "name": "Nils Magnus", 
         "organisation": "LinuxTag Association", 
-        "photo": "/images/speakers/photo_103.jpg", 
+        "photo": "/images/speakers/NilsMagnus_103.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -2756,7 +2756,7 @@
         "mobile": null, 
         "name": "Robert Reyes", 
         "organisation": "Mozilla Philippines Community", 
-        "photo": "/images/speakers/photo_112.JPG", 
+        "photo": "/images/speakers/RobertReyes_112.JPG", 
         "position": null, 
         "sessions": [
             {
@@ -2779,7 +2779,7 @@
         "mobile": null, 
         "name": "Dan Tran", 
         "organisation": "GrabTaxi", 
-        "photo": "/images/speakers/photo_113.jpg", 
+        "photo": "/images/speakers/DanTran_113.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -2802,7 +2802,7 @@
         "mobile": null, 
         "name": "Hafiz Ismail", 
         "organisation": "WEHAVEFACES", 
-        "photo": "/images/speakers/photo_114.jpeg", 
+        "photo": "/images/speakers/HafizIsmail_114.jpeg", 
         "position": null, 
         "sessions": [
             {
@@ -2825,7 +2825,7 @@
         "mobile": null, 
         "name": "Sayan Chowdhury", 
         "organisation": "Fedora Project", 
-        "photo": "/images/speakers/photo_123.jpg", 
+        "photo": "/images/speakers/SayanChowdhury_123.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -3017,7 +3017,7 @@
         "mobile": null, 
         "name": "Amit Kumar JHA", 
         "organisation": "SymPy", 
-        "photo": "/images/speakers/photo_129", 
+        "photo": "/images/speakers/AmitKumarJha_129", 
         "position": null, 
         "sessions": [
             {
@@ -3040,7 +3040,7 @@
         "mobile": null, 
         "name": "U-Zyn Chua", 
         "organisation": "Zynesis", 
-        "photo": "/images/speakers/photo_132.jpg", 
+        "photo": "/images/speakers/U-ZynChua_132.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -3063,7 +3063,7 @@
         "mobile": null, 
         "name": "Satdeep Gill", 
         "organisation": "Punjabi Wikimedians", 
-        "photo": "/images/speakers/photo_133.JPG", 
+        "photo": "/images/speakers/SatdeepGill_133.JPG", 
         "position": null, 
         "sessions": [
             {
@@ -3090,7 +3090,7 @@
         "mobile": null, 
         "name": "Alexander Bezzubov", 
         "organisation": "NFLabs Inc, Apache Software Foundation", 
-        "photo": "/images/speakers/photo_134.png", 
+        "photo": "/images/speakers/AlexanderBezzubov_134.png", 
         "position": null, 
         "sessions": [
             {
@@ -3113,7 +3113,7 @@
         "mobile": null, 
         "name": "Mhairi O'Hara", 
         "organisation": "Humanitarian OpenStreetMap Team", 
-        "photo": "/images/speakers/photo_137.png", 
+        "photo": "/images/speakers/MhairiO'Hara_137.png", 
         "position": null, 
         "sessions": [
             {
@@ -3136,7 +3136,7 @@
         "mobile": null, 
         "name": "Ganeshkumar Shanmugam", 
         "organisation": "GeoICON Pte. Ltd", 
-        "photo": "/images/speakers/photo_138.jpg", 
+        "photo": "/images/speakers/GaneshkumarShanmugam_138.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -3435,7 +3435,7 @@
         "mobile": null, 
         "name": "Manish Kumar", 
         "organisation": "Oracle India Pvt. Ltd.", 
-        "photo": "/images/speakers/photo_151.JPG", 
+        "photo": "/images/speakers/ManishKumar_151.JPG", 
         "position": null, 
         "sessions": [
             {
@@ -3458,7 +3458,7 @@
         "mobile": null, 
         "name": "Oren Golan", 
         "organisation": "Sanguine", 
-        "photo": "/images/speakers/photo_153", 
+        "photo": "/images/speakers/OrenGolan_153", 
         "position": null, 
         "sessions": [
             {
@@ -3692,7 +3692,7 @@
         "mobile": null, 
         "name": "Huiren Woo", 
         "organisation": "Fedora Project", 
-        "photo": "/images/speakers/photo_160.jpg", 
+        "photo": "/images/speakers/HuirenWoo_160.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -3966,7 +3966,7 @@
         "mobile": null, 
         "name": "Alexandre Lision", 
         "organisation": "Ring developped by Savoir-faire Linux", 
-        "photo": "/images/speakers/photo_171.jpg", 
+        "photo": "/images/speakers/AlexandreLision_171.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4001,7 +4001,7 @@
         "mobile": null, 
         "name": "Michael Rebultan", 
         "organisation": "Equinix", 
-        "photo": "/images/speakers/photo_172.jpg", 
+        "photo": "/images/speakers/MichaelRebultan_172.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4024,7 +4024,7 @@
         "mobile": null, 
         "name": "Owais Zahid", 
         "organisation": "Autodesk", 
-        "photo": "/images/speakers/photo_180", 
+        "photo": "/images/speakers/OwaisZahid_180", 
         "position": null, 
         "sessions": [
             {
@@ -4047,7 +4047,7 @@
         "mobile": null, 
         "name": "Jan-Christoph Borchardt", 
         "organisation": "ownCloud, Open Source Design", 
-        "photo": "/images/speakers/photo_182.jpg", 
+        "photo": "/images/speakers/Jan-ChristophBorchardt_182.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4070,7 +4070,7 @@
         "mobile": null, 
         "name": "Victoria Bondarchuk", 
         "organisation": "Seoul Tech Society, Dmajor", 
-        "photo": "/images/speakers/photo_184.jpg", 
+        "photo": "/images/speakers/VictoriaBondarchuk_184.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4105,7 +4105,7 @@
         "mobile": null, 
         "name": "David Effendi", 
         "organisation": "ChorusText", 
-        "photo": "/images/speakers/photo_185.jpeg", 
+        "photo": "/images/speakers/DavidEffendi_185.jpeg", 
         "position": null, 
         "sessions": [
             {
@@ -4256,7 +4256,7 @@
         "mobile": null, 
         "name": "Bunnie Huang", 
         "organisation": "Sutajio Ko-Usagi PTE LTD", 
-        "photo": "/images/speakers/photo_5.jpg", 
+        "photo": "/images/speakers/BunnieHuang_5.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4279,7 +4279,7 @@
         "mobile": null, 
         "name": "Meng Weng Wong", 
         "organisation": "Legalese.io", 
-        "photo": "/images/speakers/photo_12.JPG", 
+        "photo": "/images/speakers/MengWengWong_12.JPG", 
         "position": null, 
         "sessions": [
             {
@@ -4302,7 +4302,7 @@
         "mobile": null, 
         "name": "Mayank Sharma", 
         "organisation": "OpenMRS", 
-        "photo": "/images/speakers/photo_23.png", 
+        "photo": "/images/speakers/MayankSharma_23.png", 
         "position": null, 
         "sessions": [
             {
@@ -4325,7 +4325,7 @@
         "mobile": null, 
         "name": "Mayank Prasad", 
         "organisation": "MySQL, Oracle India Private Limited", 
-        "photo": "/images/speakers/photo_150.jpg", 
+        "photo": "/images/speakers/MayankPrasad_150.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4348,7 +4348,7 @@
         "mobile": null, 
         "name": "Garvit Khatri", 
         "organisation": "KDE", 
-        "photo": "/images/speakers/photo_25.png", 
+        "photo": "/images/speakers/GarvitKhatri_25.png", 
         "position": null, 
         "sessions": [
             {
@@ -4371,7 +4371,7 @@
         "mobile": null, 
         "name": "Kushan Kushan Joshi", 
         "organisation": "DA-IICT", 
-        "photo": "/images/speakers/photo_37", 
+        "photo": "/images/speakers/KushanKushanJoshi_37", 
         "position": null, 
         "sessions": [
             {
@@ -4394,7 +4394,7 @@
         "mobile": null, 
         "name": "Daniel Pocock", 
         "organisation": "Debian", 
-        "photo": "/images/speakers/photo_44.png", 
+        "photo": "/images/speakers/DanielPocock_44.png", 
         "position": null, 
         "sessions": [
             {
@@ -4433,7 +4433,7 @@
         "mobile": null, 
         "name": "Nora Al-Badri", 
         "organisation": "Artist of \"The Other Nefertiti\"", 
-        "photo": "/images/speakers/photo_59.jpg", 
+        "photo": "/images/speakers/NoraAl-Badri_59.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4468,7 +4468,7 @@
         "mobile": null, 
         "name": "Ishan Khanna", 
         "organisation": "Mifos Initiative", 
-        "photo": "/images/speakers/photo_62", 
+        "photo": "/images/speakers/IshanKhanna_62", 
         "position": null, 
         "sessions": [
             {
@@ -4491,7 +4491,7 @@
         "mobile": null, 
         "name": "Praveen (Gnovi) Patil", 
         "organisation": "ExpEYES", 
-        "photo": "/images/speakers/photo_70.jpg", 
+        "photo": "/images/speakers/Praveen(Gnovi)Patil_70.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4526,7 +4526,7 @@
         "mobile": null, 
         "name": "Jaminy Prabaharan", 
         "organisation": "Smart guidance for blind", 
-        "photo": "/images/speakers/photo_81.jpg", 
+        "photo": "/images/speakers/JaminyPrabaharan_81.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4549,7 +4549,7 @@
         "mobile": null, 
         "name": "Roland Turner", 
         "organisation": "FOSSASIA", 
-        "photo": "/images/speakers/photo_84.jpeg", 
+        "photo": "/images/speakers/RolandTurner_84.jpeg", 
         "position": null, 
         "sessions": [
             {
@@ -4572,7 +4572,7 @@
         "mobile": null, 
         "name": "Dr. Udaykumar Khadke", 
         "organisation": "Department of Physics, BKIT, Bhalki, Karnataka, INDIA", 
-        "photo": "/images/speakers/photo_89.jpg", 
+        "photo": "/images/speakers/Dr.UdaykumarKhadke_89.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4595,7 +4595,7 @@
         "mobile": null, 
         "name": "Sameer Kumar", 
         "organisation": "Ashnik Pte Ltd", 
-        "photo": "/images/speakers/photo_98.jpg", 
+        "photo": "/images/speakers/SameerKumar_98.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4618,7 +4618,7 @@
         "mobile": null, 
         "name": "Hans Bakker", 
         "organisation": "AntWebsystems Co.,Ltd", 
-        "photo": "/images/speakers/photo_111.gif", 
+        "photo": "/images/speakers/HansBakker_111.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4641,7 +4641,7 @@
         "mobile": null, 
         "name": "Sahil Shekhawat", 
         "organisation": "SymPy / PyDy", 
-        "photo": "/images/speakers/photo_128.svg", 
+        "photo": "/images/speakers/SahilShekhawat_128.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4664,7 +4664,7 @@
         "mobile": null, 
         "name": "Marco A. Guti\u00e9rrez", 
         "organisation": "Robolab, University of Extremadura, Spain", 
-        "photo": "/images/speakers/photo_130.jpg", 
+        "photo": "/images/speakers/MarcoA.Guti\u00e9rrez_130.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4687,7 +4687,7 @@
         "mobile": null, 
         "name": "Zion Ng", 
         "organisation": "intZone.com", 
-        "photo": "/images/speakers/photo_159.jpg", 
+        "photo": "/images/speakers/ZionNg_159.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4710,7 +4710,7 @@
         "mobile": null, 
         "name": "Anivar Ammanath Aravind", 
         "organisation": "Mozilla India", 
-        "photo": "/images/speakers/photo_162.jpg", 
+        "photo": "/images/speakers/AnivarAmmanathAravind_162.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4733,7 +4733,7 @@
         "mobile": null, 
         "name": "Barry Threw Jon Phillips", 
         "organisation": "#NEWPALMYRA", 
-        "photo": "/images/speakers/photo_175.jpg", 
+        "photo": "/images/speakers/BarryThrewJonPhillips_175.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -4764,7 +4764,7 @@
         "mobile": null, 
         "name": "Ankit -", 
         "organisation": "coala", 
-        "photo": "/images/speakers/photo_186.svg", 
+        "photo": "/images/speakers/Ankit-_186.jpg", 
         "position": null, 
         "sessions": [
             {

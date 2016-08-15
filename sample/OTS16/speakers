@@ -56,7 +56,7 @@
         "mobile": null, 
         "name": "Paulaner Paula Pongratz", 
         "organisation": "Postapokalyptischer Schmuck", 
-        "photo": "/images/speakers/photo_2.jpg", 
+        "photo": "/images/speakers/PaulanerPaulaPongratz_2.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -79,7 +79,7 @@
         "mobile": null, 
         "name": "Sandra M\u00fcllrick", 
         "organisation": "Wikimedia Deutschland e.V.", 
-        "photo": "/images/speakers/photo_3.jpg", 
+        "photo": "/images/speakers/SandraM\u00fcllrick_3.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -102,7 +102,7 @@
         "mobile": null, 
         "name": "Michael Christen", 
         "organisation": "Yacy", 
-        "photo": "/images/speakers/photo_4.jpg", 
+        "photo": "/images/speakers/MichaelChristen_4.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -129,7 +129,7 @@
         "mobile": null, 
         "name": "Jan Suhr", 
         "organisation": "Nitrokey", 
-        "photo": "/images/speakers/photo_5.jpg", 
+        "photo": "/images/speakers/JanSuhr_5.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -152,7 +152,7 @@
         "mobile": null, 
         "name": "Cat Spangehl", 
         "organisation": "Heart of Code", 
-        "photo": "/images/speakers/photo_6.jpg", 
+        "photo": "/images/speakers/CatSpangehl_6.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -179,7 +179,7 @@
         "mobile": null, 
         "name": "Erik Albers", 
         "organisation": "Free Software Foundation Europe e.V.", 
-        "photo": "/images/speakers/photo_7.jpg", 
+        "photo": "/images/speakers/ErikAlbers_7.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -202,7 +202,7 @@
         "mobile": null, 
         "name": "Alvin Lui", 
         "organisation": "Makeomnia Ltd / HKCOTA", 
-        "photo": "/images/speakers/photo_8.jpg", 
+        "photo": "/images/speakers/AlvinLui_8.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -229,7 +229,7 @@
         "mobile": null, 
         "name": "Fabian L\u00fcpke", 
         "organisation": "Hasso-Plattner-Institut Potsdam", 
-        "photo": "/images/speakers/photo_9.jpg", 
+        "photo": "/images/speakers/FabianL\u00fcpke_9.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -252,7 +252,7 @@
         "mobile": null, 
         "name": "Christian Obersteiner", 
         "organisation": "Ayab-Knitting", 
-        "photo": "/images/speakers/photo_10.jpg", 
+        "photo": "/images/speakers/ChristianObersteiner_10.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -275,7 +275,7 @@
         "mobile": null, 
         "name": "Susan Spencer", 
         "organisation": "Valentina", 
-        "photo": "/images/speakers/photo_12.jpg", 
+        "photo": "/images/speakers/SusanSpencer_12.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -302,7 +302,7 @@
         "mobile": null, 
         "name": "Konrad Willi D\u00f6ring", 
         "organisation": "Neurofox, Brainduino", 
-        "photo": "/images/speakers/photo_13.jpg", 
+        "photo": "/images/speakers/KonradWilliD\u00f6ring_13.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -329,7 +329,7 @@
         "mobile": null, 
         "name": "Stefan Koehler", 
         "organisation": "Flowedoo", 
-        "photo": "/images/speakers/photo_36.jpg", 
+        "photo": "/images/speakers/StefanKoehler_36.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -410,7 +410,7 @@
         "mobile": null, 
         "name": "Ricardo Wurmus", 
         "organisation": "GNU Project", 
-        "photo": "/images/speakers/photo_16.jpg", 
+        "photo": "/images/speakers/RicardoWurmus_16.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -433,7 +433,7 @@
         "mobile": null, 
         "name": "Birgit Marzinka", 
         "organisation": "Metaversa e.V.", 
-        "photo": "/images/speakers/photo_18.jpg", 
+        "photo": "/images/speakers/BirgitMarzinka_18.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -456,7 +456,7 @@
         "mobile": null, 
         "name": "Daniel Abma", 
         "organisation": "Metaversa e.V.", 
-        "photo": "/images/speakers/photo_19.jpg", 
+        "photo": "/images/speakers/DanielAbma_19.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -479,7 +479,7 @@
         "mobile": null, 
         "name": "Jenny Roberts", 
         "organisation": "Metaversa e.V.", 
-        "photo": "/images/speakers/photo_20.jpg", 
+        "photo": "/images/speakers/JennyRoberts_20.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -502,7 +502,7 @@
         "mobile": null, 
         "name": "Kirsten Mohri", 
         "organisation": "Metaversa e.V.", 
-        "photo": "/images/speakers/photo_21.jpg", 
+        "photo": "/images/speakers/KirstenMohri_21.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -525,7 +525,7 @@
         "mobile": null, 
         "name": "Raimo, Radczewski", 
         "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community", 
-        "photo": "/images/speakers/photo_23.jpg", 
+        "photo": "/images/speakers/Raimo,Radczewski_23.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -552,7 +552,7 @@
         "mobile": null, 
         "name": "Andr\u00e9 Rebentisch", 
         "organisation": "OTS", 
-        "photo": "/images/speakers/photo_73.jpg", 
+        "photo": "/images/speakers/Andr\u00e9Rebentisch_73.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -625,7 +625,7 @@
         "mobile": null, 
         "name": "Jenz Steiner", 
         "organisation": "Piradio - Sender Berlin", 
-        "photo": "/images/speakers/photo_26.jpg", 
+        "photo": "/images/speakers/JenzSteiner_26.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -652,7 +652,7 @@
         "mobile": null, 
         "name": "Ulrike Thalheim", 
         "organisation": "metacollect", 
-        "photo": "/images/speakers/photo_27.jpg", 
+        "photo": "/images/speakers/UlrikeThalheim_27.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -679,7 +679,7 @@
         "mobile": null, 
         "name": "Moritz Beber", 
         "organisation": "metacollect", 
-        "photo": "/images/speakers/photo_28.jpg", 
+        "photo": "/images/speakers/MoritzBeber_28.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -706,7 +706,7 @@
         "mobile": null, 
         "name": "Stephen Kovats", 
         "organisation": "r0g_agency for open culture gGmbH", 
-        "photo": "/images/speakers/photo_29.jpg", 
+        "photo": "/images/speakers/StephenKovats_29.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -733,7 +733,7 @@
         "mobile": null, 
         "name": "Toon Peters", 
         "organisation": "Altran", 
-        "photo": "/images/speakers/photo_31.jpg", 
+        "photo": "/images/speakers/ToonPeters_31.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -760,7 +760,7 @@
         "mobile": null, 
         "name": "Hong Phuc Dang", 
         "organisation": "FOSSASIA", 
-        "photo": "/images/speakers/photo_32.jpg", 
+        "photo": "/images/speakers/HongPhucDang_32.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -787,7 +787,7 @@
         "mobile": null, 
         "name": "Ivers Yves Pierre", 
         "organisation": "Copertura Label", 
-        "photo": "/images/speakers/photo_34.jpg", 
+        "photo": "/images/speakers/IversYvesPierre_34.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -810,7 +810,7 @@
         "mobile": null, 
         "name": "Conny Kawohl", 
         "organisation": "Heart of Code", 
-        "photo": "/images/speakers/photo_35.jpg", 
+        "photo": "/images/speakers/ConnyKawohl_35.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -902,7 +902,7 @@
         "mobile": null, 
         "name": "Thomas Tursics", 
         "organisation": "Code for Berlin", 
-        "photo": "/images/speakers/photo_40.jpg", 
+        "photo": "/images/speakers/ThomasTursics_40.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -925,7 +925,7 @@
         "mobile": null, 
         "name": "Justin Lee", 
         "organisation": "FOSSASIA", 
-        "photo": "/images/speakers/photo_43.jpg", 
+        "photo": "/images/speakers/JustinLee_43.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -948,7 +948,7 @@
         "mobile": null, 
         "name": "Rufus Pollock", 
         "organisation": "Founder Open Knowledge", 
-        "photo": "/images/speakers/photo_44.jpg", 
+        "photo": "/images/speakers/RufusPollock_44.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -975,7 +975,7 @@
         "mobile": null, 
         "name": "Erik D\u00f6rnenburg", 
         "organisation": "CTO Thoughtworks", 
-        "photo": "/images/speakers/photo_45.jpg", 
+        "photo": "/images/speakers/ErikD\u00f6rnenburg_45.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -998,7 +998,7 @@
         "mobile": null, 
         "name": "Lennart Poettering", 
         "organisation": "Red Hat", 
-        "photo": "/images/speakers/photo_46.jpg", 
+        "photo": "/images/speakers/LennartPoettering_46.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1021,7 +1021,7 @@
         "mobile": null, 
         "name": "Chris K\u00fchl", 
         "organisation": "Kinvolk GmbH", 
-        "photo": "/images/speakers/photo_47.jpg", 
+        "photo": "/images/speakers/ChrisK\u00fchl_47.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1090,7 +1090,7 @@
         "mobile": null, 
         "name": "Bruno Kirschner", 
         "organisation": "Beuth Hochschule f\u00fcr Technik Berlin", 
-        "photo": "/images/speakers/photo_49.jpg", 
+        "photo": "/images/speakers/BrunoKirschner_49.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1113,7 +1113,7 @@
         "mobile": null, 
         "name": "Veit Schiele", 
         "organisation": "cusy GmbH", 
-        "photo": "/images/speakers/photo_51.jpg", 
+        "photo": "/images/speakers/VeitSchiele_51.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1136,7 +1136,7 @@
         "mobile": null, 
         "name": "J\u00f6rg Knobloch", 
         "organisation": "Thunderbird", 
-        "photo": "/images/speakers/photo_52.jpg", 
+        "photo": "/images/speakers/J\u00f6rgKnobloch_52.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1159,7 +1159,7 @@
         "mobile": null, 
         "name": "R\u00fcdiger Trojok", 
         "organisation": "Bioflux", 
-        "photo": "/images/speakers/photo_53.jpg", 
+        "photo": "/images/speakers/R\u00fcdigerTrojok_53.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1182,7 +1182,7 @@
         "mobile": null, 
         "name": "Mirela Alistar", 
         "organisation": "Bioflux", 
-        "photo": "/images/speakers/photo_54.jpg", 
+        "photo": "/images/speakers/MirelaAlistar_54.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1205,7 +1205,7 @@
         "mobile": null, 
         "name": "Jakob Schade", 
         "organisation": "Jugend Hackt", 
-        "photo": "/images/speakers/photo_56.jpg", 
+        "photo": "/images/speakers/JakobSchade_56.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1232,7 +1232,7 @@
         "mobile": null, 
         "name": "Franziska Schmid", 
         "organisation": "Junge T\u00fcftler", 
-        "photo": "/images/speakers/photo_57.jpg", 
+        "photo": "/images/speakers/FranziskaSchmid_57.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1259,7 +1259,7 @@
         "mobile": null, 
         "name": "Julia Kleeberger", 
         "organisation": "Junge T\u00fcftler", 
-        "photo": "/images/speakers/photo_58.jpg", 
+        "photo": "/images/speakers/JuliaKleeberger_58.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1286,7 +1286,7 @@
         "mobile": null, 
         "name": "Barbara Fischer", 
         "organisation": "Wikimedia Deutschland", 
-        "photo": "/images/speakers/photo_59.jpg", 
+        "photo": "/images/speakers/BarbaraFischer_59.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1309,7 +1309,7 @@
         "mobile": null, 
         "name": "Harald Maa\u00dfen", 
         "organisation": "LPI e.V.", 
-        "photo": "/images/speakers/photo_77.jpg", 
+        "photo": "/images/speakers/HaraldMaa\u00dfen_77.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1336,7 +1336,7 @@
         "mobile": null, 
         "name": "Elio Qoshi", 
         "organisation": "Mozilla", 
-        "photo": "/images/speakers/photo_61.jpg", 
+        "photo": "/images/speakers/ElioQoshi_61.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1359,7 +1359,7 @@
         "mobile": null, 
         "name": "Lars Zimmermann", 
         "organisation": "Open Source Circular Economy Days", 
-        "photo": "/images/speakers/photo_62.jpg", 
+        "photo": "/images/speakers/LarsZimmermann_62.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1382,7 +1382,7 @@
         "mobile": null, 
         "name": "Felicitas Blanck", 
         "organisation": "Community Managerin", 
-        "photo": "/images/speakers/photo_63.jpg", 
+        "photo": "/images/speakers/FelicitasBlanck_63.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1405,7 +1405,7 @@
         "mobile": null, 
         "name": "Code Week Award", 
         "organisation": "Code Week Award", 
-        "photo": "/images/speakers/photo_64.jpg", 
+        "photo": "/images/speakers/CodeWeekAward_64.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1432,7 +1432,7 @@
         "mobile": null, 
         "name": "Chris Ward", 
         "organisation": "Gregarious Mammal", 
-        "photo": "/images/speakers/photo_65.jpg", 
+        "photo": "/images/speakers/ChrisWard_65.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1455,7 +1455,7 @@
         "mobile": null, 
         "name": "Thomas Fricke", 
         "organisation": "Endocode AG", 
-        "photo": "/images/speakers/photo_66.jpg", 
+        "photo": "/images/speakers/ThomasFricke_66.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1478,7 +1478,7 @@
         "mobile": null, 
         "name": "Kai Mertens", 
         "organisation": "flashcat-project", 
-        "photo": "/images/speakers/photo_67.jpg", 
+        "photo": "/images/speakers/KaiMertens_67.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1501,7 +1501,7 @@
         "mobile": null, 
         "name": "J\u00e9r\u00e9my Bonvoisin", 
         "organisation": "Technische Universit\u00e4t Berlin", 
-        "photo": "/images/speakers/photo_68.jpg", 
+        "photo": "/images/speakers/J\u00e9r\u00e9myBonvoisin_68.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1524,7 +1524,7 @@
         "mobile": null, 
         "name": "J\u00f6rg Wittenberger", 
         "organisation": "Askemos", 
-        "photo": "/images/speakers/photo_69.jpg", 
+        "photo": "/images/speakers/J\u00f6rgWittenberger_69.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1547,7 +1547,7 @@
         "mobile": null, 
         "name": "Denjell Caleb Thompson", 
         "organisation": "ionary", 
-        "photo": "/images/speakers/photo_70.jpg", 
+        "photo": "/images/speakers/DenjellCalebThompson_70.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1570,7 +1570,7 @@
         "mobile": null, 
         "name": "Maximilian Richt", 
         "organisation": "Open Knowledge Foundation Deutschland", 
-        "photo": "/images/speakers/photo_71.jpg", 
+        "photo": "/images/speakers/MaximilianRicht_71.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1593,7 +1593,7 @@
         "mobile": null, 
         "name": "carlo von lynX", 
         "organisation": "youbroketheinternet.org", 
-        "photo": "/images/speakers/photo_72.jpg", 
+        "photo": "/images/speakers/CarloVonLynx_72.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1616,7 +1616,7 @@
         "mobile": null, 
         "name": "Mitch Altman", 
         "organisation": "Cornfield Electronics", 
-        "photo": "/images/speakers/photo_1.jpg", 
+        "photo": "/images/speakers/MitchAltman_1.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1639,7 +1639,7 @@
         "mobile": null, 
         "name": "Jan Nikolai Nelles", 
         "organisation": "Nefertiti Hack", 
-        "photo": "/images/speakers/photo_15.jpg", 
+        "photo": "/images/speakers/JanNikolaiNelles_15.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1666,7 +1666,7 @@
         "mobile": null, 
         "name": "Jan Dittrich", 
         "organisation": "OpenTech Designer", 
-        "photo": "/images/speakers/photo_17.jpg", 
+        "photo": "/images/speakers/JanDittrich_17.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1693,7 +1693,7 @@
         "mobile": null, 
         "name": "Jos Poortvliet", 
         "organisation": "ownCloud", 
-        "photo": "/images/speakers/photo_25.jpg", 
+        "photo": "/images/speakers/JosPoortvliet_25.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1716,7 +1716,7 @@
         "mobile": null, 
         "name": "Mbisimo Emmanuel", 
         "organisation": "Peace Hack Camp", 
-        "photo": "/images/speakers/photo_30.jpg", 
+        "photo": "/images/speakers/MbisimoEmmanuel_30.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1743,7 +1743,7 @@
         "mobile": null, 
         "name": "Marius Hoch", 
         "organisation": "Wikimedia Deutschland e.V.", 
-        "photo": "/images/speakers/photo_38.jpg", 
+        "photo": "/images/speakers/MariusHoch_38.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1766,7 +1766,7 @@
         "mobile": null, 
         "name": "Zac Brown", 
         "organisation": "FreeGeo API", 
-        "photo": "/images/speakers/photo_39.jpg", 
+        "photo": "/images/speakers/ZacBrown_39.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1789,7 +1789,7 @@
         "mobile": null, 
         "name": "Alexander Loibl", 
         "organisation": "IBM", 
-        "photo": "/images/speakers/photo_41.jpg", 
+        "photo": "/images/speakers/AlexanderLoibl_41.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1816,7 +1816,7 @@
         "mobile": null, 
         "name": "Ruediger Weis", 
         "organisation": "Beuth Hochschule f\u00fcr Technik Berlin", 
-        "photo": "/images/speakers/photo_48.jpg", 
+        "photo": "/images/speakers/RuedigerWeis_48.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1839,7 +1839,7 @@
         "mobile": null, 
         "name": "Matthias Kirschner", 
         "organisation": "Free Software Foundation Europe e.V.", 
-        "photo": "/images/speakers/photo_50.jpg", 
+        "photo": "/images/speakers/MatthiasKirschner_50.jpg", 
         "position": null, 
         "sessions": [
             {
@@ -1862,7 +1862,7 @@
         "mobile": null, 
         "name": "Frederik Kramer", 
         "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg", 
-        "photo": "/images/speakers/photo_60.jpg", 
+        "photo": "/images/speakers/FrederikKramer_60.jpg", 
         "position": null, 
         "sessions": [
             {
