@@ -1,10 +1,14 @@
 # Open-Event
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fossasia/open-event?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The FOSSASIA Open Event Project aims to make it easier for events, conferences, tech summits (maybe more types in future) to easily create Web and Mobile (only Android right now) micro Apps. The project comprises of a data schema for easily storing event details, a server and web frontend that are used to view, modify, update this data easily by the event organisers, a mobile-friendly webapp client to show the event data to attendees, an Android app template which will be used to generate specific apps for each event.   
 
 Each specific component's source code has it's own Github Repo, links provided in the subsections below . This repository is for tracking milestones and issues, and maintaining a wiki about the project. Also, documentation about the JSON Schema, and how to use the template will be hosted on this repo.
 
 ### Communication
 Please join our mailing list to discuss questions regarding the project: https://groups.google.com/forum/#!forum/open-event
+
+Our chat channel is here: https://gitter.im/fossasia/open-event
 
 ### RoadMaps and Documentation
 
