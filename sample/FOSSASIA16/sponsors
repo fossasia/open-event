@@ -2,7 +2,7 @@
     {
         "description": "", 
         "id": 1, 
-        "level": 1, 
+        "level": "1", 
         "logo": "/images/sponsors/logo_1.png", 
         "name": "Google", 
         "sponsor_type": "Diamond", 
@@ -11,7 +11,7 @@
     {
         "description": "", 
         "id": 2, 
-        "level": 2, 
+        "level": "2", 
         "logo": "/images/sponsors/logo_2.png", 
         "name": "RedHat", 
         "sponsor_type": "Platinum", 
@@ -20,7 +20,7 @@
     {
         "description": "", 
         "id": 3, 
-        "level": 1, 
+        "level": "1", 
         "logo": "/images/sponsors/logo_3.png", 
         "name": "GitHub", 
         "sponsor_type": "Platinum", 
@@ -29,7 +29,7 @@
     {
         "description": "", 
         "id": 4, 
-        "level": 4, 
+        "level": "4", 
         "logo": "/images/sponsors/logo_4.png", 
         "name": "MySQL", 
         "sponsor_type": "Gold", 
@@ -38,7 +38,7 @@
     {
         "description": "", 
         "id": 5, 
-        "level": 1, 
+        "level": "1", 
         "logo": "/images/sponsors/logo_5.png", 
         "name": "FOSSASIA", 
         "sponsor_type": "Diamond", 
@@ -47,7 +47,7 @@
     {
         "description": "", 
         "id": 6, 
-        "level": 3, 
+        "level": "3", 
         "logo": "/images/sponsors/logo_6.png", 
         "name": "UNESCO", 
         "sponsor_type": "Gold", 
@@ -56,7 +56,7 @@
     {
         "description": "", 
         "id": 7, 
-        "level": 2, 
+        "level": "2", 
         "logo": "/images/sponsors/logo_7.png", 
         "name": "MBM", 
         "sponsor_type": "Gold", 
@@ -65,7 +65,7 @@
     {
         "description": "", 
         "id": 8, 
-        "level": 5, 
+        "level": "5", 
         "logo": "/images/sponsors/logo_8.png", 
         "name": "hackerspace.sg", 
         "sponsor_type": "Silver", 
@@ -74,7 +74,7 @@
     {
         "description": "", 
         "id": 9, 
-        "level": 4, 
+        "level": "4", 
         "logo": "/images/sponsors/logo_9.png", 
         "name": "NUS Enterprise", 
         "sponsor_type": "Silver", 
@@ -83,7 +83,7 @@
     {
         "description": "", 
         "id": 10, 
-        "level": 5, 
+        "level": "5", 
         "logo": "/images/sponsors/logo_10.png", 
         "name": "Python", 
         "sponsor_type": "Silver", 
@@ -92,7 +92,7 @@
     {
         "description": "", 
         "id": 11, 
-        "level": 1, 
+        "level": "1", 
         "logo": "/images/sponsors/logo_11.png", 
         "name": "Science Centre Singapore", 
         "sponsor_type": "Gold", 
@@ -101,7 +101,7 @@
     {
         "description": "", 
         "id": 12, 
-        "level": 4, 
+        "level": "4", 
         "logo": "/images/sponsors/logo_12.png", 
         "name": "Youth Mobile", 
         "sponsor_type": "Bronze", 
