@@ -5,7 +5,7 @@
         "end_time": "2016-05-05T08:00:00", 
         "id": 1, 
         "language": null, 
-        "long_abstract": "Wir bauen interessante, faszinierende, n\u00fctzliche und verr\u00fcckte Dinge wie: den TV-B-Gone (Fernsehausschalter f\u00fcr alle TVs!), das \"Brain Machine-Ger\u00e4t\" um Gl\u00fccksgef\u00fchle zu erzeugen, einen LEDcube mit blinkenden Lichtern, spa\u00dfige Spielger\u00e4te, interaktive farbige Blinkenlichter, ein MintyBoost-Gadget um USB-Ger\u00e4te zu laden und vieles mehr. Und nebenbei lernen wir gleich noch L\u00f6ten. Der Workshop wird durchgef\u00fchrt von der Hardware-Bastel-Maker und L\u00f6tlegende Mitch Altman und ist geeignet f\u00fcr Anf\u00e4nger und Fortgeschrittene, j\u00fcngere und \u00e4ltere. // Learn to Solder! A large variety of way cool kits are available at this workshop, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.", 
+        "long_abstract": "Wir bauen interessante, faszinierende, nützliche und verrückte Dinge wie: den TV-B-Gone (Fernsehausschalter für alle TVs!), das \"Brain Machine-Gerät\" um Glücksgefühle zu erzeugen, einen LEDcube mit blinkenden Lichtern, spaßige Spielgeräte, interaktive farbige Blinkenlichter, ein MintyBoost-Gadget um USB-Geräte zu laden und vieles mehr. Und nebenbei lernen wir gleich noch Löten. Der Workshop wird durchgeführt von der Hardware-Bastel-Maker und Lötlegende Mitch Altman und ist geeignet für Anfänger und Fortgeschrittene, jüngere und ältere. // Learn to Solder! A large variety of way cool kits are available at this workshop, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.", 
         "microlocation": {
             "id": 1, 
             "name": "Erdgeschoss, Saal / Ground Floor"
@@ -13,7 +13,7 @@
         "session_type": {
             "id": 1, 
             "length": 0.3, 
-            "name": "Ganzt\u00e4giger L\u00f6tworkshop / Soldering Workshop"
+            "name": "Ganztägiger Lötworkshop / Soldering Workshop"
         }, 
         "short_abstract": "", 
         "signup_url": null, 
@@ -29,7 +29,7 @@
         "state": "accepted", 
         "subtitle": null, 
         "timezone": "UTC", 
-        "title": "Fantastische Hardware Bauen & L\u00f6ten Lernen mit Mitch (TV-B-Gone) // Learn to Solder with Cool Kits!", 
+        "title": "Fantastische Hardware Bauen & Löten Lernen mit Mitch (TV-B-Gone) // Learn to Solder with Cool Kits!", 
         "track": {
             "id": 1, 
             "name": "Maker Space"
@@ -42,7 +42,7 @@
         "end_time": "2016-05-05T08:00:00", 
         "id": 2, 
         "language": null, 
-        "long_abstract": "Beim Postapokalyptischen Schmuck-Workshop k\u00f6nnen Teilnehmende der OpenTechSummit aus Fundst\u00fccken vom Veranstaltungsgel\u00e4nde, aus Resten anderer dort stattfindender Workshops oder aus einem bereitgestellten Fundus Schmuck herstellen und sich ganz pers\u00f6nliche Unikate mit nach Hause nehmen. Passend zum Thema Makerbewegung werden hier u.a. 3D-Druck-Reste und -Fehldrucke, Lasercutter-Abschnitte sowie Elektroschrott zur Schmuckproduktion zur Verf\u00fcgung stehen. Es sollen \u00c4sthetikbewusstsein und bewussterer Umgang mit Ressourcen vermittelt werden, wobei gleichzeitig die Abfallmenge der Veranstaltung geringf\u00fcgig dezimiert wird.  We make jewellery from found objects from the Open Tech Summit or from leftovers of other workshops. Feel free to bring own material or choose from provided stuff, there will be lots of 3d-printer-deposit, electronic scrap, lasercutter-leavings!", 
+        "long_abstract": "Beim Postapokalyptischen Schmuck-Workshop können Teilnehmende der OpenTechSummit aus Fundstücken vom Veranstaltungsgelände, aus Resten anderer dort stattfindender Workshops oder aus einem bereitgestellten Fundus Schmuck herstellen und sich ganz persönliche Unikate mit nach Hause nehmen. Passend zum Thema Makerbewegung werden hier u.a. 3D-Druck-Reste und -Fehldrucke, Lasercutter-Abschnitte sowie Elektroschrott zur Schmuckproduktion zur Verfügung stehen. Es sollen Ästhetikbewusstsein und bewussterer Umgang mit Ressourcen vermittelt werden, wobei gleichzeitig die Abfallmenge der Veranstaltung geringfügig dezimiert wird.  We make jewellery from found objects from the Open Tech Summit or from leftovers of other workshops. Feel free to bring own material or choose from provided stuff, there will be lots of 3d-printer-deposit, electronic scrap, lasercutter-leavings!", 
         "microlocation": {
             "id": 1, 
             "name": "Erdgeschoss, Saal / Ground Floor"
@@ -87,7 +87,7 @@
         "session_type": {
             "id": 3, 
             "length": 0.3, 
-            "name": "Infotisch, Ausstellung, Exhibition, Gem\u00fctliche Kissenecke"
+            "name": "Infotisch, Ausstellung, Exhibition, Gemütliche Kissenecke"
         }, 
         "short_abstract": "", 
         "signup_url": null, 
@@ -95,7 +95,7 @@
         "speakers": [
             {
                 "id": 3, 
-                "name": "Sandra M\u00fcllrick", 
+                "name": "Sandra Müllrick", 
                 "organisation": "Wikimedia Deutschland e.V."
             }
         ], 
@@ -116,7 +116,7 @@
         "end_time": "2016-05-05T08:00:00", 
         "id": 4, 
         "language": null, 
-        "long_abstract": "Hauptentwickler Michael Christen zeigt uns wie wir in wenigen Schritten YaCy auf dem PC oder Handy installieren. YaCy ist eine Suchmaschine bei dem die Nutzer selbst zum Betreiber werden. Die freie Suchmaschinensoftware YaCy l\u00e4uft nicht auf einem Server im Internet, sondern auf dem eigenen Rechner und kann sich mit anderen Nutzern im Internet zusammenschalten, um die Reichweite des Suchindexes zu vergr\u00f6ssern.", 
+        "long_abstract": "Hauptentwickler Michael Christen zeigt uns wie wir in wenigen Schritten YaCy auf dem PC oder Handy installieren. YaCy ist eine Suchmaschine bei dem die Nutzer selbst zum Betreiber werden. Die freie Suchmaschinensoftware YaCy läuft nicht auf einem Server im Internet, sondern auf dem eigenen Rechner und kann sich mit anderen Nutzern im Internet zusammenschalten, um die Reichweite des Suchindexes zu vergrössern.", 
         "microlocation": {
             "id": 1, 
             "name": "Erdgeschoss, Saal / Ground Floor"
@@ -140,7 +140,7 @@
         "state": "accepted", 
         "subtitle": null, 
         "timezone": "UTC", 
-        "title": "Unabh\u00e4ngige eigene Internet-Suche in wenigen Schritten auf dem PC installieren", 
+        "title": "Unabhängige eigene Internet-Suche in wenigen Schritten auf dem PC installieren", 
         "track": {
             "id": 1, 
             "name": "Maker Space"
@@ -153,7 +153,7 @@
         "end_time": "2016-05-05T08:00:00", 
         "id": 5, 
         "language": null, 
-        "long_abstract": "Der Nitrokey ist ein USB-Stick mit integrierter Chipkarte zur hoch-sicheren Verschl\u00fcsselung von E-Mails und Daten, zur Benutzerauthentifikation in Netzwerken und zur Zugangskontrolle. Anders als bei Softwarel\u00f6sungen werden die Schl\u00fcssel immer sicher im Nitrokey gespeichert. Es ist unm\u00f6glich diese auszulesen, so dass der Nitrokey immun gegen Computerviren und sog. \"Trojaner\" ist. Die durch den Benutzer gew\u00e4hlte PIN und das manipulationssichere Design sch\u00fctzen im Falle von Verlust und Diebstahl. Die Hardware und Software sind beide als Open Source verf\u00fcgbar, um die \u00dcberpr\u00fcfung der Sicherheit und die Integration in eigene Anwendungen zu erm\u00f6glichen.  // Nitrokey is an USB key to enable highly secure encryption and signing of emails and data, as well as login to the Web, networks and computers. Other than ordinary software solutions, the secret keys are always stored securely inside the Nitrokey. Their extraction is impossible which makes Nitrokey immune to computer viruses and Trojan horses. The user-chosen PIN and the tamper-proof smart card protect in case of loss and theft. Hardware and software are both available as Open Source to allow verifying the security and integration with other applications. Website: <a href=\"https://www.nitrokey.com\" rel=\"nofollow\" target=\"_blank\">https://www.nitrokey.com</a>", 
+        "long_abstract": "Der Nitrokey ist ein USB-Stick mit integrierter Chipkarte zur hoch-sicheren Verschlüsselung von E-Mails und Daten, zur Benutzerauthentifikation in Netzwerken und zur Zugangskontrolle. Anders als bei Softwarelösungen werden die Schlüssel immer sicher im Nitrokey gespeichert. Es ist unmöglich diese auszulesen, so dass der Nitrokey immun gegen Computerviren und sog. \"Trojaner\" ist. Die durch den Benutzer gewählte PIN und das manipulationssichere Design schützen im Falle von Verlust und Diebstahl. Die Hardware und Software sind beide als Open Source verfügbar, um die Überprüfung der Sicherheit und die Integration in eigene Anwendungen zu ermöglichen.  // Nitrokey is an USB key to enable highly secure encryption and signing of emails and data, as well as login to the Web, networks and computers. Other than ordinary software solutions, the secret keys are always stored securely inside the Nitrokey. Their extraction is impossible which makes Nitrokey immune to computer viruses and Trojan horses. The user-chosen PIN and the tamper-proof smart card protect in case of loss and theft. Hardware and software are both available as Open Source to allow verifying the security and integration with other applications. Website: <a href=\"https://www.nitrokey.com\" rel=\"nofollow\" target=\"_blank\">https://www.nitrokey.com</a>", 
         "microlocation": {
             "id": 1, 
             "name": "Erdgeschoss, Saal / Ground Floor"
@@ -227,7 +227,7 @@
         "end_time": "2016-05-05T08:00:00", 
         "id": 7, 
         "language": null, 
-        "long_abstract": "Die Free Software Foundation Europe ist eine gemeinn\u00fctzige, regierungsunabh\u00e4ngige Organisation gef\u00fchrt von Matthias Kirschner als Pr\u00e4sident. 2010 erhielt die FSFE die Theodor Heuss Medaille f\u00fcr vorbildliches demokratisches Verhalten. Aktuelle Kampagnen sind \u201eFree Your Android\u201c (St\u00e4rkung der eigenen Kontrolle \u00fcber Android-Ger\u00e4te), \u201eAsk Your Candidates\u201c (Fragen an Wahlkandidaten, wie sie zu Freier Software stehen) und \u201eI love Free Software\u201c (Aktion am Valentinstag).   //   The Free Software Foundation Europe (FSFE) was founded in 2001 to support all aspects of the free software movement in Europe. FSFE is a charitable registered association (eingetragener Verein) under German law, and has registered 'chapters' in several European countries. FSFE believes that access to and control of software determines who may participate in a digital society. Therefore, the freedoms to use, copy, modify and redistribute software, as described in The Free Software Definition, are necessary for equal participation in the Information Age.", 
+        "long_abstract": "Die Free Software Foundation Europe ist eine gemeinnützige, regierungsunabhängige Organisation geführt von Matthias Kirschner als Präsident. 2010 erhielt die FSFE die Theodor Heuss Medaille für vorbildliches demokratisches Verhalten. Aktuelle Kampagnen sind „Free Your Android“ (Stärkung der eigenen Kontrolle über Android-Geräte), „Ask Your Candidates“ (Fragen an Wahlkandidaten, wie sie zu Freier Software stehen) und „I love Free Software“ (Aktion am Valentinstag).   //   The Free Software Foundation Europe (FSFE) was founded in 2001 to support all aspects of the free software movement in Europe. FSFE is a charitable registered association (eingetragener Verein) under German law, and has registered 'chapters' in several European countries. FSFE believes that access to and control of software determines who may participate in a digital society. Therefore, the freedoms to use, copy, modify and redistribute software, as described in The Free Software Definition, are necessary for equal participation in the Information Age.", 
         "microlocation": {
             "id": 1, 
             "name": "Erdgeschoss, Saal / Ground Floor"
@@ -301,7 +301,7 @@
         "end_time": "2016-05-05T08:00:00", 
         "id": 9, 
         "language": null, 
-        "long_abstract": "Hey,  aus einem alten Bahndisplay baute ich eine Tweet-Anzeige. Dazu reverse-engineerte ich die LED-Matrix in der Display-Einheit, um es mit einem eigenem WLAN Modul (WeMos) anzusteuern. Tweets mit einem festlegbaren Hashtag werden automatisch auf dem Display angezeigt. Neben der Twitter-Funktionalit\u00e4t arbeite ich gerade daran, Tetris und Snake  zu implementieren, die man vom Handy aus \u00fcber WLAN steuern kann.  Gerne w\u00fcrde ich das Projekt bei Euch zeigen und ggf. bei einem Lightning Talk vorstellen.  Es w\u00e4re nett, in der N\u00e4he von \"loklak\" platziert zu werden, weil ich f\u00fcr den Zugriff auf Tweets, die API von loklak verwende.", 
+        "long_abstract": "Hey,  aus einem alten Bahndisplay baute ich eine Tweet-Anzeige. Dazu reverse-engineerte ich die LED-Matrix in der Display-Einheit, um es mit einem eigenem WLAN Modul (WeMos) anzusteuern. Tweets mit einem festlegbaren Hashtag werden automatisch auf dem Display angezeigt. Neben der Twitter-Funktionalität arbeite ich gerade daran, Tetris und Snake  zu implementieren, die man vom Handy aus über WLAN steuern kann.  Gerne würde ich das Projekt bei Euch zeigen und ggf. bei einem Lightning Talk vorstellen.  Es wäre nett, in der Nähe von \"loklak\" platziert zu werden, weil ich für den Zugriff auf Tweets, die API von loklak verwende.", 
         "microlocation": {
             "id": 1, 
             "name": "Erdgeschoss, Saal / Ground Floor"
@@ -317,7 +317,7 @@
         "speakers": [
             {
                 "id": 9, 
-                "name": "Fabian L\u00fcpke", 
+                "name": "Fabian Lüpke", 
                 "organisation": "Hasso-Plattner-Institut Potsdam"
             }
         ], 
@@ -354,7 +354,7 @@
         "speakers": [
             {
                 "id": 11, 
-                "name": "Andreas \"Andz\" M\u00fcller", 
+                "name": "Andreas \"Andz\" Müller", 
                 "organisation": "Ayab-Knitting"
             }, 
             {
@@ -475,7 +475,7 @@
         "speakers": [
             {
                 "id": 13, 
-                "name": "Konrad Willi D\u00f6ring", 
+                "name": "Konrad Willi Döring", 
                 "organisation": "Neurofox, Brainduino"
             }
         ], 
@@ -496,7 +496,7 @@
         "end_time": "2016-05-05T08:00:00", 
         "id": 13, 
         "language": null, 
-        "long_abstract": "\u201cThe Other Nefertiti\u201d is an artistic intervention by Jan Nikolai Nelles and Nora Al- Badri which went viral. \u201cWith the data leak as a part of this counter narrative within our investigative practice we want to activate the artefact, to inspire a critical re-assessment of today\u2019s conditions and to overcome the colonial notion of possession in Germany's museums\u201d. With regard to the notion of belonging and possession of material objects of other cultures, the artists intention is to make cultural objects publicly accessible and to promote a contemporary and critical approach on how the \u201cGlobal North\u201c deals with heritage and the representation of \u201cthe Other\u201d. \u201cWe should tell stories of entanglement and Nefertiti is a great case to start with to tell stories from very different angles and to see how they intertwine.\u201c At this link you will find a torrent to access the dataset under a public domain: <a href=\"http://nefertitihack.alloversky.com\" rel=\"nofollow\" target=\"_blank\">http://nefertitihack.alloversky.com</a>  Here is the video showing the scanning process: <a href=\"https://vimeo.com/148156899\" rel=\"nofollow\" target=\"_blank\">https://vimeo.com/148156899</a>  \u201cThe Other Nefertiti\u201d  is a conceptual art piece questioning singularity and originality as well as ownership of material objects of other cultures. Nora Al-Badri and Jan Nikolai Nelles  went to the Neues Museum and scanned the iconic bust, but of course nobody knows if even this is the original bust. Through time and restoration there might not much genuine be left of the artifact itself. We give meaning to objects as well as we give meaning to data. Why worshipping the original, while we have all that beautiful remixes as of today? Maybe it was a server hack, a copy scan, an inside job, the cleaner, a hoax, but who cares, first of all it is an art piece. Of course a scan of the same thing looks the same, doesn't it? And tomorrow everybody with cameras or smartphones or Xbox will have the means and technique, where one can reclaim the interpretational sovereignty through scanning and sharing.   What the artists strived to achieve is a vivid discussion about the notion of possession and belonging of history in our museums and our minds. A discussion on the originality and truth of data as well as material objects is necessary, because in the end one concludes, that the institutional practice of todays museums and collections all around the Western world are corrupted. Museums are telling fictional stories, their stories, just because they control the artifacts and the way of representation. The fetishization of sacred staged artifacts and the Disneyfication is producing capital value for illicit trading and looting artifacts. One can't find a reflection about violent entanglement of the museums and their inherent colonial patina themselves. But isn't representing \u201cThe Other\u201d always violent? Art is about building new narratives, deconstructing power relations, not scanning techniques... .", 
+        "long_abstract": "“The Other Nefertiti” is an artistic intervention by Jan Nikolai Nelles and Nora Al- Badri which went viral. “With the data leak as a part of this counter narrative within our investigative practice we want to activate the artefact, to inspire a critical re-assessment of today’s conditions and to overcome the colonial notion of possession in Germany's museums”. With regard to the notion of belonging and possession of material objects of other cultures, the artists intention is to make cultural objects publicly accessible and to promote a contemporary and critical approach on how the “Global North“ deals with heritage and the representation of “the Other”. “We should tell stories of entanglement and Nefertiti is a great case to start with to tell stories from very different angles and to see how they intertwine.“ At this link you will find a torrent to access the dataset under a public domain: <a href=\"http://nefertitihack.alloversky.com\" rel=\"nofollow\" target=\"_blank\">http://nefertitihack.alloversky.com</a>  Here is the video showing the scanning process: <a href=\"https://vimeo.com/148156899\" rel=\"nofollow\" target=\"_blank\">https://vimeo.com/148156899</a>  “The Other Nefertiti”  is a conceptual art piece questioning singularity and originality as well as ownership of material objects of other cultures. Nora Al-Badri and Jan Nikolai Nelles  went to the Neues Museum and scanned the iconic bust, but of course nobody knows if even this is the original bust. Through time and restoration there might not much genuine be left of the artifact itself. We give meaning to objects as well as we give meaning to data. Why worshipping the original, while we have all that beautiful remixes as of today? Maybe it was a server hack, a copy scan, an inside job, the cleaner, a hoax, but who cares, first of all it is an art piece. Of course a scan of the same thing looks the same, doesn't it? And tomorrow everybody with cameras or smartphones or Xbox will have the means and technique, where one can reclaim the interpretational sovereignty through scanning and sharing.   What the artists strived to achieve is a vivid discussion about the notion of possession and belonging of history in our museums and our minds. A discussion on the originality and truth of data as well as material objects is necessary, because in the end one concludes, that the institutional practice of todays museums and collections all around the Western world are corrupted. Museums are telling fictional stories, their stories, just because they control the artifacts and the way of representation. The fetishization of sacred staged artifacts and the Disneyfication is producing capital value for illicit trading and looting artifacts. One can't find a reflection about violent entanglement of the museums and their inherent colonial patina themselves. But isn't representing “The Other” always violent? Art is about building new narratives, deconstructing power relations, not scanning techniques... .", 
         "microlocation": {
             "id": 1, 
             "name": "Erdgeschoss, Saal / Ground Floor"
@@ -525,7 +525,7 @@
         "state": "accepted", 
         "subtitle": null, 
         "timezone": "UTC", 
-        "title": "Scan die Nofretete im \u00c4gyptischen Museum / #NefertitiHack and Cultural Commons \"The Other Nefertiti\"", 
+        "title": "Scan die Nofretete im Ägyptischen Museum / #NefertitiHack and Cultural Commons \"The Other Nefertiti\"", 
         "track": {
             "id": 1, 
             "name": "Maker Space"
@@ -575,7 +575,7 @@
         "end_time": "2016-05-05T08:30:00", 
         "id": 15, 
         "language": null, 
-        "long_abstract": "Paper Prototyping is an easy-to-use method for creating, developing and testing concepts for applications and websites.   Everybody can work together \u2013 no programming skills are needed. If we want to try something new, we don't need to delete code or discuss if the library supports it: just draw and cut out the new feature!  As well we can easily do a usability test with our prototypes to get further input and check if the idea is going into the right direction.", 
+        "long_abstract": "Paper Prototyping is an easy-to-use method for creating, developing and testing concepts for applications and websites.   Everybody can work together – no programming skills are needed. If we want to try something new, we don't need to delete code or discuss if the library supports it: just draw and cut out the new feature!  As well we can easily do a usability test with our prototypes to get further input and check if the idea is going into the right direction.", 
         "microlocation": {
             "id": 1, 
             "name": "Erdgeschoss, Saal / Ground Floor"
@@ -612,7 +612,7 @@
         "end_time": "2016-05-05T08:30:00", 
         "id": 16, 
         "language": null, 
-        "long_abstract": "Roboter mit Scratch und Blockly programmieren - das ist das Thema vom Metaversa e.V. auf dem OpenTechSummit. Die mBots k\u00f6nnen \u00fcber eine grafische Programmiersprache an Tablets und Laptops programmiert werden. Zeit: 10 bis 15 Uhr. //  Der Metaversa e.V. ist ein Verein f\u00fcr Medien, Bildung und Kultur und besteht aus einem engagierten Team von Medienp\u00e4dagogInnen.", 
+        "long_abstract": "Roboter mit Scratch und Blockly programmieren - das ist das Thema vom Metaversa e.V. auf dem OpenTechSummit. Die mBots können über eine grafische Programmiersprache an Tablets und Laptops programmiert werden. Zeit: 10 bis 15 Uhr. //  Der Metaversa e.V. ist ein Verein für Medien, Bildung und Kultur und besteht aus einem engagierten Team von MedienpädagogInnen.", 
         "microlocation": {
             "id": 1, 
             "name": "Erdgeschoss, Saal / Ground Floor"
@@ -664,7 +664,7 @@
         "end_time": "2016-05-05T09:00:00", 
         "id": 17, 
         "language": null, 
-        "long_abstract": "Arduino Programmierung f\u00fcr Einsteiger mit CoderDojo und OpenTechSchool", 
+        "long_abstract": "Arduino Programmierung für Einsteiger mit CoderDojo und OpenTechSchool", 
         "microlocation": {
             "id": 1, 
             "name": "Erdgeschoss, Saal / Ground Floor"
@@ -688,7 +688,7 @@
         "state": "accepted", 
         "subtitle": null, 
         "timezone": "UTC", 
-        "title": "Arduino Programmierung f\u00fcr Einsteiger mit CoderDojo und OpenTechSchool ", 
+        "title": "Arduino Programmierung für Einsteiger mit CoderDojo und OpenTechSchool ", 
         "track": {
             "id": 2, 
             "name": "Workshops"
@@ -701,7 +701,7 @@
         "end_time": "2016-05-05T09:30:00", 
         "id": 18, 
         "language": null, 
-        "long_abstract": "\u00dcbung macht den Meister! Zusammen mit der Softwerkskammer Berlin richten wir ein Coding Dojo aus. In zwei Stunden bearbeiten wir paarweise eine Programmieraufgabe und besprechen anschlie\u00dfend eure L\u00f6sungen.  Ganz im Sinne von Teach Me, Teach You, gilt die Lernerfahrung als oberstes Ziel des Workshops. Lern eine neue Sprache oder zeig jemand anderem deine Lieblingssprache!        Bringt, wenn m\u00f6glich, eure Laptops mit eingerichteter Entwicklungsumgebung mit (im besten Fall mit Testframework, z.B. JUnit oder mocha). Auch ohne Laptop k\u00f6nnt ihr teilnehmen.", 
+        "long_abstract": "Übung macht den Meister! Zusammen mit der Softwerkskammer Berlin richten wir ein Coding Dojo aus. In zwei Stunden bearbeiten wir paarweise eine Programmieraufgabe und besprechen anschließend eure Lösungen.  Ganz im Sinne von Teach Me, Teach You, gilt die Lernerfahrung als oberstes Ziel des Workshops. Lern eine neue Sprache oder zeig jemand anderem deine Lieblingssprache!        Bringt, wenn möglich, eure Laptops mit eingerichteter Entwicklungsumgebung mit (im besten Fall mit Testframework, z.B. JUnit oder mocha). Auch ohne Laptop könnt ihr teilnehmen.", 
         "microlocation": {
             "id": 2, 
             "name": "Erdgeschoss, Hoflounge / Ground Floor, Hoflounge Room"
@@ -718,12 +718,12 @@
             {
                 "id": 23, 
                 "name": "Raimo, Radczewski", 
-                "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community"
+                "organisation": "Softwerkskammer Berlin – Software Craftsmanship Community"
             }, 
             {
                 "id": 24, 
                 "name": "Markus Decke", 
-                "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community"
+                "organisation": "Softwerkskammer Berlin – Software Craftsmanship Community"
             }
         ], 
         "start_time": "2016-05-05T09:00:00", 
@@ -780,7 +780,7 @@
         "end_time": "2016-05-05T12:30:00", 
         "id": 20, 
         "language": null, 
-        "long_abstract": "Python Programmieren f\u00fcr Anf\u00e4nger", 
+        "long_abstract": "Python Programmieren für Anfänger", 
         "microlocation": {
             "id": 1, 
             "name": "Erdgeschoss, Saal / Ground Floor"
@@ -804,7 +804,7 @@
         "state": "accepted", 
         "subtitle": null, 
         "timezone": "UTC", 
-        "title": "Python Programmieren f\u00fcr Anf\u00e4nger", 
+        "title": "Python Programmieren für Anfänger", 
         "track": {
             "id": 2, 
             "name": "Workshops"
@@ -817,7 +817,7 @@
         "end_time": "2016-05-05T12:30:00", 
         "id": 21, 
         "language": null, 
-        "long_abstract": "Du wolltest schon immer mal deine eigene Radiosendung machen, H\u00f6rspiele oder Reportagen aufnehmen? Jenz zeigt uns beim OpenTechSummit, wie es geht und die freie Software Audacity hilft uns dabei. Sie ist so einfach zu bedienen wie ein Schreibprogramm. Bitte ladet euch den lame codec vorher herunter unter <a href=\"http://audacity.sourceforge.net\" rel=\"nofollow\" target=\"_blank\">http://audacity.sourceforge.net</a>! //   Audacity is a free and easy to use audio editor. It is almost as easy to use as your old cassette player, if you've ever had one. Within one hour you will pick up the basics that you need in order to produce your own podcast, radio show, mixtape, listening play or wild audio collage. Please bring your own laptop, headphones, if possible: a digital audio recorder or USB-mic and all the necessary cables and cards. You may download the software and the lame codec in advance under <a href=\"http://audacity.sourceforge.net\" rel=\"nofollow\" target=\"_blank\">http://audacity.sourceforge.net</a>!", 
+        "long_abstract": "Du wolltest schon immer mal deine eigene Radiosendung machen, Hörspiele oder Reportagen aufnehmen? Jenz zeigt uns beim OpenTechSummit, wie es geht und die freie Software Audacity hilft uns dabei. Sie ist so einfach zu bedienen wie ein Schreibprogramm. Bitte ladet euch den lame codec vorher herunter unter <a href=\"http://audacity.sourceforge.net\" rel=\"nofollow\" target=\"_blank\">http://audacity.sourceforge.net</a>! //   Audacity is a free and easy to use audio editor. It is almost as easy to use as your old cassette player, if you've ever had one. Within one hour you will pick up the basics that you need in order to produce your own podcast, radio show, mixtape, listening play or wild audio collage. Please bring your own laptop, headphones, if possible: a digital audio recorder or USB-mic and all the necessary cables and cards. You may download the software and the lame codec in advance under <a href=\"http://audacity.sourceforge.net\" rel=\"nofollow\" target=\"_blank\">http://audacity.sourceforge.net</a>!", 
         "microlocation": {
             "id": 4, 
             "name": "Ebene 1, Raum 1 / First Floor, Room 1"
@@ -896,7 +896,7 @@
         "end_time": "2016-05-05T14:30:00", 
         "id": 24, 
         "language": null, 
-        "long_abstract": "picoTCP is an open source TCP/IP stack implementation targeted at embedded devices. Its focusses lie in Modularity, Portability and Quality. During this workshop, we\u2019ll learn how to get picoTCP running on a Cortex M3 target. The end goal of the workshop, is to play a network version of the snake game.  Target audience: Experience with C is required   What we\u2019ll bring: * Development boards (Seeeduino Arch Pro) * USB cables * Ethernet cables for the boards * An Ethernet switch * Bootable USB sticks * Source code on a stick * Manuals for the workshop   What you should bring: * Brains ;-) * A laptop that can boot from USB or * A laptop with all the prerequisites installed (I really hope you\u2019ll be running an Ubuntu based system, or I won\u2019t be able to give much support) $ sudo apt-get install ncurses-base $ sudo apt-get install libncurses5-dev $ sudo apt-get -y install lib32z1 lib32ncurses5 lib32bz2-1.0 (we need some extra stuff for 64 bit) Get the cross compiler for your system (<a href=\"https://launchpad.net/gcc-arm-embedded/+download\" rel=\"nofollow\" target=\"_blank\">https://launchpad.net/gcc-arm-embedded/+download</a>) Extract it in e.g. /usr/local/gcc-arm-none-eabi-4_9-2015q1/ Add compiler to your path (add export PATH=\"$PATH:/usr/local/gcc-arm-none-eabi-4_9-2015q1/bin/\" to your ~/.bashrc file)   We\u2019ll need python too to program the boards: sudo apt-get -y install python sudo apt-get -y install python-pip sudo pip install --pre -U pyocd   Verify installation: $ pyocd-flashtool \u00e0 should tell you \u201cwaiting for a USB device connected\u201d $ arm-none-eabi-gcc \u2013v \u00e0 should give you the nice versions", 
+        "long_abstract": "picoTCP is an open source TCP/IP stack implementation targeted at embedded devices. Its focusses lie in Modularity, Portability and Quality. During this workshop, we’ll learn how to get picoTCP running on a Cortex M3 target. The end goal of the workshop, is to play a network version of the snake game.  Target audience: Experience with C is required   What we’ll bring: * Development boards (Seeeduino Arch Pro) * USB cables * Ethernet cables for the boards * An Ethernet switch * Bootable USB sticks * Source code on a stick * Manuals for the workshop   What you should bring: * Brains ;-) * A laptop that can boot from USB or * A laptop with all the prerequisites installed (I really hope you’ll be running an Ubuntu based system, or I won’t be able to give much support) $ sudo apt-get install ncurses-base $ sudo apt-get install libncurses5-dev $ sudo apt-get -y install lib32z1 lib32ncurses5 lib32bz2-1.0 (we need some extra stuff for 64 bit) Get the cross compiler for your system (<a href=\"https://launchpad.net/gcc-arm-embedded/+download\" rel=\"nofollow\" target=\"_blank\">https://launchpad.net/gcc-arm-embedded/+download</a>) Extract it in e.g. /usr/local/gcc-arm-none-eabi-4_9-2015q1/ Add compiler to your path (add export PATH=\"$PATH:/usr/local/gcc-arm-none-eabi-4_9-2015q1/bin/\" to your ~/.bashrc file)   We’ll need python too to program the boards: sudo apt-get -y install python sudo apt-get -y install python-pip sudo pip install --pre -U pyocd   Verify installation: $ pyocd-flashtool à should tell you “waiting for a USB device connected” $ arm-none-eabi-gcc –v à should give you the nice versions", 
         "microlocation": {
             "id": 4, 
             "name": "Ebene 1, Raum 1 / First Floor, Room 1"
@@ -933,7 +933,7 @@
         "end_time": "2016-05-05T14:30:00", 
         "id": 25, 
         "language": null, 
-        "long_abstract": "\u00dcbung macht den Meister! Zusammen mit der Softwerkskammer Berlin richten wir ein Coding Dojo aus. In zwei Stunden bearbeiten wir paarweise eine Programmieraufgabe und besprechen anschlie\u00dfend eure L\u00f6sungen.  Ganz im Sinne von Teach Me, Teach You, gilt die Lernerfahrung als oberstes Ziel des Workshops. Lern eine neue Sprache oder zeig jemand anderem deine Lieblingssprache!        Bringt, wenn m\u00f6glich, eure Laptops mit eingerichteter Entwicklungsumgebung mit (im besten Fall mit Testframework, z.B. JUnit oder mocha). Auch ohne Laptop k\u00f6nnt ihr teilnehmen.", 
+        "long_abstract": "Übung macht den Meister! Zusammen mit der Softwerkskammer Berlin richten wir ein Coding Dojo aus. In zwei Stunden bearbeiten wir paarweise eine Programmieraufgabe und besprechen anschließend eure Lösungen.  Ganz im Sinne von Teach Me, Teach You, gilt die Lernerfahrung als oberstes Ziel des Workshops. Lern eine neue Sprache oder zeig jemand anderem deine Lieblingssprache!        Bringt, wenn möglich, eure Laptops mit eingerichteter Entwicklungsumgebung mit (im besten Fall mit Testframework, z.B. JUnit oder mocha). Auch ohne Laptop könnt ihr teilnehmen.", 
         "microlocation": {
             "id": 2, 
             "name": "Erdgeschoss, Hoflounge / Ground Floor, Hoflounge Room"
@@ -950,12 +950,12 @@
             {
                 "id": 23, 
                 "name": "Raimo, Radczewski", 
-                "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community"
+                "organisation": "Softwerkskammer Berlin – Software Craftsmanship Community"
             }, 
             {
                 "id": 24, 
                 "name": "Markus Decke", 
-                "organisation": "Softwerkskammer Berlin \u2013 Software Craftsmanship Community"
+                "organisation": "Softwerkskammer Berlin – Software Craftsmanship Community"
             }
         ], 
         "start_time": "2016-05-05T14:00:00", 
@@ -1091,7 +1091,7 @@
         "end_time": "2016-05-05T12:03:00", 
         "id": 29, 
         "language": null, 
-        "long_abstract": "Applications, algorithms and devices have an intended use \u2013 which often is ignored: People use Excel as a database, images to send text, Dropbox to share code\u2026 Why don't they use the \u00bbright\u00ab tools?  Instead of pointing out that the users are wrong we want to show why these \u00bbmisuses\u00ab of systems make sense from the users perspective  and why the people who use workarounds instead of the \u00bbright\u00ab tools are  hackers \u2013 without knowing it.", 
+        "long_abstract": "Applications, algorithms and devices have an intended use – which often is ignored: People use Excel as a database, images to send text, Dropbox to share code… Why don't they use the »right« tools?  Instead of pointing out that the users are wrong we want to show why these »misuses« of systems make sense from the users perspective  and why the people who use workarounds instead of the »right« tools are  hackers – without knowing it.", 
         "microlocation": {
             "id": 5, 
             "name": "Ebene 1, Galerie / Floor 1"
@@ -1244,7 +1244,7 @@
         "end_time": "2016-05-05T12:27:00", 
         "id": 33, 
         "language": null, 
-        "long_abstract": "Vielfalt scheint erstrebenswert. Niemand m\u00f6chte jeden Tag dasselbe Essen vorgesetzt bekommen, st\u00e4ndig ein und dasselbe Computerspiel spielen m\u00fcssen oder gar von Monopolisten in Soft- und Hardware abh\u00e4ngen.  Damit Vielfalt entstehen kann, m\u00fcssen Voraussetzungen erf\u00fcllt werden. Einige dieser Bedingungenwerden im Vortrag kurz beleuchtet.", 
+        "long_abstract": "Vielfalt scheint erstrebenswert. Niemand möchte jeden Tag dasselbe Essen vorgesetzt bekommen, ständig ein und dasselbe Computerspiel spielen müssen oder gar von Monopolisten in Soft- und Hardware abhängen.  Damit Vielfalt entstehen kann, müssen Voraussetzungen erfüllt werden. Einige dieser Bedingungenwerden im Vortrag kurz beleuchtet.", 
         "microlocation": {
             "id": 5, 
             "name": "Ebene 1, Galerie / Floor 1"
@@ -1268,7 +1268,7 @@
         "state": "accepted", 
         "subtitle": null, 
         "timezone": "UTC", 
-        "title": "Netze f\u00fcr Vielfalt", 
+        "title": "Netze für Vielfalt", 
         "track": {
             "id": 3, 
             "name": "LightningTalks"
@@ -1297,7 +1297,7 @@
         "speakers": [
             {
                 "id": 13, 
-                "name": "Konrad Willi D\u00f6ring", 
+                "name": "Konrad Willi Döring", 
                 "organisation": "Neurofox, Brainduino"
             }
         ], 
@@ -1360,7 +1360,7 @@
         "end_time": "2016-05-05T12:45:00", 
         "id": 36, 
         "language": null, 
-        "long_abstract": "\u201cThe Other Nefertiti\u201d is an artistic intervention by Jan Nikolai Nelles and Nora Al- Badri which went viral. \u201cWith the data leak as a part of this counter narrative within our investigative practice we want to activate the artefact, to inspire a critical re-assessment of today\u2019s conditions and to overcome the colonial notion of possession in Germany's museums\u201d. With regard to the notion of belonging and possession of material objects of other cultures, the artists intention is to make cultural objects publicly accessible and to promote a contemporary and critical approach on how the \u201cGlobal North\u201c deals with heritage and the representation of \u201cthe Other\u201d. \u201cWe should tell stories of entanglement and Nefertiti is a great case to start with to tell stories from very different angles and to see how they intertwine.\u201c At this link you will find a torrent to access the dataset under a public domain: <a href=\"http://nefertitihack.alloversky.com\" rel=\"nofollow\" target=\"_blank\">http://nefertitihack.alloversky.com</a>  Here is the video showing the scanning process: <a href=\"https://vimeo.com/148156899\" rel=\"nofollow\" target=\"_blank\">https://vimeo.com/148156899</a>  \u201cThe Other Nefertiti\u201d  is a conceptual art piece questioning singularity and originality as well as ownership of material objects of other cultures. Nora Al-Badri and Jan Nikolai Nelles  went to the Neues Museum and scanned the iconic bust, but of course nobody knows if even this is the original bust. Through time and restoration there might not much genuine be left of the artifact itself. We give meaning to objects as well as we give meaning to data. Why worshipping the original, while we have all that beautiful remixes as of today? Maybe it was a server hack, a copy scan, an inside job, the cleaner, a hoax, but who cares, first of all it is an art piece. Of course a scan of the same thing looks the same, doesn't it? And tomorrow everybody with cameras or smartphones or Xbox will have the means and technique, where one can reclaim the interpretational sovereignty through scanning and sharing.   What the artists strived to achieve is a vivid discussion about the notion of possession and belonging of history in our museums and our minds. A discussion on the originality and truth of data as well as material objects is necessary, because in the end one concludes, that the institutional practice of todays museums and collections all around the Western world are corrupted. Museums are telling fictional stories, their stories, just because they control the artifacts and the way of representation. The fetishization of sacred staged artifacts and the Disneyfication is producing capital value for illicit trading and looting artifacts. One can't find a reflection about violent entanglement of the museums and their inherent colonial patina themselves. But isn't representing \u201cThe Other\u201d always violent? Art is about building new narratives, deconstructing power relations, not scanning techniques... .", 
+        "long_abstract": "“The Other Nefertiti” is an artistic intervention by Jan Nikolai Nelles and Nora Al- Badri which went viral. “With the data leak as a part of this counter narrative within our investigative practice we want to activate the artefact, to inspire a critical re-assessment of today’s conditions and to overcome the colonial notion of possession in Germany's museums”. With regard to the notion of belonging and possession of material objects of other cultures, the artists intention is to make cultural objects publicly accessible and to promote a contemporary and critical approach on how the “Global North“ deals with heritage and the representation of “the Other”. “We should tell stories of entanglement and Nefertiti is a great case to start with to tell stories from very different angles and to see how they intertwine.“ At this link you will find a torrent to access the dataset under a public domain: <a href=\"http://nefertitihack.alloversky.com\" rel=\"nofollow\" target=\"_blank\">http://nefertitihack.alloversky.com</a>  Here is the video showing the scanning process: <a href=\"https://vimeo.com/148156899\" rel=\"nofollow\" target=\"_blank\">https://vimeo.com/148156899</a>  “The Other Nefertiti”  is a conceptual art piece questioning singularity and originality as well as ownership of material objects of other cultures. Nora Al-Badri and Jan Nikolai Nelles  went to the Neues Museum and scanned the iconic bust, but of course nobody knows if even this is the original bust. Through time and restoration there might not much genuine be left of the artifact itself. We give meaning to objects as well as we give meaning to data. Why worshipping the original, while we have all that beautiful remixes as of today? Maybe it was a server hack, a copy scan, an inside job, the cleaner, a hoax, but who cares, first of all it is an art piece. Of course a scan of the same thing looks the same, doesn't it? And tomorrow everybody with cameras or smartphones or Xbox will have the means and technique, where one can reclaim the interpretational sovereignty through scanning and sharing.   What the artists strived to achieve is a vivid discussion about the notion of possession and belonging of history in our museums and our minds. A discussion on the originality and truth of data as well as material objects is necessary, because in the end one concludes, that the institutional practice of todays museums and collections all around the Western world are corrupted. Museums are telling fictional stories, their stories, just because they control the artifacts and the way of representation. The fetishization of sacred staged artifacts and the Disneyfication is producing capital value for illicit trading and looting artifacts. One can't find a reflection about violent entanglement of the museums and their inherent colonial patina themselves. But isn't representing “The Other” always violent? Art is about building new narratives, deconstructing power relations, not scanning techniques... .", 
         "microlocation": {
             "id": 5, 
             "name": "Ebene 1, Galerie / Floor 1"
@@ -1389,7 +1389,7 @@
         "state": "accepted", 
         "subtitle": null, 
         "timezone": "UTC", 
-        "title": "Hack die Nofretete im \u00c4gyptischen Museum / #NefertitiHack and Cultural Commons \"The Other Nefertiti\"", 
+        "title": "Hack die Nofretete im Ägyptischen Museum / #NefertitiHack and Cultural Commons \"The Other Nefertiti\"", 
         "track": {
             "id": 3, 
             "name": "LightningTalks"
@@ -1428,7 +1428,7 @@
             }, 
             {
                 "id": 45, 
-                "name": "Erik D\u00f6rnenburg", 
+                "name": "Erik Dörnenburg", 
                 "organisation": "CTO Thoughtworks"
             }, 
             {
@@ -1565,7 +1565,7 @@
         "end_time": "2016-05-05T11:05:00", 
         "id": 42, 
         "language": null, 
-        "long_abstract": "Nach einer kurzen Einleitung, was Open Data ist, schauen wir gemeinsam in mehrere Open Data Portale hinein. Welche Daten werden angeboten, wie kann man sie sich anschauen und was daraus schlu\u00dffolgern? Unterf\u00fcttert mit jede Menge Anwendungsbeispielen aus der Community und Ergebnissen von Hackathons soll die Lust auf Open Data geweckt werden.", 
+        "long_abstract": "Nach einer kurzen Einleitung, was Open Data ist, schauen wir gemeinsam in mehrere Open Data Portale hinein. Welche Daten werden angeboten, wie kann man sie sich anschauen und was daraus schlußfolgern? Unterfüttert mit jede Menge Anwendungsbeispielen aus der Community und Ergebnissen von Hackathons soll die Lust auf Open Data geweckt werden.", 
         "microlocation": {
             "id": 5, 
             "name": "Ebene 1, Galerie / Floor 1"
@@ -1589,7 +1589,7 @@
         "state": "accepted", 
         "subtitle": null, 
         "timezone": "UTC", 
-        "title": "Open Data f\u00fcr Dummies - oder - Wie nutze ich offene Daten", 
+        "title": "Open Data für Dummies - oder - Wie nutze ich offene Daten", 
         "track": {
             "id": 4, 
             "name": "OTS 1"
@@ -1639,7 +1639,7 @@
         "end_time": "2016-05-05T11:45:00", 
         "id": 44, 
         "language": null, 
-        "long_abstract": "Kurzvortr\u00e4ge", 
+        "long_abstract": "Kurzvorträge", 
         "microlocation": {
             "id": 5, 
             "name": "Ebene 1, Galerie / Floor 1"
@@ -1663,7 +1663,7 @@
         "state": "accepted", 
         "subtitle": null, 
         "timezone": "UTC", 
-        "title": "Kurzvortr\u00e4ge", 
+        "title": "Kurzvorträge", 
         "track": {
             "id": 4, 
             "name": "OTS 1"
@@ -1713,7 +1713,7 @@
         "end_time": "2016-05-05T13:15:00", 
         "id": 46, 
         "language": null, 
-        "long_abstract": "Wir k\u00f6nnen nun auf 20 Jahre Suchmaschinenentwicklung f\u00fcr das World Wide Web zur\u00fcckblicken! Was k\u00f6nnen wir in der Zukunft erwarten, welche Dienste wird es geben? Der Vortrag zeigt M\u00f6glichkeiten, Entwicklungen und versucht, aus der Vergangenheit auf die Zukunkt zu schliessen. \u00dcberraschungen, Spa\u00df und Inspiration inklusive!", 
+        "long_abstract": "Wir können nun auf 20 Jahre Suchmaschinenentwicklung für das World Wide Web zurückblicken! Was können wir in der Zukunft erwarten, welche Dienste wird es geben? Der Vortrag zeigt Möglichkeiten, Entwicklungen und versucht, aus der Vergangenheit auf die Zukunkt zu schliessen. Überraschungen, Spaß und Inspiration inklusive!", 
         "microlocation": {
             "id": 5, 
             "name": "Ebene 1, Galerie / Floor 1"
@@ -1767,12 +1767,12 @@
             {
                 "id": 49, 
                 "name": "Bruno Kirschner", 
-                "organisation": "Beuth Hochschule f\u00fcr Technik Berlin"
+                "organisation": "Beuth Hochschule für Technik Berlin"
             }, 
             {
                 "id": 48, 
                 "name": "Ruediger Weis", 
-                "organisation": "Beuth Hochschule f\u00fcr Technik Berlin"
+                "organisation": "Beuth Hochschule für Technik Berlin"
             }
         ], 
         "start_time": "2016-05-05T15:40:00", 
@@ -1792,7 +1792,7 @@
         "end_time": "2016-05-05T17:10:00", 
         "id": 53, 
         "language": null, 
-        "long_abstract": "DevOps ist in den letzten Jahren sehr erfolgreich geworden. H\u00e4ufig wurden in Unternehmen jedoch nur einige neue Werkzeuge eingef\u00fchrt. Die urspr\u00fcngliche Idee war jedoch, dass sich Arbeitskultur,-prozesse und -werkzeuge der Software-Entwicklung umfassend \u00e4ndern sollten. Wir werden eine vollst\u00e4ndige Toolchain f\u00fcr den gesamten Lebenszyklus von Software betrachten, vom agilen Software-Prozess \u00fcber Continuous Integration bis hin zu Continuous Deployment. Dar\u00fcberhinaus wird erst die Bereitstellung der gesamten Infrastruktur eine grundlegende Ver\u00e4nderung der Arbeitskultur und -prozesse bewirken k\u00f6nnen: Die Software-Entwickler sollten auf dieselbe Infrastruktur zum Entwickeln und Testen zur\u00fcckgreifen k\u00f6nnen, die auch in der Produktion verwendet wird; umgekehrt werden sie nicht mehr nur w\u00e4hrend der Entwicklungsphase auf \u00bbihre\u00ab Software verantwortlich sein sondern \u00fcber den gesamten Lebenszyklus hinweg. Nur durch diese Ver\u00e4nderungen werden die Gr\u00e4ben zwischen Development und Operations tats\u00e4chlich \u00fcberwunden werden k\u00f6nnen.", 
+        "long_abstract": "DevOps ist in den letzten Jahren sehr erfolgreich geworden. Häufig wurden in Unternehmen jedoch nur einige neue Werkzeuge eingeführt. Die ursprüngliche Idee war jedoch, dass sich Arbeitskultur,-prozesse und -werkzeuge der Software-Entwicklung umfassend ändern sollten. Wir werden eine vollständige Toolchain für den gesamten Lebenszyklus von Software betrachten, vom agilen Software-Prozess über Continuous Integration bis hin zu Continuous Deployment. Darüberhinaus wird erst die Bereitstellung der gesamten Infrastruktur eine grundlegende Veränderung der Arbeitskultur und -prozesse bewirken können: Die Software-Entwickler sollten auf dieselbe Infrastruktur zum Entwickeln und Testen zurückgreifen können, die auch in der Produktion verwendet wird; umgekehrt werden sie nicht mehr nur während der Entwicklungsphase auf »ihre« Software verantwortlich sein sondern über den gesamten Lebenszyklus hinweg. Nur durch diese Veränderungen werden die Gräben zwischen Development und Operations tatsächlich überwunden werden können.", 
         "microlocation": {
             "id": 5, 
             "name": "Ebene 1, Galerie / Floor 1"
@@ -1829,7 +1829,7 @@
         "end_time": "2016-05-05T17:35:00", 
         "id": 54, 
         "language": null, 
-        "long_abstract": "Ein \u00dcberblick zur Entwicklung von Thunderbird seit 2012 und die neue Version TB 45, sowie Ausblicke auf die Zukunft, wie die Integration von Enigmail. Neben technischen Entwicklungen werden Themen wie \"Neues Zuhause\" f\u00fcr Thunderbird, Spenden-Kampagne, oder auch um Sachen wie Migration auf eine neue Plattform besprochen. Weiterhin geht es darum wie Entwickler mitmachen k\u00f6nnen. F\u00fcr Leute, die Thunderbird schon gut kennen, gibt es M\u00f6glichkeiten auf SUMO oder Bugzilla bei der Triage mitzuhelfen. Einen ersten Einblick f\u00fcr Neueinsteiger soll zeigen wie Thunderbird kompiliert wird und Patches f\u00fcr Bugs zu erarbeiten. Einen Link zum Einstieg: <a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build\" rel=\"nofollow\" target=\"_blank\">https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build</a>", 
+        "long_abstract": "Ein Überblick zur Entwicklung von Thunderbird seit 2012 und die neue Version TB 45, sowie Ausblicke auf die Zukunft, wie die Integration von Enigmail. Neben technischen Entwicklungen werden Themen wie \"Neues Zuhause\" für Thunderbird, Spenden-Kampagne, oder auch um Sachen wie Migration auf eine neue Plattform besprochen. Weiterhin geht es darum wie Entwickler mitmachen können. Für Leute, die Thunderbird schon gut kennen, gibt es Möglichkeiten auf SUMO oder Bugzilla bei der Triage mitzuhelfen. Einen ersten Einblick für Neueinsteiger soll zeigen wie Thunderbird kompiliert wird und Patches für Bugs zu erarbeiten. Einen Link zum Einstieg: <a href=\"https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build\" rel=\"nofollow\" target=\"_blank\">https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Build_Instructions/Simple_Thunderbird_build</a>", 
         "microlocation": {
             "id": 5, 
             "name": "Ebene 1, Galerie / Floor 1"
@@ -1845,7 +1845,7 @@
         "speakers": [
             {
                 "id": 52, 
-                "name": "J\u00f6rg Knobloch", 
+                "name": "Jörg Knobloch", 
                 "organisation": "Thunderbird"
             }
         ], 
@@ -1866,7 +1866,7 @@
         "end_time": "2016-05-05T13:30:00", 
         "id": 66, 
         "language": null, 
-        "long_abstract": "Matthias und Nora vom Code Week Team stellen den Code Week Award vor und zeigen einen Live-Hack. Wir programmieren ein Computerspiel in nur 15 Minuten und spielen mit euch. Wer gewinnt, bekommt von uns einen \u00dcberraschungs-Preis.  Unter dem Motto \u201cJede Woche ist Code Week\u201d f\u00f6rdert der Code Week Award spielerische und kreative Workshop-Formate und digitale Kompetenzen bei Kindern und Jugendlichen in ganz Deutschland. Der Award wurde ankn\u00fcpfend an den Erfolg der EU Code Week im Oktober 2014 erstmalig von der Technologiestiftung Berlin und dem Design Research Lab der Universit\u00e4t der K\u00fcnste Berlin ausgeschrieben und durch die Unterst\u00fctzung von Samsung ins Leben gerufen. 2016 findet bereits die zweite Ausgabe des Awards statt, der in den vergangenen beiden Jahren bereits hunderte Kindern und Jugendlichen einen kreativen Umgang mit digitalen Technologien erm\u00f6glicht hat.", 
+        "long_abstract": "Matthias und Nora vom Code Week Team stellen den Code Week Award vor und zeigen einen Live-Hack. Wir programmieren ein Computerspiel in nur 15 Minuten und spielen mit euch. Wer gewinnt, bekommt von uns einen Überraschungs-Preis.  Unter dem Motto “Jede Woche ist Code Week” fördert der Code Week Award spielerische und kreative Workshop-Formate und digitale Kompetenzen bei Kindern und Jugendlichen in ganz Deutschland. Der Award wurde anknüpfend an den Erfolg der EU Code Week im Oktober 2014 erstmalig von der Technologiestiftung Berlin und dem Design Research Lab der Universität der Künste Berlin ausgeschrieben und durch die Unterstützung von Samsung ins Leben gerufen. 2016 findet bereits die zweite Ausgabe des Awards statt, der in den vergangenen beiden Jahren bereits hunderte Kindern und Jugendlichen einen kreativen Umgang mit digitalen Technologien ermöglicht hat.", 
         "microlocation": {
             "id": 6, 
             "name": "Ebene 2, Loft / Floor 2"
@@ -1977,7 +1977,7 @@
         "end_time": "2016-05-05T10:00:00", 
         "id": 59, 
         "language": null, 
-        "long_abstract": "During this talk we want to share our vision of how education will change within the next years: Thanks to open educational resources, open source software and the digitalization of the society learning is not longer restricted to school buildings and can happens ubiquitously. Thus, we believe education doesn\u2019t need to be a privilege anymore.   We want to show possibilities how to live up to it and share our experiences we already gained with Junge T\u00fcftler: an initiative that offers children a playful access to coding &amp; electronics.", 
+        "long_abstract": "During this talk we want to share our vision of how education will change within the next years: Thanks to open educational resources, open source software and the digitalization of the society learning is not longer restricted to school buildings and can happens ubiquitously. Thus, we believe education doesn’t need to be a privilege anymore.   We want to show possibilities how to live up to it and share our experiences we already gained with Junge Tüftler: an initiative that offers children a playful access to coding &amp; electronics.", 
         "microlocation": {
             "id": 6, 
             "name": "Ebene 2, Loft / Floor 2"
@@ -1994,12 +1994,12 @@
             {
                 "id": 57, 
                 "name": "Franziska Schmid", 
-                "organisation": "Junge T\u00fcftler"
+                "organisation": "Junge Tüftler"
             }, 
             {
                 "id": 58, 
                 "name": "Julia Kleeberger", 
-                "organisation": "Junge T\u00fcftler"
+                "organisation": "Junge Tüftler"
             }
         ], 
         "start_time": "2016-05-05T09:30:00", 
@@ -2056,7 +2056,7 @@
         "end_time": "2016-05-05T11:00:00", 
         "id": 61, 
         "language": null, 
-        "long_abstract": "Die Erfindung und Verbreitung des Internet hat die Welt enger zusammenr\u00fccken lassen. L\u00e4ngst ist aus einem einst lokalen, regionalen oder bestenfalls nationalen Wettbewerb ein globaler Wettbewerb geworden. Stetig fallende Kosten der Informationsverarbeitung durch intensive Vernetzung und Erweiterung der \u00dcbertragungsbandbreiten sorgt daf\u00fcr, dass die gespeicherte Informationsmenge rasant w\u00e4chst.  Sie w\u00e4chst dabei erheblich schneller als die Weltbev\u00f6lkerung bzw. die Anzahl verf\u00fcgbarer Fachkr\u00e4fte, die sich mit den technischen  L\u00f6sungen der Informationsverarbeitung befassen. Die Informationstechnologiebranche ist diejenige Branche, die sich stellvertretend f\u00fcr alle anderen Branchen mit den technologischen Anforderungen der Informations- und Wissensverarbeitung auseinandersetzt. Daneben erzeugt und verarbeitet sie selbst im Rahmen ihrer Leistungserbringung gro\u00dfe Mengen komplexen Wissens. Im Maschinenraum der Informationstechnologiebranche planen, entwickeln, betreiben und warten Softwareentwickler, Tester, Administratoren und Projektmanager, Software, deren Erstellung auf Grund fachlicher Anforderungen bzw. eines entsprechenden Marktpotentials notwendig oder sinnvoll erscheint.  Was inbesondere in den 1990er Jahren noch als verr\u00fcckt galt, n\u00e4mlich Wissen in Form von Quellcode uns selbst ganze, komplexe Anwendungssysteme zu explizieren und f\u00fcr jedermann zug\u00e4nglich und nutzbar zu teilen (Open Source bzw. Free Software), hat zusammen mit dem Erfolg prominenter Projekte (z.B. Linux, LibreOffice, Firefox) und dem Ausbau weltweiter Kommunikationsnetze eine globale Erfolgsgeschichte geschrieben. Bis vor wenigen Jahren hielten die meisten Fachleute es f\u00fcr undenkbar, dass auch grundlegenste betriebliche Anwendungen, sogenannte Enterprise Resource Planning Systeme in diesem Modus entwickelt und betrieben werden k\u00f6nnen. U.a. das Open Source ERP-System Odoo tritt seit geraumer Zeit den Gegenbeweis an. Um den belgischen Hersteller haben sich in den vergangenen Jahren mehrere hundert Integrationspartner weltweit und eine Gruppe von \u00fcber 2 Mio. aktive Nutzer in einer Community formiert. Der Vortrag fast die seit 2008 andauernde Entwicklung von Odoo (zuvor als OpenERP bekannt) aus Sicht eines Integrationspartners zusammen und stellt dabei die Rolle des Wissensaustausches, \u00f6konomischer Interessen des Herstellers und der Integrationspartner sowie Erfolgs- und Risikofaktoren eines weltweit erfolgreichen Open Source Projektes am Beispiel dar. Insbesondere wird dabei auch auf den erkennbaren Trend der Professionalisierung erfolgreicher Open Source Projekte und Dual Licensing eingegangen.", 
+        "long_abstract": "Die Erfindung und Verbreitung des Internet hat die Welt enger zusammenrücken lassen. Längst ist aus einem einst lokalen, regionalen oder bestenfalls nationalen Wettbewerb ein globaler Wettbewerb geworden. Stetig fallende Kosten der Informationsverarbeitung durch intensive Vernetzung und Erweiterung der Übertragungsbandbreiten sorgt dafür, dass die gespeicherte Informationsmenge rasant wächst.  Sie wächst dabei erheblich schneller als die Weltbevölkerung bzw. die Anzahl verfügbarer Fachkräfte, die sich mit den technischen  Lösungen der Informationsverarbeitung befassen. Die Informationstechnologiebranche ist diejenige Branche, die sich stellvertretend für alle anderen Branchen mit den technologischen Anforderungen der Informations- und Wissensverarbeitung auseinandersetzt. Daneben erzeugt und verarbeitet sie selbst im Rahmen ihrer Leistungserbringung große Mengen komplexen Wissens. Im Maschinenraum der Informationstechnologiebranche planen, entwickeln, betreiben und warten Softwareentwickler, Tester, Administratoren und Projektmanager, Software, deren Erstellung auf Grund fachlicher Anforderungen bzw. eines entsprechenden Marktpotentials notwendig oder sinnvoll erscheint.  Was inbesondere in den 1990er Jahren noch als verrückt galt, nämlich Wissen in Form von Quellcode uns selbst ganze, komplexe Anwendungssysteme zu explizieren und für jedermann zugänglich und nutzbar zu teilen (Open Source bzw. Free Software), hat zusammen mit dem Erfolg prominenter Projekte (z.B. Linux, LibreOffice, Firefox) und dem Ausbau weltweiter Kommunikationsnetze eine globale Erfolgsgeschichte geschrieben. Bis vor wenigen Jahren hielten die meisten Fachleute es für undenkbar, dass auch grundlegenste betriebliche Anwendungen, sogenannte Enterprise Resource Planning Systeme in diesem Modus entwickelt und betrieben werden können. U.a. das Open Source ERP-System Odoo tritt seit geraumer Zeit den Gegenbeweis an. Um den belgischen Hersteller haben sich in den vergangenen Jahren mehrere hundert Integrationspartner weltweit und eine Gruppe von über 2 Mio. aktive Nutzer in einer Community formiert. Der Vortrag fast die seit 2008 andauernde Entwicklung von Odoo (zuvor als OpenERP bekannt) aus Sicht eines Integrationspartners zusammen und stellt dabei die Rolle des Wissensaustausches, ökonomischer Interessen des Herstellers und der Integrationspartner sowie Erfolgs- und Risikofaktoren eines weltweit erfolgreichen Open Source Projektes am Beispiel dar. Insbesondere wird dabei auch auf den erkennbaren Trend der Professionalisierung erfolgreicher Open Source Projekte und Dual Licensing eingegangen.", 
         "microlocation": {
             "id": 6, 
             "name": "Ebene 2, Loft / Floor 2"
@@ -2080,7 +2080,7 @@
         "state": "accepted", 
         "subtitle": null, 
         "timezone": "UTC", 
-        "title": "Die Rolle von Wissen, \u00f6konomischer Faktoren und Professionalisierung in erfolgreichen Open Source Projekten am Beispiel von Odoo", 
+        "title": "Die Rolle von Wissen, ökonomischer Faktoren und Professionalisierung in erfolgreichen Open Source Projekten am Beispiel von Odoo", 
         "track": {
             "id": 5, 
             "name": "OTS 2"
@@ -2191,7 +2191,7 @@
         "state": "accepted", 
         "subtitle": null, 
         "timezone": "UTC", 
-        "title": "Open Source Circular Design is so Ugly! / Open Source Circular Design ist unglaublich h\u00e4sslich!", 
+        "title": "Open Source Circular Design is so Ugly! / Open Source Circular Design ist unglaublich hässlich!", 
         "track": {
             "id": 5, 
             "name": "OTS 2"
@@ -2204,7 +2204,7 @@
         "end_time": "2016-05-05T13:00:00", 
         "id": 65, 
         "language": null, 
-        "long_abstract": "Sind die Kommentare noch zu retten? Wie l\u00e4sst man Nutzer im Internet am besten zu Wort kommen? Und wie kommen wir dabei zu einer sachlicheren Debatte? Nutzerkommentare sind sprichw\u00f6rtliches Reservoir f\u00fcr Hass und Beleidigungen. Ist das Schliessen von Kommentarbereichen wirklich der Weisheit letzter Schluss? Daneben gibt es viele Versuche, durch die Anpassung der Nutzeroberfl\u00e4che zu einer sachlicheren Debatte zu kommen. Was gibt es f\u00fcr Ans\u00e4tze? Sind sie erfolgreich? Und was macht das ideale Kommentarsystem aus?", 
+        "long_abstract": "Sind die Kommentare noch zu retten? Wie lässt man Nutzer im Internet am besten zu Wort kommen? Und wie kommen wir dabei zu einer sachlicheren Debatte? Nutzerkommentare sind sprichwörtliches Reservoir für Hass und Beleidigungen. Ist das Schliessen von Kommentarbereichen wirklich der Weisheit letzter Schluss? Daneben gibt es viele Versuche, durch die Anpassung der Nutzeroberfläche zu einer sachlicheren Debatte zu kommen. Was gibt es für Ansätze? Sind sie erfolgreich? Und was macht das ideale Kommentarsystem aus?", 
         "microlocation": {
             "id": 6, 
             "name": "Ebene 2, Loft / Floor 2"
@@ -2315,7 +2315,7 @@
         "end_time": "2016-05-05T15:30:00", 
         "id": 70, 
         "language": null, 
-        "long_abstract": "Based on the analysis of more than 70 significant open source product development projects, this contribution intends to give an overview of the current state of this emerging practice. The following questions will be particularly addressed:  - How projects use the public space offered by the internet and the existing sharing online platforms in order to stimulate attention and contributions from online communities?  - What are the gaps between actual practices and best practices formulated by the open source hardware association?  - What do these gaps reveal about the intention of open source product development projects?  - What different types of open source product development projects can be characterized? This research is lead in the context of the French-German project \"OPEN!-Methods and tools for community-based product development\" involving among others the Technische Universit\u00e4t Berlin and the University of Grenoble. This project is aimed at understanding and formalizing the emerging practice of community-based product development and at developing methodological and IT tools in order to support these practices.", 
+        "long_abstract": "Based on the analysis of more than 70 significant open source product development projects, this contribution intends to give an overview of the current state of this emerging practice. The following questions will be particularly addressed:  - How projects use the public space offered by the internet and the existing sharing online platforms in order to stimulate attention and contributions from online communities?  - What are the gaps between actual practices and best practices formulated by the open source hardware association?  - What do these gaps reveal about the intention of open source product development projects?  - What different types of open source product development projects can be characterized? This research is lead in the context of the French-German project \"OPEN!-Methods and tools for community-based product development\" involving among others the Technische Universität Berlin and the University of Grenoble. This project is aimed at understanding and formalizing the emerging practice of community-based product development and at developing methodological and IT tools in order to support these practices.", 
         "microlocation": {
             "id": 6, 
             "name": "Ebene 2, Loft / Floor 2"
@@ -2331,8 +2331,8 @@
         "speakers": [
             {
                 "id": 68, 
-                "name": "J\u00e9r\u00e9my Bonvoisin", 
-                "organisation": "Technische Universit\u00e4t Berlin"
+                "name": "Jérémy Bonvoisin", 
+                "organisation": "Technische Universität Berlin"
             }
         ], 
         "start_time": "2016-05-05T15:00:00", 
@@ -2352,7 +2352,7 @@
         "end_time": "2016-05-05T16:00:00", 
         "id": 71, 
         "language": null, 
-        "long_abstract": "Der Vortrag beleuchtet die Modellierung rechtlicher Prozesse, die dabei stehenden ethischen und juristischen Anforderungen und vergleicht letztlich bekannte L\u00f6sungsans\u00e4tze. Gestreift werden Fragen wie:  Was sind Vertr\u00e4ge - Texte oder Prozesse? Vertr\u00e4ge \u00fcbertragen Rechte.  Alle Rechte, oder sind manche Rechte unver\u00e4u\u00dferlich?  (Menschenrechte irgendwo?!) Entscheiden mit \"smart contracts\" Maschinen was Recht ist? Smart contracts in der Blockchain?  Was wird aus Privatsph\u00e4re, ~autonomie, Bankgeheimnis etc.? Was ist Askemos?  Das Konzept ist 350 Jahre alt und entstammt der Aufkl\u00e4rung. Keine Authorit\u00e4t \"des Vertrauens\" sage uns was Recht ist! Ein \"modifiziertes git\"; privat, ohne schneller, skalierbar, privat und Ressourcen schonend.", 
+        "long_abstract": "Der Vortrag beleuchtet die Modellierung rechtlicher Prozesse, die dabei stehenden ethischen und juristischen Anforderungen und vergleicht letztlich bekannte Lösungsansätze. Gestreift werden Fragen wie:  Was sind Verträge - Texte oder Prozesse? Verträge übertragen Rechte.  Alle Rechte, oder sind manche Rechte unveräußerlich?  (Menschenrechte irgendwo?!) Entscheiden mit \"smart contracts\" Maschinen was Recht ist? Smart contracts in der Blockchain?  Was wird aus Privatsphäre, ~autonomie, Bankgeheimnis etc.? Was ist Askemos?  Das Konzept ist 350 Jahre alt und entstammt der Aufklärung. Keine Authorität \"des Vertrauens\" sage uns was Recht ist! Ein \"modifiziertes git\"; privat, ohne schneller, skalierbar, privat und Ressourcen schonend.", 
         "microlocation": {
             "id": 6, 
             "name": "Ebene 2, Loft / Floor 2"
@@ -2368,7 +2368,7 @@
         "speakers": [
             {
                 "id": 69, 
-                "name": "J\u00f6rg Wittenberger", 
+                "name": "Jörg Wittenberger", 
                 "organisation": "Askemos"
             }
         ], 
@@ -2413,7 +2413,7 @@
         "state": "accepted", 
         "subtitle": null, 
         "timezone": "UTC", 
-        "title": "Degrees of Openness [\u00b0O]", 
+        "title": "Degrees of Openness [°O]", 
         "track": {
             "id": 5, 
             "name": "OTS 2"
@@ -2494,7 +2494,7 @@
         "end_time": "2016-05-05T08:00:00", 
         "id": 77, 
         "language": null, 
-        "long_abstract": "Im KidsSpace k\u00f6nnen sich Kinder und Jugendliche kreativ mit Hardware und Programmieren auseinadersetzen.", 
+        "long_abstract": "Im KidsSpace können sich Kinder und Jugendliche kreativ mit Hardware und Programmieren auseinadersetzen.", 
         "microlocation": {
             "id": 1, 
             "name": "Erdgeschoss, Saal / Ground Floor"
@@ -2502,7 +2502,7 @@
         "session_type": {
             "id": 27, 
             "length": 0.3, 
-            "name": "Kids Workshops, Ganzt\u00e4gig / Whole day"
+            "name": "Kids Workshops, Ganztägig / Whole day"
         }, 
         "short_abstract": "", 
         "signup_url": null, 
@@ -2531,7 +2531,7 @@
         "end_time": "2016-05-05T08:00:00", 
         "id": 78, 
         "language": null, 
-        "long_abstract": "\u201eHallo Welt. Wir machen uns die Welt, wie sie uns gef\u00e4llt\u201c \u2013 unter diesem Motto laden wir Euch anl\u00e4sslich des Open Tech Summits dazu ein, mit uns gemeinsam zu t\u00fcfteln und zu coden. Dabei sind eurer Kreativit\u00e4t keine Grenzen gesetzt sind: ob es darum geht, Stoffgestalten Kl\u00e4nge zu entlocken, Papierkreaturen bei Dunklheit zum Leuchten zu bringen oder Schrottroboter zu bewegen. Alles ist m\u00f6glich und wir sind schon ganz gespannt darauf mit Euch gemeinsam unbekannte neue Welten und Gesch\u00f6pfe zu erschaffen und kennenzulernen. An verschiedenen Stationen k\u00f6nnt ihr Wesen, Kreaturen und Welten aus Pappe, Holz und Fundresten erschaffen und diese dann mittels Sensorik und Programmierung zum Leben erwecken. Besondere Vorkenntnisse werden nicht ben\u00f6tigt: daf\u00fcr aber jede Menge Neugier am Entdecken, Ausprobieren und Selber machen. Dabei lernt ihr spielerisch die Grundlagen der Elektronik und Programmierung kennen. Je nach Lust und Laune k\u00f6nnt ihr Euch in einer Station vertiefen oder auch das Angebot an den verschiedenen Stationen miteinander kombinieren. F\u00fcr Kinder im Alter von 6 \u2013 12 Jahren.   //   How can fabrics conduct electricity and is it possible to build electric circuits out of paper? In our 3 hour workshop children aged 6 and older will have the possibility to tinker and explore the impact of electricity in a playful way. They can craft figures made out of paper or felt and enrich them with electric functions. With our workshop we wanna share the fascination of technology with kids and want to encourage them to hack and tinker around with everyday objects.", 
+        "long_abstract": "„Hallo Welt. Wir machen uns die Welt, wie sie uns gefällt“ – unter diesem Motto laden wir Euch anlässlich des Open Tech Summits dazu ein, mit uns gemeinsam zu tüfteln und zu coden. Dabei sind eurer Kreativität keine Grenzen gesetzt sind: ob es darum geht, Stoffgestalten Klänge zu entlocken, Papierkreaturen bei Dunklheit zum Leuchten zu bringen oder Schrottroboter zu bewegen. Alles ist möglich und wir sind schon ganz gespannt darauf mit Euch gemeinsam unbekannte neue Welten und Geschöpfe zu erschaffen und kennenzulernen. An verschiedenen Stationen könnt ihr Wesen, Kreaturen und Welten aus Pappe, Holz und Fundresten erschaffen und diese dann mittels Sensorik und Programmierung zum Leben erwecken. Besondere Vorkenntnisse werden nicht benötigt: dafür aber jede Menge Neugier am Entdecken, Ausprobieren und Selber machen. Dabei lernt ihr spielerisch die Grundlagen der Elektronik und Programmierung kennen. Je nach Lust und Laune könnt ihr Euch in einer Station vertiefen oder auch das Angebot an den verschiedenen Stationen miteinander kombinieren. Für Kinder im Alter von 6 – 12 Jahren.   //   How can fabrics conduct electricity and is it possible to build electric circuits out of paper? In our 3 hour workshop children aged 6 and older will have the possibility to tinker and explore the impact of electricity in a playful way. They can craft figures made out of paper or felt and enrich them with electric functions. With our workshop we wanna share the fascination of technology with kids and want to encourage them to hack and tinker around with everyday objects.", 
         "microlocation": {
             "id": 7, 
             "name": "Ebene 1, Raum 2 und Raum 3 / Floor 1, Room 2 and Room 3"
@@ -2539,7 +2539,7 @@
         "session_type": {
             "id": 27, 
             "length": 0.3, 
-            "name": "Kids Workshops, Ganzt\u00e4gig / Whole day"
+            "name": "Kids Workshops, Ganztägig / Whole day"
         }, 
         "short_abstract": "", 
         "signup_url": null, 
@@ -2548,19 +2548,19 @@
             {
                 "id": 57, 
                 "name": "Franziska Schmid", 
-                "organisation": "Junge T\u00fcftler"
+                "organisation": "Junge Tüftler"
             }, 
             {
                 "id": 58, 
                 "name": "Julia Kleeberger", 
-                "organisation": "Junge T\u00fcftler"
+                "organisation": "Junge Tüftler"
             }
         ], 
         "start_time": "2016-05-05T07:30:00", 
         "state": "accepted", 
         "subtitle": null, 
         "timezone": "UTC", 
-        "title": "\u201eHallo Welt. Wir machen uns die Welt, wie sie uns gef\u00e4llt\u201c", 
+        "title": "„Hallo Welt. Wir machen uns die Welt, wie sie uns gefällt“", 
         "track": {
             "id": 6, 
             "name": "Kids Camp"
@@ -2573,7 +2573,7 @@
         "end_time": "2016-05-05T08:00:00", 
         "id": 79, 
         "language": null, 
-        "long_abstract": "Auch 2015 konnten junge Hacker_innen bei Jugend Hackt zeigen, wie sie mit Code die Welt verbessern. In 5 Events mit fast 300 Teilnehmenden und \u00fcber 50 entstandenen Projekten gab es eine Vielzahl an spannenden, lustigen und auch wegweisenden Ideen und Prototypen, wie die Junghacker_innen ihre F\u00e4higkeiten f\u00fcr eine positive Gesellschaft einsetzen. An dem Stand k\u00f6nnen einige dieser Projekte mit den jungen Entwicklern selbst diskutiert werden und es besteht die M\u00f6glichkeit sich \u00fcber die Veranstaltungen 2016 zu informieren Jugend Hackt ist ein Hackathon f\u00fcr Jugendliche zwischen 12 und 18 Jahren, welcher seit 2013 von der Open Knowledge Foundation veranstaltet wird.", 
+        "long_abstract": "Auch 2015 konnten junge Hacker_innen bei Jugend Hackt zeigen, wie sie mit Code die Welt verbessern. In 5 Events mit fast 300 Teilnehmenden und über 50 entstandenen Projekten gab es eine Vielzahl an spannenden, lustigen und auch wegweisenden Ideen und Prototypen, wie die Junghacker_innen ihre Fähigkeiten für eine positive Gesellschaft einsetzen. An dem Stand können einige dieser Projekte mit den jungen Entwicklern selbst diskutiert werden und es besteht die Möglichkeit sich über die Veranstaltungen 2016 zu informieren Jugend Hackt ist ein Hackathon für Jugendliche zwischen 12 und 18 Jahren, welcher seit 2013 von der Open Knowledge Foundation veranstaltet wird.", 
         "microlocation": {
             "id": 1, 
             "name": "Erdgeschoss, Saal / Ground Floor"
@@ -2625,7 +2625,7 @@
         "end_time": "2016-05-05T08:00:00", 
         "id": 80, 
         "language": null, 
-        "long_abstract": "Matthias und Nora vom Code Week Team stellen den Code Week Award vor und zeigen einen Live-Hack. Wir programmieren ein Computerspiel in nur 15 Minuten und spielen mit euch. Wer gewinnt, bekommt von uns einen \u00dcberraschungs-Preis.  Unter dem Motto \u201cJede Woche ist Code Week\u201d f\u00f6rdert der Code Week Award spielerische und kreative Workshop-Formate und digitale Kompetenzen bei Kindern und Jugendlichen in ganz Deutschland. Der Award wurde ankn\u00fcpfend an den Erfolg der EU Code Week im Oktober 2014 erstmalig von der Technologiestiftung Berlin und dem Design Research Lab der Universit\u00e4t der K\u00fcnste Berlin ausgeschrieben und durch die Unterst\u00fctzung von Samsung ins Leben gerufen. 2016 findet bereits die zweite Ausgabe des Awards statt, der in den vergangenen beiden Jahren bereits hunderte Kindern und Jugendlichen einen kreativen Umgang mit digitalen Technologien erm\u00f6glicht hat.", 
+        "long_abstract": "Matthias und Nora vom Code Week Team stellen den Code Week Award vor und zeigen einen Live-Hack. Wir programmieren ein Computerspiel in nur 15 Minuten und spielen mit euch. Wer gewinnt, bekommt von uns einen Überraschungs-Preis.  Unter dem Motto “Jede Woche ist Code Week” fördert der Code Week Award spielerische und kreative Workshop-Formate und digitale Kompetenzen bei Kindern und Jugendlichen in ganz Deutschland. Der Award wurde anknüpfend an den Erfolg der EU Code Week im Oktober 2014 erstmalig von der Technologiestiftung Berlin und dem Design Research Lab der Universität der Künste Berlin ausgeschrieben und durch die Unterstützung von Samsung ins Leben gerufen. 2016 findet bereits die zweite Ausgabe des Awards statt, der in den vergangenen beiden Jahren bereits hunderte Kindern und Jugendlichen einen kreativen Umgang mit digitalen Technologien ermöglicht hat.", 
         "microlocation": {
             "id": 1, 
             "name": "Erdgeschoss, Saal / Ground Floor"
@@ -2662,7 +2662,7 @@
         "end_time": "2016-05-05T12:30:00", 
         "id": 81, 
         "language": null, 
-        "long_abstract": "LPI-Pr\u00fcfung", 
+        "long_abstract": "LPI-Prüfung", 
         "microlocation": {
             "id": 8, 
             "name": "Ebene 2, Raum 4"
@@ -2678,7 +2678,7 @@
         "speakers": [
             {
                 "id": 77, 
-                "name": "Harald Maa\u00dfen", 
+                "name": "Harald Maaßen", 
                 "organisation": "LPI e.V."
             }
         ], 
@@ -2699,7 +2699,7 @@
         "end_time": "2016-05-05T14:30:00", 
         "id": 82, 
         "language": null, 
-        "long_abstract": "LPI-Pr\u00fcfung", 
+        "long_abstract": "LPI-Prüfung", 
         "microlocation": {
             "id": 8, 
             "name": "Ebene 2, Raum 4"
@@ -2715,7 +2715,7 @@
         "speakers": [
             {
                 "id": 77, 
-                "name": "Harald Maa\u00dfen", 
+                "name": "Harald Maaßen", 
                 "organisation": "LPI e.V."
             }
         ], 
@@ -2863,7 +2863,7 @@
         "speakers": [
             {
                 "id": 73, 
-                "name": "Andr\u00e9 Rebentisch", 
+                "name": "André Rebentisch", 
                 "organisation": "OTS"
             }
         ], 
@@ -2937,7 +2937,7 @@
         "speakers": [
             {
                 "id": 47, 
-                "name": "Chris K\u00fchl", 
+                "name": "Chris Kühl", 
                 "organisation": "Kinvolk GmbH"
             }
         ], 
@@ -2958,7 +2958,7 @@
         "end_time": "2016-05-05T16:40:00", 
         "id": 52, 
         "language": null, 
-        "long_abstract": "Einige Missverst\u00e4ndnisse zu Freier Software halten sich schon seit Jahren. Zum Beispiel: 1) Freie Software ist kostenlos. 2) Mit Freier Software kann man kein Geld verdienen. 3) Wer Freie Software \u00e4ndert, muss die \u00c4nderungen wieder allen verf\u00fcgbar machen. 4) Freie Software ist (un)sicherer als propriet\u00e4re Software. 5) Freie Software ist das \u00fcberlegene Entwicklungsmodell. 6) Freie Software bringt mir nichts, wenn ich nicht programmieren kann, \u2026 Diese Missverst\u00e4ndnisse sind leider nach wie vor weit verbreitet und erschweren es, m\u00f6glichst schnell das Potential Freier Software zu nutzen.  Der Vortrag ist richtig f\u00fcr Dich, wenn Du Dich wunderst warum eine der Aussagen falsch sein soll oder Du Anregungen suchst, wie und was Du auf solche oder \u00e4hnliche Aussagen in Zukunft in unter zwei Minuten erwidern kannst.", 
+        "long_abstract": "Einige Missverständnisse zu Freier Software halten sich schon seit Jahren. Zum Beispiel: 1) Freie Software ist kostenlos. 2) Mit Freier Software kann man kein Geld verdienen. 3) Wer Freie Software ändert, muss die Änderungen wieder allen verfügbar machen. 4) Freie Software ist (un)sicherer als proprietäre Software. 5) Freie Software ist das überlegene Entwicklungsmodell. 6) Freie Software bringt mir nichts, wenn ich nicht programmieren kann, … Diese Missverständnisse sind leider nach wie vor weit verbreitet und erschweren es, möglichst schnell das Potential Freier Software zu nutzen.  Der Vortrag ist richtig für Dich, wenn Du Dich wunderst warum eine der Aussagen falsch sein soll oder Du Anregungen suchst, wie und was Du auf solche oder ähnliche Aussagen in Zukunft in unter zwei Minuten erwidern kannst.", 
         "microlocation": {
             "id": 5, 
             "name": "Ebene 1, Galerie / Floor 1"
@@ -2982,7 +2982,7 @@
         "state": "accepted", 
         "subtitle": null, 
         "timezone": "UTC", 
-        "title": "Das Freie Software 1x1: Mi\u00dfverst\u00e4ndnisse gekonnt aufkl\u00e4ren", 
+        "title": "Das Freie Software 1x1: Mißverständnisse gekonnt aufklären", 
         "track": {
             "id": 4, 
             "name": "OTS 1"
@@ -3011,7 +3011,7 @@
         "speakers": [
             {
                 "id": 53, 
-                "name": "R\u00fcdiger Trojok", 
+                "name": "Rüdiger Trojok", 
                 "organisation": "Bioflux"
             }
         ], 
@@ -3032,7 +3032,7 @@
         "end_time": "2016-05-05T09:30:00", 
         "id": 58, 
         "language": null, 
-        "long_abstract": "Auch 2015 konnten junge Hacker_innen bei Jugend Hackt zeigen, wie sie mit Code die Welt verbessern. In 5 Events mit fast 300 Teilnehmenden und \u00fcber 50 entstandenen Projekten gab es eine Vielzahl an spannenden, lustigen und auch wegweisenden Ideen und Prototypen, wie die Junghacker_innen ihre F\u00e4higkeiten f\u00fcr eine positive Gesellschaft einsetzen. Einige dieser Projekte werden hier vorgestellt und k\u00f6nnen mit den jungen Entwicklern selbst diskutiert werden. Jugend Hackt ist ein Hackathon f\u00fcr Jugendliche zwischen 12 und 18 Jahren, welcher seit 2013 von der Open Knowledge Foundation veranstaltet wird.", 
+        "long_abstract": "Auch 2015 konnten junge Hacker_innen bei Jugend Hackt zeigen, wie sie mit Code die Welt verbessern. In 5 Events mit fast 300 Teilnehmenden und über 50 entstandenen Projekten gab es eine Vielzahl an spannenden, lustigen und auch wegweisenden Ideen und Prototypen, wie die Junghacker_innen ihre Fähigkeiten für eine positive Gesellschaft einsetzen. Einige dieser Projekte werden hier vorgestellt und können mit den jungen Entwicklern selbst diskutiert werden. Jugend Hackt ist ein Hackathon für Jugendliche zwischen 12 und 18 Jahren, welcher seit 2013 von der Open Knowledge Foundation veranstaltet wird.", 
         "microlocation": {
             "id": 6, 
             "name": "Ebene 2, Loft / Floor 2"
@@ -3106,7 +3106,7 @@
         "end_time": "2016-05-05T17:00:00", 
         "id": 73, 
         "language": null, 
-        "long_abstract": "Am Anfang stand eine Gerichtsentscheidung: Letzten Herbst entschied das Bundesverwaltungsgericht, dass der Bundestag ein Gutachten seines wissenschaftlichen Dienstes herausgeben muss, wenn eine IFG-Anfrage dazu gestellt wird.  Aber anstatt von selbst s\u00e4mtliche bisherigen Gutachten zu ver\u00f6ffentlichen, entschied sich der Bundestag, so wenig wie m\u00f6glich herauszugeben - bis wir die Kampagne \"FragDenBundestag\" starteten. Mit der Hilfe von tausenden Usern wurden mehr als 2.000 IFG-Anfragen gestellt, um Gutachten des Wissenschaftlichen Dienstes \u00f6ffentlich zu machen. Dies bewegte letztendlich den Bundestag dazu, St\u00fcck f\u00fcr St\u00fcck von selbst zu ver\u00f6ffentlichen.  In diesem Talk stelle ich die Plattformen <a href=\"http://sehrgutachten.de\" rel=\"nofollow\" target=\"_blank\">sehrgutachten.de</a> und <a href=\"http://kleineAnfragen.de\" rel=\"nofollow\" target=\"_blank\">kleineAnfragen.de</a> vor, die einen einfacheren Zugang zu staatlichen Dokumenten erm\u00f6glichen und gehe auf die Schwierigkeiten ein, die entstehen, wenn man versucht, die eigene Regierung etwas transparenter zu machen.", 
+        "long_abstract": "Am Anfang stand eine Gerichtsentscheidung: Letzten Herbst entschied das Bundesverwaltungsgericht, dass der Bundestag ein Gutachten seines wissenschaftlichen Dienstes herausgeben muss, wenn eine IFG-Anfrage dazu gestellt wird.  Aber anstatt von selbst sämtliche bisherigen Gutachten zu veröffentlichen, entschied sich der Bundestag, so wenig wie möglich herauszugeben - bis wir die Kampagne \"FragDenBundestag\" starteten. Mit der Hilfe von tausenden Usern wurden mehr als 2.000 IFG-Anfragen gestellt, um Gutachten des Wissenschaftlichen Dienstes öffentlich zu machen. Dies bewegte letztendlich den Bundestag dazu, Stück für Stück von selbst zu veröffentlichen.  In diesem Talk stelle ich die Plattformen <a href=\"http://sehrgutachten.de\" rel=\"nofollow\" target=\"_blank\">sehrgutachten.de</a> und <a href=\"http://kleineAnfragen.de\" rel=\"nofollow\" target=\"_blank\">kleineAnfragen.de</a> vor, die einen einfacheren Zugang zu staatlichen Dokumenten ermöglichen und gehe auf die Schwierigkeiten ein, die entstehen, wenn man versucht, die eigene Regierung etwas transparenter zu machen.", 
         "microlocation": {
             "id": 6, 
             "name": "Ebene 2, Loft / Floor 2"
