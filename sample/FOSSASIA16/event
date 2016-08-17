@@ -70,8 +70,8 @@
             "name": "Linkedin"
         }, 
         {
-            "event_url": "http://2016.fossasia.org/", 
             "id": 8, 
+            "link": "http://2016.fossasia.org/", 
             "name": "External Event URL"
         }
     ], 
