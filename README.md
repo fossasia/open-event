@@ -3,9 +3,13 @@
 [![Mailing List](https://img.shields.io/badge/Mailing%20List-FOSSASIA-blue.svg)](https://groups.google.com/forum/#!forum/open-event)
 
 The Open Event Project offers event managers a platform to organize concerts, conferences, and meetup summits and to easily create web and mobile apps. There are four components:
+
 1. The Open Event Format Definition [[JSON Schema Sample](/sample/)]
+
 2. The Open Event Orga Server [[Repository](https://github.com/fossasia/open-event-orga-server)]
+
 3. The Open Event Android App Generator [[Repository](https://github.com/fossasia/open-event-android)]
+
 4. The Open Event Web App Generator [[Repository](https://github.com/fossasia/open-event-webapp)]
 
 The source code of each component source code has its own repository. And the software applications can be hosted as stand alone solutions or they can be integrated as microservices into the Open Event Orga Server through APIs. 
@@ -14,7 +18,7 @@ The project was originally started to support the organization of the [FOSSASIA 
 
 ## Open Event Repository
 
-This repository holds the sample implementation for the JSON Schema in the [/sample](/sample/) folder, that is used across all projects for testing. We keep a) Zip files that include all JSON files with binary media data and b) the uncompressed files that can act as APIs substitutes to test applications.
+This repository holds the **JSON Schema** sample implementation in the [/sample](/sample/) folder, that is used across all projects for testing. We keep a) Zip files that include all JSON files with binary media data and b) the uncompressed files that can act as APIs substitutes to test applications.
 
 ## Communication
 
