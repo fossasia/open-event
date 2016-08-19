@@ -1,60 +1,57 @@
 # Open-Event
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fossasia/open-event?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Mailing List](https://img.shields.io/badge/Mailing%20List-FOSSASIA-blue.svg)](https://groups.google.com/forum/#!forum/open-event)
 
-The FOSSASIA Open Event Project aims to make it easier for events, conferences, tech summits (maybe more types in future) to easily create Web and Mobile (only Android right now) micro Apps. The project comprises of a data schema for easily storing event details, a server and web frontend that are used to view, modify, update this data easily by the event organisers, a mobile-friendly webapp client to show the event data to attendees, an Android app template which will be used to generate specific apps for each event.   
+The Open Event Project offers event managers a platform to organize concerts, conferences, and meetup summits and to easily create web and mobile apps. There are four components:
+1. The Open Event Format Definition [[JSON Schema Sample](/sample/)]
+2. The Open Event Orga Server [[Repository](https://github.com/fossasia/open-event-orga-server)]
+3. The Open Event Android App Generator [[Repository](https://github.com/fossasia/open-event-android)]
+4. The Open Event Web App Generator [[Repository](https://github.com/fossasia/open-event-webapp)]
 
-Each specific component's source code has it's own Github Repo, links provided in the subsections below . This repository is for tracking milestones and issues, and maintaining a wiki about the project. Also, documentation about the JSON Schema, and how to use the template will be hosted on this repo.
+The source code of each component source code has its own repository. And the software applications can be hosted as stand alone solutions or they can be integrated as microservices into the Open Event Orga Server through APIs. 
 
-### Communication
+The project was originally started to support the organization of the [FOSSASIA OpenTechSummit](http://fossasia.org) and is maintainted by the FOSSASIA community.
+
+## Open Event Repository
+
+This repository holds the sample implementation for the JSON Schema in the [/sample](/sample/) folder, that is used across all projects for testing. We keep a) Zip files that include all JSON files with binary media data and b) the uncompressed files that can act as APIs substitutes to test applications.
+
+## Communication
+
 Please join our mailing list to discuss questions regarding the project: https://groups.google.com/forum/#!forum/open-event
 
 Our chat channel is here: https://gitter.im/fossasia/open-event
 
-### RoadMaps and Documentation
+## Project Components
 
-Please see the [GSOC 2015](docs/GSOC2015) and [GSOC 2016](docs/GSOC2016) for documentations and roadmaps and feature descriptions from GSOC 2015 and GSOC 2016 period. 
+### Open Event Format Definition
 
-## Projects
+The Open Event project enables the exchange of data between all components as well as with other services through a standardized Format. The Open Event repository provides a sample implementation of the format. It includes JSON files for all relevant event information and binary data for images and audio files.
 
-### Open-Event Organiser Server
-[Github Repo](https://github.com/fossasia/open-event-orga-server)   
-The server which will manage all the data of the event. Backed by a database, it provides API endpoints to fetch the data, and also to modify/update it.    
+Repository: https://github.com/fossasia/open-event   
 
-### Open-Event WebApp
-[Github Repo](https://github.com/fossasia/open-event-webapp)   
-A mobile-friendly webapp, which shows all information about the event like Sessions, Speakers, Map of location, Sponsors etc. The idea is to make a ready-to-port webapp, that can be wrapped into iOS, Windows, Chrome etc apps - ie. those platforms we are not immediately supporting natively.    
+Chat Channel: https://gitter.im/fossasia/open-event
 
-### Open-Event Android App
-[Github Repo](https://github.com/fossasia/open-event-android)   
-A native Android app template which shows all information about the event like Sessions, Speakers, Map of location, Sponsors etc. Each event needs to make a copy of this template, change only a handful of basic stuff like icon, package name, backend URL, and generate a unique app for their own event. The idea is the create a template from which anyone can generate an app in 10 minutes, without having any knowledge of Android development.    
+### Open Event Organizer Server
 
+The Open Event Orga Server enables organizers to manage events from concerts to conferences and meetups. It offers features for events with several tracks and venues. Event managers can create invitation forms for speakers and build schedules in a drag and drop interface. The event information is stored in a database, which can be a sqlite db file or saved in json itself. The system provides API endpoints to fetch the data, and to modify and update it. Organizers can import and export event data in a standard compressed file format that includes the event data in JSON and binary media files like images and audio
 
-## Developers and Contributors
-### GSOC 2015
- * **Arnav Gupta**   
- * **Manan Wason**     
- * **Rafal Kowalski**   
+Repository: https://github.com/fossasia/open-event-orga-server   
 
-This project initially started as part of a GSoC 2015 initiative, under the mentorship of **Mario Behling, Duke Leto, Abhishek Batra, Mohit Kanwal** and others.  
+Chat Channel: https://gitter.im/fossasia/open-event-orga-server
 
-### GSOC 2016
+### Open Event Android App
+ 
+The Open Event Android project consists of two components. The **App Generator** is hosted web application, that is hosted on a server and generates an event Android app from a zip with JSON and binary files ([examples here](http://github.com/fossasia/open-event)) or through an API. The second component we are developing in the project is generic **Android app** - the output of the app generator. The mobile app can be installed on any Android device for browsing information about the event. Updates can be made automatically through API endpoint connections from an online source (e.g. server), which needs to defined in the provided event zip with the JSON files. The Android app has a standard configuration file, that sets the details of the app (e.g. color scheme, logo of event, link to JSON app data).   
 
-#### Students
- - Aayush Arora
- - Aditya Vyas
- - Arnav Gupta
- - Avi Aryan
- - Harshit Dwivedi
- - Manan Wason
- - Niranjan Rajendran
- - Rafal Kowalski
- - Saptak Sengupta
- - Shivam Mamgain
+Repository: https://github.com/fossasia/open-event-android
 
-#### Mentors
- - Mario Behling
- - Duke Leto
- - Justin Lee
- - Abhishek Batra
- - Aruna Herath
- - Oren Golan
+Chat Channel: https://gitter.im/fossasia/open-event-android
+
+### Open Event WebApp
+
+The Open Event Web App project has two components a) a event website generator and b) the actual generated website output. The web generator application can generate event websites by getting data from event JSON files and binary media files, that are stored in a compressed zip file. You can also access the application through a Rest API. Websites that are generated by the "web app generator" can be uploaded to any web location, e.g. on Github pages or any server (e.g. via ftp).  
+
+Repository: https://github.com/fossasia/open-event-webapp
+
+Chat Channel: https://gitter.im/fossasia/open-event-webapp
