@@ -12,9 +12,9 @@ The Open Event Project offers event managers a platform to organize concerts, co
 
 4. The Open Event Web App Generator [[Repository](https://github.com/fossasia/open-event-webapp)]
 
-The source code of each component source code has its own repository. And the software applications can be hosted as stand alone solutions or they can be integrated as microservices into the Open Event Orga Server through APIs. 
+The source code of each component has its own repository and technology stack. The software applications can be hosted as stand alone solutions or they can be integrated as microservices into the Open Event Orga Server through APIs. 
 
-The project was originally started to support the organization of the [FOSSASIA OpenTechSummit](http://fossasia.org) and is maintainted by the FOSSASIA community.
+The Open Event project was originally started to support the organization of the [FOSSASIA OpenTechSummit](http://fossasia.org) and is maintainted by the FOSSASIA community.
 
 ## Open Event Repository
 
@@ -59,3 +59,8 @@ The Open Event Web App project has two components a) a event website generator a
 Repository: https://github.com/fossasia/open-event-webapp
 
 Chat Channel: https://gitter.im/fossasia/open-event-webapp
+
+## License
+
+This repository is licensed under the GNU General Public License v3. A copy of LICENSE.md should be present along with the source code. To obtain the
+software under a different license, please contact FOSSASIA.
