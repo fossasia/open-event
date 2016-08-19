@@ -25,7 +25,7 @@
     "id": 1, 
     "latitude": 1.346, 
     "location_name": "15 Science Centre Rd, Singapore 609081", 
-    "logo": "http://2016.fossasia.org/img/fossasia-dark.png", 
+    "logo": "/images/fossasia-dark.png", 
     "longitude": 103.686, 
     "name": "FOSSASIA 2016", 
     "organizer_description": "The Internet of Things for Me at Asia's Premier Open Technology Event", 
