@@ -291,7 +291,7 @@
                 "title": "Closing Notes of FOSSASIA 2016"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#1485CC", 
@@ -405,7 +405,7 @@
                 "title": "Closing Notes"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#B21212", 
@@ -523,7 +523,7 @@
                 "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#9EFF56", 
@@ -645,7 +645,7 @@
                 "title": "Hong Phuc Dang"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#E8782C", 
@@ -707,7 +707,7 @@
                 "title": "End of Sessions"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#FF3046", 
@@ -817,7 +817,7 @@
                 "title": "End of Sessions and Social Event (Invitation Only)"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#BF532E", 
@@ -955,7 +955,7 @@
                 "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#FFF22A", 
@@ -1081,7 +1081,7 @@
                 "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#1C9ECC", 
@@ -1207,7 +1207,7 @@
                 "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#E0331F", 
@@ -1353,7 +1353,7 @@
                 "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#B062A1", 
@@ -1471,7 +1471,7 @@
                 "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#1CCCC5", 
@@ -1577,7 +1577,7 @@
                 "title": "End of Sessions and Social Event (Invitation Only)"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#5972B0", 
@@ -1627,7 +1627,7 @@
                 "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#FF3C11", 
@@ -1805,7 +1805,7 @@
                 "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#84CC12", 
@@ -1855,7 +1855,7 @@
                 "title": "Reproducible Builds - fulfilling the original promise of free software"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#CC8312", 
@@ -1905,7 +1905,7 @@
                 "title": "Closing Notes in Main Hall (Level 3, Dalton Hall)"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#992EFF", 
@@ -2139,7 +2139,7 @@
                 "title": "FOSSASIA 2016 Closes"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#59B077", 
@@ -2148,6 +2148,6 @@
         "location": "Level 2, Newton ", 
         "name": "Social Event", 
         "sessions": [], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }
 ]
