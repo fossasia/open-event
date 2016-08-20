@@ -63,7 +63,7 @@
                 "title": "Functional package management with GNU Guix"
             }
         ], 
-        "track_image_url": "null"
+        "track_image_url": null
     }, 
     {
         "color": "#3DC8C3", 
@@ -117,7 +117,7 @@
                 "title": "Coding Dojo"
             }
         ], 
-        "track_image_url": "null"
+        "track_image_url": null
     }, 
     {
         "color": "#3DC8C3", 
@@ -171,7 +171,7 @@
                 "title": "Hack die Nofretete im Ägyptischen Museum / #NefertitiHack and Cultural Commons \"The Other Nefertiti\""
             }
         ], 
-        "track_image_url": "null"
+        "track_image_url": null
     }, 
     {
         "color": "#3DC8C3", 
@@ -265,7 +265,7 @@
                 "title": "Bioflux - A Personal Laboratory for everyone"
             }
         ], 
-        "track_image_url": "null"
+        "track_image_url": null
     }, 
     {
         "color": "#3DC8C3", 
@@ -351,7 +351,7 @@
                 "title": "sehrgutachten und kleineAnfragen: Einmischen in Regierungsangelegenheiten"
             }
         ], 
-        "track_image_url": "null"
+        "track_image_url": null
     }, 
     {
         "color": "#3DC8C3", 
@@ -377,7 +377,7 @@
                 "title": "Code Week Award Live-Hack"
             }
         ], 
-        "track_image_url": "null"
+        "track_image_url": null
     }, 
     {
         "color": "#3DC8C3", 
@@ -395,6 +395,6 @@
                 "title": "LPI Zertifizierung"
             }
         ], 
-        "track_image_url": "null"
+        "track_image_url": null
     }
 ]
