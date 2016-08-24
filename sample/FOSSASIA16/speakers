@@ -1,8 +1,7 @@
 [
     {
         "country": "Not available", 
-        "email": "email@domain.com",
-        "featured": true,
+        "featured": false,
         "facebook": null, 
         "github": "http://github.com/hpdang", 
         "id": 1, 
@@ -91,7 +90,7 @@
         "country": "Not available", 
         "email": "email@domain.com", 
         "facebook": null,
-        "featured": true,
+        "featured": false,
         "github": "http://github.com/mariobehling", 
         "id": 2, 
         "linkedin": "https://www.linkedin.com/in/mariobehling", 
