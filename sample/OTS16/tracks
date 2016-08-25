@@ -8,7 +8,7 @@
         "sessions": [
             {
                 "id": 1, 
-                "title": "Fantastische Hardware Bauen & L\u00f6ten Lernen mit Mitch (TV-B-Gone) // Learn to Solder with Cool Kits!"
+                "title": "Fantastische Hardware Bauen & Löten Lernen mit Mitch (TV-B-Gone) // Learn to Solder with Cool Kits!"
             }, 
             {
                 "id": 2, 
@@ -20,7 +20,7 @@
             }, 
             {
                 "id": 4, 
-                "title": "Unabh\u00e4ngige eigene Internet-Suche in wenigen Schritten auf dem PC installieren"
+                "title": "Unabhängige eigene Internet-Suche in wenigen Schritten auf dem PC installieren"
             }, 
             {
                 "id": 5, 
@@ -56,14 +56,14 @@
             }, 
             {
                 "id": 13, 
-                "title": "Scan die Nofretete im \u00c4gyptischen Museum / #NefertitiHack and Cultural Commons \"The Other Nefertiti\""
+                "title": "Scan die Nofretete im Ägyptischen Museum / #NefertitiHack and Cultural Commons \"The Other Nefertiti\""
             }, 
             {
                 "id": 14, 
                 "title": "Functional package management with GNU Guix"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#3DC8C3", 
@@ -86,7 +86,7 @@
             }, 
             {
                 "id": 17, 
-                "title": "Arduino Programmierung f\u00fcr Einsteiger mit CoderDojo und OpenTechSchool "
+                "title": "Arduino Programmierung für Einsteiger mit CoderDojo und OpenTechSchool "
             }, 
             {
                 "id": 18, 
@@ -98,7 +98,7 @@
             }, 
             {
                 "id": 20, 
-                "title": "Python Programmieren f\u00fcr Anf\u00e4nger"
+                "title": "Python Programmieren für Anfänger"
             }, 
             {
                 "id": 21, 
@@ -117,7 +117,7 @@
                 "title": "Coding Dojo"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#3DC8C3", 
@@ -156,7 +156,7 @@
             }, 
             {
                 "id": 33, 
-                "title": "Netze f\u00fcr Vielfalt"
+                "title": "Netze für Vielfalt"
             }, 
             {
                 "id": 34, 
@@ -168,10 +168,10 @@
             }, 
             {
                 "id": 36, 
-                "title": "Hack die Nofretete im \u00c4gyptischen Museum / #NefertitiHack and Cultural Commons \"The Other Nefertiti\""
+                "title": "Hack die Nofretete im Ägyptischen Museum / #NefertitiHack and Cultural Commons \"The Other Nefertiti\""
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#3DC8C3", 
@@ -198,7 +198,7 @@
             }, 
             {
                 "id": 42, 
-                "title": "Open Data f\u00fcr Dummies - oder - Wie nutze ich offene Daten"
+                "title": "Open Data für Dummies - oder - Wie nutze ich offene Daten"
             }, 
             {
                 "id": 43, 
@@ -206,7 +206,7 @@
             }, 
             {
                 "id": 44, 
-                "title": "Kurzvortr\u00e4ge"
+                "title": "Kurzvorträge"
             }, 
             {
                 "id": 45, 
@@ -258,14 +258,14 @@
             }, 
             {
                 "id": 52, 
-                "title": "Das Freie Software 1x1: Mi\u00dfverst\u00e4ndnisse gekonnt aufkl\u00e4ren"
+                "title": "Das Freie Software 1x1: Mißverständnisse gekonnt aufklären"
             }, 
             {
                 "id": 55, 
                 "title": "Bioflux - A Personal Laboratory for everyone"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#3DC8C3", 
@@ -288,7 +288,7 @@
             }, 
             {
                 "id": 61, 
-                "title": "Die Rolle von Wissen, \u00f6konomischer Faktoren und Professionalisierung in erfolgreichen Open Source Projekten am Beispiel von Odoo"
+                "title": "Die Rolle von Wissen, ökonomischer Faktoren und Professionalisierung in erfolgreichen Open Source Projekten am Beispiel von Odoo"
             }, 
             {
                 "id": 62, 
@@ -300,7 +300,7 @@
             }, 
             {
                 "id": 64, 
-                "title": "Open Source Circular Design is so Ugly! / Open Source Circular Design ist unglaublich h\u00e4sslich!"
+                "title": "Open Source Circular Design is so Ugly! / Open Source Circular Design ist unglaublich hässlich!"
             }, 
             {
                 "id": 65, 
@@ -324,7 +324,7 @@
             }, 
             {
                 "id": 72, 
-                "title": "Degrees of Openness [\u00b0O]"
+                "title": "Degrees of Openness [°O]"
             }, 
             {
                 "id": 74, 
@@ -351,7 +351,7 @@
                 "title": "sehrgutachten und kleineAnfragen: Einmischen in Regierungsangelegenheiten"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#3DC8C3", 
@@ -366,7 +366,7 @@
             }, 
             {
                 "id": 78, 
-                "title": "\u201eHallo Welt. Wir machen uns die Welt, wie sie uns gef\u00e4llt\u201c"
+                "title": "„Hallo Welt. Wir machen uns die Welt, wie sie uns gefällt“"
             }, 
             {
                 "id": 79, 
@@ -377,7 +377,7 @@
                 "title": "Code Week Award Live-Hack"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }, 
     {
         "color": "#3DC8C3", 
@@ -395,6 +395,6 @@
                 "title": "LPI Zertifizierung"
             }
         ], 
-        "track_image_url": "http://lorempixel.com/400/200"
+        "track_image_url": null
     }
 ]

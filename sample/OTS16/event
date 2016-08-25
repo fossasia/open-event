@@ -1,6 +1,12 @@
 {
-    "background_url": "http://2016.opentechsummit.net/img/15435769939_82ab5f1580_k.jpg", 
-    "closing_datetime": "2016-05-04T00:00:00", 
+    "background_image": "http://2016.opentechsummit.net/img/15435769939_82ab5f1580_k.jpg", 
+    "call_for_papers": {
+        "announcement": "<p>Wanna speak at our prestigious event. Send us a proposal</p>", 
+        "end_date": "2016-05-04T20:30:00", 
+        "privacy": "public", 
+        "start_date": "2016-05-01T19:30:00", 
+        "timezone": "UTC"
+    }, 
     "code_of_conduct": "", 
     "copyright": {
         "holder": null, 
@@ -11,13 +17,11 @@
         "year": null
     }, 
     "creator": {
-        "email": "s@g.com", 
-        "id": 1
+        "email": "s@g.com"
     }, 
     "description": "The OpenTechSummit brings the exciting ideas and creators of the open-Technology community in Berlin.", 
     "email": "contact@opentechsummit.net", 
     "end_time": "2016-05-05T21:00:00", 
-    "event_url": "http://2016.opentechsummit.net", 
     "id": 1, 
     "latitude": 52.52, 
     "location_name": "Berlin", 
@@ -59,6 +63,11 @@
             "id": 6, 
             "link": "https://www.youtube.com/channel/UCJoKp-gG2t7lH5_hiKp95yA", 
             "name": "YouTube"
+        }, 
+        {
+            "id": 7, 
+            "link": "http://2016.opentechsummit.net", 
+            "name": "External Event URL"
         }
     ], 
     "start_time": "2016-05-05T09:00:00", 
