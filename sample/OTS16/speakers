@@ -1,7 +1,7 @@
 [
     {
         "country": "Not available", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 11, 
@@ -24,7 +24,7 @@
     }, 
     {
         "country": "Not available", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 37, 
@@ -47,7 +47,7 @@
     }, 
     {
         "country": "Deutschland", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://p0stap0calyptic.wordpress.com/", 
         "id": 2, 
@@ -70,7 +70,7 @@
     }, 
     {
         "country": "Germany ", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/samu", 
         "id": 3, 
@@ -93,7 +93,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/Orbiter", 
         "id": 4, 
@@ -120,7 +120,7 @@
     }, 
     {
         "country": "Deutschlan", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/nitrokey", 
         "id": 5, 
@@ -143,7 +143,7 @@
     }, 
     {
         "country": "BER/GER", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "/heartsofcode", 
         "id": 6, 
@@ -170,7 +170,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 7, 
@@ -193,7 +193,7 @@
     }, 
     {
         "country": "Hong Kong", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 8, 
@@ -220,7 +220,7 @@
     }, 
     {
         "country": "Deutschland", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "github.com/fluepke", 
         "id": 9, 
@@ -243,7 +243,7 @@
     }, 
     {
         "country": "Not available", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 10, 
@@ -266,7 +266,7 @@
     }, 
     {
         "country": "USA", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/tusuzu", 
         "id": 12, 
@@ -293,7 +293,7 @@
     }, 
     {
         "country": "Berlin", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 13, 
@@ -320,7 +320,7 @@
     }, 
     {
         "country": "Deutschland", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 36, 
@@ -343,7 +343,7 @@
     }, 
     {
         "country": "Not available", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 14, 
@@ -370,7 +370,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/CoderDojoPotsdam", 
         "id": 22, 
@@ -401,7 +401,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 16, 
@@ -424,7 +424,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 18, 
@@ -447,7 +447,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 19, 
@@ -470,7 +470,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 20, 
@@ -493,7 +493,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 21, 
@@ -516,7 +516,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/swkBerlin", 
         "id": 23, 
@@ -543,7 +543,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 73, 
@@ -566,7 +566,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/swkBerlin", 
         "id": 24, 
@@ -593,7 +593,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 33, 
@@ -616,7 +616,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/reifenwechsler", 
         "id": 26, 
@@ -643,7 +643,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 27, 
@@ -670,7 +670,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/Midnighter", 
         "id": 28, 
@@ -697,7 +697,7 @@
     }, 
     {
         "country": "Canada / Germany / South Sudan", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 29, 
@@ -724,7 +724,7 @@
     }, 
     {
         "country": "Belgium", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/tass-belgium/picotcp", 
         "id": 31, 
@@ -751,7 +751,7 @@
     }, 
     {
         "country": "Vietnam", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "github.com/hpdang", 
         "id": 32, 
@@ -778,7 +778,7 @@
     }, 
     {
         "country": "Haiti-Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/CoperturaIvers", 
         "id": 34, 
@@ -801,7 +801,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/supernoir", 
         "id": 35, 
@@ -824,7 +824,7 @@
     }, 
     {
         "country": "Not available", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 42, 
@@ -847,7 +847,7 @@
     }, 
     {
         "country": "Deutschland", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/jugendhackt", 
         "id": 74, 
@@ -870,7 +870,7 @@
     }, 
     {
         "country": "Deutschland", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/jugendhackt", 
         "id": 75, 
@@ -893,7 +893,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/tursics", 
         "id": 40, 
@@ -916,7 +916,7 @@
     }, 
     {
         "country": "Singapore", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "http://github.com/juslee", 
         "id": 43, 
@@ -939,7 +939,7 @@
     }, 
     {
         "country": "UK", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/rgrp", 
         "id": 44, 
@@ -966,7 +966,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/erikdoe", 
         "id": 45, 
@@ -989,7 +989,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 46, 
@@ -1012,7 +1012,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/blixtra", 
         "id": 47, 
@@ -1035,7 +1035,7 @@
     }, 
     {
         "country": "Not available", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 55, 
@@ -1058,7 +1058,7 @@
     }, 
     {
         "country": "Deutschland", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/jugendhackt", 
         "id": 76, 
@@ -1081,7 +1081,7 @@
     }, 
     {
         "country": "Not available", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 49, 
@@ -1104,7 +1104,7 @@
     }, 
     {
         "country": "Deutschland", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 51, 
@@ -1127,7 +1127,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 52, 
@@ -1150,7 +1150,7 @@
     }, 
     {
         "country": "Deutschland", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 53, 
@@ -1173,7 +1173,7 @@
     }, 
     {
         "country": "Deutschland", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 54, 
@@ -1196,7 +1196,7 @@
     }, 
     {
         "country": "Deutschland", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/jugendhackt", 
         "id": 56, 
@@ -1223,7 +1223,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 57, 
@@ -1250,7 +1250,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 58, 
@@ -1277,7 +1277,7 @@
     }, 
     {
         "country": "Sweden", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/wikimedia", 
         "id": 59, 
@@ -1300,7 +1300,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 77, 
@@ -1327,7 +1327,7 @@
     }, 
     {
         "country": "Albania", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/elioqoshi", 
         "id": 61, 
@@ -1350,7 +1350,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 62, 
@@ -1373,7 +1373,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 63, 
@@ -1396,7 +1396,7 @@
     }, 
     {
         "country": "Berlin", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 64, 
@@ -1423,7 +1423,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/ChrisChinchilla", 
         "id": 65, 
@@ -1446,7 +1446,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/endocode", 
         "id": 66, 
@@ -1469,7 +1469,7 @@
     }, 
     {
         "country": "Germany/ Berlin", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 67, 
@@ -1492,7 +1492,7 @@
     }, 
     {
         "country": "Bordeaux, France", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 68, 
@@ -1515,7 +1515,7 @@
     }, 
     {
         "country": "Deutschland", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/0-8-15", 
         "id": 69, 
@@ -1538,7 +1538,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 70, 
@@ -1561,7 +1561,7 @@
     }, 
     {
         "country": "Deutschland", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/robbi5", 
         "id": 71, 
@@ -1584,7 +1584,7 @@
     }, 
     {
         "country": "Rome", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 72, 
@@ -1607,7 +1607,7 @@
     }, 
     {
         "country": "US", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/maltman23", 
         "id": 1, 
@@ -1630,7 +1630,7 @@
     }, 
     {
         "country": "herrnelles", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 15, 
@@ -1657,7 +1657,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/jdittrich", 
         "id": 17, 
@@ -1684,7 +1684,7 @@
     }, 
     {
         "country": "Europe", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/jospoortvliet", 
         "id": 25, 
@@ -1707,7 +1707,7 @@
     }, 
     {
         "country": "Not available", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 30, 
@@ -1734,7 +1734,7 @@
     }, 
     {
         "country": "Deutschland", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/mariushoch", 
         "id": 38, 
@@ -1757,7 +1757,7 @@
     }, 
     {
         "country": "USA", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "http://github.com/YupItsZac", 
         "id": 39, 
@@ -1780,7 +1780,7 @@
     }, 
     {
         "country": "Not available", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 41, 
@@ -1807,7 +1807,7 @@
     }, 
     {
         "country": "Berlin", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 48, 
@@ -1830,7 +1830,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "", 
         "id": 50, 
@@ -1853,7 +1853,7 @@
     }, 
     {
         "country": "Germany", 
-        "email": "email@domain.com", 
+        "email": null, 
         "facebook": null, 
         "github": "https://github.com/OSevangelist", 
         "id": 60, 
