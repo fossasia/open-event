@@ -22,6 +22,7 @@
     "description": "FOSSASIA is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors. Projects at FOSSASIA range from open hardware, to design, graphics and software. FOSSASIA was established in 2009. Previous events took place in Cambodia and Vietnam.", 
     "email": "contact@fossasia.org", 
     "end_time": "2016-03-20T09:30:00", 
+    "has_session_speakers": true, 
     "id": 1, 
     "latitude": 1.346, 
     "location_name": "15 Science Centre Rd, Singapore 609081", 
