@@ -1,147 +1,147 @@
 [
     {
         "id": 1, 
-        "length": 0.3, 
-        "name": "Ganztägiger Lötworkshop / Soldering Workshop"
+        "name": "Ganztägiger Lötworkshop / Soldering Workshop", 
+        "length": 0.3
     }, 
     {
         "id": 2, 
-        "length": 0.3, 
-        "name": "Workshop/Ausstellung/Exhibition"
+        "name": "Workshop/Ausstellung/Exhibition", 
+        "length": 0.3
     }, 
     {
         "id": 3, 
-        "length": 0.3, 
-        "name": "Infotisch, Ausstellung, Exhibition, Gemütliche Kissenecke"
+        "name": "Infotisch, Ausstellung, Exhibition, Gemütliche Kissenecke", 
+        "length": 0.3
     }, 
     {
         "id": 4, 
-        "length": 0.3, 
-        "name": "Workshop und Infotisch"
+        "name": "Workshop und Infotisch", 
+        "length": 0.3
     }, 
     {
         "id": 5, 
-        "length": 0.3, 
-        "name": "Infotisch mit Workshops / Info table and Workshops"
+        "name": "Infotisch mit Workshops / Info table and Workshops", 
+        "length": 0.3
     }, 
     {
         "id": 6, 
-        "length": 0.3, 
-        "name": "Hackspace-Infotisch, Exhibition"
+        "name": "Hackspace-Infotisch, Exhibition", 
+        "length": 0.3
     }, 
     {
         "id": 7, 
-        "length": 0.3, 
-        "name": "Freie Software-Infoecke / Information Corner"
+        "name": "Freie Software-Infoecke / Information Corner", 
+        "length": 0.3
     }, 
     {
         "id": 8, 
-        "length": 0.3, 
-        "name": "Infotisch/Info Table"
+        "name": "Infotisch/Info Table", 
+        "length": 0.3
     }, 
     {
         "id": 9, 
-        "length": 0.3, 
-        "name": "Hardware Hacks"
+        "name": "Hardware Hacks", 
+        "length": 0.3
     }, 
     {
         "id": 10, 
-        "length": 0.3, 
-        "name": "Workshop mit befreiten Strickmaschinen / Knitting Machines with Open Source"
+        "name": "Workshop mit befreiten Strickmaschinen / Knitting Machines with Open Source", 
+        "length": 0.3
     }, 
     {
         "id": 11, 
-        "length": 0.3, 
-        "name": "Infotisch / Showcase Table"
+        "name": "Infotisch / Showcase Table", 
+        "length": 0.3
     }, 
     {
         "id": 12, 
-        "length": 0.3, 
-        "name": "Awesome Workshop"
+        "name": "Awesome Workshop", 
+        "length": 0.3
     }, 
     {
         "id": 13, 
-        "length": 0.3, 
-        "name": "Workshop und Infotisch / Showcase Table"
+        "name": "Workshop und Infotisch / Showcase Table", 
+        "length": 0.3
     }, 
     {
         "id": 14, 
-        "length": 0.3, 
-        "name": "Workshop, 2h"
+        "name": "Workshop, 2h", 
+        "length": 0.3
     }, 
     {
         "id": 15, 
-        "length": 0.3, 
-        "name": "Workshop, 5h"
+        "name": "Workshop, 5h", 
+        "length": 0.3
     }, 
     {
         "id": 16, 
-        "length": 0.3, 
-        "name": "Workshop"
+        "name": "Workshop", 
+        "length": 0.3
     }, 
     {
         "id": 17, 
-        "length": 0.3, 
-        "name": "Workshop und Developer Meetup, 2h"
+        "name": "Workshop und Developer Meetup, 2h", 
+        "length": 0.3
     }, 
     {
         "id": 18, 
-        "length": 0.3, 
-        "name": "Workshop, 1h"
+        "name": "Workshop, 1h", 
+        "length": 0.3
     }, 
     {
         "id": 19, 
-        "length": 0.3, 
-        "name": "Workshop, 1/2 h"
+        "name": "Workshop, 1/2 h", 
+        "length": 0.3
     }, 
     {
         "id": 20, 
-        "length": 0.3, 
-        "name": "Lightning Talk"
+        "name": "Lightning Talk", 
+        "length": 0.3
     }, 
     {
         "id": 21, 
-        "length": 0.3, 
-        "name": "Vortrag/Talk"
+        "name": "Vortrag/Talk", 
+        "length": 0.3
     }, 
     {
         "id": 22, 
-        "length": 0.3, 
-        "name": "Lightning Talks"
+        "name": "Lightning Talks", 
+        "length": 0.3
     }, 
     {
         "id": 23, 
-        "length": 0.3, 
-        "name": "Panel"
+        "name": "Panel", 
+        "length": 0.3
     }, 
     {
         "id": 24, 
-        "length": 0.3, 
-        "name": "Danke und Lounge"
+        "name": "Danke und Lounge", 
+        "length": 0.3
     }, 
     {
         "id": 25, 
-        "length": 0.3, 
-        "name": "Talk mit Live-Hack (20 Minuten)"
+        "name": "Talk mit Live-Hack (20 Minuten)", 
+        "length": 0.3
     }, 
     {
         "id": 26, 
-        "length": 0.3, 
-        "name": "Talk of 25 minutes"
+        "name": "Talk of 25 minutes", 
+        "length": 0.3
     }, 
     {
         "id": 27, 
-        "length": 0.3, 
-        "name": "Kids Workshops, Ganztägig / Whole day"
+        "name": "Kids Workshops, Ganztägig / Whole day", 
+        "length": 0.3
     }, 
     {
         "id": 28, 
-        "length": 0.3, 
-        "name": "Ausstellung/Vorstellung/ Exhibition"
+        "name": "Ausstellung/Vorstellung/ Exhibition", 
+        "length": 0.3
     }, 
     {
         "id": 29, 
-        "length": 0.3, 
-        "name": "Zertifizierung"
+        "name": "Zertifizierung", 
+        "length": 0.3
     }
 ]

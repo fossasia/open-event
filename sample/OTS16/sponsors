@@ -1,65 +1,65 @@
 [
     {
-        "description": "The FFII is a global network of associations dedicated to consumer rights and education about digital media, genuine open standards.", 
         "id": 1, 
-        "level": "1", 
-        "logo": "/images/sponsors/Ffii_1.jpg", 
         "name": "FFII", 
+        "logo": "/images/sponsors/Ffii_1.jpg", 
+        "level": "1", 
         "sponsor_type": "Platinum Sponsor", 
-        "url": "http://ffii.org"
+        "url": "http://ffii.org", 
+        "description": "The FFII is a global network of associations dedicated to consumer rights and education about digital media, genuine open standards."
     }, 
     {
-        "description": "", 
         "id": 2, 
-        "level": "2", 
-        "logo": "/images/sponsors/CodeWeekAward_2.png", 
         "name": "Code Week Award", 
+        "logo": "/images/sponsors/CodeWeekAward_2.png", 
+        "level": "2", 
         "sponsor_type": "Partner", 
-        "url": "http://codeweek.de/"
+        "url": "http://codeweek.de/", 
+        "description": ""
     }, 
     {
-        "description": "", 
         "id": 3, 
-        "level": "2", 
-        "logo": "/images/sponsors/Wikidata_3.png", 
         "name": "WikiData", 
+        "logo": "/images/sponsors/Wikidata_3.png", 
+        "level": "2", 
         "sponsor_type": "Partner", 
-        "url": "https://www.wikidata.org/"
+        "url": "https://www.wikidata.org/", 
+        "description": ""
     }, 
     {
-        "description": "", 
         "id": 4, 
-        "level": "2", 
-        "logo": "/images/sponsors/Lpi_4.jpg", 
         "name": "LPI", 
+        "logo": "/images/sponsors/Lpi_4.jpg", 
+        "level": "2", 
         "sponsor_type": "Partner", 
-        "url": "https://lpievent.lpice.eu/"
+        "url": "https://lpievent.lpice.eu/", 
+        "description": ""
     }, 
     {
-        "description": "", 
         "id": 5, 
-        "level": "2", 
-        "logo": "/images/sponsors/Astaup_5.png", 
         "name": "ASTAUp", 
-        "sponsor_type": "Partner", 
-        "url": "http://astaup.de/"
-    }, 
-    {
-        "description": "", 
-        "id": 6, 
+        "logo": "/images/sponsors/Astaup_5.png", 
         "level": "2", 
-        "logo": "/images/sponsors/AstaFhPotsdam_6.png", 
-        "name": "ASTA FH Potsdam", 
         "sponsor_type": "Partner", 
-        "url": "http://asta.fh-potsdam.de/"
+        "url": "http://astaup.de/", 
+        "description": ""
     }, 
     {
-        "description": "", 
+        "id": 6, 
+        "name": "ASTA FH Potsdam", 
+        "logo": "/images/sponsors/AstaFhPotsdam_6.png", 
+        "level": "2", 
+        "sponsor_type": "Partner", 
+        "url": "http://asta.fh-potsdam.de/", 
+        "description": ""
+    }, 
+    {
         "id": 7, 
-        "level": "3", 
-        "logo": "/images/sponsors/VoiceRepublic_7.png", 
         "name": "Voice Republic", 
+        "logo": "/images/sponsors/VoiceRepublic_7.png", 
+        "level": "3", 
         "sponsor_type": "Media Partner", 
-        "url": "https://voicerepublic.com/series/open-tech-summit-2016"
+        "url": "https://voicerepublic.com/series/open-tech-summit-2016", 
+        "description": ""
     }
 ]

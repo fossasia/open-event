@@ -1,162 +1,162 @@
 [
     {
         "id": 1, 
-        "length": 0.3, 
-        "name": "Welcome"
+        "name": "Welcome", 
+        "length": 0.3
     }, 
     {
         "id": 2, 
-        "length": 0.3, 
-        "name": "Program Overview"
+        "name": "Program Overview", 
+        "length": 0.3
     }, 
     {
         "id": 3, 
-        "length": 0.3, 
-        "name": "Host Welcome"
+        "name": "Host Welcome", 
+        "length": 0.3
     }, 
     {
         "id": 4, 
-        "length": 0.3, 
-        "name": "Keynote of 20 minutes"
+        "name": "Keynote of 20 minutes", 
+        "length": 0.3
     }, 
     {
         "id": 5, 
-        "length": 0.3, 
-        "name": "Talk of 20 minutes"
+        "name": "Talk of 20 minutes", 
+        "length": 0.3
     }, 
     {
         "id": 6, 
-        "length": 0.3, 
-        "name": "Demo Talk"
+        "name": "Demo Talk", 
+        "length": 0.3
     }, 
     {
         "id": 7, 
-        "length": 0.3, 
-        "name": "Lightning Talk"
+        "name": "Lightning Talk", 
+        "length": 0.3
     }, 
     {
         "id": 8, 
-        "length": 0.3, 
-        "name": "Outreachy"
+        "name": "Outreachy", 
+        "length": 0.3
     }, 
     {
         "id": 9, 
-        "length": 0.3, 
-        "name": "Keynote"
+        "name": "Keynote", 
+        "length": 0.3
     }, 
     {
         "id": 10, 
-        "length": 0.3, 
-        "name": "40 minutes (20 minute demonstration, 20 minute talk)"
+        "name": "40 minutes (20 minute demonstration, 20 minute talk)", 
+        "length": 0.3
     }, 
     {
         "id": 11, 
-        "length": 0.3, 
-        "name": "Session of 30 minutes "
+        "name": "Session of 30 minutes ", 
+        "length": 0.3
     }, 
     {
         "id": 12, 
-        "length": 0.3, 
-        "name": "Presentations"
+        "name": "Presentations", 
+        "length": 0.3
     }, 
     {
         "id": 13, 
-        "length": 0.3, 
-        "name": "Workshop of 2 hours"
+        "name": "Workshop of 2 hours", 
+        "length": 0.3
     }, 
     {
         "id": 14, 
-        "length": 0.3, 
-        "name": "Workshop of 1 hour"
+        "name": "Workshop of 1 hour", 
+        "length": 0.3
     }, 
     {
         "id": 15, 
-        "length": 0.3, 
-        "name": "Workshop of 2.5 hours"
+        "name": "Workshop of 2.5 hours", 
+        "length": 0.3
     }, 
     {
         "id": 16, 
-        "length": 0.3, 
-        "name": "Workshop of 1.5 hours"
+        "name": "Workshop of 1.5 hours", 
+        "length": 0.3
     }, 
     {
         "id": 17, 
-        "length": 0.3, 
-        "name": "Workshop of 4 hours"
+        "name": "Workshop of 4 hours", 
+        "length": 0.3
     }, 
     {
         "id": 18, 
-        "length": 0.3, 
-        "name": "Closing Session in Main Hall"
+        "name": "Closing Session in Main Hall", 
+        "length": 0.3
     }, 
     {
         "id": 19, 
-        "length": 0.3, 
-        "name": "Talk of 40 minutes"
+        "name": "Talk of 40 minutes", 
+        "length": 0.3
     }, 
     {
         "id": 20, 
-        "length": 0.3, 
-        "name": "Workshop of 5 hours"
+        "name": "Workshop of 5 hours", 
+        "length": 0.3
     }, 
     {
         "id": 21, 
-        "length": 0.3, 
-        "name": "Welcome Note"
+        "name": "Welcome Note", 
+        "length": 0.3
     }, 
     {
         "id": 22, 
-        "length": 0.3, 
-        "name": "Talk of 60 minutes"
+        "name": "Talk of 60 minutes", 
+        "length": 0.3
     }, 
     {
         "id": 23, 
-        "length": 0.3, 
-        "name": "Talk of 45 minutes"
+        "name": "Talk of 45 minutes", 
+        "length": 0.3
     }, 
     {
         "id": 24, 
-        "length": 0.3, 
-        "name": "Lightning Talks (30 minute slot)"
+        "name": "Lightning Talks (30 minute slot)", 
+        "length": 0.3
     }, 
     {
         "id": 25, 
-        "length": 0.3, 
-        "name": "Panel of 1 hour"
+        "name": "Panel of 1 hour", 
+        "length": 0.3
     }, 
     {
         "id": 26, 
-        "length": 0.3, 
-        "name": "Lightning Talk followed by Workshop on Saturday and Sunday"
+        "name": "Lightning Talk followed by Workshop on Saturday and Sunday", 
+        "length": 0.3
     }, 
     {
         "id": 27, 
-        "length": 0.3, 
-        "name": "Group Activity"
+        "name": "Group Activity", 
+        "length": 0.3
     }, 
     {
         "id": 28, 
-        "length": 0.3, 
-        "name": "Workshops and Science Hacking"
+        "name": "Workshops and Science Hacking", 
+        "length": 0.3
     }, 
     {
         "id": 29, 
-        "length": 0.3, 
-        "name": "Demos"
+        "name": "Demos", 
+        "length": 0.3
     }, 
     {
         "id": 30, 
-        "length": 0.3, 
-        "name": "Talk / Discussion of 40 minutes"
+        "name": "Talk / Discussion of 40 minutes", 
+        "length": 0.3
     }, 
     {
         "id": 31, 
-        "length": 0.3, 
-        "name": "Exhibition Area"
+        "name": "Exhibition Area", 
+        "length": 0.3
     }, 
     {
         "id": 32, 
-        "length": 0.3, 
-        "name": "Job board in person"
+        "name": "Job board in person", 
+        "length": 0.3
     }
 ]

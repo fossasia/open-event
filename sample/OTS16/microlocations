@@ -1,66 +1,66 @@
 [
     {
-        "floor": 0, 
         "id": 1, 
-        "latitude": null, 
-        "longitude": null, 
         "name": "Saal ", 
-        "room": null
-    }, 
-    {
         "floor": 0, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }, 
+    {
         "id": 2, 
-        "latitude": null, 
-        "longitude": null, 
         "name": "Hoflounge", 
+        "floor": 0, 
+        "latitude": null, 
+        "longitude": null, 
         "room": null
     }, 
     {
-        "floor": 1, 
         "id": 3, 
+        "name": "Raum 4", 
+        "floor": 1, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Raum 4", 
         "room": null
     }, 
     {
-        "floor": 1, 
         "id": 4, 
-        "latitude": null, 
-        "longitude": null, 
         "name": "Room 1", 
+        "floor": 1, 
+        "latitude": null, 
+        "longitude": null, 
         "room": null
     }, 
     {
-        "floor": 1, 
         "id": 5, 
-        "latitude": null, 
-        "longitude": null, 
         "name": "Galerie ", 
-        "room": null
-    }, 
-    {
-        "floor": 2, 
-        "id": 6, 
-        "latitude": null, 
-        "longitude": null, 
-        "name": "Loft ", 
-        "room": null
-    }, 
-    {
         "floor": 1, 
-        "id": 7, 
         "latitude": null, 
         "longitude": null, 
-        "name": "Room 2 and Room 3", 
         "room": null
     }, 
     {
+        "id": 6, 
+        "name": "Loft ", 
         "floor": 2, 
-        "id": 8, 
         "latitude": null, 
         "longitude": null, 
+        "room": null
+    }, 
+    {
+        "id": 7, 
+        "name": "Room 2 and Room 3", 
+        "floor": 1, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }, 
+    {
+        "id": 8, 
         "name": "Raum 4", 
+        "floor": 2, 
+        "latitude": null, 
+        "longitude": null, 
         "room": null
     }
 ]
