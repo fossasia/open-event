@@ -1,10 +1,10 @@
 [
     {
+        "id": 1, 
+        "name": "Maker Space", 
         "color": "#3DC8C3", 
         "description": "Maker Space", 
-        "id": 1, 
         "location": "Erdgeschoss, Saal", 
-        "name": "Maker Space", 
         "sessions": [
             {
                 "id": 1, 
@@ -66,11 +66,11 @@
         "track_image_url": null
     }, 
     {
+        "id": 2, 
+        "name": "Workshops", 
         "color": "#3DC8C3", 
         "description": "Workshops", 
-        "id": 2, 
         "location": "Erdgeschoss und Ebene 1", 
-        "name": "Workshops", 
         "sessions": [
             {
                 "id": 22, 
@@ -120,11 +120,11 @@
         "track_image_url": null
     }, 
     {
+        "id": 3, 
+        "name": "LightningTalks", 
         "color": "#3DC8C3", 
         "description": "LightningTalks", 
-        "id": 3, 
         "location": "Ebene 1, Galerie", 
-        "name": "LightningTalks", 
         "sessions": [
             {
                 "id": 26, 
@@ -174,11 +174,11 @@
         "track_image_url": null
     }, 
     {
+        "id": 4, 
+        "name": "OTS 1", 
         "color": "#3DC8C3", 
         "description": "OTS 1", 
-        "id": 4, 
         "location": "Ebene 1, Galerie", 
-        "name": "OTS 1", 
         "sessions": [
             {
                 "id": 48, 
@@ -268,11 +268,11 @@
         "track_image_url": null
     }, 
     {
+        "id": 5, 
+        "name": "OTS 2", 
         "color": "#3DC8C3", 
         "description": "OTS 2", 
-        "id": 5, 
         "location": "Ebene 2, Loft", 
-        "name": "OTS 2", 
         "sessions": [
             {
                 "id": 66, 
@@ -354,11 +354,11 @@
         "track_image_url": null
     }, 
     {
+        "id": 6, 
+        "name": "Kids Camp", 
         "color": "#3DC8C3", 
         "description": "Kids Camp", 
-        "id": 6, 
         "location": "Erdgeschoss und Ebene 1", 
-        "name": "Kids Camp", 
         "sessions": [
             {
                 "id": 77, 
@@ -380,11 +380,11 @@
         "track_image_url": null
     }, 
     {
+        "id": 7, 
+        "name": "Linux-Zertifizierung", 
         "color": "#3DC8C3", 
         "description": "Linux-Zertifizierung", 
-        "id": 7, 
         "location": "Ebene 2, Raum 4", 
-        "name": "Linux-Zertifizierung", 
         "sessions": [
             {
                 "id": 81, 
