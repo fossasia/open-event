@@ -2,7 +2,7 @@
     {
         "id": 11, 
         "name": "Andreas \"Andz\" Müller", 
-        "email": null, 
+        "email": "andreas_andz_mller@fossasia.org", 
         "mobile": null, 
         "photo": null, 
         "organisation": "Ayab-Knitting", 
@@ -25,7 +25,7 @@
     {
         "id": 37, 
         "name": "OpenTechSummit 2016", 
-        "email": null, 
+        "email": "opentechsummit_2016@fossasia.org", 
         "mobile": null, 
         "photo": null, 
         "organisation": "Not available", 
@@ -48,7 +48,7 @@
     {
         "id": 2, 
         "name": "Paulaner Paula Pongratz", 
-        "email": null, 
+        "email": "paulaner_paula_pongratz@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/PaulanerPaulaPongratz_2.jpg", 
         "organisation": "Postapokalyptischer Schmuck", 
@@ -71,7 +71,7 @@
     {
         "id": 3, 
         "name": "Sandra Müllrick", 
-        "email": null, 
+        "email": "sandra_mllrick@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/SandraMüllrick_3.jpg", 
         "organisation": "Wikimedia Deutschland e.V.", 
@@ -94,7 +94,7 @@
     {
         "id": 4, 
         "name": "Michael Christen", 
-        "email": null, 
+        "email": "michael_christen@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MichaelChristen_4.jpg", 
         "organisation": "Yacy", 
@@ -121,7 +121,7 @@
     {
         "id": 5, 
         "name": "Jan Suhr", 
-        "email": null, 
+        "email": "jan_suhr@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/JanSuhr_5.jpg", 
         "organisation": "Nitrokey", 
@@ -144,7 +144,7 @@
     {
         "id": 6, 
         "name": "Cat Spangehl", 
-        "email": null, 
+        "email": "cat_spangehl@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/CatSpangehl_6.jpg", 
         "organisation": "Heart of Code", 
@@ -171,7 +171,7 @@
     {
         "id": 7, 
         "name": "Erik Albers", 
-        "email": null, 
+        "email": "erik_albers@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/ErikAlbers_7.jpg", 
         "organisation": "Free Software Foundation Europe e.V.", 
@@ -194,7 +194,7 @@
     {
         "id": 8, 
         "name": "Alvin Lui", 
-        "email": null, 
+        "email": "alvin_lui@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/AlvinLui_8.jpg", 
         "organisation": "Makeomnia Ltd / HKCOTA", 
@@ -221,7 +221,7 @@
     {
         "id": 9, 
         "name": "Fabian Lüpke", 
-        "email": null, 
+        "email": "fabian_lpke@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/FabianLüpke_9.jpg", 
         "organisation": "Hasso-Plattner-Institut Potsdam", 
@@ -244,7 +244,7 @@
     {
         "id": 10, 
         "name": "Christian Obersteiner", 
-        "email": null, 
+        "email": "christian_obersteiner@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/ChristianObersteiner_10.jpg", 
         "organisation": "Ayab-Knitting", 
@@ -267,7 +267,7 @@
     {
         "id": 12, 
         "name": "Susan Spencer", 
-        "email": null, 
+        "email": "susan_spencer@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/SusanSpencer_12.jpg", 
         "organisation": "Valentina", 
@@ -294,7 +294,7 @@
     {
         "id": 13, 
         "name": "Konrad Willi Döring", 
-        "email": null, 
+        "email": "konrad_willi_dring@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/KonradWilliDöring_13.jpg", 
         "organisation": "Neurofox, Brainduino", 
@@ -321,7 +321,7 @@
     {
         "id": 36, 
         "name": "Stefan Koehler", 
-        "email": null, 
+        "email": "stefan_koehler@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/StefanKoehler_36.jpg", 
         "organisation": "Flowedoo", 
@@ -344,7 +344,7 @@
     {
         "id": 14, 
         "name": "Nora Al-Badri", 
-        "email": null, 
+        "email": "nora_albadri@fossasia.org", 
         "mobile": null, 
         "photo": null, 
         "organisation": "Nefertiti Hack", 
@@ -371,7 +371,7 @@
     {
         "id": 22, 
         "name": "Nicco Kunzmann", 
-        "email": null, 
+        "email": "nicco_kunzmann@fossasia.org", 
         "mobile": null, 
         "photo": null, 
         "organisation": "Coder Dojo Potsdam/OpenTechSchool", 
@@ -402,7 +402,7 @@
     {
         "id": 16, 
         "name": "Ricardo Wurmus", 
-        "email": null, 
+        "email": "ricardo_wurmus@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/RicardoWurmus_16.jpg", 
         "organisation": "GNU Project", 
@@ -425,7 +425,7 @@
     {
         "id": 18, 
         "name": "Birgit Marzinka", 
-        "email": null, 
+        "email": "birgit_marzinka@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/BirgitMarzinka_18.jpg", 
         "organisation": "Metaversa e.V.", 
@@ -448,7 +448,7 @@
     {
         "id": 19, 
         "name": "Daniel Abma", 
-        "email": null, 
+        "email": "daniel_abma@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/DanielAbma_19.jpg", 
         "organisation": "Metaversa e.V.", 
@@ -471,7 +471,7 @@
     {
         "id": 20, 
         "name": "Jenny Roberts", 
-        "email": null, 
+        "email": "jenny_roberts@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/JennyRoberts_20.jpg", 
         "organisation": "Metaversa e.V.", 
@@ -494,7 +494,7 @@
     {
         "id": 21, 
         "name": "Kirsten Mohri", 
-        "email": null, 
+        "email": "kirsten_mohri@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/KirstenMohri_21.jpg", 
         "organisation": "Metaversa e.V.", 
@@ -517,7 +517,7 @@
     {
         "id": 23, 
         "name": "Raimo, Radczewski", 
-        "email": null, 
+        "email": "raimo_radczewski@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/Raimo,Radczewski_23.jpg", 
         "organisation": "Softwerkskammer Berlin – Software Craftsmanship Community", 
@@ -544,7 +544,7 @@
     {
         "id": 73, 
         "name": "André Rebentisch", 
-        "email": null, 
+        "email": "andr_rebentisch@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/AndréRebentisch_73.jpg", 
         "organisation": "OTS", 
@@ -567,7 +567,7 @@
     {
         "id": 24, 
         "name": "Markus Decke", 
-        "email": null, 
+        "email": "markus_decke@fossasia.org", 
         "mobile": null, 
         "photo": null, 
         "organisation": "Softwerkskammer Berlin – Software Craftsmanship Community", 
@@ -594,7 +594,7 @@
     {
         "id": 33, 
         "name": "Lisa Conrad", 
-        "email": null, 
+        "email": "lisa_conrad@fossasia.org", 
         "mobile": null, 
         "photo": null, 
         "organisation": "Anthropologist", 
@@ -617,7 +617,7 @@
     {
         "id": 26, 
         "name": "Jenz Steiner", 
-        "email": null, 
+        "email": "jenz_steiner@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/JenzSteiner_26.jpg", 
         "organisation": "Piradio - Sender Berlin", 
@@ -644,7 +644,7 @@
     {
         "id": 27, 
         "name": "Ulrike Thalheim", 
-        "email": null, 
+        "email": "ulrike_thalheim@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/UlrikeThalheim_27.jpg", 
         "organisation": "metacollect", 
@@ -671,7 +671,7 @@
     {
         "id": 28, 
         "name": "Moritz Beber", 
-        "email": null, 
+        "email": "moritz_beber@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MoritzBeber_28.jpg", 
         "organisation": "metacollect", 
@@ -698,7 +698,7 @@
     {
         "id": 29, 
         "name": "Stephen Kovats", 
-        "email": null, 
+        "email": "stephen_kovats@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/StephenKovats_29.jpg", 
         "organisation": "r0g_agency for open culture gGmbH", 
@@ -725,7 +725,7 @@
     {
         "id": 31, 
         "name": "Toon Peters", 
-        "email": null, 
+        "email": "toon_peters@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/ToonPeters_31.jpg", 
         "organisation": "Altran", 
@@ -752,7 +752,7 @@
     {
         "id": 32, 
         "name": "Hong Phuc Dang", 
-        "email": null, 
+        "email": "hong_phuc_dang@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/HongPhucDang_32.jpg", 
         "organisation": "FOSSASIA", 
@@ -779,7 +779,7 @@
     {
         "id": 34, 
         "name": "Ivers Yves Pierre", 
-        "email": null, 
+        "email": "ivers_yves_pierre@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/IversYvesPierre_34.jpg", 
         "organisation": "Copertura Label", 
@@ -802,7 +802,7 @@
     {
         "id": 35, 
         "name": "Conny Kawohl", 
-        "email": null, 
+        "email": "conny_kawohl@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/ConnyKawohl_35.jpg", 
         "organisation": "Heart of Code", 
@@ -825,7 +825,7 @@
     {
         "id": 42, 
         "name": "Lightning Talkers", 
-        "email": null, 
+        "email": "lightning_talkers@fossasia.org", 
         "mobile": null, 
         "photo": null, 
         "organisation": "OpenTechSummit", 
@@ -848,7 +848,7 @@
     {
         "id": 74, 
         "name": "David Weber", 
-        "email": null, 
+        "email": "david_weber@fossasia.org", 
         "mobile": null, 
         "photo": null, 
         "organisation": "Not available", 
@@ -871,7 +871,7 @@
     {
         "id": 75, 
         "name": "Roman Kobosil", 
-        "email": null, 
+        "email": "roman_kobosil@fossasia.org", 
         "mobile": null, 
         "photo": null, 
         "organisation": "Not available", 
@@ -894,7 +894,7 @@
     {
         "id": 40, 
         "name": "Thomas Tursics", 
-        "email": null, 
+        "email": "thomas_tursics@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/ThomasTursics_40.jpg", 
         "organisation": "Code for Berlin", 
@@ -917,7 +917,7 @@
     {
         "id": 43, 
         "name": "Justin Lee", 
-        "email": null, 
+        "email": "justin_lee@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/JustinLee_43.jpg", 
         "organisation": "FOSSASIA", 
@@ -940,7 +940,7 @@
     {
         "id": 44, 
         "name": "Rufus Pollock", 
-        "email": null, 
+        "email": "rufus_pollock@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/RufusPollock_44.jpg", 
         "organisation": "Founder Open Knowledge", 
@@ -967,7 +967,7 @@
     {
         "id": 45, 
         "name": "Erik Dörnenburg", 
-        "email": null, 
+        "email": "erik_drnenburg@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/ErikDörnenburg_45.jpg", 
         "organisation": "CTO Thoughtworks", 
@@ -990,7 +990,7 @@
     {
         "id": 46, 
         "name": "Lennart Poettering", 
-        "email": null, 
+        "email": "lennart_poettering@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/LennartPoettering_46.jpg", 
         "organisation": "Red Hat", 
@@ -1013,7 +1013,7 @@
     {
         "id": 47, 
         "name": "Chris Kühl", 
-        "email": null, 
+        "email": "chris_khl@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/ChrisKühl_47.jpg", 
         "organisation": "Kinvolk GmbH", 
@@ -1036,7 +1036,7 @@
     {
         "id": 55, 
         "name": "Mario Behling", 
-        "email": null, 
+        "email": "mario_behling@fossasia.org", 
         "mobile": null, 
         "photo": null, 
         "organisation": "OTS", 
@@ -1059,7 +1059,7 @@
     {
         "id": 76, 
         "name": "Paula Glaser", 
-        "email": null, 
+        "email": "paula_glaser@fossasia.org", 
         "mobile": null, 
         "photo": null, 
         "organisation": "Not available", 
@@ -1082,7 +1082,7 @@
     {
         "id": 49, 
         "name": "Bruno Kirschner", 
-        "email": null, 
+        "email": "bruno_kirschner@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/BrunoKirschner_49.jpg", 
         "organisation": "Beuth Hochschule für Technik Berlin", 
@@ -1105,7 +1105,7 @@
     {
         "id": 51, 
         "name": "Veit Schiele", 
-        "email": null, 
+        "email": "veit_schiele@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/VeitSchiele_51.jpg", 
         "organisation": "cusy GmbH", 
@@ -1128,7 +1128,7 @@
     {
         "id": 52, 
         "name": "Jörg Knobloch", 
-        "email": null, 
+        "email": "jrg_knobloch@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/JörgKnobloch_52.jpg", 
         "organisation": "Thunderbird", 
@@ -1151,7 +1151,7 @@
     {
         "id": 53, 
         "name": "Rüdiger Trojok", 
-        "email": null, 
+        "email": "rdiger_trojok@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/RüdigerTrojok_53.jpg", 
         "organisation": "Bioflux", 
@@ -1174,7 +1174,7 @@
     {
         "id": 54, 
         "name": "Mirela Alistar", 
-        "email": null, 
+        "email": "mirela_alistar@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MirelaAlistar_54.jpg", 
         "organisation": "Bioflux", 
@@ -1197,7 +1197,7 @@
     {
         "id": 56, 
         "name": "Jakob Schade", 
-        "email": null, 
+        "email": "jakob_schade@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/JakobSchade_56.jpg", 
         "organisation": "Jugend Hackt", 
@@ -1224,7 +1224,7 @@
     {
         "id": 57, 
         "name": "Franziska Schmid", 
-        "email": null, 
+        "email": "franziska_schmid@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/FranziskaSchmid_57.jpg", 
         "organisation": "Junge Tüftler", 
@@ -1251,7 +1251,7 @@
     {
         "id": 58, 
         "name": "Julia Kleeberger", 
-        "email": null, 
+        "email": "julia_kleeberger@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/JuliaKleeberger_58.jpg", 
         "organisation": "Junge Tüftler", 
@@ -1278,7 +1278,7 @@
     {
         "id": 59, 
         "name": "Barbara Fischer", 
-        "email": null, 
+        "email": "barbara_fischer@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/BarbaraFischer_59.jpg", 
         "organisation": "Wikimedia Deutschland", 
@@ -1301,7 +1301,7 @@
     {
         "id": 77, 
         "name": "Harald Maaßen", 
-        "email": null, 
+        "email": "harald_maaen@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/HaraldMaaßen_77.jpg", 
         "organisation": "LPI e.V.", 
@@ -1328,7 +1328,7 @@
     {
         "id": 61, 
         "name": "Elio Qoshi", 
-        "email": null, 
+        "email": "elio_qoshi@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/ElioQoshi_61.jpg", 
         "organisation": "Mozilla", 
@@ -1351,7 +1351,7 @@
     {
         "id": 62, 
         "name": "Lars Zimmermann", 
-        "email": null, 
+        "email": "lars_zimmermann@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/LarsZimmermann_62.jpg", 
         "organisation": "Open Source Circular Economy Days", 
@@ -1374,7 +1374,7 @@
     {
         "id": 63, 
         "name": "Felicitas Blanck", 
-        "email": null, 
+        "email": "felicitas_blanck@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/FelicitasBlanck_63.jpg", 
         "organisation": "Community Managerin", 
@@ -1397,7 +1397,7 @@
     {
         "id": 64, 
         "name": "Code Week Award", 
-        "email": null, 
+        "email": "code_week_award@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/CodeWeekAward_64.jpg", 
         "organisation": "Code Week Award", 
@@ -1424,7 +1424,7 @@
     {
         "id": 65, 
         "name": "Chris Ward", 
-        "email": null, 
+        "email": "chris_ward@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/ChrisWard_65.jpg", 
         "organisation": "Gregarious Mammal", 
@@ -1447,7 +1447,7 @@
     {
         "id": 66, 
         "name": "Thomas Fricke", 
-        "email": null, 
+        "email": "thomas_fricke@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/ThomasFricke_66.jpg", 
         "organisation": "Endocode AG", 
@@ -1470,7 +1470,7 @@
     {
         "id": 67, 
         "name": "Kai Mertens", 
-        "email": null, 
+        "email": "kai_mertens@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/KaiMertens_67.jpg", 
         "organisation": "flashcat-project", 
@@ -1493,7 +1493,7 @@
     {
         "id": 68, 
         "name": "Jérémy Bonvoisin", 
-        "email": null, 
+        "email": "jrmy_bonvoisin@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/JérémyBonvoisin_68.jpg", 
         "organisation": "Technische Universität Berlin", 
@@ -1516,7 +1516,7 @@
     {
         "id": 69, 
         "name": "Jörg Wittenberger", 
-        "email": null, 
+        "email": "jrg_wittenberger@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/JörgWittenberger_69.jpg", 
         "organisation": "Askemos", 
@@ -1539,7 +1539,7 @@
     {
         "id": 70, 
         "name": "Denjell Caleb Thompson", 
-        "email": null, 
+        "email": "denjell_caleb_thompson@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/DenjellCalebThompson_70.jpg", 
         "organisation": "ionary", 
@@ -1562,7 +1562,7 @@
     {
         "id": 71, 
         "name": "Maximilian Richt", 
-        "email": null, 
+        "email": "maximilian_richt@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MaximilianRicht_71.jpg", 
         "organisation": "Open Knowledge Foundation Deutschland", 
@@ -1585,7 +1585,7 @@
     {
         "id": 72, 
         "name": "carlo von lynX", 
-        "email": null, 
+        "email": "carlo_von_lynx@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/CarloVonLynx_72.jpg", 
         "organisation": "youbroketheinternet.org", 
@@ -1608,7 +1608,7 @@
     {
         "id": 1, 
         "name": "Mitch Altman", 
-        "email": null, 
+        "email": "mitch_altman@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MitchAltman_1.jpg", 
         "organisation": "Cornfield Electronics", 
@@ -1631,7 +1631,7 @@
     {
         "id": 15, 
         "name": "Jan Nikolai Nelles", 
-        "email": null, 
+        "email": "jan_nikolai_nelles@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/JanNikolaiNelles_15.jpg", 
         "organisation": "Nefertiti Hack", 
@@ -1658,7 +1658,7 @@
     {
         "id": 17, 
         "name": "Jan Dittrich", 
-        "email": null, 
+        "email": "jan_dittrich@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/JanDittrich_17.jpg", 
         "organisation": "OpenTech Designer", 
@@ -1685,7 +1685,7 @@
     {
         "id": 25, 
         "name": "Jos Poortvliet", 
-        "email": null, 
+        "email": "jos_poortvliet@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/JosPoortvliet_25.jpg", 
         "organisation": "ownCloud", 
@@ -1708,7 +1708,7 @@
     {
         "id": 30, 
         "name": "Mbisimo Emmanuel", 
-        "email": null, 
+        "email": "mbisimo_emmanuel@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MbisimoEmmanuel_30.jpg", 
         "organisation": "Peace Hack Camp", 
@@ -1735,7 +1735,7 @@
     {
         "id": 38, 
         "name": "Marius Hoch", 
-        "email": null, 
+        "email": "marius_hoch@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MariusHoch_38.jpg", 
         "organisation": "Wikimedia Deutschland e.V.", 
@@ -1758,7 +1758,7 @@
     {
         "id": 39, 
         "name": "Zac Brown", 
-        "email": null, 
+        "email": "zac_brown@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/ZacBrown_39.jpg", 
         "organisation": "FreeGeo API", 
@@ -1781,7 +1781,7 @@
     {
         "id": 41, 
         "name": "Alexander Loibl", 
-        "email": null, 
+        "email": "alexander_loibl@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/AlexanderLoibl_41.jpg", 
         "organisation": "IBM", 
@@ -1808,7 +1808,7 @@
     {
         "id": 48, 
         "name": "Ruediger Weis", 
-        "email": null, 
+        "email": "ruediger_weis@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/RuedigerWeis_48.jpg", 
         "organisation": "Beuth Hochschule für Technik Berlin", 
@@ -1831,7 +1831,7 @@
     {
         "id": 50, 
         "name": "Matthias Kirschner", 
-        "email": null, 
+        "email": "matthias_kirschner@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MatthiasKirschner_50.jpg", 
         "organisation": "Free Software Foundation Europe e.V.", 
@@ -1854,7 +1854,7 @@
     {
         "id": 60, 
         "name": "Frederik Kramer", 
-        "email": null, 
+        "email": "frederik_kramer@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/FrederikKramer_60.jpg", 
         "organisation": "initOS GmbH / Otto-von-Guericke University Magdeburg", 

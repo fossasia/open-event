@@ -2,7 +2,7 @@
     {
         "id": 1, 
         "name": "Hong Phuc Dang", 
-        "email": null, 
+        "email": "hong_phuc_dang@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "FOSSASIA", 
@@ -90,7 +90,7 @@
     {
         "id": 2, 
         "name": "Mario Behling", 
-        "email": null, 
+        "email": "mario_behling@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "MBM", 
@@ -114,7 +114,7 @@
     {
         "id": 3, 
         "name": "Lim Tit Meng", 
-        "email": null, 
+        "email": "lim_tit_meng@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Science Centre Singapore", 
@@ -137,7 +137,7 @@
     {
         "id": 4, 
         "name": "Harish Pillay", 
-        "email": null, 
+        "email": "harish_pillay@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "RedHat", 
@@ -180,7 +180,7 @@
     {
         "id": 6, 
         "name": "Bernard Leong", 
-        "email": null, 
+        "email": "bernard_leong@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Singapore Post", 
@@ -203,7 +203,7 @@
     {
         "id": 7, 
         "name": "Davide Storti, ITO Misako", 
-        "email": null, 
+        "email": "davide_storti_ito_misako@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "UNESCO", 
@@ -227,7 +227,7 @@
     {
         "id": 8, 
         "name": "Cat Allman", 
-        "email": null, 
+        "email": "cat_allman@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/CatAllman_8.jpg", 
         "organisation": "Google", 
@@ -251,7 +251,7 @@
     {
         "id": 9, 
         "name": "Jan Nikolai Nelles", 
-        "email": null, 
+        "email": "jan_nikolai_nelles@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/JanNikolaiNelles_9.jpg", 
         "organisation": "Artist of \"The Other Nefertiti\"", 
@@ -290,7 +290,7 @@
     {
         "id": 10, 
         "name": "Mike McQuaid", 
-        "email": null, 
+        "email": "mike_mcquaid@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MikeMcquaid_10", 
         "organisation": "GitHub/Homebrew", 
@@ -314,7 +314,7 @@
     {
         "id": 11, 
         "name": "Lennart Poettering", 
-        "email": null, 
+        "email": "lennart_poettering@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/LennartPoettering_11.jpg", 
         "organisation": "Red Hat", 
@@ -349,7 +349,7 @@
     {
         "id": 13, 
         "name": "David Crellin", 
-        "email": null, 
+        "email": "david_crellin@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "ScienceScope Ltd", 
@@ -372,7 +372,7 @@
     {
         "id": 14, 
         "name": "Ricky Setyawan", 
-        "email": null, 
+        "email": "ricky_setyawan@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "MySQL", 
@@ -416,7 +416,7 @@
     {
         "id": 15, 
         "name": "William Hooi", 
-        "email": null, 
+        "email": "william_hooi@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "ESPert", 
@@ -455,7 +455,7 @@
     {
         "id": 17, 
         "name": "Stephanie Taylor", 
-        "email": null, 
+        "email": "stephanie_taylor@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Google", 
@@ -478,7 +478,7 @@
     {
         "id": 18, 
         "name": "Stephan Wissel", 
-        "email": null, 
+        "email": "stephan_wissel@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "IBM Singapore", 
@@ -501,7 +501,7 @@
     {
         "id": 22, 
         "name": "Sarvesh Ranjan", 
-        "email": null, 
+        "email": "sarvesh_ranjan@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Cisco", 
@@ -524,7 +524,7 @@
     {
         "id": 16, 
         "name": "Praveen Patil", 
-        "email": null, 
+        "email": "praveen_patil@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/PraveenPatil_16.jpg", 
         "organisation": "ExpEYES", 
@@ -567,7 +567,7 @@
     {
         "id": 19, 
         "name": "Francis Bond", 
-        "email": null, 
+        "email": "francis_bond@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/FrancisBond_19", 
         "organisation": "Nanyang Technological University", 
@@ -590,7 +590,7 @@
     {
         "id": 20, 
         "name": "Michael Christen", 
-        "email": null, 
+        "email": "michael_christen@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MichaelChristen_20.jpg", 
         "organisation": "YaCy.net", 
@@ -617,7 +617,7 @@
     {
         "id": 21, 
         "name": "Elizabeth Joseph", 
-        "email": null, 
+        "email": "elizabeth_joseph@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/ElizabethJoseph_21.png", 
         "organisation": "Hewlett Packard Enterprise", 
@@ -640,7 +640,7 @@
     {
         "id": 24, 
         "name": "Dong Ma", 
-        "email": null, 
+        "email": "dong_ma@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Hewlett Packard Enterprise ", 
@@ -663,7 +663,7 @@
     {
         "id": 27, 
         "name": "Eugene Teo", 
-        "email": null, 
+        "email": "eugene_teo@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "OpenTech", 
@@ -686,7 +686,7 @@
     {
         "id": 28, 
         "name": "Rajat Ujawane", 
-        "email": null, 
+        "email": "rajat_ujawane@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "National Institute of Technology Warangal", 
@@ -709,7 +709,7 @@
     {
         "id": 31, 
         "name": "Kukuh Syafaat", 
-        "email": null, 
+        "email": "kukuh_syafaat@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "BlankOn Project", 
@@ -732,7 +732,7 @@
     {
         "id": 33, 
         "name": "Trilok Tourani", 
-        "email": null, 
+        "email": "trilok_tourani@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "sTeam", 
@@ -755,7 +755,7 @@
     {
         "id": 34, 
         "name": "Arushi Vashist", 
-        "email": null, 
+        "email": "arushi_vashist@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "International Institute Of Information Technology, Hyderabad, India", 
@@ -778,7 +778,7 @@
     {
         "id": 35, 
         "name": "Saif Niazi", 
-        "email": null, 
+        "email": "saif_niazi@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Data Scientist", 
@@ -801,7 +801,7 @@
     {
         "id": 82, 
         "name": "Abhishek Agrawal", 
-        "email": null, 
+        "email": "abhishek_agrawal@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Makino Asia Private Limited", 
@@ -824,7 +824,7 @@
     {
         "id": 26, 
         "name": "Damini Satya Kammakomati", 
-        "email": null, 
+        "email": "damini_satya_kammakomati@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/DaminiSatyaKammakomati_26", 
         "organisation": "Kony, Inc.", 
@@ -847,7 +847,7 @@
     {
         "id": 29, 
         "name": "Faris Muhamad Ali Fadloli", 
-        "email": null, 
+        "email": "faris_muhamad_ali_fadloli@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/FarisMuhamadAliFadloli_29", 
         "organisation": "CryoWerx", 
@@ -870,7 +870,7 @@
     {
         "id": 30, 
         "name": "Kranthi Kiran Guduru", 
-        "email": null, 
+        "email": "kranthi_kiran_guduru@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/KranthiKiranGuduru_30", 
         "organisation": "Thinkbroad", 
@@ -897,7 +897,7 @@
     {
         "id": 32, 
         "name": "Sudheesh Singanamalla", 
-        "email": null, 
+        "email": "sudheesh_singanamalla@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/SudheeshSinganamalla_32", 
         "organisation": "Loklak / National Institute of Technology Warangal", 
@@ -928,7 +928,7 @@
     {
         "id": 36, 
         "name": "Jigyasa Grover", 
-        "email": null, 
+        "email": "jigyasa_grover@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Women Who Code", 
@@ -955,7 +955,7 @@
     {
         "id": 38, 
         "name": "Phuc Pham", 
-        "email": null, 
+        "email": "phuc_pham@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Gcall Pte.Ltd", 
@@ -978,7 +978,7 @@
     {
         "id": 39, 
         "name": "Colin Charles", 
-        "email": null, 
+        "email": "colin_charles@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "MariaDB Corporation", 
@@ -1002,7 +1002,7 @@
     {
         "id": 41, 
         "name": "Carter Emmart", 
-        "email": null, 
+        "email": "carter_emmart@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Astrovisualization at the American Museum of Natural History", 
@@ -1025,7 +1025,7 @@
     {
         "id": 43, 
         "name": "Rafal Kowalski, Manan Wason", 
-        "email": null, 
+        "email": "rafal_kowalski_manan_wason@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Open Event", 
@@ -1048,7 +1048,7 @@
     {
         "id": 40, 
         "name": "Tim Oxley", 
-        "email": null, 
+        "email": "tim_oxley@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/TimOxley_40.png", 
         "organisation": "CampJS", 
@@ -1071,7 +1071,7 @@
     {
         "id": 42, 
         "name": "Saptarshi Purkayastha", 
-        "email": null, 
+        "email": "saptarshi_purkayastha@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/SaptarshiPurkayastha_42.jpg", 
         "organisation": "OpenMRS", 
@@ -1094,7 +1094,7 @@
     {
         "id": 56, 
         "name": "Barry Threw, Jon Phillips", 
-        "email": null, 
+        "email": "barry_threw_jon_phillips@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/BarryThrew,JonPhillips_56.jpg", 
         "organisation": "#NEWPALMYRA", 
@@ -1117,7 +1117,7 @@
     {
         "id": 45, 
         "name": "Elda Webb", 
-        "email": null, 
+        "email": "elda_webb@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "One Maker Group", 
@@ -1160,7 +1160,7 @@
     {
         "id": 47, 
         "name": "Matthew Treinish", 
-        "email": null, 
+        "email": "matthew_treinish@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "HPE", 
@@ -1183,7 +1183,7 @@
     {
         "id": 50, 
         "name": "Lorenz Gerber", 
-        "email": null, 
+        "email": "lorenz_gerber@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Swedish University of Agricultural Sciences", 
@@ -1206,7 +1206,7 @@
     {
         "id": 51, 
         "name": "Justin Lee", 
-        "email": null, 
+        "email": "justin_lee@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "IBM", 
@@ -1229,7 +1229,7 @@
     {
         "id": 52, 
         "name": "Delynn Ho", 
-        "email": null, 
+        "email": "delynn_ho@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Smaato ", 
@@ -1252,7 +1252,7 @@
     {
         "id": 54, 
         "name": "Michael Cannon", 
-        "email": null, 
+        "email": "michael_cannon@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Axelerant", 
@@ -1275,7 +1275,7 @@
     {
         "id": 55, 
         "name": "Hack Day Scientists", 
-        "email": null, 
+        "email": "hack_day_scientists@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Not available", 
@@ -1298,7 +1298,7 @@
     {
         "id": 46, 
         "name": "François Cartegnie", 
-        "email": null, 
+        "email": "franois_cartegnie@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/FrançoisCartegnie_46.jpg", 
         "organisation": "VideoLAN", 
@@ -1321,7 +1321,7 @@
     {
         "id": 48, 
         "name": "Barry Threw", 
-        "email": null, 
+        "email": "barry_threw@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/BarryThrew_48.jpg", 
         "organisation": "#NEWPALMYRA", 
@@ -1344,7 +1344,7 @@
     {
         "id": 49, 
         "name": "Tomaž Vajngerl", 
-        "email": null, 
+        "email": "toma_vajngerl@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/TomažVajngerl_49.jpeg", 
         "organisation": "Collabora Productivity", 
@@ -1367,7 +1367,7 @@
     {
         "id": 53, 
         "name": "George Goh", 
-        "email": null, 
+        "email": "george_goh@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/GeorgeGoh_53.jpg", 
         "organisation": "Red Hat", 
@@ -1390,7 +1390,7 @@
     {
         "id": 57, 
         "name": "Susan Spencer", 
-        "email": null, 
+        "email": "susan_spencer@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/SusanSpencer_57.jpg", 
         "organisation": "Valentina", 
@@ -1425,7 +1425,7 @@
     {
         "id": 58, 
         "name": "Leon Lim", 
-        "email": null, 
+        "email": "leon_lim@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Touch & Print", 
@@ -1460,7 +1460,7 @@
     {
         "id": 63, 
         "name": "Mike Anderson", 
-        "email": null, 
+        "email": "mike_anderson@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Datacraft", 
@@ -1483,7 +1483,7 @@
     {
         "id": 66, 
         "name": "Sherman Chen", 
-        "email": null, 
+        "email": "sherman_chen@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Progress", 
@@ -1506,7 +1506,7 @@
     {
         "id": 61, 
         "name": "Martin Andrews", 
-        "email": null, 
+        "email": "martin_andrews@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MartinAndrews_61.jpg", 
         "organisation": "Red Cat Labs", 
@@ -1529,7 +1529,7 @@
     {
         "id": 64, 
         "name": "Ulrich Norbisrath", 
-        "email": null, 
+        "email": "ulrich_norbisrath@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/UlrichNorbisrath_64.jpg", 
         "organisation": "ulno.net", 
@@ -1568,7 +1568,7 @@
     {
         "id": 65, 
         "name": "Mike McQuaid, Sahil Bajaj", 
-        "email": null, 
+        "email": "mike_mcquaid_sahil_bajaj@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MikeMcquaid,SahilBajaj_65", 
         "organisation": "GitHub/Homebrew/Grumpy Gits", 
@@ -1591,7 +1591,7 @@
     {
         "id": 67, 
         "name": "Bruce Momjian", 
-        "email": null, 
+        "email": "bruce_momjian@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/BruceMomjian_67.jpg", 
         "organisation": "EnterpriseDB", 
@@ -1614,7 +1614,7 @@
     {
         "id": 68, 
         "name": "Manan Wason", 
-        "email": null, 
+        "email": "manan_wason@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MananWason_68", 
         "organisation": "IIIT Delhi", 
@@ -1641,7 +1641,7 @@
     {
         "id": 69, 
         "name": "Martin Bähr", 
-        "email": null, 
+        "email": "martin_bhr@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "BLUG", 
@@ -1664,7 +1664,7 @@
     {
         "id": 72, 
         "name": "Syabiqah Phang", 
-        "email": null, 
+        "email": "syabiqah_phang@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "OneMaker Group", 
@@ -1687,7 +1687,7 @@
     {
         "id": 73, 
         "name": "Luther Goh", 
-        "email": null, 
+        "email": "luther_goh@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "12Geeks", 
@@ -1710,7 +1710,7 @@
     {
         "id": 74, 
         "name": "Wilfred Wong", 
-        "email": null, 
+        "email": "wilfred_wong@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "OneMaker Group", 
@@ -1733,7 +1733,7 @@
     {
         "id": 75, 
         "name": "Gabriel Perumal", 
-        "email": null, 
+        "email": "gabriel_perumal@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Ground Up Initiative", 
@@ -1760,7 +1760,7 @@
     {
         "id": 77, 
         "name": "Jiin Joo Ong", 
-        "email": null, 
+        "email": "jiin_joo_ong@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Garuda Robotics", 
@@ -1783,7 +1783,7 @@
     {
         "id": 78, 
         "name": "Parmeshwr Prasad Vishwakarma", 
-        "email": null, 
+        "email": "parmeshwr_prasad_vishwakarma@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "dell", 
@@ -1806,7 +1806,7 @@
     {
         "id": 79, 
         "name": "Shwetank Dixit", 
-        "email": null, 
+        "email": "shwetank_dixit@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Opera", 
@@ -1829,7 +1829,7 @@
     {
         "id": 71, 
         "name": "Jamen Loh", 
-        "email": null, 
+        "email": "jamen_loh@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/JamenLoh_71.jpg", 
         "organisation": "OneMaker Group", 
@@ -1852,7 +1852,7 @@
     {
         "id": 76, 
         "name": "Shivam Verma", 
-        "email": null, 
+        "email": "shivam_verma@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/ShivamVerma_76.jpg", 
         "organisation": "Ambient Dynamix/National University of Singapore", 
@@ -1875,7 +1875,7 @@
     {
         "id": 80, 
         "name": "Kushal Das", 
-        "email": null, 
+        "email": "kushal_das@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/KushalDas_80.jpg", 
         "organisation": "Fedora Project", 
@@ -1910,7 +1910,7 @@
     {
         "id": 83, 
         "name": "Saad Chinoy", 
-        "email": null, 
+        "email": "saad_chinoy@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Tusitala Digital Storytelling", 
@@ -1933,7 +1933,7 @@
     {
         "id": 85, 
         "name": "Kenji Shimono", 
-        "email": null, 
+        "email": "kenji_shimono@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Netwalker Laboratory, Tokaido Linux Users Group", 
@@ -1956,7 +1956,7 @@
     {
         "id": 87, 
         "name": "Masakazu Takasu", 
-        "email": null, 
+        "email": "masakazu_takasu@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "teamLab, and Nico-Tech", 
@@ -1979,7 +1979,7 @@
     {
         "id": 88, 
         "name": "Deepak Karki Aishwarya Kaliki", 
-        "email": null, 
+        "email": "deepak_karki_aishwarya_kaliki@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Beagleboard", 
@@ -2002,7 +2002,7 @@
     {
         "id": 91, 
         "name": "Jerrayl Ng", 
-        "email": null, 
+        "email": "jerrayl_ng@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Dunman High School", 
@@ -2025,7 +2025,7 @@
     {
         "id": 92, 
         "name": "Red Hat Family", 
-        "email": null, 
+        "email": "red_hat_family@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Red Hat", 
@@ -2048,7 +2048,7 @@
     {
         "id": 93, 
         "name": "Yaniv Bronhaim", 
-        "email": null, 
+        "email": "yaniv_bronhaim@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Red Hat", 
@@ -2075,7 +2075,7 @@
     {
         "id": 94, 
         "name": "Amit Shah", 
-        "email": null, 
+        "email": "amit_shah@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Red Hat", 
@@ -2098,7 +2098,7 @@
     {
         "id": 95, 
         "name": "Parag Ashok Nemade", 
-        "email": null, 
+        "email": "parag_ashok_nemade@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Red Hat", 
@@ -2121,7 +2121,7 @@
     {
         "id": 86, 
         "name": "Carsten Haitzler", 
-        "email": null, 
+        "email": "carsten_haitzler@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/CarstenHaitzler_86.jpg", 
         "organisation": "Samsung Electronics", 
@@ -2144,7 +2144,7 @@
     {
         "id": 90, 
         "name": "Akhil Pandey", 
-        "email": null, 
+        "email": "akhil_pandey@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/AkhilPandey_90", 
         "organisation": "Mozilla", 
@@ -2167,7 +2167,7 @@
     {
         "id": 96, 
         "name": "Viral B. Shah", 
-        "email": null, 
+        "email": "viral_b_shah@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/ViralB.Shah_96.jpg", 
         "organisation": "Julia Computing", 
@@ -2190,7 +2190,7 @@
     {
         "id": 97, 
         "name": "Rahul Mahale", 
-        "email": null, 
+        "email": "rahul_mahale@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/RahulMahale_97.jpg", 
         "organisation": "BigBinary", 
@@ -2213,7 +2213,7 @@
     {
         "id": 142, 
         "name": "Breandan Considine", 
-        "email": null, 
+        "email": "breandan_considine@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/BreandanConsidine_142.png", 
         "organisation": "JetBrains", 
@@ -2236,7 +2236,7 @@
     {
         "id": 100, 
         "name": "Liron Aravot", 
-        "email": null, 
+        "email": "liron_aravot@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Red Hat", 
@@ -2259,7 +2259,7 @@
     {
         "id": 101, 
         "name": "Anisha Narang", 
-        "email": null, 
+        "email": "anisha_narang@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Red Hat", 
@@ -2282,7 +2282,7 @@
     {
         "id": 102, 
         "name": "Swapneel Patnekar", 
-        "email": null, 
+        "email": "swapneel_patnekar@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Shreshta IT Technologies Pvt. Ltd.", 
@@ -2305,7 +2305,7 @@
     {
         "id": 104, 
         "name": "Rishi Shah", 
-        "email": null, 
+        "email": "rishi_shah@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "appbase.io", 
@@ -2328,7 +2328,7 @@
     {
         "id": 105, 
         "name": "Vincent De Smet", 
-        "email": null, 
+        "email": "vincent_de_smet@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Docker Saigon", 
@@ -2351,7 +2351,7 @@
     {
         "id": 106, 
         "name": "Hunter Nield", 
-        "email": null, 
+        "email": "hunter_nield@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Acaleph", 
@@ -2374,7 +2374,7 @@
     {
         "id": 107, 
         "name": "Dilum Navanjana Welgamage", 
-        "email": null, 
+        "email": "dilum_navanjana_welgamage@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "99x Technology", 
@@ -2397,7 +2397,7 @@
     {
         "id": 108, 
         "name": "Abdul Rauf", 
-        "email": null, 
+        "email": "abdul_rauf@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Mozilla", 
@@ -2420,7 +2420,7 @@
     {
         "id": 109, 
         "name": "Hai An DANG", 
-        "email": null, 
+        "email": "hai_an_dang@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Institut National des Sciences Appliquées de Toulouse", 
@@ -2443,7 +2443,7 @@
     {
         "id": 110, 
         "name": "Rizky Ariestiyansyah", 
-        "email": null, 
+        "email": "rizky_ariestiyansyah@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Mozilla Tech Speaker", 
@@ -2466,7 +2466,7 @@
     {
         "id": 99, 
         "name": "Udayan Tandon", 
-        "email": null, 
+        "email": "udayan_tandon@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/UdayanTandon_99.jpg", 
         "organisation": "coala-analyzer", 
@@ -2489,7 +2489,7 @@
     {
         "id": 103, 
         "name": "Nils Magnus", 
-        "email": null, 
+        "email": "nils_magnus@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/NilsMagnus_103.jpg", 
         "organisation": "LinuxTag Association", 
@@ -2512,7 +2512,7 @@
     {
         "id": 115, 
         "name": "Ivan Kirichenko", 
-        "email": null, 
+        "email": "ivan_kirichenko@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "SeeSaw Labs", 
@@ -2535,7 +2535,7 @@
     {
         "id": 116, 
         "name": "Mark Clarke", 
-        "email": null, 
+        "email": "mark_clarke@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Jumping Bean", 
@@ -2558,7 +2558,7 @@
     {
         "id": 117, 
         "name": "Ram Dayal Vaishnav", 
-        "email": null, 
+        "email": "ram_dayal_vaishnav@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Mozilla", 
@@ -2581,7 +2581,7 @@
     {
         "id": 118, 
         "name": "Soares Chen", 
-        "email": null, 
+        "email": "soares_chen@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "SingaporeJS", 
@@ -2604,7 +2604,7 @@
     {
         "id": 119, 
         "name": "Joerg Henning", 
-        "email": null, 
+        "email": "joerg_henning@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "FOSSASIA", 
@@ -2622,7 +2622,7 @@
     {
         "id": 120, 
         "name": "Sebastiaan Deckers", 
-        "email": null, 
+        "email": "sebastiaan_deckers@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Cofounders.sg", 
@@ -2640,7 +2640,7 @@
     {
         "id": 121, 
         "name": "Chinmay Pendharkar", 
-        "email": null, 
+        "email": "chinmay_pendharkar@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Web Audio", 
@@ -2663,7 +2663,7 @@
     {
         "id": 122, 
         "name": "Ivan Zimine", 
-        "email": null, 
+        "email": "ivan_zimine@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Python User Group Singapore", 
@@ -2686,7 +2686,7 @@
     {
         "id": 124, 
         "name": "Shadab Zafar", 
-        "email": null, 
+        "email": "shadab_zafar@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Jamia Millia Islamia", 
@@ -2709,7 +2709,7 @@
     {
         "id": 125, 
         "name": "Sundeep Anand", 
-        "email": null, 
+        "email": "sundeep_anand@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Red Hat", 
@@ -2732,7 +2732,7 @@
     {
         "id": 126, 
         "name": "Yask Srivastava", 
-        "email": null, 
+        "email": "yask_srivastava@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Moin Moin Wiki", 
@@ -2755,7 +2755,7 @@
     {
         "id": 112, 
         "name": "Robert Reyes", 
-        "email": null, 
+        "email": "robert_reyes@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/RobertReyes_112.JPG", 
         "organisation": "Mozilla Philippines Community", 
@@ -2778,7 +2778,7 @@
     {
         "id": 113, 
         "name": "Dan Tran", 
-        "email": null, 
+        "email": "dan_tran@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/DanTran_113.jpg", 
         "organisation": "GrabTaxi", 
@@ -2801,7 +2801,7 @@
     {
         "id": 114, 
         "name": "Hafiz Ismail", 
-        "email": null, 
+        "email": "hafiz_ismail@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/HafizIsmail_114.jpeg", 
         "organisation": "WEHAVEFACES", 
@@ -2824,7 +2824,7 @@
     {
         "id": 123, 
         "name": "Sayan Chowdhury", 
-        "email": null, 
+        "email": "sayan_chowdhury@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/SayanChowdhury_123.jpg", 
         "organisation": "Fedora Project", 
@@ -2851,7 +2851,7 @@
     {
         "id": 127, 
         "name": "Amita Sharma", 
-        "email": null, 
+        "email": "amita_sharma@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Red Hat", 
@@ -2874,7 +2874,7 @@
     {
         "id": 131, 
         "name": "Ankita Shukla", 
-        "email": null, 
+        "email": "ankita_shukla@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "IIT Roorkee", 
@@ -2897,7 +2897,7 @@
     {
         "id": 135, 
         "name": "Adam Drake", 
-        "email": null, 
+        "email": "adam_drake@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Atazzo", 
@@ -2920,7 +2920,7 @@
     {
         "id": 136, 
         "name": "Thanh Son Le", 
-        "email": null, 
+        "email": "thanh_son_le@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "IBM", 
@@ -2943,7 +2943,7 @@
     {
         "id": 139, 
         "name": "Aneesh Devasthale", 
-        "email": null, 
+        "email": "aneesh_devasthale@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Loklak", 
@@ -2970,7 +2970,7 @@
     {
         "id": 140, 
         "name": "Philips Kokoh Prasetyo", 
-        "email": null, 
+        "email": "philips_kokoh_prasetyo@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Living Analytics Research Centre (LARC)", 
@@ -2993,7 +2993,7 @@
     {
         "id": 141, 
         "name": "Rafal Kowalski", 
-        "email": null, 
+        "email": "rafal_kowalski@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Rafal ", 
@@ -3016,7 +3016,7 @@
     {
         "id": 129, 
         "name": "Amit Kumar JHA", 
-        "email": null, 
+        "email": "amit_kumar_jha@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/AmitKumarJha_129", 
         "organisation": "SymPy", 
@@ -3039,7 +3039,7 @@
     {
         "id": 132, 
         "name": "U-Zyn Chua", 
-        "email": null, 
+        "email": "uzyn_chua@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/U-ZynChua_132.jpg", 
         "organisation": "Zynesis", 
@@ -3062,7 +3062,7 @@
     {
         "id": 133, 
         "name": "Satdeep Gill", 
-        "email": null, 
+        "email": "satdeep_gill@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/SatdeepGill_133.JPG", 
         "organisation": "Punjabi Wikimedians", 
@@ -3089,7 +3089,7 @@
     {
         "id": 134, 
         "name": "Alexander Bezzubov", 
-        "email": null, 
+        "email": "alexander_bezzubov@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/AlexanderBezzubov_134.png", 
         "organisation": "NFLabs Inc, Apache Software Foundation", 
@@ -3112,7 +3112,7 @@
     {
         "id": 137, 
         "name": "Mhairi O'Hara", 
-        "email": null, 
+        "email": "mhairi_ohara@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MhairiO'Hara_137.png", 
         "organisation": "Humanitarian OpenStreetMap Team", 
@@ -3135,7 +3135,7 @@
     {
         "id": 138, 
         "name": "Ganeshkumar Shanmugam", 
-        "email": null, 
+        "email": "ganeshkumar_shanmugam@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/GaneshkumarShanmugam_138.jpg", 
         "organisation": "GeoICON Pte. Ltd", 
@@ -3158,7 +3158,7 @@
     {
         "id": 143, 
         "name": "Kazuki Uehara", 
-        "email": null, 
+        "email": "kazuki_uehara@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "NTT OSS Center", 
@@ -3181,7 +3181,7 @@
     {
         "id": 144, 
         "name": "CK Tan", 
-        "email": null, 
+        "email": "ck_tan@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Vitesse Data", 
@@ -3204,7 +3204,7 @@
     {
         "id": 145, 
         "name": "Sivakumar K", 
-        "email": null, 
+        "email": "sivakumar_k@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "InMobi", 
@@ -3227,7 +3227,7 @@
     {
         "id": 146, 
         "name": "Atri Sharma", 
-        "email": null, 
+        "email": "atri_sharma@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Pivotal", 
@@ -3250,7 +3250,7 @@
     {
         "id": 147, 
         "name": "Ron Dunn", 
-        "email": null, 
+        "email": "ron_dunn@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Ajilius Pty. Ltd.", 
@@ -3273,7 +3273,7 @@
     {
         "id": 148, 
         "name": "Victor Blomqvist", 
-        "email": null, 
+        "email": "victor_blomqvist@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Tantan", 
@@ -3296,7 +3296,7 @@
     {
         "id": 149, 
         "name": "PostgreSQL Community", 
-        "email": null, 
+        "email": "postgresql_community@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Not available", 
@@ -3319,7 +3319,7 @@
     {
         "id": 152, 
         "name": "Abhishek Ranjan", 
-        "email": null, 
+        "email": "abhishek_ranjan@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Oracle India Pvt. Ltd.", 
@@ -3342,7 +3342,7 @@
     {
         "id": 154, 
         "name": "Maxime Pourrat", 
-        "email": null, 
+        "email": "maxime_pourrat@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Winnow Solutions", 
@@ -3365,7 +3365,7 @@
     {
         "id": 155, 
         "name": "Herr Flupke", 
-        "email": null, 
+        "email": "herr_flupke@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "🐰", 
@@ -3388,7 +3388,7 @@
     {
         "id": 156, 
         "name": "Alexander Couzens", 
-        "email": null, 
+        "email": "alexander_couzens@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "freelancer", 
@@ -3411,7 +3411,7 @@
     {
         "id": 157, 
         "name": "Norvan Vogt", 
-        "email": null, 
+        "email": "norvan_vogt@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Queensland Health", 
@@ -3434,7 +3434,7 @@
     {
         "id": 151, 
         "name": "Manish Kumar", 
-        "email": null, 
+        "email": "manish_kumar@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/ManishKumar_151.JPG", 
         "organisation": "Oracle India Pvt. Ltd.", 
@@ -3457,7 +3457,7 @@
     {
         "id": 153, 
         "name": "Oren Golan", 
-        "email": null, 
+        "email": "oren_golan@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/OrenGolan_153", 
         "organisation": "Sanguine", 
@@ -3480,7 +3480,7 @@
     {
         "id": 158, 
         "name": "Anh Tuan Truong", 
-        "email": null, 
+        "email": "anh_tuan_truong@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "VFOSSA", 
@@ -3503,7 +3503,7 @@
     {
         "id": 161, 
         "name": "Sayanee Basu", 
-        "email": null, 
+        "email": "sayanee_basu@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "We Build SG", 
@@ -3526,7 +3526,7 @@
     {
         "id": 163, 
         "name": "Keith Bergelt", 
-        "email": null, 
+        "email": "keith_bergelt@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Open Invention Network", 
@@ -3549,7 +3549,7 @@
     {
         "id": 164, 
         "name": "Anwesha Das", 
-        "email": null, 
+        "email": "anwesha_das@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Fedora Project", 
@@ -3572,7 +3572,7 @@
     {
         "id": 165, 
         "name": "Kevin Huang", 
-        "email": null, 
+        "email": "kevin_huang@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Open Invention Network", 
@@ -3595,7 +3595,7 @@
     {
         "id": 166, 
         "name": "Menghsuan Tsai", 
-        "email": null, 
+        "email": "menghsuan_tsai@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "National Cheng Kung University", 
@@ -3618,7 +3618,7 @@
     {
         "id": 167, 
         "name": "Syah Dwi Prihatmoko", 
-        "email": null, 
+        "email": "syah_dwi_prihatmoko@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "BlankOn", 
@@ -3641,7 +3641,7 @@
     {
         "id": 168, 
         "name": "Tobias Mueller", 
-        "email": null, 
+        "email": "tobias_mueller@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "GNOME", 
@@ -3668,7 +3668,7 @@
     {
         "id": 169, 
         "name": "Huzaifa Sidhpurwala", 
-        "email": null, 
+        "email": "huzaifa_sidhpurwala@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Red Hat", 
@@ -3691,7 +3691,7 @@
     {
         "id": 160, 
         "name": "Huiren Woo", 
-        "email": null, 
+        "email": "huiren_woo@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/HuirenWoo_160.jpg", 
         "organisation": "Fedora Project", 
@@ -3714,7 +3714,7 @@
     {
         "id": 170, 
         "name": "Sambuddha Basu", 
-        "email": null, 
+        "email": "sambuddha_basu@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Privly", 
@@ -3737,7 +3737,7 @@
     {
         "id": 173, 
         "name": "Eileen/Kiruthika", 
-        "email": null, 
+        "email": "eileenkiruthika@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Science Centre", 
@@ -3760,7 +3760,7 @@
     {
         "id": 174, 
         "name": "Science Hacks and Science Hackers", 
-        "email": null, 
+        "email": "science_hacks_and_science_hackers@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Not available", 
@@ -3815,7 +3815,7 @@
     {
         "id": 176, 
         "name": "Chris Lamb", 
-        "email": null, 
+        "email": "chris_lamb@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Debian", 
@@ -3838,7 +3838,7 @@
     {
         "id": 177, 
         "name": "Anand Jain", 
-        "email": null, 
+        "email": "anand_jain@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Oracle Corporation Singapore Pte Ltd", 
@@ -3861,7 +3861,7 @@
     {
         "id": 178, 
         "name": "Derek Dai", 
-        "email": null, 
+        "email": "derek_dai@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Deepin", 
@@ -3896,7 +3896,7 @@
     {
         "id": 179, 
         "name": "Umair Khan", 
-        "email": null, 
+        "email": "umair_khan@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "The Processing Foundation", 
@@ -3919,7 +3919,7 @@
     {
         "id": 181, 
         "name": "Jia Hen Tee", 
-        "email": null, 
+        "email": "jia_hen_tee@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "VRcollab", 
@@ -3942,7 +3942,7 @@
     {
         "id": 183, 
         "name": "Sher Minn Chong", 
-        "email": null, 
+        "email": "sher_minn_chong@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Code Artist", 
@@ -3965,7 +3965,7 @@
     {
         "id": 171, 
         "name": "Alexandre Lision", 
-        "email": null, 
+        "email": "alexandre_lision@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/AlexandreLision_171.jpg", 
         "organisation": "Ring developped by Savoir-faire Linux", 
@@ -4000,7 +4000,7 @@
     {
         "id": 172, 
         "name": "Michael Rebultan", 
-        "email": null, 
+        "email": "michael_rebultan@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MichaelRebultan_172.jpg", 
         "organisation": "Equinix", 
@@ -4023,7 +4023,7 @@
     {
         "id": 180, 
         "name": "Owais Zahid", 
-        "email": null, 
+        "email": "owais_zahid@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/OwaisZahid_180", 
         "organisation": "Autodesk", 
@@ -4046,7 +4046,7 @@
     {
         "id": 182, 
         "name": "Jan-Christoph Borchardt", 
-        "email": null, 
+        "email": "janchristoph_borchardt@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/Jan-ChristophBorchardt_182.jpg", 
         "organisation": "ownCloud, Open Source Design", 
@@ -4069,7 +4069,7 @@
     {
         "id": 184, 
         "name": "Victoria Bondarchuk", 
-        "email": null, 
+        "email": "victoria_bondarchuk@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/VictoriaBondarchuk_184.jpg", 
         "organisation": "Seoul Tech Society, Dmajor", 
@@ -4104,7 +4104,7 @@
     {
         "id": 185, 
         "name": "David Effendi", 
-        "email": null, 
+        "email": "david_effendi@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/DavidEffendi_185.jpeg", 
         "organisation": "ChorusText", 
@@ -4135,7 +4135,7 @@
     {
         "id": 187, 
         "name": "Misako Ito", 
-        "email": null, 
+        "email": "misako_ito@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "UNESCO", 
@@ -4166,7 +4166,7 @@
     {
         "id": 188, 
         "name": "Peter LIM", 
-        "email": null, 
+        "email": "peter_lim@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Nanyang Polytechnic", 
@@ -4197,7 +4197,7 @@
     {
         "id": 189, 
         "name": "Claire Tan", 
-        "email": null, 
+        "email": "claire_tan@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "NTU Nanyang Technopreneruship Center", 
@@ -4228,7 +4228,7 @@
     {
         "id": 190, 
         "name": "Emin Aksehirli", 
-        "email": null, 
+        "email": "emin_aksehirli@fossasia.org", 
         "mobile": null, 
         "photo": "", 
         "organisation": "Singtel", 
@@ -4255,7 +4255,7 @@
     {
         "id": 5, 
         "name": "Bunnie Huang", 
-        "email": null, 
+        "email": "bunnie_huang@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/BunnieHuang_5.jpg", 
         "organisation": "Sutajio Ko-Usagi PTE LTD", 
@@ -4278,7 +4278,7 @@
     {
         "id": 12, 
         "name": "Meng Weng Wong", 
-        "email": null, 
+        "email": "meng_weng_wong@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MengWengWong_12.JPG", 
         "organisation": "Legalese.io", 
@@ -4301,7 +4301,7 @@
     {
         "id": 23, 
         "name": "Mayank Sharma", 
-        "email": null, 
+        "email": "mayank_sharma@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MayankSharma_23.png", 
         "organisation": "OpenMRS", 
@@ -4324,7 +4324,7 @@
     {
         "id": 150, 
         "name": "Mayank Prasad", 
-        "email": null, 
+        "email": "mayank_prasad@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MayankPrasad_150.jpg", 
         "organisation": "MySQL, Oracle India Private Limited", 
@@ -4347,7 +4347,7 @@
     {
         "id": 25, 
         "name": "Garvit Khatri", 
-        "email": null, 
+        "email": "garvit_khatri@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/GarvitKhatri_25.png", 
         "organisation": "KDE", 
@@ -4370,7 +4370,7 @@
     {
         "id": 37, 
         "name": "Kushan Kushan Joshi", 
-        "email": null, 
+        "email": "kushan_kushan_joshi@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/KushanKushanJoshi_37", 
         "organisation": "DA-IICT", 
@@ -4393,7 +4393,7 @@
     {
         "id": 44, 
         "name": "Daniel Pocock", 
-        "email": null, 
+        "email": "daniel_pocock@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/DanielPocock_44.png", 
         "organisation": "Debian", 
@@ -4432,7 +4432,7 @@
     {
         "id": 59, 
         "name": "Nora Al-Badri", 
-        "email": null, 
+        "email": "nora_albadri@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/NoraAl-Badri_59.jpg", 
         "organisation": "Artist of \"The Other Nefertiti\"", 
@@ -4467,7 +4467,7 @@
     {
         "id": 62, 
         "name": "Ishan Khanna", 
-        "email": null, 
+        "email": "ishan_khanna@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/IshanKhanna_62", 
         "organisation": "Mifos Initiative", 
@@ -4490,7 +4490,7 @@
     {
         "id": 70, 
         "name": "Praveen (Gnovi) Patil", 
-        "email": null, 
+        "email": "praveen_gnovi_patil@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/Praveen(Gnovi)Patil_70.jpg", 
         "organisation": "ExpEYES", 
@@ -4525,7 +4525,7 @@
     {
         "id": 81, 
         "name": "Jaminy Prabaharan", 
-        "email": null, 
+        "email": "jaminy_prabaharan@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/JaminyPrabaharan_81.jpg", 
         "organisation": "Smart guidance for blind", 
@@ -4548,7 +4548,7 @@
     {
         "id": 84, 
         "name": "Roland Turner", 
-        "email": null, 
+        "email": "roland_turner@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/RolandTurner_84.jpeg", 
         "organisation": "FOSSASIA", 
@@ -4571,7 +4571,7 @@
     {
         "id": 89, 
         "name": "Dr. Udaykumar Khadke", 
-        "email": null, 
+        "email": "dr_udaykumar_khadke@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/Dr.UdaykumarKhadke_89.jpg", 
         "organisation": "Department of Physics, BKIT, Bhalki, Karnataka, INDIA", 
@@ -4594,7 +4594,7 @@
     {
         "id": 98, 
         "name": "Sameer Kumar", 
-        "email": null, 
+        "email": "sameer_kumar@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/SameerKumar_98.jpg", 
         "organisation": "Ashnik Pte Ltd", 
@@ -4617,7 +4617,7 @@
     {
         "id": 111, 
         "name": "Hans Bakker", 
-        "email": null, 
+        "email": "hans_bakker@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/HansBakker_111.jpg", 
         "organisation": "AntWebsystems Co.,Ltd", 
@@ -4640,7 +4640,7 @@
     {
         "id": 128, 
         "name": "Sahil Shekhawat", 
-        "email": null, 
+        "email": "sahil_shekhawat@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/SahilShekhawat_128.jpg", 
         "organisation": "SymPy / PyDy", 
@@ -4663,7 +4663,7 @@
     {
         "id": 130, 
         "name": "Marco A. Gutiérrez", 
-        "email": null, 
+        "email": "marco_a_gutirrez@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/MarcoA.Gutiérrez_130.jpg", 
         "organisation": "Robolab, University of Extremadura, Spain", 
@@ -4686,7 +4686,7 @@
     {
         "id": 159, 
         "name": "Zion Ng", 
-        "email": null, 
+        "email": "zion_ng@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/ZionNg_159.jpg", 
         "organisation": "intZone.com", 
@@ -4709,7 +4709,7 @@
     {
         "id": 162, 
         "name": "Anivar Ammanath Aravind", 
-        "email": null, 
+        "email": "anivar_ammanath_aravind@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/AnivarAmmanathAravind_162.jpg", 
         "organisation": "Mozilla India", 
@@ -4732,7 +4732,7 @@
     {
         "id": 175, 
         "name": "Barry Threw Jon Phillips", 
-        "email": null, 
+        "email": "barry_threw_jon_phillips@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/BarryThrewJonPhillips_175.jpg", 
         "organisation": "#NEWPALMYRA", 
@@ -4763,7 +4763,7 @@
     {
         "id": 186, 
         "name": "Ankit -", 
-        "email": null, 
+        "email": "ankit@fossasia.org", 
         "mobile": null, 
         "photo": "/images/speakers/Ankit-_186.jpg", 
         "organisation": "coala", 
