@@ -127,6 +127,7 @@
         "facebook": null, 
         "github": "", 
         "linkedin": "", 
+        "featured": true, 
         "sessions": [
             {
                 "id": 3, 
@@ -1567,20 +1568,19 @@
     }, 
     {
         "id": 65, 
-        "name": "Mike McQuaid, Sahil Bajaj", 
-        "email": "mike_mcquaid_sahil_bajaj@fossasia.org", 
+        "name": "Sahil Bajaj", 
+        "email": "sahil_bajaj@fossasia.org", 
         "mobile": null, 
-        "photo": "/images/speakers/MikeMcquaid,SahilBajaj_65", 
+        "photo": "/images/speakers/SahilBajaj_65.jpg", 
         "organisation": "GitHub/Homebrew/Grumpy Gits", 
         "position": null, 
         "country": "Scotland", 
         "short_biography": "", 
-        "long_biography": "Mike McQuaid is a software engineer at GitHub. He maintains the Homebrew OS X package manager and has contributed to a wide array of open-source projects.", 
+        "long_biography": "Sahil is a developer based in Singapore.", 
         "website": "http://mikemcquaid.com", 
         "twitter": "https://twitter.com/MikeMcQuaid", 
-        "facebook": null, 
-        "github": "github.com/mikemcquaid", 
-        "linkedin": "https://www.linkedin.com/in/mkmcqd", 
+        "facebook": "https://www.facebook.com/sahil2912" 
+        "linkedin": "", 
         "sessions": [
             {
                 "id": 87, 
@@ -3367,7 +3367,6 @@
         "name": "Herr Flupke", 
         "email": "herr_flupke@fossasia.org", 
         "mobile": null, 
-        "photo": "/images/speakers/HerrFlupke_155.jpg", 
         "organisation": "🐰", 
         "position": null, 
         "country": "internet", 
