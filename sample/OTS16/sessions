@@ -1505,7 +1505,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_40.mp3", 
+        "audio": "audio/session_40.mp3", 
         "video": "https://www.youtube.com/watch?v=IJ1ihYramP8", 
         "microlocation": {
             "id": 5, 
@@ -1542,7 +1542,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_41.mp3", 
+        "audio": "audio/session_41.mp3", 
         "video": "https://www.youtube.com/watch?v=MIXP9hg14tg", 
         "microlocation": {
             "id": 5, 
@@ -1579,7 +1579,7 @@
         "comments": "", 
         "language": null, 
         "slides": "https://github.com/OpenTechSummit/2016.opentechsummit.net/raw/gh-pages/slides/Open%20Data%20f%C3%BCr%20Dummies%20-%20oder%20-%20Wie%20nutze%20ich%20offene%20Daten%20v2.pdf", 
-        "audio": "/audios/session_42.mp3", 
+        "audio": "audio/session_42.mp3", 
         "video": "https://www.youtube.com/watch?v=sNUoTFHnLA0", 
         "microlocation": {
             "id": 5, 
@@ -1616,7 +1616,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_43.mp3", 
+        "audio": "audio/session_43.mp3", 
         "video": "https://www.youtube.com/watch?v=OFdHc0afOzs", 
         "microlocation": {
             "id": 5, 
@@ -1653,7 +1653,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_44.mp3", 
+        "audio": "audio/session_44.mp3", 
         "video": "https://www.youtube.com/watch?v=6Rmx5J9YjEc", 
         "microlocation": {
             "id": 5, 
@@ -1690,7 +1690,7 @@
         "comments": "", 
         "language": null, 
         "slides": "https://github.com/OpenTechSummit/2016.opentechsummit.net/raw/gh-pages/slides/Hyperledger%20-%20OpenTechSummit%202016.pdf", 
-        "audio": "/audios/session_45.mp3", 
+        "audio": "audio/session_45.mp3", 
         "video": "https://www.youtube.com/watch?v=mdmimNaTCZQ", 
         "microlocation": {
             "id": 5, 
@@ -1727,7 +1727,7 @@
         "comments": "", 
         "language": null, 
         "slides": "https://github.com/OpenTechSummit/2016.opentechsummit.net/raw/gh-pages/slides/Suchmaschinen%20der%20Zukunft%2020160505.pdf", 
-        "audio": "/audios/session_46.mp3", 
+        "audio": "audio/session_46.mp3", 
         "video": "https://www.youtube.com/watch?v=pOaqMt8mwXY", 
         "microlocation": {
             "id": 5, 
@@ -1764,7 +1764,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_51.mp3", 
+        "audio": "audio/session_51.mp3", 
         "video": "https://www.youtube.com/watch?v=cvOMC6tPVJs", 
         "microlocation": {
             "id": 5, 
@@ -1806,7 +1806,7 @@
         "comments": "", 
         "language": null, 
         "slides": "https://github.com/OpenTechSummit/2016.opentechsummit.net/raw/gh-pages/slides/quo-vadis-devops.pdf", 
-        "audio": "/audios/session_53.mp3", 
+        "audio": "audio/session_53.mp3", 
         "video": "https://www.youtube.com/watch?v=TkPMuOHRRlw", 
         "microlocation": {
             "id": 5, 
@@ -1843,7 +1843,7 @@
         "comments": "", 
         "language": null, 
         "slides": "http://www.jorgk.com/misc/tb.htm", 
-        "audio": "/audios/session_54.mp3", 
+        "audio": "audio/session_54.mp3", 
         "video": "https://www.youtube.com/watch?v=5ijNFPlv_sY", 
         "microlocation": {
             "id": 5, 
@@ -1880,7 +1880,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_66.mp3", 
+        "audio": "audio/session_66.mp3", 
         "video": null, 
         "microlocation": {
             "id": 6, 
@@ -1954,7 +1954,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_57.mp3", 
+        "audio": "audio/session_57.mp3", 
         "video": "https://www.youtube.com/watch?v=LSqa1OxsdOE", 
         "microlocation": {
             "id": 5, 
@@ -1991,7 +1991,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_59.mp3", 
+        "audio": "audio/session_59.mp3", 
         "video": null, 
         "microlocation": {
             "id": 6, 
@@ -2033,7 +2033,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_60.mp3", 
+        "audio": "audio/session_60.mp3", 
         "video": null, 
         "microlocation": {
             "id": 6, 
@@ -2070,7 +2070,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_61.mp3", 
+        "audio": "audio/session_61.mp3", 
         "video": null, 
         "microlocation": {
             "id": 6, 
@@ -2107,7 +2107,7 @@
         "comments": "", 
         "language": null, 
         "slides": "https://github.com/OpenTechSummit/2016.opentechsummit.net/raw/gh-pages/slides/TinyBoy-STEAM-ENG.pptx", 
-        "audio": "/audios/session_62.mp3", 
+        "audio": "audio/session_62.mp3", 
         "video": null, 
         "microlocation": {
             "id": 6, 
@@ -2144,7 +2144,7 @@
         "comments": "", 
         "language": null, 
         "slides": "https://github.com/OpenTechSummit/2016.opentechsummit.net/raw/gh-pages/slides/ElioQoshi%20-%20Community%20Design%20Talk.ppt.pdf", 
-        "audio": "/audios/session_63.mp3", 
+        "audio": "audio/session_63.mp3", 
         "video": null, 
         "microlocation": {
             "id": 6, 
@@ -2181,7 +2181,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_64.mp3", 
+        "audio": "audio/session_64.mp3", 
         "video": null, 
         "microlocation": {
             "id": 6, 
@@ -2218,7 +2218,7 @@
         "comments": "", 
         "language": null, 
         "slides": "https://github.com/OpenTechSummit/2016.opentechsummit.net/raw/gh-pages/slides/SLIDES_%20Sind%20die%20Kommentare%20noch%20zu%20retten_.pdf", 
-        "audio": "/audios/session_65.mp3", 
+        "audio": "audio/session_65.mp3", 
         "video": null, 
         "microlocation": {
             "id": 6, 
@@ -2292,7 +2292,7 @@
         "comments": "", 
         "language": null, 
         "slides": "https://github.com/OpenTechSummit/2016.opentechsummit.net/raw/gh-pages/slides/OpenTech%20Summit-%20Creating%20Service%20Clouds%20with%20Kubernetes%2C%20CoreOS%2C%20Container%20and%20Co%20.pdf", 
-        "audio": "/audios/session_68.mp3", 
+        "audio": "audio/session_68.mp3", 
         "video": null, 
         "microlocation": {
             "id": 6, 
@@ -2329,7 +2329,7 @@
         "comments": "", 
         "language": null, 
         "slides": "https://github.com/OpenTechSummit/2016.opentechsummit.net/raw/gh-pages/slides/Bonvoisin%20-%20Current%20state%20of%20practices%20in%20open%20source%20hardware.pdf", 
-        "audio": "/audios/session_70.mp3", 
+        "audio": "audio/session_70.mp3", 
         "video": null, 
         "microlocation": {
             "id": 6, 
@@ -2366,7 +2366,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_71.mp3", 
+        "audio": "audio/session_71.mp3", 
         "video": null, 
         "microlocation": {
             "id": 6, 
@@ -2403,7 +2403,7 @@
         "comments": "", 
         "language": null, 
         "slides": "https://github.com/OpenTechSummit/2016.opentechsummit.net/raw/gh-pages/slides/degrees_of_openness_praesi.pdf", 
-        "audio": "/audios/session_72.mp3", 
+        "audio": "audio/session_72.mp3", 
         "video": null, 
         "microlocation": {
             "id": 6, 
@@ -2440,7 +2440,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_74.mp3", 
+        "audio": "audio/session_74.mp3", 
         "video": null, 
         "microlocation": {
             "id": 6, 
@@ -2750,7 +2750,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_37.mp3", 
+        "audio": "audio/session_37.mp3", 
         "video": "https://www.youtube.com/watch?v=RtkF5lEleAM", 
         "microlocation": {
             "id": 5, 
@@ -2787,7 +2787,7 @@
         "comments": "", 
         "language": null, 
         "slides": "https://github.com/OpenTechSummit/2016.opentechsummit.net/raw/gh-pages/slides/picoTCP_OpenTechSummit.pdf", 
-        "audio": "/audios/session_38.mp3", 
+        "audio": "audio/session_38.mp3", 
         "video": "https://www.youtube.com/watch?v=LyMDER7O0UI", 
         "microlocation": {
             "id": 5, 
@@ -2824,7 +2824,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_39.mp3", 
+        "audio": "audio/session_39.mp3", 
         "video": "https://www.youtube.com/watch?v=_viwqzg34Rw", 
         "microlocation": {
             "id": 5, 
@@ -2861,7 +2861,7 @@
         "comments": "", 
         "language": null, 
         "slides": "https://github.com/OpenTechSummit/2016.opentechsummit.net/raw/gh-pages/slides/opstperils.odp", 
-        "audio": "/audios/session_75.mp3", 
+        "audio": "audio/session_75.mp3", 
         "video": null, 
         "microlocation": {
             "id": 6, 
@@ -2898,7 +2898,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_47.mp3", 
+        "audio": "audio/session_47.mp3", 
         "video": "https://www.youtube.com/watch?v=PtIyubd4xjg", 
         "microlocation": {
             "id": 5, 
@@ -2935,7 +2935,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_50.mp3", 
+        "audio": "audio/session_50.mp3", 
         "video": "https://www.youtube.com/watch?v=X37_Xod7-5k", 
         "microlocation": {
             "id": 5, 
@@ -2972,7 +2972,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_52.mp3", 
+        "audio": "audio/session_52.mp3", 
         "video": "https://www.youtube.com/watch?v=bjgIMs-Tfs4", 
         "microlocation": {
             "id": 5, 
@@ -3009,7 +3009,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_55.mp3", 
+        "audio": "audio/session_55.mp3", 
         "video": "https://www.youtube.com/watch?v=Bzs2_ETVIyg", 
         "microlocation": {
             "id": 5, 
@@ -3046,7 +3046,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_58.mp3", 
+        "audio": "audio/session_58.mp3", 
         "video": null, 
         "microlocation": {
             "id": 6, 
@@ -3083,7 +3083,7 @@
         "comments": "", 
         "language": null, 
         "slides": null, 
-        "audio": "/audios/session_67.mp3", 
+        "audio": "audio/session_67.mp3", 
         "video": null, 
         "microlocation": {
             "id": 6, 
@@ -3120,7 +3120,7 @@
         "comments": "", 
         "language": null, 
         "slides": "https://github.com/OpenTechSummit/2016.opentechsummit.net/raw/gh-pages/slides/sehrgutachten-kleineanfragen-ots.pdf", 
-        "audio": "/audios/session_73.mp3", 
+        "audio": "audio/session_73.mp3", 
         "video": null, 
         "microlocation": {
             "id": 6, 
