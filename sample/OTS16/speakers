@@ -107,6 +107,7 @@
         "facebook": null, 
         "github": "https://github.com/Orbiter", 
         "linkedin": "https://de.linkedin.com/in/orbiter/en", 
+        "featured": true, 
         "sessions": [
             {
                 "id": 4, 
@@ -953,6 +954,7 @@
         "facebook": null, 
         "github": "https://github.com/rgrp", 
         "linkedin": "", 
+        "featured": true, 
         "sessions": [
             {
                 "id": 48, 
@@ -980,6 +982,7 @@
         "facebook": null, 
         "github": "https://github.com/erikdoe", 
         "linkedin": "http://de.linkedin.com/in/edoernenburg/", 
+        "featured": true, 
         "sessions": [
             {
                 "id": 48, 
@@ -1003,6 +1006,7 @@
         "facebook": null, 
         "github": "", 
         "linkedin": "", 
+        "featured": true, 
         "sessions": [
             {
                 "id": 49, 
@@ -1460,6 +1464,7 @@
         "facebook": null, 
         "github": "https://github.com/endocode", 
         "linkedin": "https://www.linkedin.com/in/thomas-fricke-9840a21", 
+        "featured": true, 
         "sessions": [
             {
                 "id": 68, 
@@ -1621,6 +1626,7 @@
         "facebook": null, 
         "github": "https://github.com/maltman23", 
         "linkedin": "https://www.linkedin.com/pub/dir/Mitch/Altman", 
+        "featured": true, 
         "sessions": [
             {
                 "id": 1, 
