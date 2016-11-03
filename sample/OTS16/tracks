@@ -68,7 +68,7 @@
     {
         "id": 2, 
         "name": "Workshops", 
-        "color": "#3DC8C3", 
+        "color": "#1485CC", 
         "description": "Workshops", 
         "location": "Erdgeschoss und Ebene 1", 
         "sessions": [
@@ -122,7 +122,7 @@
     {
         "id": 3, 
         "name": "LightningTalks", 
-        "color": "#3DC8C3", 
+        "color": "#B21212", 
         "description": "LightningTalks", 
         "location": "Ebene 1, Galerie", 
         "sessions": [
@@ -176,7 +176,7 @@
     {
         "id": 4, 
         "name": "OTS 1", 
-        "color": "#3DC8C3", 
+        "color": "#9EFF56", 
         "description": "OTS 1", 
         "location": "Ebene 1, Galerie", 
         "sessions": [
@@ -270,7 +270,7 @@
     {
         "id": 5, 
         "name": "OTS 2", 
-        "color": "#3DC8C3", 
+        "color": "#E8782C", 
         "description": "OTS 2", 
         "location": "Ebene 2, Loft", 
         "sessions": [
@@ -356,7 +356,7 @@
     {
         "id": 6, 
         "name": "Kids Camp", 
-        "color": "#3DC8C3", 
+        "color": "#FF3046", 
         "description": "Kids Camp", 
         "location": "Erdgeschoss und Ebene 1", 
         "sessions": [
@@ -382,7 +382,7 @@
     {
         "id": 7, 
         "name": "Linux-Zertifizierung", 
-        "color": "#3DC8C3", 
+        "color": "#BF532E", 
         "description": "Linux-Zertifizierung", 
         "location": "Ebene 2, Raum 4", 
         "sessions": [
