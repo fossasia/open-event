@@ -1,0 +1,668 @@
+[
+	{
+		"id":1,
+		"title":"Welcome Developers in town at RedHat Office",
+		"subtitle":null,
+		"short_abstract": "Short Abstract for the event", 
+		"long_abstract": "Singapore is the host for main offices of many Open Source companies in Asia. RedHat has one of its Asia-Pacific main offices in the city and welcomes the FOSSASIA community before the event starts.",
+		"start_time": "2015-03-12T14:00:00", 
+        "end_time": "2015-03-12T15:00:00", 
+		"session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null ,
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+	},
+	{
+        "id": 2, 
+        "title": "Visit of Singapore OneMakerGroup at National Design Center", 
+        "subtitle": null, 
+        "short_abstract": "Short Abstract for the event", 
+        "long_abstract": "Let's find out what the developer and maker community is doing in Singapore.", 
+        "start_time": "2015-03-12T15:00:00", 
+        "end_time": "2015-03-12T19:00:00", 
+        "session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null, 
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+    }, 
+	{
+        "id": 3, 
+        "title": "Pre-Event Meetup: Singapore Steamboat followed by get together at Blujaz Cafe", 
+        "subtitle": null, 
+        "short_abstract": "Short Abstract for the event", 
+        "long_abstract": "Let's experience Singapore Hotpot at Beach Road near Bugis. Afterwards we walk over to a nice bar, when you have arrived in town.", 
+        "start_time": "2015-03-12T19:00:00", 
+        "end_time": "2015-03-13T09:00:00", 
+        "session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null, 
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+    }, 
+	{
+        "id": 4, 
+        "title": "Welcome & Registration", 
+        "subtitle": null, 
+        "short_abstract": "Short Abstract for the event", 
+        "long_abstract": "Arrival of Speakers and Participants", 
+        "start_time": "2015-03-13T09:00:00", 
+        "end_time": "2015-03-13T09:30:00", 
+        "session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null, 
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+    }, 
+	{
+        "id": 5, 
+        "title": "Talks and Presentations on Open Source  Technologies, Software, Hardware, Design", 
+        "subtitle": null, 
+        "short_abstract": "Short Abstract for the event", 
+        "long_abstract": "Developers, Designers and Hardware engineers will give the insights into latest trends and technologies", 
+        "start_time": "2015-03-13T09:30:00", 
+        "end_time": "2015-03-13T12:15:00", 
+        "session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null, 
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+    }, 
+	{
+        "id": 6, 
+        "title": "Lunch", 
+        "subtitle": null, 
+        "short_abstract": "Short Abstract for the event", 
+        "long_abstract": "Singapores exciting choices of food are available at restaurants and food courts at the conference area.", 
+        "start_time": "2015-03-13T12:15:00", 
+        "end_time": "2015-03-13T13:15:00", 
+        "session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null, 
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+    },
+	{
+        "id": 7, 
+        "title": "Talks and Presentations on Open Source Technologies, Software, Hardware and Open Design", 
+        "subtitle": null, 
+        "short_abstract": "Short Abstract for the event", 
+        "long_abstract": "Talks from speakers from around the world.", 
+        "start_time": "2015-03-13T13:15:00", 
+        "end_time": "2015-03-13T16:30:00", 
+        "session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null, 
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+    },
+	{
+        "id": 8, 
+        "title": "Social Event at Labrador Park", 
+        "subtitle": null, 
+        "short_abstract": "Short Abstract for the event", 
+        "long_abstract": "Enjoy yummy Singapore BBQ.", 
+        "start_time": "2015-03-13T18:30:00", 
+        "end_time": "2015-03-13T22:30:00", 
+        "session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null, 
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+    },
+	{
+        "id": 9, 
+        "title": "Welcome, Breakfast & Registration", 
+        "subtitle": null, 
+        "short_abstract": "Short Abstract for the event", 
+        "long_abstract": "Arrival and Registration of Participants", 
+        "start_time": "2015-03-14T09:00:00", 
+        "end_time": "2015-03-14T09:00:00", 
+        "session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null, 
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+    },
+	{
+        "id": 10, 
+        "title": "Workshops and Talks on Open Technologies in Five Tracks", 
+        "subtitle": null, 
+        "short_abstract": "Short Abstract for the event", 
+        "long_abstract": "This day we focus on hands-on learning and experience. Join us for workshops on using git, coding (Javascript, C++, PHP, Python and more) and open hardware workshops.", 
+        "start_time": "2015-03-14T09:00:00", 
+        "end_time": "2015-03-14T12:00:00", 
+        "session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null, 
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+    },
+	{
+        "id": 11, 
+        "title": "Lunch", 
+        "subtitle": null, 
+        "short_abstract": "Short Abstract for the event", 
+        "long_abstract": "Singapores large choices of food from India, to Malay, Chinese, Indonesian and Western taste awaits us at local restaurants and hacker stalls nearby.", 
+        "start_time": "2015-03-14T12:00:00", 
+        "end_time": "2015-03-14T13:00:00", 
+        "session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null, 
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+    },
+	{
+        "id": 12, 
+        "title": "Workshops and Talks on Open Technologies in Five Tracks", 
+        "subtitle": null, 
+        "short_abstract": "Short Abstract for the event", 
+        "long_abstract": "More hands-on learning with workshops from developers and engineers from around the world.", 
+        "start_time": "2015-03-14T13:00:00", 
+        "end_time": "2015-03-14T16:30:00", 
+        "session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null, 
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+    },
+	{
+        "id": 13, 
+        "title": "FOSSASIA Open Tech Community: Dessert, Snack & Pub Crawl", 
+        "subtitle": null, 
+        "short_abstract": "Short Abstract for the event", 
+        "long_abstract": "Let's meet some locals and hangout with the Open Tech community. We will bring you to some nice Singapore pubs.", 
+        "start_time": "2015-03-14T19:30:00", 
+        "end_time": "2015-03-14T23:00:00", 
+        "session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null, 
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+    },
+	{
+        "id": 14, 
+        "title": "Welcome, Breakfast  & Registration", 
+        "subtitle": null, 
+        "short_abstract": "Short Abstract for the event", 
+        "long_abstract": "Arrival and Registration of Participants", 
+        "start_time": "2015-03-15T09:00:00", 
+        "end_time": "2015-03-15T09:00:00", 
+        "session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null, 
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+    },
+	{
+        "id": 15, 
+        "title": "Workshops and Talks on Open Technologies in Five Tracks", 
+        "subtitle": null, 
+        "short_abstract": "Short Abstract for the event", 
+        "long_abstract": "This day we focus on hands-on learning and experience. Join us for workshops on using git, coding (Javascript, C++, PHP, Python and more) and open hardware workshops.", 
+        "start_time": "2015-03-15T09:00:00", 
+        "end_time": "2015-03-15T12:00:00", 
+        "session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null, 
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+    },
+	{
+        "id": 16, 
+        "title": "Lunch", 
+        "subtitle": null, 
+        "short_abstract": "Short Abstract for the event", 
+        "long_abstract": "Singapores large choices of food from India, to Malay, Chinese, Indonesian and Western taste awaits us at local restaurants and hacker stalls nearby.", 
+        "start_time": "2015-03-15T12:00:00", 
+        "end_time": "2015-03-15T13:00:00", 
+        "session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null, 
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+    },
+	{
+        "id": 17, 
+        "title": "Workshops and Talks on Open Technologies in Five Tracks", 
+        "subtitle": null, 
+        "short_abstract": "Short Abstract for the event", 
+        "long_abstract": "More hands-on learning with workshops from developers and engineers from around the world.", 
+        "start_time": "2015-03-15T13:00:00", 
+        "end_time": "2015-03-15T16:30:00", 
+        "session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null, 
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+    },
+	{
+        "id": 18, 
+        "title": "After-Event Hacking, Coding, Relaxing at Hackerspace.sg", 
+        "subtitle": null, 
+        "short_abstract": "Short Abstract for the event", 
+        "long_abstract": "Let's relax, code, design, tinker  and enjoy each others company at the end of a great weekend.", 
+        "start_time": "2015-03-15T17:00:00", 
+        "end_time": "2015-03-15T17:00:00", 
+        "session_type": {
+            "id": null, 
+            "length": null, 
+            "name": null
+        }, 
+        "track": {
+            "id": null, 
+            "name": null
+        }, 
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "microlocation": {
+            "id": null, 
+            "name": null
+        }, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "id": null, 
+                "name": null, 
+                "organisation": "FOSSASIA"
+            }
+        ], 
+        "state": "accepted", 
+        "timezone": "UTC"
+    },
+]
