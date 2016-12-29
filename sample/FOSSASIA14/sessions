@@ -1,0 +1,187 @@
+[
+    {
+        "id": 1,
+        "title": "Organizers Welcome",
+        "subtitle": null,
+        "short_abstract": "Short Abstract for the event",
+        "long_abstract": "Welcome to the 8th year of FOSSASIA. A friendly community of Open Technologists meets at the Science Centre Singapore.",
+        "start_time": "2014-02-28T09:00:00",
+        "end_time": "2014-02-28T09:30:00",
+        "session_type": {
+            "id": 1,
+            "length": 0.3,
+            "name": "Welcome"
+        },
+        "track": {
+            "id": 1,
+            "name": "Opening Talks and Keynotes"
+        },
+        "comments": "",
+        "language": null,
+        "slides": null,
+        "audio": null,
+        "video": null,
+        "microlocation": {
+            "id": 1,
+            "name": "Norton University"
+        },
+        "signup_url": null,
+        "speakers": [
+            {
+                "id": 1,
+                "name": "Hong Phuc Dang",
+                "organisation": "FOSSASIA"
+            }
+        ],
+        "state": "accepted",
+        "timezone": "UTC"
+    },
+    {
+        "id": 2,
+        "title": "Welcome of Rector of Norton University",
+        "subtitle": null,
+        "short_abstract": "Short Abstract for the event",
+        "long_abstract": "Welcome of Rector of Norton University",
+        "start_time": "2014-02-28T09:30:00",
+        "end_time": "2014-02-28T10:00:00",
+        "session_type": {
+            "id": 2,
+            "length": 0.3,
+            "name": "Keynotes"
+        },
+        "track": {
+            "id": 1,
+            "name": "Opening Talks and Keynotes"
+        },
+        "comments": "",
+        "language": null,
+        "slides": null,
+        "audio": null,
+        "video": null,
+        "microlocation": {
+            "id": 1,
+            "name": "Norton University"
+        },
+        "signup_url": null,
+        "speakers": [
+            {
+                "id": 2,
+                "name": "Rector of Norton University",
+                "organisation": "Norton University"
+            }
+        ],
+        "state": "accepted",
+        "timezone": "UTC"
+    },
+    {
+        "id": 3,
+        "title": "Keynote address of Anna Maj Hultgård, Ambassador of the Swedish Embassy",
+        "subtitle": null,
+        "short_abstract": "Short Abstract for the event",
+        "long_abstract": "Keynote address of Anna Maj Hultgård, Ambassador of the Swedish Embassy",
+        "start_time": "2014-02-28T10:00:00",
+        "end_time": "2014-02-28T10:30:00",
+        "session_type": {
+            "id": 2,
+            "length": 0.3,
+            "name": "Keynotes"
+        },
+        "track": {
+            "id": 1,
+            "name": "Opening Talks and Keynotes"
+        },
+        "comments": "",
+        "language": null,
+        "slides": null,
+        "audio": null,
+        "video": null,
+        "microlocation": {
+            "id": 1,
+            "name": "Norton University"
+        },
+        "signup_url": null,
+        "speakers": [
+            {
+                "id": 3,
+                "name": "Anna Maj Hultgård",
+                "organisation": "Ambassador of the Swedish Embassy"
+            }
+        ],
+        "state": "accepted",
+        "timezone": "UTC"
+    },
+    {
+        "id": 4,
+        "title": "Opening remark by Minister of Information Khieu Kanharith",
+        "subtitle": null,
+        "short_abstract": "Short Abstract for the event",
+        "long_abstract": "Opening remark by Minister of Information Khieu Kanharith",
+        "start_time": "2014-02-28T10:30:00",
+        "end_time": "2014-02-28T11:00:00",
+        "session_type": {
+            "id": 2,
+            "length": 0.3,
+            "name": "Keynotes"
+        },
+        "track": {
+            "id": 1,
+            "name": "Opening Talks and Keynotes"
+        },
+        "comments": "",
+        "language": null,
+        "slides": null,
+        "audio": null,
+        "video": null,
+        "microlocation": {
+            "id": 1,
+            "name": "Norton University"
+        },
+        "signup_url": null,
+        "speakers": [
+            {
+                "id": 4,
+                "name": "Khieu Kanharith",
+                "organisation": "Minister of Information"
+            }
+        ],
+        "state": "accepted",
+        "timezone": "UTC"
+    },
+    {
+        "id": 5,
+        "title": "Technologies for Development, Development Innovations, Greta Greathouse",
+        "subtitle": null,
+        "short_abstract": "Short Abstract for the event",
+        "long_abstract": "Opening remark by Minister of Information Khieu Kanharith",
+        "start_time": "2014-02-28T11:00:00",
+        "end_time": "2014-02-28T11:30:00",
+        "session_type": {
+            "id": 2,
+            "length": 0.3,
+            "name": "Keynotes"
+        },
+        "track": {
+            "id": 1,
+            "name": "Opening Talks and Keynotes"
+        },
+        "comments": "",
+        "language": null,
+        "slides": null,
+        "audio": null,
+        "video": null,
+        "microlocation": {
+            "id": 1,
+            "name": "Norton University"
+        },
+        "signup_url": null,
+        "speakers": [
+            {
+                "id": 5,
+                "name": "Greta Greathouse",
+                "organisation": "Development Innovations"
+            }
+        ],
+        "state": "accepted",
+        "timezone": "UTC"
+    }
+]
