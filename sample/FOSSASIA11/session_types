@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "name": "Welcome",
+        "length": "00:30"
+    },
+    {
+        "id": 2,
+        "name": "IT in University Education",
+        "length": "00:30"
+    }
+    {
+        "id": 3,
+        "name": "New Open Technologies and Opportunities for Developers",
+        "length": "00:30"
+    }
+    {
+        "id": 4,
+        "name": "Open Source in Vietnam",
+        "length": "00:30"
+    }
+    {
+        "id": 5,
+        "name": "Open Cambodia",
+        "length": "00:30"
+    }
+    {
+        "id": 6,
+        "name": "Undercover UXO, a Land Mine Risk Education Game for Children",
+        "length": "00:30"
+    }
+    {
+        "id": 7,
+        "name": "Lubuntu – Faster computing with less powerful hardware",
+        "length": "00:30"
+    }
+    {
+        "id": 8,
+        "name": "Debian Blends: Make your own 'blended' Linux distribution",
+        "length": "00:30"
+    }
+    {
+        "id": 9,
+        "name": "Linux as a Real-Time Operating System",
+        "length": "00:30"
+    }
+    {
+        "id": 10,
+        "name": "Achievements of applying the open source software",
+        "length": "00:30"
+    }
+    {
+        "id": 11,
+        "name": "Open Source and Microsoft",
+        "length": "00:30"
+    }
+    {
+        "id": 12,
+        "name": "UNESCO and the Free Software Community",
+        "length": "00:30"
+    }
+    {
+        "id": 13,
+        "name": "LibreOffice on Smartphones",
+        "length": "00:30"
+    }
+    {
+        "id": 14,
+        "name": "Strategy to make money on free mobile apps",
+        "length": "00:30"
+    }
+    {
+        "id": 15,
+        "name": "Phonegap, App development with web technologies",
+        "length": "00:30"
+    }
+    {
+        "id": 16,
+        "name": "Creative Mobile Technologies from Vietnam",
+        "length": "00:30"
+    }
+    {
+        "id": 17,
+        "name": "Android Development for postal companies",
+        "length": "00:30"
+    }
+    {
+        "id": 18,
+        "name": "Using Mobile Technologies in DHIS Project",
+        "length": "00:30"
+    }
+    {
+        "id": 19,
+        "name": "Mozilla Mobile Technologies",
+        "length": "00:30"
+    }
+    {
+        "id": 20,
+        "name": "Giới thiệu ngắn về TeX",
+        "length": "00:30"
+    }
+    {
+        "id": 21,
+        "name": "LaTeX và Đại số máy tính (LaTeX and Computer Algebra System)",
+        "length": "00:30"
+    }
+    {
+        "id": 22,
+        "name": "Hong Phuc Dang & Lilly Nguyen, End Notes and Outlook for Workshops on Saturday",
+        "length": "00:30"
+    }
+    {
+        "id": 23,
+        "name": "Hong Phuc Dang & Lilly Nguyen, Saturday Workshops Overview",
+        "length": "00:30"
+    }
+    {
+        "id": 24,
+        "name": "Lunch Break",
+        "length": "00:30"
+    }
+    {
+        "id": 25,
+        "name": "Hong Phuc Dang & Lilly Nguyen, Closing Notes",
+        "length": "00:30"
+    }
+
+]
