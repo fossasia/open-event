@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "title": "Organizers Welcome",
+        "subtitle": null,
+        "short_abstract": "Short Abstract for the event",
+        "long_abstract": "Welcome to the 3rd year of FOSSASIA. A friendly community of Open Technologists meets at the Science Centre Singapore.",
+        "start_time": "2011-11-11T08:30:00",
+        "end_time": "2011-11-1109:00:00",
+        "session_type": {
+            "id": 1,
+            "length": 0.3,
+            "name": "Welcome"
+        },
+        "track": {
+            "id": 1,
+            "name": "Opening Talks and Keynotes"
+        },
+        "comments": "",
+        "language": null,
+        "slides": null,
+        "audio": null,
+        "video": null,
+        "microlocation": {
+            "id": 1,
+            "name": "Van Lang University"
+        },
+        "signup_url": null,
+        "speakers": [
+            {
+                "id": 1,
+                "name": "Hong Phuc Dang",
+                "organisation": "FOSSASIA"
+            }
+        ],
+        "state": "accepted",
+        "timezone": "UTC"
+    },
+    {
+        "id": 2,
+        "title": "Keynotes",
+        "subtitle": null,
+        "short_abstract": "KeyNotes",
+        "long_abstract": "KeyNotes",
+        "start_time": "2011-11-11T08:30:00",
+        "end_time": "2011-11-11T17:00:00",
+        "session_type": {
+            "id": 1,
+            "length": 0.3,
+            "name": "KeyNote"
+        },
+        "track": {
+            "id": 1,
+            "name": "Keynotes"
+        },
+        "comments": "",
+        "language": null,
+        "slides": null,
+        "audio": null,
+        "video": null,
+        "microlocation": {
+            "id": 1,
+            "name": "Van Lang University"
+        },
+        "signup_url": null,
+        "speakers": [
+            {
+                "id": 1,
+                "name": "Reactor of Van Lang University",
+                "organisation": "FOSSASIA"
+            }
+        ],
+        "state": "accepted",
+        "timezone": "UTC"
+    },
+]

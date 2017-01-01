@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "name": "Opening Talks and Keynotes",
+        "color": "#3DC8C3",
+        "description": "Opening Talks and Keynotes",
+        "location": "Van Lang University",
+        "sessions": [
+            {
+                "id": 1,
+                "title": "Organizers Welcome"
+            },
+            {
+                "id": 2,
+                "title": "Mobile Solutions"
+            },
+            {
+                "id": 3,
+                "title": "Web Technologies"
+            },
+            {
+                "id": 4,
+                "title": "Operating Systems and Applications"
+            },
+            {
+                "id": 5,
+                "title": "Fostering the Asian community and Women in IT"
+            }
+        ]
+    }
+]
