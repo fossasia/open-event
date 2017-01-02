@@ -1,1 +1,92 @@
-[]
+[
+    {
+        "id":1,
+		    "name":"Welcome Developers in town at RedHat Office",
+        "length":1.00
+    },
+    {
+        "id": 2, 
+        "name": "Visit of Singapore OneMakerGroup at National Design Center",
+        "length":4.00
+    },
+    {
+        "id": 3, 
+        "name": "Pre-Event Meetup: Singapore Steamboat followed by get together at Blujaz Cafe",
+        "length":2.00
+    },
+    {
+        "id": 4, 
+        "name": "Welcome & Registration",
+        "length":0.50
+    },
+    {
+        "id": 5, 
+        "name": "Talks and Presentations on Open Source  Technologies, Software, Hardware, Design",
+        "length":2.75
+    },
+    {
+        "id": 6, 
+        "name": "Lunch",
+        "length":1.00
+    },
+    {
+        "id": 7, 
+        "name": "Talks and Presentations on Open Source Technologies, Software, Hardware and Open Design",
+        "length":3.25
+    },
+    {
+        "id": 8, 
+        "name": "Social Event at Labrador Park", 
+        "length":4.00
+    },
+    {
+         "id": 9, 
+         "name": "Welcome, Breakfast & Registration", 
+         "length":1.00
+     },
+     {
+        "id": 10, 
+        "name": "Workshops and Talks on Open Technologies in Five Tracks",
+        "length":3.00
+     },
+     {
+        "id": 11, 
+        "name": "Lunch",
+        "length":1.00
+     },
+     {
+        "id": 12, 
+        "name": "Workshops and Talks on Open Technologies in Five Tracks",
+        "length":3.50
+     },
+     {
+        "id": 13, 
+        "name": "FOSSASIA Open Tech Community: Dessert, Snack & Pub Crawl",
+        "length":3.50
+     },
+     {
+        "id": 14, 
+        "name": "Welcome, Breakfast  & Registration",
+        "length":1.00
+     },
+     {
+        "id": 15, 
+        "name": "Workshops and Talks on Open Technologies in Five Tracks",
+        "length":3.00
+     },
+     {
+        "id": 16, 
+        "name": "Lunch",
+        "length": 1.00
+     },
+     {
+        "id": 17, 
+        "name": "Workshops and Talks on Open Technologies in Five Tracks",
+        "length":3.30
+     },
+     {
+        "id": 18, 
+        "name": "After-Event Hacking, Coding, Relaxing at Hackerspace.sg",
+        "length":1.00
+     }
+]
