@@ -1,1 +1,85 @@
-[]
+[
+    {
+        "id": 1, 
+        "name": "FOSSASIA 2015", 
+        "color": "#3DC8C3", 
+        "description": "FOSSASIA 2015", 
+        "location": "NUS Plug-In@Blk71, 71 Ayer Rajah Crescent", 
+        "sessions": [
+            {
+                "id": 1, 
+                "title": "Welcome Developers in town at RedHat Office"
+            }, 
+            {
+                "id": 2, 
+                "title": "Visit of Singapore OneMakerGroup at National Design Center"
+            },
+            {
+                "id": 3, 
+                "title": "Pre-Event Meetup: Singapore Steamboat followed by get together at Blujaz Cafe"
+            },
+            {
+                "id": 4, 
+                "title": "Welcome & Registration"
+            },
+            {
+                "id": 5, 
+                "title": "Talks and Presentations on Open Source  Technologies, Software, Hardware, Design"
+            },
+            {
+                "id": 6, 
+                "title": "Lunch"
+            },
+            {
+                "id": 7, 
+                "title": "Talks and Presentations on Open Source Technologies, Software, Hardware and Open Design"
+            },
+            {
+                "id": 8, 
+                "title": "Social Event at Labrador Park"
+            },
+            {
+                "id": 9, 
+                "title": "Welcome, Breakfast & Registration"
+            },
+            {
+                "id": 10, 
+                "title": "Workshops and Talks on Open Technologies in Five Tracks"
+            },
+            {
+                "id": 11, 
+                "title": "Lunch"
+            },
+            {
+                "id": 12, 
+                "title": "Workshops and Talks on Open Technologies in Five Tracks"
+            },
+            {
+                "id": 13, 
+                "title": "FOSSASIA Open Tech Community: Dessert, Snack & Pub Crawl"
+            },
+            {
+                "id": 14, 
+                "title": "Welcome, Breakfast  & Registration"
+            },
+            {
+                "id": 15, 
+                "title": "Workshops and Talks on Open Technologies in Five Tracks"
+            },
+            {
+                "id": 16, 
+                "title": "Lunch"
+            },
+            {
+                "id": 17, 
+                "title": "Workshops and Talks on Open Technologies in Five Tracks"
+            },
+            {
+                "id": 18, 
+                "title": "After-Event Hacking, Coding, Relaxing at Hackerspace.sg"
+            }
+        ]
+    }
+]
+            
+                
