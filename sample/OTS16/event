@@ -70,9 +70,6 @@
         "start_date": "2016-05-01T19:30:00", 
         "timezone": "UTC"
     }, 
-    "creator": {
-        "email": "s@g.com"
-    }, 
     "email": "contact@opentechsummit.net", 
     "has_session_speakers": true, 
     "schedule_published_on": "2016-05-04T09:00:00", 

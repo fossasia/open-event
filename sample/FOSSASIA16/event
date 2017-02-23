@@ -75,9 +75,6 @@
         "start_date": "2016-03-10T19:30:00", 
         "timezone": "UTC"
     }, 
-    "creator": {
-        "email": "s@g.com"
-    }, 
     "email": "contact@fossasia.org", 
     "has_session_speakers": true, 
     "schedule_published_on": "2016-03-18T00:00:00", 

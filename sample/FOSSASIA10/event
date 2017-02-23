@@ -75,9 +75,6 @@
         "start_date": "2010-11-14T115:30:00",
         "timezone": "UTC+07:00"
     },
-    "creator": {
-        "email": "p@g.com"
-    },
     "email": "contact@fossasia.org",
     "has_session_speakers": true,
     "schedule_published_on": "2010-11-10T00:00:00",
