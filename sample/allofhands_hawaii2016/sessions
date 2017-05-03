@@ -1,0 +1,774 @@
+[
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Pick up your Hawaii Swag & All Hands Info Desk", "track": "", "start_time": "20161204T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161205T030000", "timezone": "UTC", "microlocation":{"id":1,"name":"Convention Center Lobby"}, "audio": "null", "signup_url": "null", "id": 1},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Pick up your Hawaii Swag & All Hands Info Desk", "track": "", "start_time": "20161205T220000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161206T060000", "timezone": "UTC", "microlocation":{"id":1,"name":"Convention Center Lobby"}, "audio": "null", "signup_url": "null", "id": 2},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Aloha Welcome Reception", "track": "", "start_time": "20161206T030000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161206T060000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 3},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Breakfast", "track": "", "start_time": "20161206T160000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161206T183000", "timezone": "UTC", "microlocation": {"id":18,"name":"Lagoon Lanai"}, "audio": "null", "signup_url": "null", "id": 4},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Pick up your Hawaii Swag & All Hands Info Desk", "track": "", "start_time": "20161206T170000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T030000", "timezone": "UTC", "microlocation":{"id":1,"name":"Convention Center Lobby"}, "audio": "null", "signup_url": "null", "id": 5},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Volunteer All Hands", "track": "", "start_time": "20161206T173000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161206T183000", "timezone": "UTC", "microlocation": "Water's Edge Ballroom", "audio": "null", "signup_url": "null", "id": 6},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Hawaii All Hands - Plenary Session", "track": "", "start_time": "20161206T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161206T210000", "timezone": "UTC", "microlocation": {"id":19,"name":"Monarchy Ballroom"}, "audio": "null", "signup_url": "null", "id": 7},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Lunch", "track": "", "start_time": "20161206T210000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161206T223000", "timezone": "UTC", "microlocation": {"id":18,"name":"Lagoon Lanai"}, "audio": "null", "signup_url": "null", "id": 8},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Diversity and Inclusion Office Hours", "track": "", "start_time": "20161206T210000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161206T220000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 9},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: Application Services - Service Strategy Pivot", "track": "", "start_time": "20161206T220000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161206T230000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 10},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: Infosec 2017 Planning", "track": "", "start_time": "20161206T220000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161206T230000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 11},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: NetOps: 2017 Projects and Deliverables", "track": "", "start_time": "20161206T220000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T010000", "timezone": "UTC", "microlocation": "Hilton Waikoloa\r\nSEQUENCE:0\r\nUID:21dbbfdfb8ac8f2afb65bee28f4d90aa\r\nURL:http://hawaiiallhands2016.sched.com/event/21dbbfdfb8ac8f2afb65bee28f4d90aa\r\nEND:VEVENT\r", "audio": "null", "signup_url": "null", "id": 12},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Ops OKR Presentation / Project Planning", "track": "", "start_time": "20161206T220000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T003000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 13},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Recruiting 2017 Big Picture Alignment", "track": "", "start_time": "20161206T220000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T003000", "timezone": "UTC", "microlocation": {"id":12,"name":"Kona Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 14},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Beijing Team Working Space", "track": "", "start_time": "20161206T223000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T030000", "timezone": "UTC", "microlocation": {"id":3,"name":"king's Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 15},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Firefox All Hands", "track": "", "start_time": "20161206T223000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T000000", "timezone": "UTC", "microlocation": {"id":19,"name":"Monarchy Ballroom"}, "audio": "null", "signup_url": "null", "id": 16},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Firefox Homeroom", "track": "", "start_time": "20161206T223000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T030000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 17},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Opening Circle (All Hands)", "track": "", "start_time": "20161206T223000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161206T233000", "timezone": "UTC", "microlocation": {"id":4,"name":"king's Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 18},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "WPR\\, Metrics & Internal Comms Homeroom", "track": "", "start_time": "20161206T223000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T030000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 19},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "SensorWeb: Team Kick-off", "track": "", "start_time": "20161206T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T001500", "timezone": "UTC", "microlocation": {"id":14,"name":"Kona Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 20},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Emerging Technologies Homeroom", "track": "", "start_time": "20161206T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T030000", "timezone": "UTC", "microlocation": {"id":21,"name":"Queen's Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 21},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "FP&A Session with Jim", "track": "", "start_time": "20161206T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T000000", "timezone": "UTC", "microlocation": {"id":11,"name":"Kona Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 22},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: EUS Training Workshops", "track": "", "start_time": "20161206T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T030000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 23},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: MOC Incident Management - Understanding Prioritization", "track": "", "start_time": "20161206T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T000000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 24},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: Systems Team ", "track": "", "start_time": "20161206T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T000000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 25},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: WebOps Q1 2017 Planning Session", "track": "", "start_time": "20161206T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T030000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 26},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Marketing: The Unconference", "track": "", "start_time": "20161206T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T010000", "timezone": "UTC", "microlocation": {"id":6,"name":"kohala Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 27},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Marketing: Year in Review and Looking Ahead", "track": "", "start_time": "20161206T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T000000", "timezone": "UTC", "microlocation": {"id":6,"name":"kohala Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 28},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Skill Shares Workshop Block 1", "track": "", "start_time": "20161206T233000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T003000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 29},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Skill Shares Workshop Block 1", "track": "", "start_time": "20161206T233000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T003000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 30},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Connected Devices All Hands", "track": "", "start_time": "20161207T000000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T011000", "timezone": "UTC", "microlocation": {"id":14,"name":"Kona Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 31},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Uptime: Crash Metrics", "track": "", "start_time": "20161207T000000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T010000", "timezone": "UTC", "microlocation": {"id":9,"name":"kohala Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 32},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "FP&A Work Session", "track": "", "start_time": "20161207T000000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T040000", "timezone": "UTC", "microlocation": {"id":11,"name":"Kona Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 33},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Legal\\, Bus Dev\\, Policy Group Event - Meet in Lower Lobby at 2:30 pm", "track": "", "start_time": "20161207T003000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T073000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 34},
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "People Team Sunset Sail", "track": "", "start_time": "20161207T004500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T040000", "timezone": "UTC", "microlocation": {"id":12,"name":"Kona Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 35},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Firefox Engineering Operations All Hands", "track": "", "start_time": "20161207T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T020000", "timezone": "UTC", "microlocation": {"id":7,"name":"kohala Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 36},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Firefox Platform Managers Meetup", "track": "", "start_time": "20161207T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T030000", "timezone": "UTC", "microlocation": {"id":5,"name":"king's Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 37},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Form Autofill Q1 Planning & Key Decisions", "track": "", "start_time": "20161207T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T030000", "timezone": "UTC", "microlocation": {"id":8,"name":"kohala Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 38},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: Who is our new EUS Manager?", "track": "", "start_time": "20161207T013000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T030000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 39},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Skill Shares Workshop Block 2", "track": "", "start_time": "20161207T013000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T023000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 40},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Skill Shares Workshop Block 2", "track": "", "start_time": "20161207T013000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T023000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 41},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Go Faster Update", "track": "", "start_time": "20161207T020000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T030000", "timezone": "UTC", "microlocation": {"id":7,"name":"kohala Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 42},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Uptime: Crash Report Analysis", "track": "", "start_time": "20161207T020000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T030000", "timezone": "UTC", "microlocation": {"id":9,"name":"kohala Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 43},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Day One Closing Circle", "track": "", "start_time": "20161207T023000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T030000", "timezone": "UTC", "microlocation": {"id":4,"name":"king's Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 44},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Electives Coaching - Final Session", "track": "", "start_time": "20161207T030000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T040000", "timezone": "UTC", "microlocation": {"id":3,"name":"king's Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 45},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Breakfast", "track": "", "start_time": "20161207T160000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T183000", "timezone": "UTC", "microlocation": {"id":18,"name":"Lagoon Lanai"}, "audio": "null", "signup_url": "null", "id": 46},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "All Hands Info Desk", "track": "", "start_time": "20161207T170000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T030000", "timezone": "UTC", "microlocation":{"id":1,"name":"Convention Center Lobby"}, "audio": "null", "signup_url": "null", "id": 47},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Insights Training", "track": "", "start_time": "20161207T180000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T220000", "timezone": "UTC", "microlocation": {"id":24,"name":"Waikoloa Suite 2"}, "audio": "null", "signup_url": "null", "id": 48},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Beijing Team Working Space", "track": "", "start_time": "20161207T183000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T003000", "timezone": "UTC", "microlocation": {"id":3,"name":"king's Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 49},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Connected Devices Project Team Time", "track": "", "start_time": "20161207T183000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T003000", "timezone": "UTC", "microlocation": {"id":14,"name":"Kona Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 50},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "EE Experience", "track": "", "start_time": "20161207T183000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T193000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 51},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "WPR Insights Session", "track": "", "start_time": "20161207T183000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T003000", "timezone": "UTC", "microlocation": {"id":10,"name":"Kona Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 52},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "WPR\\, Metrics & Internal Comms Homeroom", "track": "", "start_time": "20161207T183000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T003000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 53},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "A Tour of the Engine Room", "track": "", "start_time": "20161207T184500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T200000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 54},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Adversarial Thinking Workshop", "track": "", "start_time": "20161207T184500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T003000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 55},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Core Browser 2016 Review / 2017 H1 Planning", "track": "", "start_time": "20161207T184500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T213000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 56},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Firefox Homeroom", "track": "", "start_time": "20161207T184500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T003000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 57},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "SensorWeb: Team Kick-off cont'd.", "track": "", "start_time": "20161207T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T200000", "timezone": "UTC", "microlocation": {"id":14,"name":"Kona Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 58},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "FP&A Session with Jim", "track": "", "start_time": "20161207T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T200000", "timezone": "UTC", "microlocation": {"id":11,"name":"Kona Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 59},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Campus 2017 Activities Hack", "track": "", "start_time": "20161207T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T214500", "timezone": "UTC", "microlocation": {"id":20,"name":"Queen's Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 60},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Leadership Toolkit Curriculum Hack Session", "track": "", "start_time": "20161207T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T214500", "timezone": "UTC", "microlocation": {"id":20,"name":"Queen's Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 61},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Participation Systems Roadmap", "track": "", "start_time": "20161207T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T214500", "timezone": "UTC", "microlocation": {"id":20,"name":"Queen's Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 62},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: Document Vendor Procurement Process", "track": "", "start_time": "20161207T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T213000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 63},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: MOC Team Q1 2017 Planning", "track": "", "start_time": "20161207T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T210000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 64},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: Security Awareness 2017", "track": "", "start_time": "20161207T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T200000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 65},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Legal\\, Bus Dev\\, Policy: Opening\\, Welcome and Introductions", "track": "", "start_time": "20161207T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T200000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 66},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Marketing: Durable Teams/Cross Team", "track": "", "start_time": "20161207T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T210000", "timezone": "UTC", "microlocation": {"id":6,"name":"kohala Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 67},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Team Time", "track": "", "start_time": "20161207T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T210000", "timezone": "UTC", "microlocation": {"id":4,"name":"king's Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 68},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Emerging Technologies All Hands", "track": "", "start_time": "20161207T193000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T203000", "timezone": "UTC", "microlocation": {"id":19,"name":"Monarchy Ballroom"}, "audio": "null", "signup_url": "null", "id": 69},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: NetOps: Documentation Review", "track": "", "start_time": "20161207T193000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T213000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 70},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Taiwan Greenhouse Meeting", "track": "", "start_time": "20161207T193000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T200000", "timezone": "UTC", "microlocation": {"id":12,"name":"Kona Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 71},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "SensorWeb: User Story and Q1/Q2 Planning", "track": "", "start_time": "20161207T200000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T210000", "timezone": "UTC", "microlocation": {"id":14,"name":"Kona Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 72},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "FP&A Session with Chris", "track": "", "start_time": "20161207T200000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T210000", "timezone": "UTC", "microlocation": {"id":11,"name":"Kona Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 73},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: Commons AV System Design", "track": "", "start_time": "20161207T200000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T210000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 74},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: Infosec IR Process", "track": "", "start_time": "20161207T200000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T210000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 75},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Legal\\, Bus Dev\\, Policy: Team Overview", "track": "", "start_time": "20161207T200000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T210000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 76},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Merit Cycle Process Conversation", "track": "", "start_time": "20161207T200000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T203000", "timezone": "UTC", "microlocation": {"id":12,"name":"Kona Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 77},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Add-Ons State of the Union", "track": "", "start_time": "20161207T201500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T213000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 78},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Firefox UX Open House", "track": "", "start_time": "20161207T201500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T221500", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 79},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Position Management Demo: Session 1", "track": "", "start_time": "20161207T203000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T213000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 80},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Fireside Chat w/Chris & Emerging Technologies", "track": "", "start_time": "20161207T204500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T214500", "timezone": "UTC", "microlocation": {"id":21,"name":"Queen's Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 81},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "SensorWeb: Marketing and Branding", "track": "", "start_time": "20161207T210000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T220000", "timezone": "UTC", "microlocation": {"id":14,"name":"Kona Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 82},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "FP&A Work Session", "track": "", "start_time": "20161207T210000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T003000", "timezone": "UTC", "microlocation": {"id":11,"name":"Kona Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 83},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Legal\\, Bus Dev\\, Policy: 'Um Actually'", "track": null, "start_time": "20161207T210000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T220000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 84},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Marketing: Functional Teams", "track": "", "start_time": "20161207T210000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T220000", "timezone": "UTC", "microlocation": {"id":6,"name":"kohala Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 85},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Lunch", "track": "", "start_time": "20161207T210000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T223000", "timezone": "UTC", "microlocation": {"id":18,"name":"Lagoon Lanai"}, "audio": "null", "signup_url": "null", "id": 86},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Diversity and Inclusion Office Hours", "track": "", "start_time": "20161207T210000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T220000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 87},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Activity Stream\\, Firefox Accounts & Sync H1 Planning", "track": "", "start_time": "20161207T213000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T003000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 88},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Developer Productivity Hacks", "track": "", "start_time": "20161207T213000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T223000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 89},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "SensorWeb: Team Work Time", "track": "", "start_time": "20161207T220000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T003000", "timezone": "UTC", "microlocation": {"id":14,"name":"Kona Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 90},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Emerging Technologies Homeroom", "track": "", "start_time": "20161207T220000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T003000", "timezone": "UTC", "microlocation": {"id":21,"name":"Queen's Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 91},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: Cloud Video Conferencing RFP Results", "track": "", "start_time": "20161207T220000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T230000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 92},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Team Time", "track": "", "start_time": "20161207T223000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T003000", "timezone": "UTC", "microlocation": {"id":10,"name":"Kona Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 93},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Working Sessions", "track": "", "start_time": "20161207T223000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T003000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 94},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Business Processes: Part 1", "track": "", "start_time": "20161207T223000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161207T233000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 95},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Reducing & Managing Intermittent Oranges", "track": "", "start_time": "20161207T224500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T003000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 96},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Lockpicking", "track": "", "start_time": "20161207T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T003000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 97},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Participation Systems Worksession", "track": "", "start_time": "20161207T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T010000", "timezone": "UTC", "microlocation": {"id":20,"name":"Queen's Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 98},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Reps Program Moving Forward", "track": "", "start_time": "20161207T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T010000", "timezone": "UTC", "microlocation": {"id":20,"name":"Queen's Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 99},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Immigration: Open House", "track": "", "start_time": "20161207T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T020000", "timezone": "UTC", "microlocation": {"id":16,"name":"Kona promenade"}, "audio": "null", "signup_url": "null", "id": 100},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Marketing: Best of Show & Tell Marketing Demos", "track": "", "start_time": "20161207T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T003000", "timezone": "UTC", "microlocation": {"id":6,"name":"kohala Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 101},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Strategic Operations All Hands", "track": "", "start_time": "20161207T233000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T003000", "timezone": "UTC", "microlocation": {"id":19,"name":"Monarchy Ballroom"}, "audio": "null", "signup_url": "null", "id": 102},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Uptime: Client-Side Crash Report Generation", "track": "", "start_time": "20161208T000000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T010000", "timezone": "UTC", "microlocation": {"id":9,"name":"kohala Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 103},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Become a Mozilla Media Trained Rockstar", "track": "", "start_time": "20161208T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T020000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 104},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Debiasing the Hiring Process", "track": "", "start_time": "20161208T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T023000", "timezone": "UTC", "microlocation": {"id":22,"name":"Queen's Ballroom 6"}, "audio": "null", "signup_url": "null", "id": 105},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Firefox and Platform Lightning Talks", "track": "", "start_time": "20161208T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T031500", "timezone": "UTC", "microlocation": {"id":19,"name":"Monarchy Ballroom"}, "audio": "null", "signup_url": "null", "id": 106},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IoT Lightning Talks", "track": "", "start_time": "20161208T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T031500", "timezone": "UTC", "microlocation": {"id":14,"name":"Kona Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 107},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Making a Culture of Yes", "track": "", "start_time": "20161208T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T020000", "timezone": "UTC", "microlocation": {"id":3,"name":"king's Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 108},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Manager Training Program Updates", "track": "", "start_time": "20161208T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T020000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 109},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Mastering Rust", "track": "", "start_time": "20161208T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T020000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 110},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Mozilla Money Matters", "track": "", "start_time": "20161208T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T020000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 111},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Remotely Possible", "track": "", "start_time": "20161208T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T020000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 112},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Rescuing projects from bitrot with C-to-Rust translation", "track": "", "start_time": "20161208T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T020000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 113},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Using Innovation Challenges as a Powerful Problem-Solving Tool", "track": "", "start_time": "20161208T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T020000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 114},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "WebVR Demos", "track": "", "start_time": "20161208T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T031500", "timezone": "UTC", "microlocation": {"id":21,"name":"Queen's Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 115},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "What Does a Women at Mozilla Community Look Like to You? Come Share and Help Define", "track": "", "start_time": "20161208T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T023000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 116},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Defining Firefox Product Strategy", "track": "", "start_time": "20161208T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T031500", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 117},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Developer Marketing Strategy for 2017", "track": "", "start_time": "20161208T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T031500", "timezone": "UTC", "microlocation": {"id":12,"name":"Kona Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 118},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Drivers of Engagement for Mozilla's European staff", "track": "", "start_time": "20161208T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T031500", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 119},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Moving from digital inclusion to digital equity", "track": "", "start_time": "20161208T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T031500", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 120},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Rust open office hours", "track": "", "start_time": "20161208T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T031500", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 121},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Sentiment Analysis of FOSS Communities", "track": "", "start_time": "20161208T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T031500", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 122},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Aloha Happy Hour", "track": "", "start_time": "20161208T030000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T040000", "timezone": "UTC", "microlocation": {"id":18,"name":"Lagoon Lanai"}, "audio": "null", "signup_url": "null", "id": 123},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Breakfast", "track": "", "start_time": "20161208T160000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T183000", "timezone": "UTC", "microlocation": {"id":18,"name":"Lagoon Lanai"}, "audio": "null", "signup_url": "null", "id": 124},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "All Hands Info Desk", "track": "", "start_time": "20161208T170000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T030000", "timezone": "UTC", "microlocation":{"id":1,"name":"Convention Center Lobby"}, "audio": "null", "signup_url": "null", "id": 125},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Insights Training", "track": "", "start_time": "20161208T180000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T220000", "timezone": "UTC", "microlocation": {"id":24,"name":"Waikoloa Suite 2"}, "audio": "null", "signup_url": "null", "id": 126},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Beijing Team Working Space", "track": "", "start_time": "20161208T183000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T003000", "timezone": "UTC", "microlocation": {"id":3,"name":"king's Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 127},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Connected Devices Project Team Time", "track": "", "start_time": "20161208T183000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T003000", "timezone": "UTC", "microlocation": {"id":14,"name":"Kona Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 128},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "People Ops Planning", "track": "", "start_time": "20161208T183000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T193000", "timezone": "UTC", "microlocation": {"id":12,"name":"Kona Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 129},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "WPR\\, Metrics & Internal Comms Homeroom", "track": "", "start_time": "20161208T183000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T003000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 130},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Firefox Homeroom", "track": "", "start_time": "20161208T184500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T003000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 131},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Hasal Performance Testing Framework", "track": "", "start_time": "20161208T184500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T200000", "timezone": "UTC", "microlocation": {"id":8,"name":"kohala Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 132},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Release & Productivity Technical Leaders Meeting", "track": "", "start_time": "20161208T184500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T200000", "timezone": "UTC", "microlocation": {"id":5,"name":"king's Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 133},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Test Pilot Extravaganza", "track": "", "start_time": "20161208T184500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T200000", "timezone": "UTC", "microlocation": {"id":7,"name":"kohala Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 134},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Emerging Technologies Homeroom", "track": "", "start_time": "20161208T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T003000", "timezone": "UTC", "microlocation": {"id":21,"name":"Queen's Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 135},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "WebExtensions Hackathon", "track": "", "start_time": "20161208T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T030000", "timezone": "UTC", "microlocation": {"id":9,"name":"kohala Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 136},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "FP&A Session with Jim", "track": "", "start_time": "20161208T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T200000", "timezone": "UTC", "microlocation": {"id":11,"name":"Kona Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 137},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: IT All Hands", "track": "", "start_time": "20161208T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T203000", "timezone": "UTC", "microlocation": {"id":19,"name":"Monarchy Ballroom"}, "audio": "null", "signup_url": "null", "id": 138},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Legal\\, Bus Dev\\, Policy: Meet For Breakfast in Team Room", "track": "", "start_time": "20161208T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T200000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 139},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Marketing: Durable Teams/Cross Team", "track": "", "start_time": "20161208T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T200000", "timezone": "UTC", "microlocation": {"id":6,"name":"kohala Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 140},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Working Sessions", "track": "", "start_time": "20161208T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T223000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 141},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Working Sessions", "track": "", "start_time": "20161208T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T223000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 142},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Working Sessions", "track": "", "start_time": "20161208T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T223000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 143},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Position Management Demo: Session 2", "track": "", "start_time": "20161208T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T193000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 144},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "People Team DLE (Session 1)", "track": "", "start_time": "20161208T193000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T213000", "timezone": "UTC", "microlocation": {"id":12,"name":"Kona Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 145},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "SensorWeb: Team Work Time", "track": "", "start_time": "20161208T200000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T220000", "timezone": "UTC", "microlocation": {"id":14,"name":"Kona Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 146},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Uptime: Windows Third-Party Crashes", "track": "", "start_time": "20161208T200000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T210000", "timezone": "UTC", "microlocation": {"id":9,"name":"kohala Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 147},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "FP&A Session with Mitchell", "track": "", "start_time": "20161208T200000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T210000", "timezone": "UTC", "microlocation": {"id":11,"name":"Kona Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 148},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Legal\\, Bus Dev\\, Policy:Data/legal review of third-parties", "track": "", "start_time": "20161208T200000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T210000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 149},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Marketing: Functional Teams", "track": "", "start_time": "20161208T200000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T220000", "timezone": "UTC", "microlocation": {"id":6,"name":"kohala Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 150},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IAM Package C and Beyond", "track": "", "start_time": "20161208T203000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T213000", "timezone": "UTC", "microlocation": {"id":20,"name":"Queen's Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 151},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: EUS Goes MIG", "track": "", "start_time": "20161208T203000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T210000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 152},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Firefox: Q&A with Chris Beard", "track": "", "start_time": "20161208T204500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T214500", "timezone": "UTC", "microlocation": {"id":19,"name":"Monarchy Ballroom"}, "audio": "null", "signup_url": "null", "id": 153},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Legal\\, Bus Dev\\, Policy: Media Training or Pitch Brainstorm", "track": "", "start_time": "20161208T210000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T220000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 154},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Lunch", "track": "", "start_time": "20161208T210000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T223000", "timezone": "UTC", "microlocation": {"id":18,"name":"Lagoon Lanai"}, "audio": "null", "signup_url": "null", "id": 155},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Mitchell Baker & Katharina Borchert Fireside Chat w/ Open Innovation", "track": "", "start_time": "20161208T213000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T223000", "timezone": "UTC", "microlocation": {"id":20,"name":"Queen's Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 156},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: App Services: SN Dev Team", "track": "", "start_time": "20161208T213000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T003000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 157},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Experience WebVR!", "track": "", "start_time": "20161208T220000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T000000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 158},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: Infosec Lottery", "track": "", "start_time": "20161208T220000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161208T230000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 159},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: MOC 2016 Bug Cleanup", "track": "", "start_time": "20161208T220000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T000000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 160},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: WebOps Observatory Documentation", "track": "", "start_time": "20161208T220000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T003000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 161},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Policy: Policy & Advocacy", "track": "", "start_time": "20161208T220000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T003000", "timezone": "UTC", "microlocation": {"id":22,"name":"Queen's Ballroom 6"}, "audio": "null", "signup_url": "null", "id": 162},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Policy: Policy & Advocacy Team Only", "track": "", "start_time": "20161208T220000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T003000", "timezone": "UTC", "microlocation": "Queen's Ballrom 6", "audio": "null", "signup_url": "null", "id": 163},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Introduction to Data Tools", "track": "", "start_time": "20161208T223000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T003000", "timezone": "UTC", "microlocation": {"id":7,"name":"kohala Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 164},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Performance Profiling Workshop", "track": "", "start_time": "20161208T223000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T003000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 165},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Test Pilot H1 Planning", "track": "", "start_time": "20161208T223000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T003000", "timezone": "UTC", "microlocation": {"id":5,"name":"king's Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 166},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: Windows 10 Level Up", "track": "", "start_time": "20161208T223000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T003000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 167},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "People Team DLE (Session 2)", "track": "", "start_time": "20161208T223000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T003000", "timezone": "UTC", "microlocation": {"id":12,"name":"Kona Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 168},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Lockpicking", "track": "", "start_time": "20161208T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T003000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 169},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Marketing: Q&A with CBeard", "track": "", "start_time": "20161208T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T000000", "timezone": "UTC", "microlocation": {"id":6,"name":"kohala Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 170},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Agile Product Development", "track": "", "start_time": "20161208T234500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T010000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 171},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Core Mobilizers", "track": "", "start_time": "20161208T234500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T010000", "timezone": "UTC", "microlocation": {"id":20,"name":"Queen's Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 172},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Data analysis and visualization 101", "track": "", "start_time": "20161209T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T020000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 173},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Debiasing the Hiring Process", "track": "", "start_time": "20161209T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T023000", "timezone": "UTC", "microlocation": {"id":22,"name":"Queen's Ballroom 6"}, "audio": "null", "signup_url": "null", "id": 174},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Firefox Growth: The how-to of gaining browser market share", "track": "", "start_time": "20161209T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T020000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 175},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Hackers and you\\, what are you up against?!", "track": "", "start_time": "20161209T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T020000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 176},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "How Code Creates Community", "track": "", "start_time": "20161209T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T020000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 177},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "How to use User Research in New Product Development", "track": "", "start_time": "20161209T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T021500", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 178},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Identity and Access Management at Mozilla", "track": "", "start_time": "20161209T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T020000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 179},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Let's talk WebVR", "track": "", "start_time": "20161209T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T020000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 180},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Membership Product Exercise and Research", "track": "", "start_time": "20161209T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T020000", "timezone": "UTC", "microlocation": {"id":3,"name":"king's Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 181},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Mozilla Brand Identity IRL", "track": "", "start_time": "20161209T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T020000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 182},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Mozilla Money Matters", "track": "", "start_time": "20161209T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T020000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 183},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Research Talks", "track": "", "start_time": "20161209T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T021500", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 184},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "What we commit to: Community Participation Guidelines Evolution", "track": "", "start_time": "20161209T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T020000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 185},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Common Tools Empower All Mozillians!", "track": "", "start_time": "20161209T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T031500", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 186},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Data @ Mozilla", "track": "", "start_time": "20161209T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T031500", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 187},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Future Fox: Beyond browsing (and what that might look like)", "track": "", "start_time": "20161209T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T031500", "timezone": "UTC", "microlocation": {"id":6,"name":"kohala Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 188},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Get Inspired by Mozilla Tech Speakers", "track": "", "start_time": "20161209T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T031500", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 189},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "How a Non-Profit profits", "track": "", "start_time": "20161209T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T031500", "timezone": "UTC", "microlocation": {"id":4,"name":"king's Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 190},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "How and Why to Write a WebExtensions API", "track": "", "start_time": "20161209T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T031500", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 191},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Mozilla Connected Devices Platform", "track": "", "start_time": "20161209T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T031500", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 192},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Mozilla's Issue Agenda: moving past MVP", "track": "", "start_time": "20161209T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T031500", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 193},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Online Tracking", "track": "", "start_time": "20161209T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T031500", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 194},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Push and Pull factors of Firefox Attrition", "track": "", "start_time": "20161209T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T031500", "timezone": "UTC", "microlocation": {"id":24,"name":"Waikoloa Suite 2"}, "audio": "null", "signup_url": "null", "id": 195},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "The power of a community of core volunteers", "track": "", "start_time": "20161209T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T031500", "timezone": "UTC", "microlocation": {"id":5,"name":"king's Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 196},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Weird Science: 38 findings from 2016", "track": "", "start_time": "20161209T021500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T031500", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 197},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Augmented Reality Research @ Mozilla", "track": "", "start_time": "20161209T023000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T031500", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 198},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Drink-o-vation Happy Hour", "track": "", "start_time": "20161209T033000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T043000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 199},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Inclusion Conversation Mixer", "track": "", "start_time": "20161209T033000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T053000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 200},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Breakfast", "track": "", "start_time": "20161209T160000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T183000", "timezone": "UTC", "microlocation": {"id":18,"name":"Lagoon Lanai"}, "audio": "null", "signup_url": "null", "id": 201},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "All Hands Info Desk", "track": "", "start_time": "20161209T170000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T030000", "timezone": "UTC", "microlocation":{"id":1,"name":"Convention Center Lobby"}, "audio": "null", "signup_url": "null", "id": 202},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Insights Training", "track": "", "start_time": "20161209T180000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T220000", "timezone": "UTC", "microlocation": {"id":24,"name":"Waikoloa Suite 2"}, "audio": "null", "signup_url": "null", "id": 203},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Beijing Team Working Space", "track": "", "start_time": "20161209T183000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T030000", "timezone": "UTC", "microlocation": {"id":3,"name":"king's Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 204},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Connected Devices Project Team Time", "track": "", "start_time": "20161209T183000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T020000", "timezone": "UTC", "microlocation": {"id":14,"name":"Kona Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 205},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: App Assessments - How to Determine Value", "track": "", "start_time": "20161209T183000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T200000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 206},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: Data Team Working Session", "track": "", "start_time": "20161209T183000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T213000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 207},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Business Processes: Part 2", "track": "", "start_time": "20161209T183000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T193000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 208},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "WPR\\, Metrics & Internal Comms Homeroom", "track": "", "start_time": "20161209T183000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T220000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 209},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Data Platform & Tools H1 Planning", "track": "", "start_time": "20161209T184500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T211500", "timezone": "UTC", "microlocation": {"id":5,"name":"king's Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 210},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Dev Tools Update", "track": "", "start_time": "20161209T184500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T200000", "timezone": "UTC", "microlocation": {"id":7,"name":"kohala Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 211},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "SensorWeb: Standup and Planning Session", "track": "", "start_time": "20161209T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T210000", "timezone": "UTC", "microlocation": {"id":14,"name":"Kona Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 212},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Emerging Technologies Homeroom", "track": "", "start_time": "20161209T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T030000", "timezone": "UTC", "microlocation": {"id":21,"name":"Queen's Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 213},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Firefox Homeroom", "track": "", "start_time": "20161209T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T010000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 214},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Project Prox Overview", "track": "", "start_time": "20161209T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T200000", "timezone": "UTC", "microlocation": {"id":8,"name":"kohala Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 215},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "FP&A Session with Jim", "track": "", "start_time": "20161209T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T200000", "timezone": "UTC", "microlocation": {"id":11,"name":"Kona Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 216},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Building Developer Communities", "track": "", "start_time": "20161209T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T200000", "timezone": "UTC", "microlocation": {"id":20,"name":"Queen's Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 217},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Diversity & Inclusion for Participation", "track": "", "start_time": "20161209T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T214500", "timezone": "UTC", "microlocation": {"id":20,"name":"Queen's Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 218},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MCWS-IT-ParSys Alignment", "track": "", "start_time": "20161209T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T200000", "timezone": "UTC", "microlocation": {"id":20,"name":"Queen's Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 219},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: NetOps: 2016 Retrospective", "track": "", "start_time": "20161209T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T213000", "timezone": "UTC", "microlocation": "Hilton Waikoloa\r\nSEQUENCE:0\r\nUID:59b74f2924a6b6e5139434ff643c24fd\r\nURL:http://hawaiiallhands2016.sched.com/event/59b74f2924a6b6e5139434ff643c24fd\r\nEND:VEVENT\r", "audio": "null", "signup_url": "null", "id": 220},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Legal\\, Bus Dev\\, Policy: Promoting Competition Policy", "track": "", "start_time": "20161209T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T200000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 221},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Marketing: Durable Teams/Cross Team", "track": "", "start_time": "20161209T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T210000", "timezone": "UTC", "microlocation": {"id":6,"name":"kohala Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 222},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Final Day Circle (All Hands)", "track": "", "start_time": "20161209T190000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T210000", "timezone": "UTC", "microlocation": {"id":4,"name":"king's Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 223},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Technology Trends & Insights", "track": "", "start_time": "20161209T193000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T210000", "timezone": "UTC", "microlocation": {"id":25,"name":"Waikoloa Suite 3"}, "audio": "null", "signup_url": "null", "id": 224},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: Service Desk Looking Forward", "track": "", "start_time": "20161209T193000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T210000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 225},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Employment Law 101", "track": "", "start_time": "20161209T193000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T213000", "timezone": "UTC", "microlocation": {"id":12,"name":"Kona Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 226},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "FP&A Work Session", "track": "", "start_time": "20161209T200000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T040000", "timezone": "UTC", "microlocation": {"id":11,"name":"Kona Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 227},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Mozilla Identity", "track": "", "start_time": "20161209T200000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T220000", "timezone": "UTC", "microlocation": {"id":20,"name":"Queen's Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 228},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "IT: WebOps 2016 in Review", "track": "", "start_time": "20161209T200000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T213000", "timezone": "UTC", "microlocation": {"id":13,"name":"Kona Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 229},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Uptime", "track": "", "start_time": "20161209T201500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T211500", "timezone": "UTC", "microlocation": {"id":8,"name":"kohala Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 230},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "SensorWeb: Team Wrap-up", "track": "", "start_time": "20161209T210000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T220000", "timezone": "UTC", "microlocation": {"id":14,"name":"Kona Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 231},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Securing Web Services", "track": "", "start_time": "20161209T210000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T220000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 232},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Legal\\, Bus Dev\\, Policy: Chris Beard Fireside Chat", "track": "", "start_time": "20161209T210000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T220000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 233},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Marketing: Functional Teams", "track": "", "start_time": "20161209T210000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T220000", "timezone": "UTC", "microlocation": {"id":6,"name":"kohala Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 234},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Lunch", "track": "", "start_time": "20161209T210000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161209T223000", "timezone": "UTC", "microlocation": {"id":18,"name":"Lagoon Lanai"}, "audio": "null", "signup_url": "null", "id": 235},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Web Payments H1 Planning & Key Decisions", "track": "", "start_time": "20161209T211500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T003000", "timezone": "UTC", "microlocation": {"id":8,"name":"kohala Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 236},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Team Time", "track": "", "start_time": "20161209T223000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T003000", "timezone": "UTC", "microlocation": {"id":25,"name":"Waikoloa Suite 3"}, "audio": "null", "signup_url": "null", "id": 237},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Team Time", "track": "", "start_time": "20161209T223000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T003000", "timezone": "UTC", "microlocation": {"id":4,"name":"king's Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 238},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "People Team Leads 2017 Planning Meeting", "track": "", "start_time": "20161209T224500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T001500", "timezone": "UTC", "microlocation": {"id":12,"name":"Kona Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 239},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Platform Layout Team All-Hands", "track": "", "start_time": "20161209T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T000000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 240},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Release Management: So\\, you want to kill Aurora?", "track": "", "start_time": "20161209T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T003000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 241},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Securing the Sandbox", "track": "", "start_time": "20161209T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T003000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 242},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Open Innovation Fireside Chat with Chris Beard", "track": "", "start_time": "20161209T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T000000", "timezone": "UTC", "microlocation": {"id":20,"name":"Queen's Ballroom 4"}, "audio": "null", "signup_url": "null", "id": 243},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Marketing: Q&A with Mitchell", "track": "", "start_time": "20161209T230000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T000000", "timezone": "UTC", "microlocation": {"id":6,"name":"kohala Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 244},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Marketing: Marketing Closing Remarks", "track": "", "start_time": "20161210T000000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T010000", "timezone": "UTC", "microlocation": {"id":6,"name":"kohala Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 245},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Legal\\, Bus Dev\\, Policy: Mitchell Baker Fireside Chat", "track": "", "start_time": "20161210T003000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T013000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 246},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Connected Devices Wrap-up", "track": "", "start_time": "20161210T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T020000", "timezone": "UTC", "microlocation": {"id":14,"name":"Kona Ballroom 5"}, "audio": "null", "signup_url": "null", "id": 247},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Working Sessions", "track": "", "start_time": "20161210T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T030000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 248},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Working Sessions", "track": "", "start_time": "20161210T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T030000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 249},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "MoFo: Working Sessions", "track": "", "start_time": "20161210T010000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T030000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 250},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Extracting Meaning from the Web with Fathom 2.0", "track": "", "start_time": "20161210T011500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T020000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 251},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "FlyWeb Security & Status Update", "track": "", "start_time": "20161210T011500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T020000", "timezone": "UTC", "microlocation": {"id":7,"name":"kohala Ballroom 2"}, "audio": "null", "signup_url": "null", "id": 252},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "On Boarding Review", "track": "", "start_time": "20161210T011500Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T021500", "timezone": "UTC", "microlocation": {"id":5,"name":"king's Ballroom 3"}, "audio": "null", "signup_url": "null", "id": 253},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Legal\\, Bus Dev\\, Policy: Denelle's Team Wrap up", "track": "", "start_time": "20161210T013000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T023000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 254},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Family Luau Dinner", "track": "", "start_time": "20161210T043000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T070000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 255},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Mahalo After Party", "track": "", "start_time": "20161210T060000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T090000", "timezone": "UTC", "microlocation": "", "audio": "null", "signup_url": "null", "id": 256},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Breakfast", "track": "", "start_time": "20161210T160000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161210T183000", "timezone": "UTC", "microlocation": {"id":18,"name":"Lagoon Lanai"}, "audio": "null", "signup_url": "null", "id": 257},
+
+
+{"short_abstract": "", "speakers": "", "subtitle": "null", "language": "english", "title": "Saturday Departure Lounge", "track": "", "start_time": "20161210T210000Z", "session_type": "", "comments": "", "long abstract": "null", "slides": "null", "state": "accepted", "video": "null", "end_time": "20161211T060000", "timezone": "UTC", "microlocation": {"id":3,"name":"king's Ballroom 1"}, "audio": "null", "signup_url": "null", "id": 258}]

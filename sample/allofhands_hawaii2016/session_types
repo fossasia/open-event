@@ -1,0 +1,73 @@
+[
+
+        {   
+            "id": 1, 
+            "length": null, 
+            "name": "Welcome Reception"
+        },
+        {
+            "id": 2, 
+            "length": null, 
+            "name": "Breakfast"
+        }, 
+        {
+            "id": 3, 
+            "length": null, 
+            "name": "Lunch"
+        },
+        {
+            "id": 4, 
+            "length": null, 
+            "name": "Team Time"
+        }, 
+        {
+            "id": 5, 
+            "length": null, 
+            "name": "Team Time"
+        }, 
+         {
+            "id": 6, 
+            "length": null, 
+            "name": "Breakfast"
+        },
+        {
+            "id": 7, 
+            "length": null, 
+            "name": "Team time"
+        }, 
+         {
+            "id": 8, 
+            "length": null, 
+            "name": "Lunch"
+        }, 
+        {
+            "id": 9, 
+            "length": null, 
+            "name": "team time"
+        },
+        {
+            "id": 10, 
+            "length": null, 
+            "name": "Elective time"
+        }, 
+        {
+            "id": 11, 
+            "length": null, 
+            "name": "Dinner"
+        }, 
+        {
+            "id": 12, 
+            "length": null, 
+            "name": "Closing Dinner & Party"
+        }, 
+        {
+            "id": 13, 
+            "length": null, 
+            "name": "Team timw"
+        }
+
+
+
+
+
+]
