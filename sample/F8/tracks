@@ -1,0 +1,117 @@
+[
+{
+        "id": 1, 
+        "name": “ADS & MONETIZATION”, 
+        "color": "#1485CC", 
+        "description": null, 
+        "location": “C”, 
+        "sessions": [
+            {
+                "id": 80, 
+                "title": "Procedural Content Generation with Clojure"
+            }, 
+            {
+                "id": 81, 
+                "title": "Demo Session"
+            }, 
+            {
+                "id": 72, 
+                "title": "Deep Learning: From Inception to Dreams"
+            }, 
+            {
+                "id": 73, 
+                "title": "Demo Session"
+            }, 
+            {
+                "id": 74, 
+                "title": "Demo Session"
+            }, 
+            {
+                "id": 75, 
+                "title": "Demo Session"
+            }, 
+            {
+                "id": 76, 
+                "title": "Group Photo"
+            }, 
+            {
+                "id": 77, 
+                "title": "Lunch"
+            }, 
+            {
+                "id": 78, 
+                "title": "Writing Plugins for IntelliJ IDEA"
+            }, 
+            {
+                "id": 79, 
+                "title": "Demo Session"
+            }, 
+            {
+                "id": 82, 
+                "title": "Build your own IoT Empire - From Games to MQTT and Back"
+            }, 
+            {
+                "id": 83, 
+                "title": "Build your own IoT Empire - From Games to MQTT and Back"
+            }, 
+            {
+                "id": 84, 
+                "title": "Demo Session"
+            }, 
+            {
+                "id": 85, 
+                "title": "Demo Session"
+            }, 
+            {
+                "id": 86, 
+                "title": "End of Sessions and Social Event (Invitation Only)"
+            }, 
+            {
+                "id": 87, 
+                "title": "GitHub Workshop"
+            }, 
+            {
+                "id": 88, 
+                "title": "Demo Session"
+            }, 
+            {
+                "id": 89, 
+                "title": "Demo Session"
+            }, 
+            {
+                "id": 90, 
+                "title": "Demo Session"
+            }, 
+            {
+                "id": 91, 
+                "title": "Lunch"
+            }, 
+            {
+                "id": 92, 
+                "title": "Building Truly Native Apps with NativeScript"
+            }, 
+            {
+                "id": 93, 
+                "title": "Demo Session"
+            }, 
+            {
+                "id": 94, 
+                "title": "Demo Session"
+            }, 
+            {
+                "id": 95, 
+                "title": "Practical Computerized Home Automation"
+            }, 
+            {
+                "id": 96, 
+                "title": "Demo Session"
+            }, 
+            {
+                "id": 97, 
+                "title": "Closing Notes"
+            }
+        ], 
+        "track_image_url": null
+    }
+
+]

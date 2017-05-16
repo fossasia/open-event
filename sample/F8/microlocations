@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1, 
+        "name": "Registration Desk", 
+        "floor": null, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }, 
+    {
+        "id": 2, 
+        "name": "LL", 
+        "floor": null, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }, 
+    {
+        "id": 3, 
+        "name": "City National Civic", 
+        "floor": null, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }, 
+    {
+        "id": 4, 
+        "name": "Festival Hall", 
+        "floor": null, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }, 
+    {
+        "id": 5, 
+        "name": "G", 
+        "floor": null, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }, 
+    {
+        "id": 6, 
+        "name": "F", 
+        "floor": null, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }, 
+    {
+        "id": 7, 
+        "name": "B", 
+        "floor": null, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }, 
+    {
+        "id": 8, 
+        "name": "A", 
+        "floor": null, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }, 
+    {
+        "id": 9, 
+        "name": "C", 
+        "floor": null, 
+        "latitude": null, 
+        "longitude": null, 
+        "room": null
+    }
+]
