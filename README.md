@@ -1,4 +1,5 @@
-# Open Event
+![Open Event Frontend](https://storage.googleapis.com/eventyay.com/assets/branding/base_branding.png)
+
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fossasia/open-event?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Mailing List](https://img.shields.io/badge/Mailing%20List-FOSSASIA-blue.svg)](https://groups.google.com/forum/#!forum/open-event)
 
