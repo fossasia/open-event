@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1, 
+        "name": "Session of 1 hour", 
+        "length": "01.00"
+    },
+	{
+		"id": 2,
+		"name": "Keynote",
+		"length": "01:30"
+	}
+]

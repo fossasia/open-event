@@ -1,0 +1,1865 @@
+[
+    {
+        "id": 1001, 
+        "title": "Keynote", 
+        "subtitle": null, 
+        "short_abstract": "<p>Join us to learn about product and platform innovation at Google.</p>", 
+        "long_abstract": "<p>Join us to learn about product and platform innovation at Google.</p>", 
+        "start_time": "2017-05-17T10:00:00", 
+        "end_time": "2017-05-17T11:30:00",  
+        "session_type": {
+            "id": 2, 
+            "length": "01.30", 
+            "name": "Keynote"
+        },
+		"track": {
+            "color": "#00838F", 
+            "id": 454, 
+            "name": "Android"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/Y2VF8tmLFHw", 
+        "level": "", 
+        "microlocation": {
+			"id": 8,
+			"name": "Amphitheatre"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 1, 
+                "long_biography": "", 
+                "name": "Sundar Pichai", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKZ0JBVHJoREJJNkU", 
+                "short_biography": "<p>Pichai is the chief executive officer (CEO) of Google Inc. Formerly the Product Chief of Google, Pichai's current role was announced on 10 August 2015, as part of the restructuring process that made Alphabet Inc. into Google's parent company, and he assumed the position on 2 October 2015.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKZ0JBVHJoREJJNkU"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1002, 
+        "title": "Android Performance: An Overview", 
+        "subtitle": "", 
+        "short_abstract": "<p>You've written an Android app, but you're not sure how to make your apps smooth & fast. </p>", 
+        "long_abstract": "<p>You've written an Android app, but you're not sure how to make your apps smooth & fast. Luckily, we have tools for that! We'll walk through a number of different tools and approaches to understanding Android application performance. We'll go deep on Systrace and show you how to analyze your app using the same tools we used to make app on the Google Pixel fast.</p>", 
+        "start_time": "2017-05-17T17:00:00", 
+        "end_time": "2017-05-17T18:00:00", 
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        }, 
+        "track": {
+            "color": "#00838F", 
+            "id": 454, 
+            "name": "Android"
+        },
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/Qfo5fdoXrTU", 
+        "level": "intermediate", 
+        "microlocation": {
+			"id": 1,
+			"name": "Stage 1"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 2, 
+                "long_biography": "", 
+                "name": "Tim Murray", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKa1liTXBDR0pzcDQ", 
+                "short_biography": "<p>Tim runs the Android performance team at Google. Prior to his time at Google, he worked on high-performance computing at NVIDIA.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKa1liTXBDR0pzcDQ"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1003, 
+        "title": "Architecture Components - Introduction", 
+        "subtitle": "", 
+        "short_abstract": "<p>Writing robust Android apps can be challenging, between complex lifecycle issues, unreliable mobile networks, and constrained device capabilities. Mistakes in these areas lead to memory leaks, crashing apps, drained batteries, and unhappy users. This session will cover a new approach to good Android app architecture, including an overview of functionality that will make these problems fundamentally easier to solve. This session is the first of three on this new initiative; be sure to check out the other two 'Architecture Components' sessions.</p>", 
+        "long_abstract": "", 
+        "start_time": "2017-05-17T15:00:00", 
+        "end_time": "2017-05-17T16:00:00", 
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        }, 
+        "track": {
+            "color": "#00838F", 
+            "id": 454, 
+            "name": "Android"
+        },
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/FrteWKKVyzI", 
+        "level": "intermediate", 
+        "microlocation": {
+			"id": 1,
+			"name": "Stage 1"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 3, 
+                "long_biography": "", 
+                "name": "Yigit Boyar", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKOVdzWkZQSXVLcWs", 
+                "short_biography": "<p>Yigit is a software engineer on the Android Framework team focusing on app architecture and developer productivity. He also works on Data Binding and RecyclerView. Prior to joining Google, he was the Android Engineering Manager at Path.He received his bachelor's degree in computer engineering from Middle East Technical University, Turkey.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKOVdzWkZQSXVLcWs"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1004, 
+        "title": "Architecture Components - Solving the Lifecycle Problem", 
+        "subtitle": "", 
+        "short_abstract": "<p>Handling Application & UI lifecycle on Android has always been a challenge for applications: subclassing, overriding, and entirely too much code in your Activity class leads to fragile, complicated application logic. </p>", 
+        "long_abstract": "<p>Handling Application & UI lifecycle on Android has always been a challenge for applications: subclassing, overriding, and entirely too much code in your Activity class leads to fragile, complicated application logic. Wouldn't it be nice if this was easier? This session will cover a new approach to lifecycles and explore functionality that makes the problem dramatically easier. Be sure to also check out the other two 'Architecture Components' sessions for more information on architecting better Android applications.</p>", 
+        "start_time": "2017-05-18T08:30:00", 
+        "end_time": "2017-05-18T09:30:00", 
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        }, 
+        "track": {
+            "color": "#00838F", 
+            "id": 454, 
+            "name": "Android"
+        },
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/bEKNi1JOrNs", 
+        "level": "intermediate", 
+        "microlocation": {
+			"id": 1,
+			"name": "Stage 1"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 3, 
+                "long_biography": "", 
+                "name": "Yigit Boyar", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKOVdzWkZQSXVLcWs", 
+                "short_biography": "<p>Yigit is a software engineer on the Android Framework team focusing on app architecture and developer productivity. He also works on Data Binding and RecyclerView. Prior to joining Google, he was the Android Engineering Manager at Path.He received his bachelor's degree in computer engineering from Middle East Technical University, Turkey.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKOVdzWkZQSXVLcWs"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1005, 
+        "title": "Architecture Components - Persistence and Offline", 
+        "subtitle": "", 
+        "short_abstract": "<p>Writing database-driven apps on Android requires too much boilerplate code and too many edge cases that must be handled manually.</p>", 
+        "long_abstract": "<p>Writing database-driven apps on Android requires too much boilerplate code and too many edge cases that must be handled manually. This session will cover a new approach that allows you to architect your persistence layer in a much more robust and scalable way, benefiting from the full power of SQL without sacrificing compile-time code guarantees. We'll also discuss approaches and features that make offline persistence easier. Be sure to also check out the other two 'Architecture Components' sessions for more information on architecting better Android applications.</p>", 
+        "start_time": "2017-05-18T12:30:00", 
+        "end_time": "2017-05-18T13:30:00", 
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        }, 
+        "track": {
+            "color": "#00838F", 
+            "id": 454, 
+            "name": "Android"
+        },
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/MfHsPGQ6bgE", 
+        "level": "intermediate", 
+        "microlocation": {
+			"id": 1,
+			"name": "Stage 1"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 3, 
+                "long_biography": "", 
+                "name": "Yigit Boyar", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKOVdzWkZQSXVLcWs", 
+                "short_biography": "<p>Yigit is a software engineer on the Android Framework team focusing on app architecture and developer productivity. He also works on Data Binding and RecyclerView. Prior to joining Google, he was the Android Engineering Manager at Path.He received his bachelor's degree in computer engineering from Middle East Technical University, Turkey.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKOVdzWkZQSXVLcWs"
+            },
+			{
+				"city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 9, 
+                "long_biography": "", 
+                "name": "Kirill Grouchnikov", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKNnZBS0d6T0RCaVk", 
+                "short_biography": "<p>JKirill is an engineer on the Android UI toolkit team at Google. Before joining the Android team in 2009, he has worked with a variety of UI toolkits and libraries that spanned Motif, MFC, VB, Ada, Delphi, Swing and SWT.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKNnZBS0d6T0RCaVk"
+			}
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1006, 
+        "title": "Test Driven Development on Android with the Android Testing Support Library", 
+        "subtitle": "", 
+        "short_abstract": "<p>The Android Testing Support Library (ATSL) is the official testing library for Android.</p>", 
+        "long_abstract": "<p>The Android Testing Support Library (ATSL) is the official testing library for Android. In this session we give a technical deep dive into ATSL and some of the exciting features that we are adding to make it even easier for developers to write high-quality Android apps. We will show you how ATSL can enable test-driven, fast iterative development cycles as part of your comprehensive automated testing strategy.</p>", 
+        "start_time": "2017-05-18T08:30:00", 
+        "end_time": "2017-05-18T09:30:00", 
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        }, 
+        "track": {
+            "color": "#00838F", 
+            "id": 454, 
+            "name": "Android"
+        },
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/pK7W5npkhho", 
+        "level": "advanced", 
+        "microlocation": {
+			"id": 5,
+			"name": "Stage 5"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 4, 
+                "long_biography": "", 
+                "name": "Nick Korostelev", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKMHVYYXVjb3pnalU", 
+                "short_biography": "<p></p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKMHVYYXVjb3pnalU"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 10, 
+                "long_biography": "", 
+                "name": "Jonathan Gerrish", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKc2NjbnhydkdLSGs", 
+                "short_biography": "<p>Jonathan currently designs and builds developer tools to make Android engineers productive. Before this he worked as a developer on Android applications such as Google Maps and Android Pay. Prior to Google, Jonathan worked at various software companies across South America and Europe. Jonathan earned a bachelor's degree in computer science the University of Newcastle upon Type and a master's degree in software engineering at the Open University.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKc2NjbnhydkdLSGs"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1007, 
+        "title": "Android Wear: Whats new & Best practices", 
+        "subtitle": "", 
+        "short_abstract": "<p>The Android Wear team has been busy since Wear 2.0.</p>", 
+        "long_abstract": "<p>The Android Wear team has been busy since Wear 2.0. We will review the progress of Android Wear, introduce new features of the next release of Android Wear and share best practices when making Android Wear apps.</p>", 
+        "start_time": "2017-05-18T09:30:00", 
+        "end_time": "2017-05-18T10:30:00", 
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        }, 
+        "track": {
+            "color": "#00838F", 
+            "id": 454, 
+            "name": "Android"
+        },
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/97U6W-5iF_o", 
+        "level": "beginner", 
+        "microlocation": {
+			"id": 1,
+			"name": "Stage 1"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 6, 
+                "long_biography": "", 
+                "name": "Jen Fernquist", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKNXkyZVd5TEp1OXc", 
+                "short_biography": "<p></p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKNXkyZVd5TEp1OXc"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 7, 
+                "long_biography": "", 
+                "name": "Griff Hazen", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKVjJTRUVIOUQ5V00", 
+                "short_biography": "<p></p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKVjJTRUVIOUQ5V00"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 8, 
+                "long_biography": "", 
+                "name": "Nancy Zheng", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKNVpJaUhjQUhnYVE", 
+                "short_biography": "<p></p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKNVpJaUhjQUhnYVE"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 5, 
+                "long_biography": "", 
+                "name": "David Singleton", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKSUl4SjdhZ0dfbjA", 
+                "short_biography": "<p>David leads the Android Wear team and has previously worked in Ads, Commerce & Local and the early Mobile team at Google</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKSUl4SjdhZ0dfbjA"
+            }
+			
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1008, 
+        "title": "Find your apps best users with Google's machine learning", 
+        "subtitle": null, 
+        "short_abstract": "<p>Acquiring users who love your app enough to spend their time and money with you is critical to your success.</p>", 
+        "long_abstract": "<p>Acquiring users who love your app enough to spend their time and money with you is critical to your success. The good news is there is a playbook for user acquisition that leads to consistent growth. In this session we will show you the data you need, the best mathematical models for calculating lifetime value and how machine learning is the missing link that converts LTV into actual high value users for your app.</p>", 
+        "start_time": "2017-05-19T10:30:00", 
+        "end_time": "2017-05-19T11:30:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#283593", 
+            "id": 457, 
+            "name": "Ads"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/NoJOl3Mk9QY", 
+        "level": "intermediate", 
+        "microlocation": {
+			"id": 4,
+			"name": "Stage 4"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 11, 
+                "long_biography": "", 
+                "name": "David Mitby", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKSktzNlVZSHBoWjg", 
+                "short_biography": "<p>David Mitby leads Googles mobile app advertising and measurement solutions for Google Search, Display, and Google Play. Previously at Google, he was responsible for Googles Display Optimization products, focused on products and tools that help advertisers get the best performance out of the GDN, through automated bidding (Conversion Optimizer, Enhanced CPC), automated targeting (Display Campaign Optimizer), and tools to guide advertiser optimization.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKSktzNlVZSHBoWjg"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 12, 
+                "long_biography": "", 
+                "name": "Rob Aikins", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKVGpzck5sNEFUbDA", 
+                "short_biography": "<p>Rob Aikins is a Product Manager on the App Ads team focused on app re-engagement. Before Google, Rob was a co-founder at Wynston, an online workforce training platform, where he did product and engineering work. </p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKVGpzck5sNEFUbDA"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 13, 
+                "long_biography": "", 
+                "name": "Belinda Langner", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKRkhlZWwxMURvNTg", 
+                "short_biography": "<p>Belinda Langner is a Product Manager at Google working on mobile app ads. She is currently focused on improving app install ads as the lead PM on Googles Universal App Campaigns. </p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKRkhlZWwxMURvNTg"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1009, 
+        "title": "AMP Ads: Better Advertising on a Faster Web", 
+        "subtitle": null, 
+        "short_abstract": "<p>Speed matters. A recent Google study shows the average ad takes 4 seconds to load on a mobile device.</p>", 
+        "long_abstract": "<p>Speed matters. A recent Google study shows the average ad takes 4 seconds to load on a mobile device. When ads are slow, chances are users wont see or engage with them. </p>", 
+        "start_time": "2017-05-18T08:30:00", 
+        "end_time": "2017-05-18T09:30:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#283593", 
+            "id": 457, 
+            "name": "Ads"
+        },
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/K6zKOtS_2FU", 
+        "level": "advanced", 
+        "microlocation": {
+			"id": 4,
+			"name": "Stage 4"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 14, 
+                "long_biography": "", 
+                "name": "Vamsee Jasti", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKTXZKNWlfTGNpV1U", 
+                "short_biography": "<p>Vamsee Jasti is a product manager on AMP. His mission is to fix the biggest offender of performance on the web - ads.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKTXZKNWlfTGNpV1U"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 15, 
+                "long_biography": "", 
+                "name": "Michael Kleber", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKUkFRMkExTVdENEk", 
+                "short_biography": "<p>Michael is the Tech Lead for the Publisher Tagging and Ads Latency Team, located in Googles Cambridge, MA office. Before AMP ads, his greatest hits included moving Googles ad serving to HTTPS and making ad tags into asynchronous scripts.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKUkFRMkExTVdENEk"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1010, 
+        "title": "Build great monetization experiences with the all new Admob", 
+        "subtitle": null, 
+        "short_abstract": "<p>Speed matters. A recent Google study shows the average ad takes 4 seconds to load on a mobile device.</p>", 
+        "long_abstract": "<p>Speed matters. A recent Google study shows the average ad takes 4 seconds to load on a mobile device. When ads are slow, chances are users wont see or engage with them. The AMP Ads Initiative was launched to help fix advertising on the web, making it faster and easier to connect with users at the right moment with the right experience. </p>", 
+        "start_time": "2017-05-18T16:30:00", 
+        "end_time": "2017-05-18T17:30:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#283593", 
+            "id": 457, 
+            "name": "Ads"
+        },		
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/Vl31SBafebk", 
+        "level": "intermediate", 
+        "microlocation": {
+			"id": 4,
+			"name": "Stage 4"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 16, 
+                "long_biography": "", 
+                "name": "Duke Dukellis", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKRTNnR2dBdjV2U0U", 
+                "short_biography": "<p>John Duke Dukellis is a Group Product Manager at Google, where he leads mobile app advertising products for developers and publishers. Prior to Google, Duke led the Consumer Wallet and Consumer Financial Services teams at PayPal. </p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKRTNnR2dBdjV2U0U"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1011, 
+        "title": "What's New in Android Accessibility", 
+        "subtitle": null, 
+        "short_abstract": "<p>Come hear what is new in Android for accessibility! </p>", 
+        "long_abstract": "<p>Come hear what is new in Android for accessibility! Learn about new additions in the next version of Android, and hear about new APIs that developers can use to create experiences to make apps more accessible.</p>", 
+        "start_time": "2017-05-17T15:00:00", 
+        "end_time": "2017-05-17T16:00:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#37474F", 
+            "id": 461, 
+            "name": "Accessibility"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/h5rRNXzy1xo", 
+        "level": "intermediate", 
+        "microlocation": {
+			"id": 3,
+			"name": "Stage 3"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 17, 
+                "long_biography": "", 
+                "name": "Patrick Clary", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKZ2QwWVAtcTZCNUE", 
+                "short_biography": "<p>Patrick is a product manager on the central Accessibility Engineering team at Google where he works to develop services and technology that benefit users with disabilities. Prior to Google, Patrick was a software engineer at Lockheed Martin working on NASA related projects. </p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKZ2QwWVAtcTZCNUE"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 18, 
+                "long_biography": "", 
+                "name": "Maya Ben Ari", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKVk0zYk1QZWdzS1E", 
+                "short_biography": "<p>Maya is leading Android Accessibility efforts to make technology usable for everyone. Previously, she led the next generation of the Android Lock Screen and Fingerprint to give users better security without the hassle of entering passwords. Prior to Google, Maya worked for Microsoft as an on-campus representative and helped design their university strategy. </p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKVk0zYk1QZWdzS1E"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 19, 
+                "long_biography": "", 
+                "name": "Astrid Weber", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKc3NyOUtuY052b0k", 
+                "short_biography": "<p>Astrid Weber is working as Senior User Experience Research Lead at Google in California. She works on accessibility and usability with a focus on hands and eyes free interfaces. Astrid teaches at Stanford's d.school. 
+ She graduated from the University of the Arts in Berlin with a Master in Design and Communication Research and studied in the bachelor design program of the Art Institute of Chicago.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKc3NyOUtuY052b0k"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 20, 
+                "long_biography": "", 
+                "name": "Melissa Barnhart", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKTWxNcldCY0d2RFE", 
+                "short_biography": "<p>Melissa is a UX Researcher on the Android team, with a focus on Accessibility. Prior to Google, she worked at a London-based start-up, State.com. Melissa earned a master's degree in Urbanization and Development from the London School of Economics.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKTWxNcldCY0d2RFE"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 21, 
+                "long_biography": "", 
+                "name": "Victor Tsaran", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKSnlmZE9tU0ppeWc", 
+                "short_biography": "<p>Victor works on the Android Accessibility Services team as a Technical Program Manager, focusing on the TalkBack screen reader and other accessibility features in the Android ecosystem. He previously contributed to accessibility efforts for Google+, Photos, Hangouts and other social initiatives at Google. </p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKSnlmZE9tU0ppeWc"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1012, 
+        "title": "Pragmatic Accessibility. A How-To-Guide for Teams", 
+        "subtitle": null, 
+        "short_abstract": "<p>Making your site more accessible can be a daunting task. If you are approaching accessibility for the first time, the sheer breadth of the topic can leave you wondering where to start - after all, working to accommodate a diverse range of abilities means there are a correspondingly diverse range of issues to consider. </p>", 
+        "long_abstract": "<p>Making your site more accessible can be a daunting task. If you are approaching accessibility for the first time, the sheer breadth of the topic can leave you wondering where to start - after all, working to accommodate a diverse range of abilities means there are a correspondingly diverse range of issues to consider. This talk will explain how to effectively review a site for accessibility and how to build accessibility considerations into your team process so each team member knows their role, and has the appropriate training material.</p>", 
+        "start_time": "2017-05-18T17:30:00", 
+        "end_time": "2017-05-18T18:30:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#37474F", 
+            "id": 461, 
+            "name": "Accessibility"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/A5XzoDT37iM", 
+        "level": "intermediate",
+        "microlocation": {
+			"id": 5,
+			"name": "Stage 5"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 22, 
+                "long_biography": "", 
+                "name": "Rob Dodson", 
+                "organisation": "Google", 
+                "photo": "", 
+                "short_biography": "<p></p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": ""
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1013, 
+        "title": "Designing for the Next Billion Users: Accessibility UX Insights from the Developing World", 
+        "subtitle": null, 
+        "short_abstract": "<p>Did you know that 80% of people with disabilities live in emerging markets? Over the next couple of years, 1 billion new users are expected to come online from emerging markets. </p>", 
+        "long_abstract": "<p>Did you know that 80% of people with disabilities live in emerging markets? Over the next couple of years, 1 billion new users are expected to come online from emerging markets. In this talk, UX researchers from Accessibility and Emerging Markets will introduce you to the lives and needs of users with disabilities in emerging markets. We will illustrate with applied examples and guidelines how developers can make apps accessible in international contexts. Come and learn how to design your products to be truly global and inclusive.</p>", 
+        "start_time": "2017-05-18T13:30:00", 
+        "end_time": "2017-05-18T14:30:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#37474F", 
+            "id": 461, 
+            "name": "Accessibility"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/38fbB8wCPzg", 
+        "level": "intermediate", 
+        "microlocation": {
+			"id": 5,
+			"name": "Stage 5"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 19, 
+                "long_biography": "", 
+                "name": "Astrid Weber", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKc3NyOUtuY052b0k", 
+                "short_biography": "<p>Astrid Weber is working as Senior User Experience Research Lead at Google in California. She works on accessibility and usability with a focus on hands and eyes free interfaces. Astrid teaches at Stanford's d.school. 
+ She graduated from the University of the Arts in Berlin with a Master in Design and Communication Research and studied in the bachelor design program of the Art Institute of Chicago.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKc3NyOUtuY052b0k"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 23, 
+                "long_biography": "", 
+                "name": "Nithya Sambasivan", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKa0NEN0xJbWQ5RG8", 
+                "short_biography": "<p>Nithya Sambasivan is a user experience researcher on Google's Next Billion Users team and previously at Google Access and Google.org. She works in the area of emerging markets. Nithya has a Ph/D. in Informatics from University of California, Irvine and a MS in Human Computer Interaction from Georgia Tech. Her research has won many awards at CHI and ICTD.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKa0NEN0xJbWQ5RG8"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1014, 
+        "title": "Getting Started with Machine Perception using the Mobile Vision API", 
+        "subtitle": null, 
+        "short_abstract": "<p>In this session we'll teach you how to use the Mobile Vision API to build modern applications which have the ability to see the world around them.</p>", 
+        "long_abstract": "<p>In this session we'll teach you how to use the Mobile Vision API to build modern applications which have the ability to see the world around them. Currently, our Mobile Vision API builds the foundation by allowing you to recognize text, barcodes and faces.</p>", 
+        "start_time": "2017-05-17T16:00:00", 
+        "end_time": "2017-05-17T17:00:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#2E7D32", 
+            "id": 455, 
+            "name": "AI & Machine Learning"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/KKRbwO06SwQ", 
+        "level": "beginner", 
+        "microlocation": {
+			"id": 6,
+			"name": "Stage 6"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 24, 
+                "long_biography": "", 
+                "name": "Yulong Liu", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKMV9sUEI5OTlCcjQ", 
+                "short_biography": "<p>Yulong develops Mobile Vision API as a software engineer at Google Research. Yulong has a Master's degree from Tsinghua University, where he published 7 papers in computer vision field and graduated with honors.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKMV9sUEI5OTlCcjQ"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 25, 
+                "long_biography": "", 
+                "name": "Hsiu Wang", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKMmhteEE5M19GZFU", 
+                "short_biography": "<p>Hsiu is a software engineer in the Mobile Vision team, which focuses on bringing the latest computer vision research to developers. Prior to joining the MV team, Hsiu worked at Niantic Labs. Hsiu helped develop Pokemon Go, Ingress, and Field Trip.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKMmhteEE5M19GZFU"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1015, 
+        "title": "Tensorflow Frontiers", 
+        "subtitle": null, 
+        "short_abstract": "<p>TensorFlow is an open-source machine learning (ML) platform that is fast, flexible, and production-ready. We'll cover recent advances in the TensorFlow ecosystem with a focus on performance.</p>", 
+        "long_abstract": "<p>TensorFlow is an open-source machine learning (ML) platform that is fast, flexible, and production-ready. We'll cover recent advances in the TensorFlow ecosystem with a focus on performance.</p>", 
+        "start_time": "2017-05-18T09:30:00", 
+        "end_time": "2017-05-18T10:30:00",  
+        "session_type": {
+            "color": "#2E7D32", 
+            "id": 455, 
+            "name": "AI & Machine Learning"
+        },
+		"track": {
+            "color": "#2E7D32", 
+            "id": 455, 
+            "name": "AI & Machine Learning"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/OzAdKMPgUt4", 
+        "level": "advanced", 
+        "microlocation": {
+			"id": 3,
+			"name": "Stage 3"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 26, 
+                "long_biography": "", 
+                "name": "Zak Stone", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKbEFURHBQNTI0eTA", 
+                "short_biography": "<p>Zak Stone is the Product Manager for TensorFlow on the Google Brain team. He contributes to product strategy, collaborates with other teams across Google, and enjoys interacting with TensorFlow's vibrant open-source community.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKbEFURHBQNTI0eTA"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 27, 
+                "long_biography": "", 
+                "name": "Brennan Saeta", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKWEttWEVWWkFabDQ", 
+                "short_biography": "<p>Brennan Saeta is a Software Engineer at Google</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKWEttWEVWWkFabDQ"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 28, 
+                "long_biography": "", 
+                "name": "Wolff Dobson", 
+                "organisation": "Google", 
+                "photo": "", 
+                "short_biography": "<p>Wolff Dobson is a Developer at Google.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": ""
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1016, 
+        "title": "Effective TensorFlow for Non-Experts", 
+        "subtitle": null, 
+        "short_abstract": "<p>TensorFlow is Google's machine learning framework. In this talk, you will learn how to use TensorFlow effectively.</p>", 
+        "long_abstract": "<p>TensorFlow is Google's machine learning framework. In this talk, you will learn how to use TensorFlow effectively. TensorFlow offers high level interfaces like Keras and Estimators, which can be used without being an expert. </p>", 
+        "start_time": "2017-05-18T10:30:00", 
+        "end_time": "2017-05-18T11:30:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#2E7D32", 
+            "id": 455, 
+            "name": "AI & Machine Learning"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/5DknTFbcGVM", 
+        "level": "beginner", 
+        "microlocation": {
+			"id": 3,
+			"name": "Stage 3"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 29, 
+                "long_biography": "", 
+                "name": "Francois Chollet", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKVTN2NDF0X000VWM", 
+                "short_biography": "<p>Francois Chollet works on deep learning research and infrastructure at Google Brain and on the Machine Perception team. He is the author of Keras, the deep learning framework.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKVTN2NDF0X000VWM"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 30, 
+                "long_biography": "", 
+                "name": "Martin Wicke", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKN19MWjdQbWZDYmM", 
+                "short_biography": "<p>Martin Wicke works on TensorFlow's high-level APIs. He joined Google before the TensorFlow launch, after founding a startup doing machine learning for code synthesis. In a former life he was an academic and worked on physics simulation and computer graphics.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKN19MWjdQbWZDYmM"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1017, 
+        "title": "Open Source Tensorflow Models", 
+        "subtitle": null, 
+        "short_abstract": "<p>Did you know that you can use TensorFlow to caption images, understand text, and generate art? Come to this talk for a tour of the latest projects using TensorFlow for computer vision, natural language processing, and computer generated artwork. </p>", 
+        "long_abstract": "<p>Did you know that you can use TensorFlow to caption images, understand text, and generate art? Come to this talk for a tour of the latest projects using TensorFlow for computer vision, natural language processing, and computer generated artwork. I'll share my favorite models for each domain, show live demos you can try at home, and share educational resources you can use to learn more. This requires no special background in machine learning</p>", 
+        "start_time": "2017-05-18T14:30:00", 
+        "end_time": "2017-05-18T15:30:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#2E7D32", 
+            "id": 455, 
+            "name": "AI & Machine Learning"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/9ziVGkt8Gg4", 
+		"level": "beginner",
+        "microlocation": {
+			"id": 5,
+			"name": "Stage 5"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 31, 
+                "long_biography": "", 
+                "name": "Josh Gordon", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKSVRSdEc0aF9BOTQ", 
+                "short_biography": "<p>Josh Gordon is the Developer Advocate for TensorFlow at Google. He loves teaching and has over a decade of Machine Learning experience to share.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKSVRSdEc0aF9BOTQ"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1018, 
+        "title": "From Research to Production with TensorFlow Serving", 
+        "subtitle": null, 
+        "short_abstract": "<p>Learn how to bring your TensorFlow models from research to production.</p>", 
+        "long_abstract": "<p>Learn how to bring your TensorFlow models from research to production. In this talk, Noah Fiedel describes how to export and serve your models at scale with TensorFlow Serving. He will also cover best practices and lessons learned from large scale serving of machine learned models.</p>", 
+        "start_time": "2017-05-19T09:30:00", 
+        "end_time": "2017-05-19T10:30:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#2E7D32", 
+            "id": 455, 
+            "name": "AI & Machine Learning"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/sqYdlSF0BI8", 
+        "level": "advanced", 
+        "microlocation": {
+			"id": 6,
+			"name": "Stage 6"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 32, 
+                "long_biography": "", 
+                "name": "Noah Fiedel", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKSmpUQUFWbGVlRkk", 
+                "short_biography": "<p>JNoah is Tech Lead of TensorFlow Serving, the open source ML serving system running many production models at Google. In his Google career he has helped build the systems powering YouTube, Blogger, Google+ and Hangouts.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKSmpUQUFWbGVlRkk"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1019, 
+        "title": "Project Magenta: Music and Art with Machine Learning", 
+        "subtitle": null, 
+        "short_abstract": "<p>Google Brain researcher Douglas Eck will discuss Magenta, a project using TensorFlow to generate art and music with deep nets and reinforcement learning.</p>", 
+        "long_abstract": "<p>Google Brain researcher Douglas Eck will discuss Magenta, a project using TensorFlow to generate art and music with deep nets and reinforcement learning. He'll also talk about how artists and musicians fit in to the effort. We'll dive into some of the technical details and challenges faced in building generative models, but no machine learning expertise is required to follow the session.</p>", 
+        "start_time": "2017-05-19T14:30:00", 
+        "end_time": "2017-05-19T15:30:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#2E7D32", 
+            "id": 455, 
+            "name": "AI & Machine Learning"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/2FAjQ6R_bf0", 
+        "level": "beginner", 
+        "microlocation": {
+			"id": 3,
+			"name": "Stage 3"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 33, 
+                "long_biography": "", 
+                "name": "Douglas Eck", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKZVhiVkNnTW9GaHM", 
+                "short_biography": "<p>Doug leads Magenta, a Google Brain project working to generate music, video, image and text using deep learning and reinforcement learning. A main goal of Magenta is to better understanding how AI can enable artists and musicians to express themselves in innovative new ways. Before Magenta, Doug led the Google Play Music search and recommendation team.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKZVhiVkNnTW9GaHM"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1020, 
+        "title": "VR and AR at Google", 
+        "subtitle": null, 
+        "short_abstract": "<p>Daydream is high-quality mobile VR for everyone, and Tango enables mobile devices to see the world like we do. Learn more about what we've built, what we've learned, and where we're headed.</p>", 
+        "long_abstract": "<p>Daydream is high-quality mobile VR for everyone, and Tango enables mobile devices to see the world like we do. Learn more about what we've built, what we've learned, and where we're headed.</p>", 
+        "start_time": "2017-05-18T09:30:00", 
+        "end_time": "2017-05-18T10:30:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#283593", 
+            "id": 459, 
+            "name": "VR"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/WKxY5tjHW2M", 
+        "level": "intermediate", 
+        "microlocation": {
+			"id": 8,
+			"name": "Amphitheatre"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 34, 
+                "long_biography": "", 
+                "name": "Johnny Lee", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKYU8yU2Z1WTd5c0U", 
+                "short_biography": "<p></p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKYU8yU2Z1WTd5c0U"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 35, 
+                "long_biography": "", 
+                "name": "Clay Bavor", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKeEVtV2NiUTNvWTQ", 
+                "short_biography": "<p></p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKeEVtV2NiUTNvWTQ"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 36, 
+                "long_biography": "", 
+                "name": "Jennifer Holland", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKRWo1VnVjdVVacGM", 
+                "short_biography": "<p></p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKRWo1VnVjdVVacGM"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 37, 
+                "long_biography": "", 
+                "name": "Mike Jazayeri", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKdi1DX0JPTV93dTg", 
+                "short_biography": "<p></p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKdi1DX0JPTV93dTg"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 38, 
+                "long_biography": "", 
+                "name": "Erin Teague", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKaHZ1RFZpYzRJcUU", 
+                "short_biography": "<p></p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKaHZ1RFZpYzRJcUU"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 39, 
+                "long_biography": "", 
+                "name": "Andrey Doronichev", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKQ0FXVFVjNXc5OTg", 
+                "short_biography": "<p></p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKQ0FXVFVjNXc5OTg"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1021, 
+        "title": "Daydream in the classroom: immersive learning", 
+        "subtitle": null, 
+        "short_abstract": "<p>In addition to games and entertainment, VR and AR's unprecedented blend of interaction and immersion open up new and powerful educational experiences both in and outside of the classroom.</p>", 
+        "long_abstract": "<p>In addition to games and entertainment, VR and AR's unprecedented blend of interaction and immersion open up new and powerful educational experiences both in and outside of the classroom. This talk will cover what the Google Expeditions team has learned from over a year of bringing immersive learning into classrooms around the world.</p>", 
+        "start_time": "2017-05-18T10:30:00", 
+        "end_time": "2017-05-18T11:30:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#283593", 
+            "id": 459, 
+            "name": "VR"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/a824fnWE5S0", 
+        "level": "beginner", 
+        "microlocation": {
+			"id": 4,
+			"name": "Stage 4"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 40, 
+                "long_biography": "", 
+                "name": "Ben Schrom", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKU3VLTWIyVm5hZ0U", 
+                "short_biography": "<p>Benjamin Schrom is the product manager responsible for Google Expeditions as well as other VR and AR educational initiatives on the Daydream team.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKU3VLTWIyVm5hZ0U"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 36, 
+                "long_biography": "", 
+                "name": "Jennifer Holland", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKRWo1VnVjdVVacGM", 
+                "short_biography": "<p></p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKRWo1VnVjdVVacGM"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1022, 
+        "title": "Whats new on Daydream", 
+        "subtitle": null, 
+        "short_abstract": "<p>Daydream makes immersive experiences accessible for everyone. In this session, we'll share the lessons we've learned from working with hundreds of Daydream developers to help you create innovative experiences and build the future of mobile immersive computing</p>", 
+        "long_abstract": "<p>Daydream makes immersive experiences accessible for everyone. In this session, we'll share the lessons we've learned from working with hundreds of Daydream developers to help you create innovative experiences and build the future of mobile immersive computing</p>", 
+        "start_time": "2017-05-18T11:30:00", 
+        "end_time": "2017-05-18T12:30:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#283593", 
+            "id": 459, 
+            "name": "VR"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/-RD7fkl7GpY", 
+        "level": "intermediate", 
+        "microlocation": {
+			"id": 4,
+			"name": "Stage 4"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 41, 
+                "long_biography": "", 
+                "name": "Brahim Elbouchikhi", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKYkdfZ2oweWF1bjQ", 
+                "short_biography": "<p>Brahim Elbouchikhi is a Senior Product Manager on the Google VR team. Brahim is responsible Daydream's software experience. Prior to joining the Google VR team, Brahim was a founding PM of the Google Play store where he led monetization, search, and discovery.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKYkdfZ2oweWF1bjQ"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 42, 
+                "long_biography": "", 
+                "name": "Darren Delaye", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKNUZ1cW9vUE0xYzA", 
+                "short_biography": "<p>Darren is the User Experience Lead and Design Manager for the Daydream VR platform team. He was previously the lead designer for Google Maps where he created the Google Maps app for iOS, and before that he was the original designer on Google Docs. Darren studied Computer Science and Human Computer Interaction at Stanford.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKNUZ1cW9vUE0xYzA"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1023, 
+        "title": "Whats new on Tango", 
+        "subtitle": null, 
+        "short_abstract": "<p>Tango brings motion sensing and environment capture to mobile devices. We will cover some of the applications developers have been creating, improvements to our platform SDKs, introduce how large scale augmented reality experiences can be made, and give a peek into the road ahead.</p>", 
+        "long_abstract": "<p>Tango brings motion sensing and environment capture to mobile devices. We will cover some of the applications developers have been creating, improvements to our platform SDKs, introduce how large scale augmented reality experiences can be made, and give a peek into the road ahead.</p>", 
+        "start_time": "2017-05-18T15:30:00", 
+        "end_time": "2017-05-18T16:30:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#283593", 
+            "id": 459, 
+            "name": "VR"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/BOrg2oc3-rQ", 
+        "level": "intermediate", 
+        "microlocation": {
+			"id": 4,
+			"name": "Stage 4"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 34, 
+                "long_biography": "", 
+                "name": "Johnny Lee", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKYU8yU2Z1WTd5c0U", 
+                "short_biography": "<p></p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKYU8yU2Z1WTd5c0U"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1024, 
+        "title": "Whats new in Firebase", 
+        "subtitle": null, 
+        "short_abstract": "<p>The Firebase team have been busy since I/O last year! Come to this session to hear the latest Firebase announcements and see how the full Firebase picture fits together.</p>", 
+        "long_abstract": "<p>The Firebase team have been busy since I/O last year! Come to this session to hear the latest Firebase announcements and see how the full Firebase picture fits together. By the end of this session you'll know how these changes combine to make Firebase a great platform to build your app and grow your business, and how you can take advantage of the power of Firebase in your app right now.</p>", 
+        "start_time": "2017-05-17T14:00:00", 
+        "end_time": "2017-05-17T15:00:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#FF8F00", 
+            "id": 463, 
+            "name": "Firebase"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/m7a26ymUu2U", 
+        "level": "intermediate", 
+        "microlocation": {
+			"id": 7,
+			"name": "Stage 7"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 43, 
+                "long_biography": "", 
+                "name": "Ben Galbraith", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKZW5tMkxZYk4tQjQ", 
+                "short_biography": "<p></p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKZW5tMkxZYk4tQjQ"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 44, 
+                "long_biography": "", 
+                "name": "Francis Ma", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKN2VJdWlVck9Mcmc", 
+                "short_biography": "<p>Working on products @google that help mobile developers build better apps and more successful businesses. Canadian in Silicon Valley, former startup co-founder.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKN2VJdWlVck9Mcmc"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1025, 
+        "title": "Firebase Analytics: Overview and Updates", 
+        "subtitle": null, 
+        "short_abstract": "<p>Analytics is at the core of your ability to build great apps, grow your user base and earn more money.</p>", 
+        "long_abstract": "<p>Analytics is at the core of your ability to build great apps, grow your user base and earn more money. In this session we will show you what's new with Firebase Analytics and how we are building simpler and more powerful reporting that gives you real-time insights into what is happening in your app.</p>", 
+        "start_time": "2017-05-17T16:00:00", 
+        "end_time": "2017-05-17T17:00:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#FF8F00", 
+            "id": 463, 
+            "name": "Firebase"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/4ygl3UUDH3Q", 
+        "level": "beginner", 
+        "microlocation": {
+			"id": 2,
+			"name": "Stage 2"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 45, 
+                "long_biography": "", 
+                "name": "Steve Ganem", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKZjJFQjhCRkhONGc", 
+                "short_biography": "<p>Steve is a Product Manager of Firebase Analytics, overseeing developer features and integrations with other Firebase products and services. Prior to joining Google, Steve spent 19 years in the video game industry, starting with EA and Activision, where he was the lead tools and online engineer for Tony Hawk's Pro Skater.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKZjJFQjhCRkhONGc"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 46, 
+                "long_biography": "", 
+                "name": "Russ Ketchum", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKZnlZRS1hZE5SMUU", 
+                "short_biography": "<p>Russ is a Group Product Manager where he acts as the Head of Google Mobile App Measurement and the Head of Google Tag Manager.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKZnlZRS1hZE5SMUU"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 47, 
+                "long_biography": "", 
+                "name": "Krista Seiden", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKWEpmdGtLdkNQbXc", 
+                "short_biography": "<p>Krista Seiden is currently a Product Manager for Firebase Analytics. Previously, she was the Analytics Advocate for Google. Prior to this, Krista drove analytics and optimization at the Apollo Group and Adobe.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKWEpmdGtLdkNQbXc"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1026, 
+        "title": "Using Firebase to accelerate app growth: overview & updates", 
+        "subtitle": null, 
+        "short_abstract": "<p>In this session, we'll dive into some of Firebase's growth-oriented products and features. We'll explain how they work and how you can take advantage of them to accelerate the growth of your app.</p>", 
+        "long_abstract": "<p>In this session, we'll dive into some of Firebase's growth-oriented products and features. We'll explain how they work and how you can take advantage of them to accelerate the growth of your app.</p>", 
+        "start_time": "2017-05-18T09:30:00", 
+        "end_time": "2017-05-18T10:30:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#FF8F00", 
+            "id": 463, 
+            "name": "Firebase"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/6nOQ3Z5n2A8", 
+        "level": "beginner", 
+        "microlocation": {
+			"id": 5,
+			"name": "Stage 5"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 48, 
+                "long_biography": "", 
+                "name": "Jumana Al Hashal", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKZUdQNDBoSEtiSDg", 
+                "short_biography": "<p></p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKZUdQNDBoSEtiSDg"
+            },
+			{
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 49, 
+                "long_biography": "", 
+                "name": "Jon Mensing", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKVnJfUmVTM0VSZTg", 
+                "short_biography": "<p>Jon is the product manager for Firebase Cloud Messaging & Notifications. Prior to Google, Jon was a product manager at BuzzFeed and Zynga. He also worked as a technology consultant and U.S. Air Force officer.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKVnJfUmVTM0VSZTg"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1027, 
+        "title": "Rewarding for engagement with Firebase", 
+        "subtitle": null, 
+        "short_abstract": "<p>In a live coding session Gus and Damien will use Firebase to demonstrate how to reward users inside an app.</p>", 
+        "long_abstract": "<p>In a live coding session Gus and Damien will use Firebase to demonstrate how to reward users inside an app. Learn how Dynamic Links and other Firebase features can be used to incentivize user behavior such as referring a friend or updating the app, or increase user engagement by sending timed or event themed rewards.</p>", 
+        "start_time": "2017-05-19T08:30:00", 
+        "end_time": "2017-05-19T09:30:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#FF8F00", 
+            "id": 463, 
+            "name": "Firebase"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/1Z6_uA4cAWU", 
+        "level": "beginner", 
+        "microlocation": {
+			"id": 7,
+			"name": "Stage 7"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 50, 
+                "long_biography": "", 
+                "name": "Damien Mabin", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKcU1FQlR0RUFEVnM", 
+                "short_biography": "<p>Damien is a Developer Advocate for video games, he has been in the video game industry since 2010. Prior to joining Google he worked at Gameloft and Ubisoft. He has a strong background in graphics programming and also a good experience in mobile game monetization</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKcU1FQlR0RUFEVnM"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1028, 
+        "title": "What's new in Google's IoT platform? Ubiquitous computing at Google", 
+        "subtitle": null, 
+        "short_abstract": "<p>Google has a wide range of platforms and tools to support the Internet of Things and to bring about the vision of ubiquitous computing so our users can interact with services wherever and whenever it makes sense for them.</p>", 
+        "long_abstract": "<p>Google has a wide range of platforms and tools to support the Internet of Things and to bring about the vision of ubiquitous computing so our users can interact with services wherever and whenever it makes sense for them. Come to this talk to learn about all of these initiatives at Google, including the Google Assistant, Android Things, Google Cloud, Android TV, Android Wear, and Android Auto. Learn more about how they all fit together as part of an ecosystem, which one is most appropriate for different types of developers and applications, and which talks you should be attending at Google I/O.</p>", 
+        "start_time": "2017-05-17T14:00:00", 
+        "end_time": "2017-05-17T15:00:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#6A1B9A", 
+            "id": 465, 
+            "name": "IOT"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/Or1uzno8d20", 
+        "level": "beginner", 
+        "microlocation": {
+			"id": 3,
+			"name": "Stage 3"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 51, 
+                "long_biography": "", 
+                "name": "Wayne Piekarski", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKc3dmcmM5Vmx5VHc", 
+                "short_biography": "<p>Wayne Piekarski is a Developer Advocate at Google, focusing on the Internet of Things and the Google Assistant. He has worked for 15 years in academia and industry in the areas of wearable computing, outdoor augmented reality, 3D user interfaces, and mobile devices.</p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKc3dmcmM5Vmx5VHc"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1029, 
+        "title": "Security for IoT on Android Things", 
+        "subtitle": null, 
+        "short_abstract": "<p>Learn about how security is included with Android Things from the ground up, the design decisions that were made, and how to build secure products using Android Things</p>", 
+        "long_abstract": "<p>Learn about how security is included with Android Things from the ground up, the design decisions that were made, and how to build secure products using Android Things. This talk addresses critical concerns about security with IoT devices: consumers need secure devices to protect their privacy and important information, device makers need to protect their reputation and consumer confidence, and the internet needs a secure IoT.</p>", 
+        "start_time": "2017-05-18T10:30:00", 
+        "end_time": "2017-05-18T11:30:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#6A1B9A", 
+            "id": 465, 
+            "name": "IOT"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/U4QBI4PJj8Y", 
+        "level": "beginner", 
+        "microlocation": {
+			"id": 5,
+			"name": "Stage 5"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 52, 
+                "long_biography": "", 
+                "name": "Darren Krahn", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKRE12Y011NXk1bW8", 
+                "short_biography": "<p>Darren currently leads security efforts for IoT platforms. At Google, he has also worked on Chrome OS security. Prior to Google, Darren worked on a variety of security-focused products for companies such as Imation Mobile Security and ActivIdentity. </p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKRE12Y011NXk1bW8"
+            }
+        ], 
+        "state": "draft"
+    },
+	{
+        "id": 1030, 
+        "title": "What's new in the Google Cast SDK", 
+        "subtitle": null, 
+        "short_abstract": "<p>Enabling your apps with Google Cast is getting easier and easier.</p>", 
+        "long_abstract": "<p>Enabling your apps with Google Cast is getting easier and easier. Millions of users press the Cast button every day to connect their mobile device with Google Home or the best display in their homes. Controlling your favorite media apps with your voice has now become a reality. If you've wondered how this is done or are an experienced Cast developer, this session will take you through all the details.</p>", 
+        "start_time": "2017-05-18T18:30:00", 
+        "end_time": "2017-05-18T19:30:00",  
+        "session_type": {
+            "id": 1, 
+            "length": "01.00", 
+            "name": "Session of 1 hour"
+        },
+		"track": {
+            "color": "#6A1B9A", 
+            "id": 465, 
+            "name": "IOT"
+        }, 
+        "comments": "<p></p>", 
+        "language": "English", 
+        "slides": null, 
+        "audio": null, 
+        "video": "https://youtu.be/1cE0r9-dnns", 
+        "level": "intermediate", 
+        "microlocation": {
+			"id": 5,
+			"name": "Stage 5"
+		}, 
+        "signup_url": null, 
+        "speakers": [
+            {
+                "city": null, 
+                "heard_from": null, 
+                "icon": "", 
+                "id": 53, 
+                "long_biography": "", 
+                "name": "Kevin Nilson", 
+                "organisation": "Google", 
+                "photo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKRU5zSmY5bXh5aXc", 
+                "short_biography": "<p></p>", 
+                "small": "", 
+                "speaking_experience": "", 
+                "sponsorship_required": "", 
+                "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKRU5zSmY5bXh5aXc"
+            }
+        ], 
+        "state": "draft"
+    }
+]
