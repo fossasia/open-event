@@ -1,0 +1,35 @@
+[
+
+        {   
+            "id": 1, 
+            "length": "3.30", 
+            "name": "Tutorials"
+        },
+        {
+            "id": 2, 
+            "length": "3.30", 
+            "name": "Keynotes"
+        }, 
+        {
+            "id": 3, 
+            "length": "0.40", 
+            "name": "Sessions"
+        },
+        {
+            "id": 4, 
+            "length": "0.05", 
+            "name": "5 minute sessions"
+        },
+        {
+            "id": 5, 
+            "length": "0.15", 
+            "name": "15 minute sessions"
+        },
+        {
+            "id": 6, 
+            "length": "0.10", 
+            "name": "10 minute sessions"
+        }
+
+
+]
