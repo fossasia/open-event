@@ -1,0 +1,68 @@
+{
+    "id": 173, 
+    "name": "Google IO 2017", 
+    "latitude": 37.426851, 
+    "longitude": -122.080768, 
+    "location_name": "Shoreline Amphitheatre, Mountain View, CA", 
+    "start_time": "2017-05-17T10:00:00", 
+    "end_time": "2017-05-19T17:00:00", 
+    "timezone": "UTC", 
+    "description": "<p></p>", 
+    "background_image": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKSWx0bnhhbUZkQ0U", 
+    "logo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKSWRNWXo3TmU0aUE", 
+    "organizer_name": "", 
+    "organizer_description": "Google I/O is an annual developer festival held at the outdoor Shoreline Amphitheatre.", 
+    "event_url": "https://events.google.com/io/", 
+    "social_links": [
+        {
+            "id": 121, 
+            "link": "https://www.facebook.com/events/392883717752291/", 
+            "name": "Facebook"
+        }, 
+        {
+            "id": 122, 
+            "link": "https://twitter.com/googleio", 
+            "name": "Twitter"
+        }
+    ], 
+    "ticket_url": "", 
+    "privacy": "public", 
+    "type": "Conference", 
+    "topic": "Community & Culture", 
+    "sub_topic": "Other", 
+    "code_of_conduct": "", 
+    "copyright": {
+        "holder": "", 
+        "holder_url": null, 
+        "licence": "Public Domain Dedication (CC0)", 
+        "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/", 
+        "logo": "http://i.creativecommons.org/p/zero/1.0/88x31.png", 
+        "year": 2017
+    }, 
+    "call_for_papers": null, 
+    "email": null, 
+    "has_session_speakers": true, 
+    "identifier": "559ebc12", 
+    "large": "https://storage.googleapis.com/eventyay.com/events/173/large/RHY5R292ZU/5a1ba31f-e72b-4152-a1d3-7d4c8c663aef.jpg", 
+    "licence_details": {
+        "compact_logo": "http://i.creativecommons.org/p/zero/1.0/80x15.png", 
+        "description": "The copyright holder waives his interest in his work and places the work as completely as possible in the public domain so others may freely exploit and use the work without restriction under copyright or database law.", 
+        "logo": "http://i.creativecommons.org/p/zero/1.0/88x31.png", 
+        "long_name": "Creative Commons Public Domain Dedication (CC0)", 
+        "name": "Public Domain Dedication (CC0)", 
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }, 
+    "placeholder_url": "", 
+    "schedule_published_on": null, 
+    "searchable_location_name": null, 
+    "state": "Published", 
+    "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKSWRNWXo3TmU0aUE", 
+    "version": {
+        "event_ver": 0, 
+        "microlocations_ver": 0, 
+        "sessions_ver": 1, 
+        "speakers_ver": 0, 
+        "sponsors_ver": 0, 
+        "tracks_ver": 0
+    }
+}
