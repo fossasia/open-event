@@ -7,11 +7,11 @@
     "start_time": "2011-11-11T09:00:00",
     "end_time": "2011-11-13T15:30:00",
     "timezone": "UTC+07:00",
-    "description": "FOSSASIA is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors. Projects at FOSSASIA range from open hardware, to design, graphics and software. FOSSASIA was established in 2009. Previous event took place in Vietnam.",
+    "description": "The main topics of FOSSASIA 2011 are all related to Free and Open Source Software with a track for Mobile Solutions, Web Technologies, Operating Systems and Applications, and Women in IT.",
     "background_image": "/images/fossasia16.jpg",
     "logo": "/images/fossasia-dark.png",
     "organizer_name": "FOSSASIA",
-    "organizer_description": "The main topics of FOSSASIA 2011 are all related to Free and Open Source Software with a track for Mobile Solutions, Web Technologies, Operating Systems and Applications, and Women in IT.",
+    "organizer_description": "FOSSASIA is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors. Projects at FOSSASIA range from open hardware, to design, graphics and software. FOSSASIA was established in 2009. Previous event took place in Vietnam.",
     "social_links": [
         {
             "id": 1,

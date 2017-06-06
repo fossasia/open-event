@@ -7,11 +7,11 @@
     "start_time": "2014-02-28T09:00:00",
     "end_time": "2014-03-02T17:00:00",
     "timezone": "UTC+07:00",
-    "description": "FOSSASIA is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors. Projects at FOSSASIA range from open hardware, to design, graphics and software. FOSSASIA was established in 2009. Previous event took place in Vietnam.",
+    "description": "3 Days of Pure Knowledge Sharing, 71 International Speakers, 15 Presenters from Cambodia, 121 Talks, Workshops and Panels, 8 tracks per day, Hands-on Labs and Hacking practice for everyone.",
     "background_image": "/images/fossasia16.jpg",
     "logo": "/images/fossasia-dark.png",
     "organizer_name": "FOSSASIA",
-    "organizer_description": "3 Days of Pure Knowledge Sharing, 71 International Speakers, 15 Presenters from Cambodia, 121 Talks, Workshops and Panels, 8 tracks per day, Hands-on Labs and Hacking practice for everyone.",
+    "organizer_description": "FOSSASIA is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors. Projects at FOSSASIA range from open hardware, to design, graphics and software. FOSSASIA was established in 2009. Previous event took place in Vietnam.",
     "social_links": [
         {
             "id": 1,

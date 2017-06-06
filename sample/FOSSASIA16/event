@@ -7,11 +7,11 @@
     "start_time": "2016-03-18T09:30:00", 
     "end_time": "2016-03-20T17:30:00", 
     "timezone": "Asia/Singapore", 
-    "description": "FOSSASIA is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors. Projects at FOSSASIA range from open hardware, to design, graphics and software. FOSSASIA was established in 2009. Previous events took place in Cambodia and Vietnam.", 
+    "description": "The Internet of Things for Me at Asia's Premier Open Technology Event", 
     "background_image": "/images/fossasia16.jpg", 
     "logo": "/images/fossasia-dark.png", 
     "organizer_name": "FOSSASIA", 
-    "organizer_description": "The Internet of Things for Me at Asia's Premier Open Technology Event", 
+    "organizer_description": "FOSSASIA is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors. Projects at FOSSASIA range from open hardware, to design, graphics and software. FOSSASIA was established in 2009. Previous events took place in Cambodia and Vietnam.", 
     "social_links": [
         {
             "id": 1, 
