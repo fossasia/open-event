@@ -1,0 +1,68 @@
+{
+    "id": 173, 
+    "name": "Spark Summit 2017", 
+    "latitude": 37.783103, 
+    "longitude": -122.404059, 
+    "location_name": "Moscone West Convention Center, 800 Howard Street, Corner of 4th and Howard, San Francisco, CA 94103", 
+    "start_time": "2017-06-05T09:00:00", 
+    "end_time": "2017-06-07T20:00:00", 
+    "timezone": "US/Pacific", 
+    "description": "<p>Apache Spark is a powerful open source processing engine built around speed, ease of use, and sophisticated analytics. It was started at UC Berkeley in 2009 and is now developed at the vendor-independent Apache Software Foundation. Since its release, Spark has seen rapid adoption by enterprises across a wide range of industries. Internet powerhouses such as Yahoo, eBay and Netflix have deployed Spark at massive scale, processing multiple petabytes of data on clusters of over 8,000 nodes. Apache Spark has also become the largest open source community in big data, with over 1000 contributors from 250+ organizations.</p>", 
+    "background_image": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKMmZZaDhDdVhReHc", 
+    "logo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKbFF0U0VPTWNHU2c", 
+    "organizer_name": "Apache Spark", 
+    "organizer_description": "Apache Spark is a powerful open source processing engine built around speed, ease of use, and sophisticated analytics. It was started at UC Berkeley in 2009 and is now developed at the vendor-independent Apache Software Foundation. Since its release, Spark has seen rapid adoption by enterprises across a wide range of industries. Internet powerhouses such as Yahoo, eBay and Netflix have deployed Spark at massive scale, processing multiple petabytes of data on clusters of over 8,000 nodes. Apache Spark has also become the largest open source community in big data, with over 1000 contributors from 250+ organizations.", 
+    "event_url": "https://spark-summit.org/2017/", 
+    "social_links": [
+        {
+            "id": 1, 
+            "link": "https://www.facebook.com/SparkSummit/", 
+            "name": "Facebook"
+        }, 
+        {
+            "id": 122, 
+            "link": "https://twitter.com/spark_summit", 
+            "name": "Twitter"
+        }
+    ], 
+    "ticket_url": "https://prevalentdesignevents.com/sparksummit/ss17/", 
+    "privacy": "public", 
+    "type": "Conference", 
+    "topic": "Data Science", 
+    "sub_topic": "Other", 
+    "code_of_conduct": "", 
+    "copyright": {
+        "holder": "", 
+        "holder_url": null, 
+        "licence": "Public Domain Dedication (CC0)", 
+        "licence_url": "https://creativecommons.org/publicdomain/zero/1.0/", 
+        "logo": "http://i.creativecommons.org/p/zero/1.0/88x31.png", 
+        "year": 2017
+    }, 
+    "call_for_papers": null, 
+    "email": null, 
+    "has_session_speakers": true, 
+    "identifier": "559ebc12", 
+    "large": "https://storage.googleapis.com/eventyay.com/events/173/large/RHY5R292ZU/5a1ba31f-e72b-4152-a1d3-7d4c8c663aef.jpg", 
+    "licence_details": {
+        "compact_logo": "http://i.creativecommons.org/p/zero/1.0/80x15.png", 
+        "description": "The copyright holder waives his interest in his work and places the work as completely as possible in the public domain so others may freely exploit and use the work without restriction under copyright or database law.", 
+        "logo": "http://i.creativecommons.org/p/zero/1.0/88x31.png", 
+        "long_name": "Creative Commons Public Domain Dedication (CC0)", 
+        "name": "Public Domain Dedication (CC0)", 
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+    }, 
+    "placeholder_url": "", 
+    "schedule_published_on": null, 
+    "searchable_location_name": null, 
+    "state": "Published", 
+    "thumbnail": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKbFF0U0VPTWNHU2c", 
+    "version": {
+        "event_ver": 0, 
+        "microlocations_ver": 0, 
+        "sessions_ver": 1, 
+        "speakers_ver": 0, 
+        "sponsors_ver": 0, 
+        "tracks_ver": 0
+    }
+}
