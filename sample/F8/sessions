@@ -1,0 +1,1249 @@
+[{
+        "id": 1,
+        "short_abstract": null,
+        "long_abstract": null,
+        "title": "Registration",
+        "subtitle": "day-1-registration",
+        "microlocation": {
+            "id": 1,
+            "name": "Registration Desk"
+        },
+        "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "start_time": "2017-04-18T08:00:00.000Z",
+        "end_time": "2017-04-18T19:00:00.000Z"
+    }, {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 2,
+        "title": "Breakfast",
+        "subtitle": "day-1-breakfast",
+        "microlocation": {
+            "id": 2,
+            "name": "LL"
+        },
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "start_time": "2017-04-18T08:00:00.000Z",
+        "end_time": "2017-04-18T10:00:00.000Z"
+
+    }, {
+
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 3,
+        "title": "Keynote",
+        "subtitle": "day-1-keynote",
+        "microlocation": {
+            "id": 3,
+            "name": "City National Civic"
+        },
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "start_time": "2017-04-18T10:00:00.000Z",
+        "end_time": "2017-04-18T11:30:00.000Z"
+
+    }, {
+
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 4,
+        "title": "Lunch",
+        "subtitle": "day-1-lunch",
+        "microlocation": {
+            "id": 4,
+            "name": "Festival Hall"
+        },
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "start_time": "2017-04-18T11:30:00.000Z",
+        "end_time": "2017-04-18T12:30:00.000Z"
+
+    }, {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 5,
+        "subtitle": "introduction-to-the-camera-effects-platform",
+        "title": "Introduction to the Camera Effects Platform",
+
+        "sessionDescription": "Come hear more about Camera Effects Platform, a suite of creative tools that lets you create effects for the Facebook camera, from simple photo frames to interactive masks and effects that use Augmented Reality (AR). In this session you’ll learn what camera effects are, how to create and submit your own, and how you can connect with the audiences that matter to you by providing rich experiences that help them express themselves.",
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "end_time": "2017-04-18T13:20:00.000Z",
+        "start_time": "2017-04-18T12:30:00.000Z",
+        "tags": ["Camera"],
+    
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 2,
+            "name": "Michael Slater"
+        }],
+        "microlocation": {
+            "id": 5,
+            "name": "G"
+        }
+    }, {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 6,
+        "subtitle": "growth-marketing-best-practices-for-getting-and-keeping-an-audience",
+
+        "title": "Growth Marketing: Best Practices for Getting and Keeping an Audience",
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "sessionDescription": "Even the most successful apps must constantly work to build and maintain their customer bases. Join Facebook’s growth marketing experts for best practices in acquisition, optimization, engagement and virality.",
+
+        "end_time": "2017-04-18T13:20:00.000Z",
+        "start_time": "2017-04-18T12:30:00.000Z",
+        "microlocation": {
+            "id": 9,
+            "name": "C"
+        },
+
+
+        "tags": ["Growth"],
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 3,
+            "name": "Brian Hale "
+        }]
+    }, {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 7,
+        "subtitle": "litho-a-declarative-framework-for-efficient-UIs",
+
+        "title": "Litho: A Declarative Framework for Efficient UIs",
+
+        "sessionDescription": "Components for Android allows developers to implement complex, efficient RecyclerViews through a simple declarative API. In this session we’ll discuss the function and features of this powerful framework.",
+
+        "end_time": "2017-04-18T13:20:00.000Z",
+        "microlocation": {
+            "id": 6,
+            "name": "F"
+        },
+        "start_time": "2017-04-18T12:30:00.000Z",
+        "tags": ["Engineering & Open Source"],
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 4,
+            "name": "Lucas Rocha "
+        }, {
+            "organisation": "Facebook",
+            "id": 5,
+            "name": "Emil Sjölander"
+        }]
+    }, {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 8,
+        "subtitle": "webvr-enabling-developers-to-build-engaging-cross-platform-vr-content",
+
+        "title": "WebVR: Enabling Developers to Build Engaging Cross-Platform VR Content",
+
+        "sessionDescription": "Web-based frameworks such as React VR are making it easier than ever to create VR content that can be shared with a huge audience across VR, mobile, and the web. Coupled with the new web browser that Oculus is building, more of the web will become immersive over the coming years. Join us to learn what you can build with WebVR and how this new technology can help enhance your existing content.",
+
+        "start_time": "2017-04-18T12:30:00.000Z",
+        "end_time": "2017-04-18T13:20:00.000Z",
+        "microlocation": {
+            "id": 2,
+            "name": "LL"
+        },
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 6,
+            "name": "Justin Rogers"
+        }, {
+            "organisation": "Facebook",
+            "id": 7,
+            "name": "Andrew Mo"
+        }, {
+            "organisation": "Facebook",
+            "id": 8,
+            "name": "Mike Armstrong"
+        }],
+
+
+        "tags": ["Virtual Reality"]
+    }, {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 9,
+        "subtitle": "boost-your-business-with-messenger",
+
+        "title": "Boost Your Business With Messenger",
+
+        "sessionDescription": "Facebook Messenger connects over a billion people around the world. For marketers and bot builders, this session presents best practices and tips for engaging your audience with Messenger.",
+
+        "start_time": "2017-04-18T12:30:00.000Z",
+        "end_time": "2017-04-18T12:50:00.000Z",
+        "microlocation": {
+            "id": 7,
+            "name": "B"
+        },
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 9,
+            "name": "Kemal El Moujahid"
+        }, {
+            "organisation": "Facebook",
+            "id": 10,
+            "name": "Allison Swope"
+        }],
+
+        "tags": ["Messenger"]
+    }, {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 10,
+        "subtitle": "media-and-facebook",
+
+        "title": "Media and Facebook",
+        "sessionDescription": "Chris Cox, Facebook's Chief Product Officer, explores the role media plays on Facebook and what we're learning from our community. Dan Rose, VP of Partnerships, will share how we're partnering with our media partners to deliver business value.",
+
+        "start_time": "2017-04-18T12:30:00.000Z",
+        "end_time": "2017-04-18T13:20:00.000Z",
+        "microlocation": {
+            "id": 8,
+            "name": "A"
+        },
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 11,
+            "name": "Chris Cox"
+        }, {
+            "organisation": "Facebook",
+            "id": 12,
+            "name": "Dan Rose"
+        }],
+        "tags": ["Media & Publishers"]
+
+
+    }, {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 11,
+        "title": "Demos, Developer Garage",
+        "subtitle": "day-1-demos-dev-garage",
+        "microlocation": {
+            "id": 4,
+            "name": "Festival Hall"
+        },
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "start_time": "2017-04-18T12:30:00.000Z",
+        "end_time": "2017-04-18T18:30:00.000Z"
+
+    }, {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 12,
+        "subtitle": "how-to-build-a-great-bot",
+
+        "title": "How to Build a Great Bot",
+
+        "sessionDescription": "Understand the features and technology available to developers in Messenger. Engineers and bot developers, join us for a technical deep dive, including best practices on major features, and updates on the latest in the Messenger Platform.",
+
+        "start_time": "2017-04-18T13:00:00.000Z",
+        "end_time": "2017-04-18T13:20:00.000Z",
+        "microlocation": {
+            "id": 7,
+            "name": "B"
+        },
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 13,
+            "name": "Mikhail Larionov"
+        }, {
+            "organisation": "Facebook",
+            "id": 14,
+            "name": "Helen Tsang"
+        }],
+
+
+        "tags": ["Messenger"]
+    }, {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 13,
+        "subtitle": "the-evolution-of-react-and-graphql-at-facebook-and-beyond",
+
+        "title": "The Evolution of React and GraphQL at Facebook and Beyond",
+
+        "sessionDescription": "With cutting-edge rendering and data-fetching, React and GraphQL continue to revolutionize modern apps. In this session, we’ll discuss new developments in these frameworks that will help improve performance in the next evolution of app design.",
+        "end_time": "2017-04-18T14:20:00.000Z",
+        "microlocation": {
+            "id": 6,
+            "name": "F"
+        },
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "start_time": "2017-04-18T13:30:00.000Z",
+        "tags": ["Engineering & Open Source"],
+
+
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 15,
+            "name": "Tom Occhino"
+        }, {
+            "organisation": "Facebook",
+            "id": 16,
+            "name": "Yuzhi Zheng"
+        }]
+    }, {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 14,
+        "subtitle": "bringing-vr-experiences-to-everyone-scripting-producing-and-planning",
+        "title": "Bringing VR Experiences to Everyone: Scripting, Producing and Planning",
+
+        "sessionDescription": "Learn how to develop a VR experience, and take a project from creative idea to a piece ready for prime time. Gain best practices and tips and tricks for producing experiences, how to approach acting and directing in VR, and distribution.",
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "start_time": "2017-04-18T13:30:00.000Z",
+        "end_time": "2017-04-18T14:20:00.000Z",
+        "microlocation": {
+            "id": 2,
+            "name": "LL"
+        },
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 17,
+            "name": "Megan Summers"
+        }, {
+            "organisation": "Facebook",
+            "id": 18,
+            "name": "Yelena Rachitsky"
+        }, {
+            "organisation": "Facebook",
+            "id": 19,
+            "name": "Julia Sourikoff"
+        }, {
+            "organisation": "Facebook",
+            "id": 20,
+            "name": "Christina Heller"
+        }, {
+            "organisation": "Facebook",
+            "id": 21,
+            "name": "Ryan Horrigan"
+        }],
+        "tags": ["Virtual Reality"]
+    }, {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 15,
+        "subtitle": "building-native-games-for-facebook-gameroom",
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "title": "Building Native Games for Facebook Gameroom",
+        "sessionDescription": "Facebook Gameroom helps you build your business and connect with highly engaged players on a new gaming platform dedicated to gaming. Join us to learn top tips on how to get started with the SDK, publish native games, and take advantage of services like hosting.",
+
+        "start_time": "2017-04-18T13:30:00.000Z",
+        "end_time": "2017-04-18T13:50:00.000Z",
+        "microlocation": {
+            "id": 7,
+            "name": "B"
+        },
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 22,
+            "name": "Tejal Parekh"
+        }, {
+            "organisation": "Facebook",
+            "id": 23,
+            "name": "Kevin Thai"
+
+        }],
+
+
+        "tags": ["Games"]
+    }, {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 16,
+        "subtitle": "what-is-new-with-newsfeed",
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "title": "What's New with News Feed",
+
+        "sessionDescription": "Adam Mosseri, VP, News Feed, will dive into how News Feed works so publishers can more effectively reach their audiences.",
+
+        "start_time": "2017-04-18T13:30:00.000Z",
+        "end_time": "2017-04-18T14:20:00.000Z",
+        "microlocation": {
+            "id": 8,
+            "name": "A"
+        },
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 24,
+            "name": "Adam Mosseri"
+
+        }],
+        "tags": ["Media & Publishers"]
+
+
+    }, {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 17,
+        "subtitle": "weapons-of-mass-creation",
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "title": "Weapons of Mass Creation",
+        "sessionDescription": "How does one succeed in creating products for a world that is increasingly divided? Bold ideas are proposed, changes in Southeast Asia, and personal confessions from Khailee Ng's journey from petty crimes to repeatedly creating successful startups in emerging markets.",
+
+        "microlocation": {
+            "id": 9,
+            "name": "C"
+        },
+        "start_time": "2017-04-18T13:30:00.000Z",
+        "end_time": "2017-04-18T13:50:00.000Z",
+        "tags": ["General"],
+
+
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 25,
+            "name": "Khailee Ng"
+        }]
+
+    }, {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 18,
+        "title": "Intro to Building Camera Effects with the AR Studio: Live Demo",
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "subtitle": "intro-to-building-camera-effects-with-the-ar-platform",
+
+        "sessionDescription": "Facebook's Camera Effects Platform includes AR Studio, a new tool that lets 3D artists and developers create interactive photo and video effects for the new Facebook camera.  Join this live demo to learn more about AR Studio and what’s involved in building effects, and see an effect be built live on stage.",
+
+        "microlocation": {
+            "id": 5,
+            "name": "G"
+        },
+        "start_time": "2017-04-18T13:30:00.000Z",
+        "end_time": "2017-04-18T14:20:00.000Z",
+        "tags": ["Camera", "Facebook Platform"],
+
+
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 27,
+            "name": "Dolapo Falola"
+        }]
+    },
+    {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 19,
+        "subtitle": "what-is-next-for-workplace-by-facebook",
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "title": "What's Next for Workplace by Facebook?",
+
+        "sessionDescription": "Workplace by Facebook is changing the way companies are run and how teams work together. Learn about our new integration APIs for bots, file storage, e-discovery and live video streaming. See how we're automating workflows at Facebook.",
+
+        "start_time": "2017-04-18T14:00:00.000Z",
+        "end_time": "2017-04-18T14:50:00.000Z",
+        "microlocation": {
+            "id": 9,
+            "name": "C"
+        },
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 28,
+            "name": "Simon Cross"
+        }, {
+            "organisation": "Facebook",
+            "id": 29,
+            "name": "Joanna Tong"
+        }],
+        "tags": ["Workplace"]
+
+
+    },
+    {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 20,
+        "subtitle": "a-startup-journey-from-an-emerging-market",
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "title": "A Startup Journey from an Emerging Market",
+
+        "sessionDescription": "Gary Urteaga shares his entrepreneurial journey from his initial curiosity about Silicon Valley, various web & app projects, milestones as a startup founder, and his work helping entrepreneurs transform big ideas into startups that solve the humanity's grand challenges.",
+
+        "microlocation": {
+            "id": 7,
+            "name": "B"
+        },
+        "start_time": "2017-04-18T14:00:00.000Z",
+        "end_time": "2017-04-18T14:20:00.000Z",
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 30,
+            "name": "Gary Urteag"
+        }],
+        "tags": ["General"]
+
+    },
+    {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 21,
+        "subtitle": "building-high-quality-javascript-tools",
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "title": "Building High-Quality JavaScript Tools",
+
+        "sessionDescription": "Yarn and Jest are popular and widely adopted open source projects. In this session, we’ll present our roadmap for these projects and share our experiences – good and bad – in releasing and maintaining popular open source projects.",
+
+        "end_time": "2017-04-18T15:20:00.000Z",
+        "microlocation": {
+            "id": 6,
+            "name": "F"
+        },
+        "start_time": "2017-04-18T14:30:00.000Z",
+        "tags": ["Engineering & Open Source"],
+
+
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 31,
+            "name": "Christoph Pojer "
+        }, {
+            "organisation": "Facebook",
+            "id": 32,
+            "name": "Konstantin Raev"
+        }]
+    },
+    {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 22,
+        "subtitle": "whats-next-for-instant-games",
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "title": "What's Next for Instant Games",
+        "sessionDescription": "Distribution on mobile is exceptionally difficult. Come hear about Facebook’s latest way of solving mobile game distribution in a fun way that brings people together to play and compete across our social platforms.",
+
+        "start_time": "2017-04-18T14:30:00.000Z",
+        "end_time": "2017-04-18T15:20:00.000Z",
+        "microlocation": {
+            "id": 7,
+            "name": "B"
+        },
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 33,
+            "name": "Ray Guang"
+        }, {
+            "organisation": "Facebook",
+            "id": 34,
+            "name": "Leo Olebe"
+        }],
+
+
+        "tags": ["Games"]
+    },
+    {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 23,
+        "subtitle": "the-future-of-video-on-facebook",
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "title": "The Future of Video on Facebook",
+
+        "sessionDescription": "Video is playing an increasingly important role in connecting people. Learn how we're bringing video to the forefront of the Facebook experience and harnessing the power of the Facebook community to drive discovery, consumption, discussion, and sharing of video.",
+
+        "start_time": "2017-04-18T14:30:00.000Z",
+        "end_time": "2017-04-18T15:20:00.000Z",
+        "microlocation": {
+            "id": 8,
+            "name": "A"
+        },
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 35,
+            "name": "Daniel Danker"
+        }, {
+            "organisation": "Facebook",
+            "id": 36,
+            "name": "Erin Connolly"
+        }],
+        "tags": ["Media & Publishers"]
+
+
+    },
+    {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 24,
+        "subtitle": "react-vr-build-amazing-vr-experiences-using-react",
+
+        "title": "React VR: Build amazing VR experiences using React",
+
+        "sessionDescription": "Learn how React VR builds upon React Native, and how the supporting layers and libraries interact. We will take you through a sample VR web app built with React VR, and show how easy it is to create immersive experiences across VR, mobile, and web.",
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 37,
+            "name": "Andrew Imm"
+        }, {
+            "organisation": "Facebook",
+            "id": 38,
+            "name": "Amber Roy"
+        }],
+        "tags": ["Virtual Reality"],
+        "microlocation": {
+            "id": 2,
+            "name": "LL"
+        },
+        "start_time": "2017-04-18T14:30:00.000Z",
+        "end_time": "2017-04-18T14:50:00.000Z"
+    },
+    {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 25,
+        "title": "What can be Learned from China's Mobile Economy Boom in Past 5 Years?",
+
+        "subtitle": "what-can-be-learned-from-chinas-mobile-economy-boom-in-the-last-five-years",
+
+        "sessionDescription": "There’s been 110 billion-dollar tech startups since 2010, and behind them lies the whole route of China's mobile economy boom. With a highly connected and digitalized social environment, it’s possible to fill big gaps of user demands in a more efficient and intelligent way - a pattern that can be repeated.",
+
+        "start_time": "2017-04-18T14:30:00.000Z",
+        "end_time": "2017-04-18T14:50:00.000Z",
+        "microlocation": {
+            "id": 5,
+            "name": "G"
+        },
+        "tags": ["General"],
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 39,
+            "name": "Jack (Peng) Zhang"
+        }]
+    },
+    {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 26,
+        "subtitle": "making-great-camera-effects",
+
+        "title": "Making Great Camera Effects",
+
+        "sessionDescription": "With AI that transforms images, Facebook’s Camera Effects Platform lets you create animated masks, interactive overlays, frames, and other effects that people can apply to their photos and videos in the Facebook camera. Learn best technical and design practices for creating effects using this innovative technology, and see examples of successful effects.",
+
+        "end_time": "2017-04-18T15:50:00.000Z",
+        "microlocation": {
+            "id": 5,
+            "name": "G"
+        },
+        "start_time": "2017-04-18T15:00:00.000Z",
+        "tags": ["Camera"],
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 40,
+            "name": "Volodymyr Giginiak"
+        }, {
+            "organisation": "Facebook",
+            "id": 41,
+            "name": "Stef Smet"
+        }]
+    },
+    {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 27,
+        "subtitle": "the-making-of-facebook-spaces",
+
+        "title": "The Making of Facebook Spaces",
+
+        "sessionDescription": "A behind-the-scenes look at how we built Facebook Spaces, the new immersive social VR experience from Facebook. We’ll walk through major product features and how they were developed, sharing the lessons we learned about how to create compelling social experiences in VR.",
+
+        "start_time": "2017-04-18T15:00:00.000Z",
+        "end_time": "2017-04-18T15:50:00.000Z",
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 42,
+            "name": "Mike Booth"
+        }],
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "tags": ["Virtual Reality"],
+        "microlocation": {
+            "id": 2,
+            "name": "LL"
+        }
+    },
+    {
+        "id": 28,
+        "subtitle": "building-custom-integrations-for-workplace-by-facebook",
+
+        "title": "Building Custom Integrations for Workplace by Facebook",
+
+        "sessionDescription": "Workplace by Facebook can revolutionize the way your company works together. Join us for a technical deep dive and a first look at the new integrations announced for bots in groups and Work Chat, and tips on how to build more effective bots.",
+
+        "start_time": "2017-04-18T15:00:00.000Z",
+        "end_time": "2017-04-18T15:50:00.000Z",
+        "microlocation": {
+            "id": 9,
+            "name": "C"
+        },
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 43,
+            "name": "Astha Agarwal"
+        }, {
+            "organisation": "Facebook",
+            "id": 44,
+            "name": "Connor Treacy"
+        }],
+        "tags": ["Workplace"]
+
+
+    },
+    {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 29,
+        "subtitle": "understanding-gaming-video-on-facebook",
+
+        "title": "Understanding Gaming Video on Facebook",
+
+        "sessionDescription": "Who streams their gameplay live, and why? Join a former pro gamer and veteran streamer to explore why people stream, and who’s watching. If you’ve thought about adding live streaming to your game, this talk is for you.",
+
+        "start_time": "2017-04-18T15:30:00.000Z",
+        "end_time": "2017-04-18T15:50:00.000Z",
+        "microlocation": {
+            "id": 7,
+            "name": "B"
+        },
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 45,
+            "name": "Stephen Ellis"
+        }, {
+            "organisation": "Facebook",
+            "id": 46,
+            "name": "Guy Cross"
+        }],
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+
+
+        "tags": ["Games"]
+    },
+    {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 30,
+        "subtitle": "video-content-that-connects",
+
+        "title": "Video Content That Connects",
+
+        "sessionDescription": "In a world where video is the primary format, what kind of content works well? We'll talk about the types of creative that drive community and engagement and hear from special guests on how they think about this.",
+
+        "start_time": "2017-04-18T15:30:00.000Z",
+        "end_time": "2017-04-18T16:20:00.000Z",
+        "microlocation": {
+            "id": 8,
+            "name": "A"
+        },
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 47,
+            "name": "Ricky Van Veen"
+        }, {
+            "organisation": "Facebook",
+            "id": 48,
+            "name": "Jason Blum"
+        }, {
+            "organisation": "Facebook",
+            "id": 49,
+            "name": "Simon Fuller"
+        }, {
+            "organisation": "Facebook",
+            "id": 50,
+            "name": "Erika Nardini"
+        }],
+        "tags": ["Media & Publishers"]
+
+
+    },
+    {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 31,
+        "subtitle": "hack-compilations-at-scale",
+
+        "title": "Hack: Compilations @ Scale",
+
+
+        "end_time": "2017-04-18T15:50:00.000Z",
+        "start_time": "2017-04-18T15:30:00.000Z",
+        "microlocation": {
+            "id": 6,
+            "name": "F"
+        },
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "sessionDescription": "Learn about the unique scaling challenges encountered when developing Hack, the programming language behind Facebook.com. We’ll share the story of how we migrated from millions of lines of PHP, engineering through the problems that only come with a rapidly evolving codebase",
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 51,
+            "name": "Dwayne Reeves"
+        }],
+        "tags": ["Engineering & Open Source"]
+    },
+    {
+        "id": 32,
+        "subtitle": "moving-faster-optimizing-developer-experiences-of-facebook-engineers",
+
+        "title": "Moving Faster: Optimizing Developer Experiences of Facebook Engineers",
+
+        "sessionDescription": "At Facebook, we help developers move fast by providing them with powerful tools. We'll take a look at how Facebook optimizes developer workflows today, and will explore the use of deep learning to power the next wave of advances.",
+
+        "end_time": "2017-04-18T16:20:00.000Z",
+        "microlocation": {
+            "id": 6,
+            "name": "F"
+        },
+        "start_time": "2017-04-18T16:00:00.000Z",
+        "tags": ["Engineering & Open Source"],
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 52,
+            "name": "Katie Coons"
+        }, {
+            "organisation": "Facebook",
+            "id": 53,
+            "name": "Kasper Kopec"
+        }]
+    },
+    {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 33,
+        "subtitle": "explore-the-power-of-the-places-graph",
+
+        "title": "Explore the Power of the Places Graph",
+        "sessionDescription": "Power your app with the Places Graph. We're providing free access to the same place data that powers Facebook, Instagram, and Messenger. Learn how to use data about 140M+ places around the world to create location aware app experiences.",
+
+        "end_time": "2017-04-18T16:20:00.000Z",
+        "start_time": "2017-04-18T16:00:00.000Z",
+        "microlocation": {
+            "id": 5,
+            "name": "G"
+        },
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "tags": ["Facebook Platform"],
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 54,
+            "name": "Matias Castello"
+        }, {
+            "organisation": "Facebook",
+            "id": 55,
+            "name": "Aileen Chen"
+        }]
+    },
+    {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 34,
+        "subtitle": "create-fullscreen-experiences-on-mobile-with-canvas",
+
+        "title": "Create Fullscreen Experiences On Mobile with Canvas",
+
+        "sessionDescription": "Canvas is an immersive platform that makes it simple to create fullscreen, engaging experiences on mobile. In this session, we’ll share tips for easily creating your own Canvas, along with highlights from partner integrations on the Canvas API.",
+
+        "start_time": "2017-04-18T16:00:00.000Z",
+        "end_time": "2017-04-18T16:20:00.000Z",
+        "microlocation": {
+            "id": 9,
+            "name": "C"
+        },
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 56,
+            "name": "Rachel Tucker"
+        }, {
+            "organisation": "Facebook",
+            "id": 57,
+            "name": "Rohan Kuruvilla"
+        }],
+        "tags": ["Ads & Monetization"]
+
+
+    },
+    {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 35,
+        "subtitle": "international-research-gaining-cultural-context-for-scalable-solutions",
+
+        "title": "International Research: Gaining Cultural Context for Scalable Solutions.",
+
+        "sessionDescription": "Building products for unfamiliar markets is challenging, and there are many factors to take into consideration before getting started. Hear the process the Facebook Research team follows to guide product development for new markets.",
+
+        "start_time": "2017-04-18T16:00:00.000Z",
+        "end_time": "2017-04-18T16:20:00.000Z",
+        "tags": ["Research"],
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 58,
+            "name": "Megan Witmer"
+        }],
+        "microlocation": {
+            "id": 7,
+            "name": "B"
+        }
+    },
+    {
+        "short_abstract": null,
+        "long_abstract": "null",
+        "id": 36,
+        "subtitle": "early-lessons-in-social-vr-from-oculus-rooms",
+
+        "title": "Early Lessons in Social VR from Oculus Rooms",
+
+        "sessionDescription": "We’ve already learned a lot since launching Oculus Rooms. We’ll share insights from our research and observations on what works, what doesn’t, and how people interact together in Rooms — plus the latest features we’ve added to the experience.",
+
+        "end_time": "2017-04-18T16:20:00.000Z",
+        "start_time": "2017-04-18T16:00:00.000Z",
+        "tags": ["Virtual Reality"],
+         "comments": "", 
+        "language": null, 
+        "slides": null, 
+        "audio": null, 
+        "video": null, 
+        "signup_url": null, 
+        "state": "accepted", 
+        "timezone": "UTC",
+        "session_type": {}, 
+        "track": {},
+        "speakers": [{
+            "organisation": "Facebook",
+            "id": 59,
+            "name": "Mike LeBeau"
+        }],
+        "microlocation": {
+            "id": 2,
+            "name": "LL"
+        }
+    }
+]
