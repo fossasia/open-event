@@ -4,9 +4,9 @@
     "latitude": 52.52, 
     "longitude": 13.405, 
     "location_name": "Berlin", 
-    "start_time": "2016-05-05T09:00:00", 
-    "end_time": "2016-05-05T21:00:00", 
-    "timezone": "UTC", 
+    "start_time": "2016-05-05T09:00:00+02:00", 
+    "end_time": "2016-05-05T21:00:00+02:00", 
+    "timezone": "Europe/Berlin", 
     "description": "The OpenTechSummit brings the exciting ideas and creators of the open-Technology community in Berlin.", 
     "background_image": "http://2016.opentechsummit.net/img/15435769939_82ab5f1580_k.jpg", 
     "logo": "/images/logo.png", 
@@ -65,14 +65,14 @@
     }, 
     "call_for_papers": {
         "announcement": "<p>Wanna speak at our prestigious event. Send us a proposal</p>", 
-        "end_date": "2016-05-04T20:30:00", 
+        "end_date": "2016-05-04T20:30:00+02:00", 
         "privacy": "public", 
-        "start_date": "2016-05-01T19:30:00", 
-        "timezone": "UTC"
+        "start_date": "2016-05-01T19:30:00+02:00", 
+        "timezone": "Europe/Berlin"
     }, 
     "email": "contact@opentechsummit.net", 
     "has_session_speakers": true, 
-    "schedule_published_on": "2016-05-04T09:00:00", 
+    "schedule_published_on": "2016-05-04T09:00:00+02:00", 
     "searchable_location_name": null, 
     "state": "Completed", 
     "version": {
