@@ -1,83 +1,83 @@
 [
-	{
+    {
         "id": 1, 
         "name": "Google", 
-        "logo": "img/Google.png", 
+        "logo": "/images/sponsors/Google.png", 
         "level": null, 
         "sponsor_type": null, 
         "url": "http://google.com", 
         "description": ""
     }, 
-	{
+    {
         "id": 2, 
         "name": "Red Hat", 
-        "logo": "img/RedHat.png", 
+        "logo": "/images/sponsors/RedHat.png", 
         "level": null, 
         "sponsor_type": null, 
         "url": "http://www.redhat.com/openstack/evaluation/", 
         "description": ""
     }, 
-	{
+    {
         "id": 3, 
         "name": "MySQL", 
-        "logo": "img/MySQL.png", 
+        "logo": "/images/sponsors/MySQL.png", 
         "level": null, 
         "sponsor_type": null, 
         "url": "http://mysql.com", 
         "description": ""
     },
-	{
+    {
         "id": 4, 
         "name": "Treasure Data", 
-        "logo": "img/treasure-data-transparent-square.png", 
+        "logo": "/images/sponsors/treasure-data-transparent-square.png", 
         "level": null, 
         "sponsor_type": null, 
         "url": "http://treasure-data.com", 
         "description": ""
     },
-	{
+    {
         "id": 5, 
         "name": "Python Software Foundation", 
-        "logo": "img/python-logo-generic.png", 
+        "logo": "/images/sponsors/python-logo-generic.png", 
         "level": null, 
         "sponsor_type": null, 
         "url": "https://www.python.org", 
         "description": ""
     },
-	{
+    {
         "id": 6, 
         "name": "Uptime Technologies", 
-        "logo": "img/uptime_logo.png", 
+        "logo": "/images/sponsors/uptime_logo.png", 
         "level": null, 
         "sponsor_type": null, 
         "url": "http://uptime.jp", 
         "description": ""
     },
-	{
+    {
         "id": 7, 
         "name": "Internet Society Singapore", 
-        "logo": "img/Internet_Society_SG.png", 
+        "logo": "/images/sponsors/Internet_Society_SG.png", 
         "level": null, 
         "sponsor_type": null, 
         "url": "http://isoc.sg", 
         "description": ""
     },
-	{
+    {
         "id": 8, 
         "name": "Mozilla", 
-        "logo": "img/mozilla.png", 
+        "logo": "/images/sponsors/mozilla.png", 
         "level": null, 
         "sponsor_type": null, 
         "url": "http://mozilla.org", 
         "description": ""
     },
-	{
+    {
         "id": 9, 
         "name": "MBM Asia", 
-        "logo": "img/mbm_logo.png", 
+        "logo": "/images/sponsors/mbm_logo.png", 
         "level": null, 
         "sponsor_type": null, 
         "url": "http://mbm.asia", 
         "description": ""
-    },
+    }
 ]

@@ -2,7 +2,7 @@
     {
         "id": 1, 
         "name": "Biopolis, 30 Biopolis Street, Singapore", 
-        "floor": Level 2 Matrix, 
+        "floor": 2, 
         "latitude": 1.303304, 
         "longitude": 103.792613, 
         "room": Auditorium
@@ -10,7 +10,7 @@
     {
         "id": 2, 
         "name": "NUS Plug-In@Blk71, 71 Ayer Rajah Crescent,", 
-        "floor": null, 
+        "floor": 0, 
         "latitude": 1.296667, 
         "longitude": 103.787173, 
         "room": null
