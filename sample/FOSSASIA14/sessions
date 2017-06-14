@@ -5,8 +5,8 @@
         "subtitle": null,
         "short_abstract": "Short Abstract for the event",
         "long_abstract": "Welcome to the 8th year of FOSSASIA. A friendly community of Open Technologists meets at the Science Centre Singapore.",
-        "start_time": "2014-02-28T09:00:00",
-        "end_time": "2014-02-28T09:30:00",
+        "start_time": "2014-02-28T09:00:00+07:00",
+        "end_time": "2014-02-28T09:30:00+07:00",
         "session_type": {
             "id": 1,
             "length": 0.3,
@@ -33,8 +33,7 @@
                 "organisation": "FOSSASIA"
             }
         ],
-        "state": "accepted",
-        "timezone": "UTC"
+        "state": "accepted"
     },
     {
         "id": 2,
@@ -42,8 +41,8 @@
         "subtitle": null,
         "short_abstract": "Short Abstract for the event",
         "long_abstract": "Welcome of Rector of Norton University",
-        "start_time": "2014-02-28T09:30:00",
-        "end_time": "2014-02-28T10:00:00",
+        "start_time": "2014-02-28T09:30:00+07:00",
+        "end_time": "2014-02-28T10:00:00+07:00",
         "session_type": {
             "id": 2,
             "length": 0.3,
@@ -70,8 +69,7 @@
                 "organisation": "Norton University"
             }
         ],
-        "state": "accepted",
-        "timezone": "UTC"
+        "state": "accepted"
     },
     {
         "id": 3,
@@ -79,8 +77,8 @@
         "subtitle": null,
         "short_abstract": "Short Abstract for the event",
         "long_abstract": "Keynote address of Anna Maj Hultgård, Ambassador of the Swedish Embassy",
-        "start_time": "2014-02-28T10:00:00",
-        "end_time": "2014-02-28T10:30:00",
+        "start_time": "2014-02-28T10:00:00+07:00",
+        "end_time": "2014-02-28T10:30:00+07:00",
         "session_type": {
             "id": 2,
             "length": 0.3,
@@ -107,8 +105,7 @@
                 "organisation": "Ambassador of the Swedish Embassy"
             }
         ],
-        "state": "accepted",
-        "timezone": "UTC"
+        "state": "accepted"
     },
     {
         "id": 4,
@@ -116,8 +113,8 @@
         "subtitle": null,
         "short_abstract": "Short Abstract for the event",
         "long_abstract": "Opening remark by Minister of Information Khieu Kanharith",
-        "start_time": "2014-02-28T10:30:00",
-        "end_time": "2014-02-28T11:00:00",
+        "start_time": "2014-02-28T10:30:00+07:00",
+        "end_time": "2014-02-28T11:00:00+07:00",
         "session_type": {
             "id": 2,
             "length": 0.3,
@@ -144,8 +141,7 @@
                 "organisation": "Minister of Information"
             }
         ],
-        "state": "accepted",
-        "timezone": "UTC"
+        "state": "accepted"
     },
     {
         "id": 5,
@@ -153,8 +149,8 @@
         "subtitle": null,
         "short_abstract": "Short Abstract for the event",
         "long_abstract": "Opening remark by Minister of Information Khieu Kanharith",
-        "start_time": "2014-02-28T11:00:00",
-        "end_time": "2014-02-28T11:30:00",
+        "start_time": "2014-02-28T11:00:00+07:00",
+        "end_time": "2014-02-28T11:30:00+07:00",
         "session_type": {
             "id": 2,
             "length": 0.3,
@@ -181,7 +177,6 @@
                 "organisation": "Development Innovations"
             }
         ],
-        "state": "accepted",
-        "timezone": "UTC"
+        "state": "accepted"
     }
 ]
