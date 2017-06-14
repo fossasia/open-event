@@ -16,7 +16,40 @@
         "github": "http://github.com/hpdang",
         "linkedin": "https://www.linkedin.com/in/hongphucdang",
         "featured": false,
-        "sessions": []
+        "sessions": [
+            {
+                "id": 1, 
+                "title": "Pre-Meeting"
+            },
+            {
+                "id": 2, 
+                "title": "Info Day (15-20 min presentations about projects and set up of info tables)"
+            },
+            {
+                "id": 3, 
+                "title": "Hack Sessions"
+            },
+            {
+                "id": 4, 
+                "title": "Community Day (keynotes, talks, workshops)"
+            },
+            {
+                "id": 5, 
+                "title": "Social Meet Up"
+            },
+            {
+                "id": 6, 
+                "title": "Workshops and Follow ups"
+            },
+            {
+                "id": 7, 
+                "title": "Mekong Excursion organized by tour company"
+            },
+            {
+                "id": 8, 
+                "title": "Presentations and Meetings with students and professors in universities"
+            }
+        ]
     },
     {
         "id": 2,

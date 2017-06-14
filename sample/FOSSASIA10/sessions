@@ -5,8 +5,8 @@
         "subtitle": null,
         "short_abstract": "Pre-Meeting",
         "long_abstract": "",
-        "start_time": "2010-11-11T20:00:00",
-        "end_time": "2010-11-11T20:30:00",
+        "start_time": "2010-11-11T20:00:00+07:00",
+        "end_time": "2010-11-11T20:30:00+07:00",
         "session_type": {
             "id": 1,
             "name": "Pre-Meeting",
@@ -33,8 +33,7 @@
                 "organisation": "FOSSASIA"
             }
         ],
-        "state": "accepted",
-        "timezone": "UTC+7:00"
+        "state": "accepted"
     },
     {
         "id": 2,
@@ -42,8 +41,8 @@
         "subtitle": null,
         "short_abstract": "Info Day (15-20 min presentations about projects and set up of info tables)",
         "long_abstract": "",
-        "start_time": "2010-11-12T09:00:00",
-        "end_time": "2010-11-12T16:00:00",
+        "start_time": "2010-11-12T09:00:00+07:00",
+        "end_time": "2010-11-12T16:00:00+07:00",
         "session_type": {
             "id": 2,
             "name": "Info Day",
@@ -70,8 +69,7 @@
                 "organisation": "FOSSASIA"
             }
         ],
-        "state": "accepted",
-        "timezone": "UTC+7:00"
+        "state": "accepted"
     },
     {
         "id": 3,
@@ -79,8 +77,8 @@
         "subtitle": null,
         "short_abstract": "Hack Sessions",
         "long_abstract": "",
-        "start_time": "2010-11-12T16:00:00",
-        "end_time": "2010-11-12T22:00:00",
+        "start_time": "2010-11-12T16:00:00+07:00",
+        "end_time": "2010-11-12T22:00:00+07:00",
         "session_type": {
             "id": 3,
             "name": "Hack Sessions",
@@ -107,8 +105,7 @@
                 "organisation": "FOSSASIA"
             }
         ],
-        "state": "accepted",
-        "timezone": "UTC+7:00"
+        "state": "accepted"
     },
     {
         "id": 4,
@@ -116,8 +113,8 @@
         "subtitle": null,
         "short_abstract": "Community Day (keynotes, talks, workshops)",
         "long_abstract": "",
-        "start_time": "2010-11-13T09:00:00",
-        "end_time": "2010-11-13T17:15:00",
+        "start_time": "2010-11-13T09:00:00+07:00",
+        "end_time": "2010-11-13T17:15:00+07:00",
         "session_type": {
             "id": 4,
             "name": "Community Day",
@@ -144,8 +141,7 @@
                 "organisation": "FOSSASIA"
             }
         ],
-        "state": "accepted",
-        "timezone": "UTC+7:00"
+        "state": "accepted"
     },
     {
         "id": 5,
@@ -153,8 +149,8 @@
         "subtitle": null,
         "short_abstract": "Social Meet Up",
         "long_abstract": "",
-        "start_time": "2010-11-13T17:15:00",
-        "end_time": "2010-11-13T18:15:00",
+        "start_time": "2010-11-13T17:15:00+07:00",
+        "end_time": "2010-11-13T18:15:00+07:00",
         "session_type": {
             "id": 5,
             "name": "Social Meet up",
@@ -181,8 +177,7 @@
                 "organisation": "FOSSASIA"
             }
         ],
-        "state": "accepted",
-        "timezone": "UTC+7:00"
+        "state": "accepted"
     },
     {
         "id": 6,
@@ -190,8 +185,8 @@
         "subtitle": null,
         "short_abstract": "Workshops and Follow ups",
         "long_abstract": "",
-        "start_time": "2010-11-14T09:00:00",
-        "end_time": "2010-11-14T15:30:00",
+        "start_time": "2010-11-14T09:00:00+07:00",
+        "end_time": "2010-11-14T15:30:00+07:00",
         "session_type": {
             "id": 6,
             "name": "Workshops and Follow ups",
@@ -218,8 +213,7 @@
                 "organisation": "FOSSASIA"
             }
         ],
-        "state": "accepted",
-        "timezone": "UTC+7:00"
+        "state": "accepted"
     },
     {
         "id": 7,
@@ -227,8 +221,8 @@
         "subtitle": null,
         "short_abstract": "Mekong Excursion organized by tour company",
         "long_abstract": "",
-        "start_time": "2010-11-15T08:00:00",
-        "end_time": "2010-11-15T16:00:00",
+        "start_time": "2010-11-15T08:00:00+07:00",
+        "end_time": "2010-11-15T16:00:00+07:00",
         "session_type": {
             "id": 7,
             "name": "Mekong Excursion",
@@ -255,8 +249,7 @@
                 "organisation": "FOSSASIA"
             }
         ],
-        "state": "accepted",
-        "timezone": "UTC+7:00"
+        "state": "accepted"
     },
     {
         "id": 8,
@@ -264,8 +257,8 @@
         "subtitle": null,
         "short_abstract": "Presentations and Meetings with students and professors in universities",
         "long_abstract": "",
-        "start_time": "2010-11-15T08:00:00",
-        "end_time": "2010-11-15T16:00:00",
+        "start_time": "2010-11-15T08:00:00+07:00",
+        "end_time": "2010-11-15T16:00:00+07:00",
         "session_type":
         {
             "id": 8,
@@ -293,7 +286,6 @@
                 "organisation": "FOSSASIA"
             }
         ],
-        "state": "accepted",
-        "timezone": "UTC+7:00"
+        "state": "accepted"
     }
 ]
