@@ -3,10 +3,10 @@
     "name": "FOSSASIA 2011",
     "latitude": 10.7627114,
     "longitude": 106.6911399,
-    "location_name": "Van Lang University Campus 2, 233A Phan Van Tri Street, Binh Thanh DistrictHo Chi Minh City",
-    "start_time": "2011-11-11T09:00:00",
-    "end_time": "2011-11-13T15:30:00",
-    "timezone": "UTC+07:00",
+    "location_name": "Van Lang University Campus 2, 233A Phan Van Tri Street, Binh Thanh District, Ho Chi Minh City",
+    "start_time": "2011-11-11T09:00:00+07:00",
+    "end_time": "2011-11-13T15:30:00+07:00",
+    "timezone": "Asia/Ho_Chi_Minh",
     "description": "The main topics of FOSSASIA 2011 are all related to Free and Open Source Software with a track for Mobile Solutions, Web Technologies, Operating Systems and Applications, and Women in IT.",
     "background_image": "/images/fossasia16.jpg",
     "logo": "/images/fossasia-dark.png",
@@ -69,14 +69,14 @@
         "year": 2011
     },"call_for_papers": {
         "announcement": "<p>Wanna speak at our prestigious event. Send us a proposal</p>",
-        "end_date": "2011-10-27T20:30:00",
+        "end_date": "2011-10-27T20:30:00+07:00",
         "privacy": "public",
-        "start_date": "2011-10-14T19:30:00",
-        "timezone": "UTC+07:00"
+        "start_date": "2011-10-14T19:30:00+07:00",
+        "timezone": "Asia/Ho_Chi_Minh"
     },
     "email": "contact@fossasia.org",
     "has_session_speakers": true,
-    "schedule_published_on": "2011-11-09T00:00:00",
+    "schedule_published_on": "2011-11-09T00:00:00+07:00",
     "searchable_location_name": null,
     "state": "Completed",
     "version": {
