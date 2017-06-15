@@ -4,9 +4,9 @@
     "latitude": 10.793564,
     "longitude": 106.6740486,
     "location_name": "Raffles International College Ho Chi Minh City",
-    "start_time": "2010-11-12T09:00:00",
-    "end_time": "2010-11-14T15:30:00",
-    "timezone": "Asia/Vietnum",
+    "start_time": "2010-11-12T09:00:00+07:00",
+    "end_time": "2010-11-14T15:30:00+07:00",
+    "timezone": "Asia/Ho_Chi_Minh",
     "description": "The Internet of Things for Me at Asia's Premier Open Technology Event",
     "background_image": "/images/fossasia10.jpg",
     "logo": "/images/fossasia-dark.png",
@@ -70,14 +70,14 @@
     },
     "call_for_papers": {
         "announcement": "<p>Wanna speak at our prestigious event. Send us a proposal</p>",
-        "end_date": "2010-11-12T9:00:00",
+        "end_date": "2010-11-12T9:00:00+07:00",
         "privacy": "public",
-        "start_date": "2010-11-14T115:30:00",
-        "timezone": "UTC+07:00"
+        "start_date": "2010-11-14T115:30:00+07:00",
+        "timezone": "Asia/Ho_Chi_Minh"
     },
     "email": "contact@fossasia.org",
     "has_session_speakers": true,
-    "schedule_published_on": "2010-11-10T00:00:00",
+    "schedule_published_on": "2010-11-10T00:00:00+07:00",
     "searchable_location_name": null,
     "state": "Completed",
     "version": {
