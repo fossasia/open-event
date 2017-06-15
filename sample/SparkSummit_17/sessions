@@ -5,8 +5,8 @@
         "subtitle": "", 
         "short_abstract": "<p>In 2001, it cost ~$100M to sequence a single human genome. In 2014, due to dramatic improvements in sequencing technology far outpacing Moore’s law, we entered the era of the $1,000 genome. At the same time, the power of genetics to impact medicine has become evident. For example, drugs with supporting genetic evidence are twice as likely to succeed in clinical trials. These factors have led to an explosion in the volume of genetic data, in the face of which existing analysis tools are breaking down.</p>", 
         "long_abstract": "<p>In 2001, it cost ~$100M to sequence a single human genome. In 2014, due to dramatic improvements in sequencing technology far outpacing Moore’s law, we entered the era of the $1,000 genome. At the same time, the power of genetics to impact medicine has become evident. For example, drugs with supporting genetic evidence are twice as likely to succeed in clinical trials. These factors have led to an explosion in the volume of genetic data, in the face of which existing analysis tools are breaking down. As a result, the Broad Institute began the open-source Hail project (https://hail.is), a scalable platform built on Apache Spark, to enable the worldwide genetics community to build, share and apply new tools. Hail is focused on variant-level (post-read) data; querying genetic data, as well as annotations, on variants and samples; and performing rare and common variant association analyses. Hail has already been used to analyze datasets with hundreds of thousands of exomes and tens of thousands of whole genomes, enabling dozens of major research projects.</p>", 
-        "start_time": "2017-06-06T11:00:00", 
-        "end_time": "2017-06-06T11:30:00",  
+        "start_time": "2017-06-06T11:00:00-07:00", 
+        "end_time": "2017-06-06T11:30:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -68,8 +68,8 @@
         "subtitle": "", 
         "short_abstract": "<p>Modern Data-Intensive Scalable Computing (DISC) systems such as Apache Spark do not support sophisticated cost-based query optimizers because they are specifically designed to process data that resides in external storage systems (e.g. HDFS), or they lack the necessary data statistics.</p>", 
         "long_abstract": "<p>Modern Data-Intensive Scalable Computing (DISC) systems such as Apache Spark do not support sophisticated cost-based query optimizers because they are specifically designed to process data that resides in external storage systems (e.g. HDFS), or they lack the necessary data statistics. Consequently, many crucial optimizations, such as join order and plan selection, are presently out-of-scope in these DISC system optimizers. Yet, join order is one of the most important decisions a cost-optimizer can make because wrong orders can result in a query response time that can become more than an order-of-magnitude slower compared to the better order.</p>", 
-        "start_time": "2017-06-06T11:40:00", 
-        "end_time": "2017-06-06T12:10:00",  
+        "start_time": "2017-06-06T11:40:00-07:00", 
+        "end_time": "2017-06-06T12:10:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -116,8 +116,8 @@
         "subtitle": "", 
         "short_abstract": "<p>Effectively leveraging fast networking and storage hardware (e.g., RDMA, NVMe, etc.) in Apache Spark remains challenging. Current ways to integrate the hardware at the operating system level fall short, as the hardware performance advantages are shadowed by higher layer software overheads.</p>", 
         "long_abstract": "<p>Effectively leveraging fast networking and storage hardware (e.g., RDMA, NVMe, etc.) in Apache Spark remains challenging. Current ways to integrate the hardware at the operating system level fall short, as the hardware performance advantages are shadowed by higher layer software overheads. This session will show how to integrate RDMA and NVMe hardware in Spark in a way that allows applications to bypass both the operating system and the Java virtual machine during I/O operations. With such an approach, the hardware performance advantages become visible at the application level, and eventually translate into workload runtime improvements. Stuedi will demonstrate how to run various Spark workloads (e.g, SQL, Graph, etc.) effectively on 100Gbit/s networks and NVMe flash.</p>", 
-        "start_time": "2017-06-06T12:20:00", 
-        "end_time": "2017-06-06T12:50:00",  
+        "start_time": "2017-06-06T12:20:00-07:00", 
+        "end_time": "2017-06-06T12:50:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -168,8 +168,8 @@
 In this session, you’ll learn about a field-programmable gate array (FPGA)-based approach for accelerating data compression in Spark. By opportunistically offloading compute-heavy, compression tasks to the FPGA, the CPU is freed to perform other tasks, resulting in an improved overall performance for end-user applications. In contrast to existing GPU methods for acceleration, this approach affords more performance/energy efficiency, which can translate to significant savings in power and cooling costs, especially for large datacenters. In addition, this implementation offers the benefit of reconfigurability, allowing for the FPGA to be rapidly reprogrammed with a different algorithm to meet system or user requirements.
 
 Using the Intel Xeon+FPGA platform, Ojika will share how they ported Swif (simplified workload-intuitive framework) to Spark, and the method used to enable an end-to-end, FPGA-aware Spark deployment. Swif is an in-house framework developed to democratize and simplify the deployment of FPGAs in heterogeneous datacenters. Using Swif’s application programmable interface (API), he’ll describe how system architects and software developers can seamlessly integrate FPGAs into their Spark workflow, and in particular, deploy FPGA-based compression schemes that achieve improved performance compared to software-only approaches. In general, Swif’s software stack, along with the underlying Xeon+FPGA hardware platform, provides a workload-centric processing environment that streamlines the process of offloading CPU-intensive tasks to shared FPGA resources, while providing improved system throughput and high resource utilization.</p>", 
-        "start_time": "2017-06-06T05:00:00", 
-        "end_time": "2017-06-06T05:30:00",  
+        "start_time": "2017-06-06T05:00:00-07:00", 
+        "end_time": "2017-06-06T05:30:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -220,8 +220,8 @@ Using the Intel Xeon+FPGA platform, Ojika will share how they ported Swif (simpl
 In this session, you will see how to combine an off-the-shelf neuro-symbolic algorithm, word2vec, with a neural network (Convolutional Neural Network, or CNN) and a symbolic graph, both added to the neuro-symbolic pipeline. The result is an all-Apache Spark text sentiment analysis more accurate than either neural alone or symbolic alone.
 
 Although the presentation will be highly technical, high-level concepts and data flows will be highlighted and visually explained for the more casual attendees. Technologies used include MLlib, GraphX, and mCNN (from spark-packages.org) will be highlighted and visually explained for the more casual attendees.</p>", 
-        "start_time": "2017-06-07T12:20:00", 
-        "end_time": "2017-06-07T12:50:00",  
+        "start_time": "2017-06-07T12:20:00-07:00", 
+        "end_time": "2017-06-07T12:50:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -270,8 +270,8 @@ Although the presentation will be highly technical, high-level concepts and data
         "long_abstract": "<p>Apache Spark provides an elegant API for developing machine learning pipelines that can be deployed seamlessly in production. However, one of the most intriguing and performant family of algorithms – deep learning – remains difficult for many groups to deploy in production, both because of the need for tremendous compute resources and also because of the inherent difficulty in tuning and configuring.
 
 In this session, you’ll discover how to deploy the Microsoft Cognitive Toolkit (CNTK) inside of Spark clusters on the Azure cloud platform. Learn about the key considerations for administering GPU-enabled Spark clusters, configuring such workloads for maximum performance, and techniques for distributed hyperparameter optimization. You’ll also see a real-world example of training distributed deep learning learning algorithms for speech recognition and natural language processing.Microsoft Cognitive Toolkit (CNTK) inside of Spark clusters on the Azure cloud platform. We’ll discuss the key considerations for administering GPU-enabled Spark clusters, configuring such workloads for maximum performance, and techniques for distributed hyperparameter optimization. We’ll illustrate a real-world example of training distributed deep learning learning algorithms for speech recognition and natural language processing.</p>", 
-        "start_time": "2017-06-07T14:00:00", 
-        "end_time": "2017-06-07T14:30:00",  
+        "start_time": "2017-06-07T14:00:00-07:00", 
+        "end_time": "2017-06-07T14:30:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -318,8 +318,8 @@ In this session, you’ll discover how to deploy the Microsoft Cognitive Toolkit
         "subtitle": "", 
         "short_abstract": "<p>SparkR is a new and evolving interface to Apache Spark. It offers a wide range of APIs and capabilities to Data Scientists and Statisticians. Being a distributed system with a JVM core some R users find SparkR errors unfamiliar. </p>", 
         "long_abstract": "<p>SparkR is a new and evolving interface to Apache Spark. It offers a wide range of APIs and capabilities to Data Scientists and Statisticians. Being a distributed system with a JVM core some R users find SparkR errors unfamiliar. In this talk we will show what goes on under the hood when you interact with SparkR. We will look at SparkR architecture, performance bottlenecks and API semantics. Equipped with those, we will show how some common errors can be eliminated. I will use debugging examples based on our experience with real SparkR use cases.</p>", 
-        "start_time": "2017-06-07T16:20:00", 
-        "end_time": "2017-06-07T16:50:00",  
+        "start_time": "2017-06-07T16:20:00-07:00", 
+        "end_time": "2017-06-07T16:50:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -368,8 +368,8 @@ In this session, you’ll discover how to deploy the Microsoft Cognitive Toolkit
         "long_abstract": "<p>The container ecosystem is exciting, but how do you make sense of all the different choices and opinions? When facing the challenges of building modern apps in an evolving marketplace, how do you make sure you’re choosing the right platform or cloud provider? Important decisions like what to build and how to build, whether to go with software vendors or open source, and finding the right cloud model can seem daunting — but they are critical business decisions nonetheless.
 
 Microsoft Azure Container Service (ACS) uses open source tooling so you can run your workloads wherever you want with the freedom to make the right decision today for the future of your enterprise. We’ll look at the choices available to you for hybrid and pure-play Azure container workloads and see how ACS enables you to delay your choices until you are sure of the path you want to take. We’ll explore how your solution can be molded to your unique needs and how solutions such as Mesosphere DC/OS brings full featured container orchestration and turn-key big data services within easy reach.</p>", 
-        "start_time": "2017-06-07T17:00:00", 
-        "end_time": "2017-06-07T17:30:00",  
+        "start_time": "2017-06-07T17:00:00-07:00", 
+        "end_time": "2017-06-07T17:30:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -421,8 +421,8 @@ While being one of the most popular machine learning systems, XGBoost is only on
 
 We (Distributed (Deep) Machine Learning Community) develop XGBoost4J-Spark (https://github.com/dmlc/xgboost/tree/master/jvm-packages), which seamlessly integrates Apache Spark and XGBoost.
 The communication channel between Spark and XGBoost is established based on RDDs/DataFrame/Datasets, all of which are standard data interfaces in Spark. Additionally, XGBoost can be embedded into Spark MLLib pipeline and tuned through the tools provided by MLLib. In this talk, I will cover the motivation/history/design philosophy/implementation details as well as the use cases of XGBoost4J-Spark. I expect that this talk will share the insights on building a heterogeneous data analytic pipeline based on Spark and other data intelligence frameworks and bring more discussions on this topic.</p>", 
-        "start_time": "2017-06-06T12:20:00", 
-        "end_time": "2017-06-06T12:50:00",  
+        "start_time": "2017-06-06T12:20:00-07:00", 
+        "end_time": "2017-06-06T12:50:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -471,8 +471,8 @@ The communication channel between Spark and XGBoost is established based on RDDs
         "long_abstract": "<p>There’s a growing number of data scientists that use R as their primary language. While the SparkR API has made tremendous progress since release 1.6, with major advancements in Apache Spark 2.0 and 2.1, it can be difficult for traditional R programmers to embrace the Spark ecosystem.
 
 In this session, Zaidi will discuss the sparklyr package, which is a feature-rich and tidy interface for data science with Spark, and will show how it can be coupled with Microsoft R Server and extended with it’s lower-level API to become a full, first-class citizen of Spark. Learn how easy it is to go from single-threaded, memory-bound R functions to multi-threaded, multi-node, out-of-memory applications that can be deployed in a distributed cluster environment with minimal amount of code changes. You’ll also get best practices for reproducibility and performance by looking at a real-world case study of default risk classification and prediction entirely through R and Spark.</p>", 
-        "start_time": "2017-06-06T14:40:00", 
-        "end_time": "2017-06-06T15:10:00",  
+        "start_time": "2017-06-06T14:40:00-07:00", 
+        "end_time": "2017-06-06T15:10:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -519,8 +519,8 @@ In this session, Zaidi will discuss the sparklyr package, which is a feature-ric
         "subtitle": "", 
         "short_abstract": "<p>Hammer Lab built and uses many tools for analyzing genomic data on Spark, as well as libraries for more general computations using RDDs; I’ll discuss some of the most interesting applications and algorithms therein:</p>", 
         "long_abstract": "<p>Hammer Lab built and uses many tools for analyzing genomic data on Spark, as well as libraries for more general computations using RDDs; I’ll discuss some of the most interesting applications and algorithms therein:</p>", 
-        "start_time": "2017-06-06T16:20:00", 
-        "end_time": "2017-06-06T16:50:00",  
+        "start_time": "2017-06-06T16:20:00-07:00", 
+        "end_time": "2017-06-06T16:50:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -569,8 +569,8 @@ In this session, Zaidi will discuss the sparklyr package, which is a feature-ric
         "long_abstract": "<p>Redis-ML is a Redis module for high performance, real-time serving of Spark-ML models. It allows users to train large complex models in Spark, and then store and query the models directly on Redis clusters. The high throughput and low latency of Redis-ML allows users to perform heavy classification operations in real time while using a minimal number of servers. This unique architecture enables significant savings in resources compared to current commonly used methods, without loss in precision or server performance.
 
 This session will demonstrate how to build a production-level recommendation system from the ground up using Spark-ML and Redis-ML. It will also describe performance and accuracy benchmarks, comparing the results with current standard methods.</p>", 
-        "start_time": "2017-06-06T17:40:00", 
-        "end_time": "2017-06-06T18:10:00",  
+        "start_time": "2017-06-06T17:40:00-07:00", 
+        "end_time": "2017-06-06T18:10:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -619,8 +619,8 @@ This session will demonstrate how to build a production-level recommendation sys
         "long_abstract": "<p>There is growing interest in running Apache Spark natively on Kubernetes (see https://github.com/apache-spark-on-k8s/spark). Spark applications often access data in HDFS, and Spark supports HDFS locality by scheduling tasks on nodes that have the task input data on their local disks. When running Spark on Kubernetes, if the HDFS daemons run outside Kubernetes, applications will slow down while accessing the data remotely.
 
 This session will demonstrate how to run HDFS inside Kubernetes to speed up Spark. In particular, it will show how Spark scheduler can still provide HDFS data locality on Kubernetes by discovering the mapping of Kubernetes containers to physical nodes to HDFS datanode daemons. You’ll also learn how you can provide Spark with the high availability of the critical HDFS namenode service when running HDFS in Kubernetes.</p>", 
-        "start_time": "2017-06-07T11:00:00", 
-        "end_time": "2017-06-07T11:30:00",  
+        "start_time": "2017-06-07T11:00:00-07:00", 
+        "end_time": "2017-06-07T11:30:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -673,8 +673,8 @@ By running Spark jobs on Nomad, both Spark developers and the engineering organi
 For an organization, Nomad offers many benefits. Since Nomad was designed for both batch and services, a single cluster can service both an organization’s Spark workload and all service-oriented jobs. That, coupled with the fact that Nomad uses bin-packing to place multiple jobs on each machine, means that organizations can achieve higher density. Which saves money and makes capacity planning easier.
 
 In the future, Nomad will also have the ability to enforce quotas and apply chargebacks, allowing multi-tenant clusters to be easily managed. To further increase the performance of Spark on Nomad, HashiCorp would like to ingest HDFS locality information to place the compute by the data.</p>", 
-        "start_time": "2017-06-07T11:40:00", 
-        "end_time": "2017-06-07T12:10:00",  
+        "start_time": "2017-06-07T11:40:00-07:00", 
+        "end_time": "2017-06-07T12:10:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -723,8 +723,8 @@ In the future, Nomad will also have the ability to enforce quotas and apply char
         "long_abstract": "<p>Catalyst is becoming one of the most important components of Apache Spark, as it underpins all the major new APIs in Spark 2.0 and later versions, from DataFrames and Datasets to Streaming. At its core, Catalyst is a general library for manipulating trees.
 
 In this talk, Yin explores a modular compiler frontend for Spark based on this library that includes a query analyzer, optimizer, and an execution planner. Yin offers a deep dive into Spark SQL’s Catalyst optimizer, introducing the core concepts of Catalyst and demonstrating how developers can extend it. You’ll leave with a deeper understanding of how Spark analyzes, optimizes, and plans a user’s query.</p>", 
-        "start_time": "2017-06-06T11:00:00", 
-        "end_time": "2017-06-06T11:30:00",  
+        "start_time": "2017-06-06T11:00:00-07:00", 
+        "end_time": "2017-06-06T11:30:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -773,8 +773,8 @@ In this talk, Yin explores a modular compiler frontend for Spark based on this l
         "long_abstract": "<p>Bucketing is a partitioning technique that can improve performance in certain data transformations by avoiding data shuffling and sorting. The general idea of bucketing is to partition, and optionally sort, the data based on a subset of columns while it is written out (a one-time cost), while making successive reads of the data more performant for downstream jobs if the SQL operators can make use of this property. Bucketing can enable faster joins (i.e. single stage sort merge join), the ability to short circuit in FILTER operation if the file is pre-sorted over the column in a filter predicate, and it supports quick data sampling.
 
 In this session, you’ll learn how bucketing is implemented in both Hive and Spark. In particular, Patil will describe the changes in the Catalyst optimizer that enable these optimizations in Spark for various bucketing scenarios. Facebook’s performance tests have shown bucketing to improve Spark performance from 3-5x faster when the optimization is enabled. Many tables at Facebook are sorted and bucketed, and migrating these workloads to Spark have resulted in a 2-3x savings when compared to Hive. You’ll also hear about real-world applications of bucketing, like loading of cumulative tables with daily delta, and the characteristics that can help identify suitable candidate jobs that can benefit from bucketing.</p>", 
-        "start_time": "2017-06-06T12:20:00", 
-        "end_time": "2017-06-06T12:50:00",  
+        "start_time": "2017-06-06T12:20:00-07:00", 
+        "end_time": "2017-06-06T12:50:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -825,8 +825,8 @@ In this session, you’ll learn how bucketing is implemented in both Hive and Sp
 Since the original MLlib project was merged into Apache Spark, some of the most significant efforts have been in expanding algorithmic coverage, adding multiple language APIs, supporting ML Pipelines, improving DataFrame integration, and providing model persistence. At an even higher level, the project has evolved from building a standard ML library to supporting complex workflows and production requirements.
 
 This momentum continues. We will discuss some of the major ongoing and future efforts in Apache Spark based on discussions, planning and development amongst the MLlib community. We (the community) aim to provide pluggable and extensible APIs usable by both practitioners and ML library developers. To take advantage of Projects Tungsten and Catalyst, we are exploring DataFrame-based implementations of ML algorithms for better scaling and performance. Finally, we are making continuous improvements to core algorithms in performance, functionality, and robustness. We will augment this discussion with statistics from project activity.</p>", 
-        "start_time": "2017-06-06T14:00:00", 
-        "end_time": "2017-06-06T14:30:00",  
+        "start_time": "2017-06-06T14:00:00-07:00", 
+        "end_time": "2017-06-06T14:30:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -875,8 +875,8 @@ This momentum continues. We will discuss some of the major ongoing and future ef
         "long_abstract": "<p>It is one thing to write an Apache Spark application that gets you to an answer. It’s another thing to know you used all the tricks in the book to make you run, run as fast as possible. This session will focus on those tricks.
 
 Discover patterns and approaches that may not be apparent at first glance, but that can be game-changing when applied to your use cases. You’ll learn about nested Types, multi threading, skew, reducing, cartesian joins and fun stuff like that.hreading, skew, reducing, cartesian joins, and fun stuff like that.</p>", 
-        "start_time": "2017-06-06T15:20:00", 
-        "end_time": "2017-06-06T15:50:00",  
+        "start_time": "2017-06-06T15:20:00-07:00", 
+        "end_time": "2017-06-06T15:50:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -923,8 +923,8 @@ Discover patterns and approaches that may not be apparent at first glance, but t
         "subtitle": "", 
         "short_abstract": "<p>Effective programmers work in tight loops: making a small code edit, observing its effect on their system, and repeating. When your data is too big to read and your system isn’t local, println() won’t work. Fortunately, the Spark DataFrame and Dataset APIs have your back.</p>", 
         "long_abstract": "<p>Effective programmers work in tight loops: making a small code edit, observing its effect on their system, and repeating. When your data is too big to read and your system isn’t local, println() won’t work. Fortunately, the Spark DataFrame and Dataset APIs have your back. Attendees will leave with better tools for exploring large datasets and debugging distributed code with Spark, and a better mental model of distributed programming at scale.</p>", 
-        "start_time": "2017-06-07T11:40:00", 
-        "end_time": "2017-06-07T12:10:00",  
+        "start_time": "2017-06-07T11:40:00-07:00", 
+        "end_time": "2017-06-07T12:10:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -978,8 +978,8 @@ In this session, you’ll learn:
 – How HDFS and S3 differ, and why HDFS committers don’t work well
 – A new output committer that uses the S3 multi-part upload API
 – How you can use this new committer in your Spark applications to avoid duplicating data</p>", 
-        "start_time": "2017-06-07T14:00:00", 
-        "end_time": "2017-06-07T14:30:00",  
+        "start_time": "2017-06-07T14:00:00-07:00", 
+        "end_time": "2017-06-07T14:30:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -1028,8 +1028,8 @@ In this session, you’ll learn:
         "long_abstract": "<p>Apache Spark is a gift to the big data community, which adds tons of new features on every release. However, it’s difficult to manage petabyte-scale Hadoop clusters with hundreds of edge nodes, multiple Spark releases and demonstrate operational efficiencies and standardization. In order to address these challenges, Paypal has developed and deployed a REST0based Spark platform: Spark Compute as a Service (SCaaS),which provides improved application development, execution, logging, security, workload management and tuning.
 
 This session will walk through the top challenges faced by PayPal administrators, developers and operations and describe how Paypal’s SCaaS platform overcomes them by leveraging open source tools and technologies, like Livy, Jupyter, SparkMagic, Zeppelin, SQL Tools, Kafka and Elastic. You’ll also hear about the improvements PayPal has added, which enable it to run greater than 10,000 Spark applications in production effectively.</p>", 
-        "start_time": "2017-06-06T11:00:00", 
-        "end_time": "2017-06-06T11:30:00",  
+        "start_time": "2017-06-06T11:00:00-07:00", 
+        "end_time": "2017-06-06T11:30:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -1080,8 +1080,8 @@ This session will walk through the top challenges faced by PayPal administrators
 Their scaling problems are around capabilities and handling many simultaneous jobs, rather than raw data size. They have a large team of around 80 data scientists who own their pipelines from start to finish; there is no “ETL engineering team” that takes over. As a result, Stitch Fix has developed a self-service approach with their infrastructure to make it easy for the team to submit and track jobs, and they’ve grown an internal community of Spark users to help each other get started with the use of Spark.
 
 In this session, you’ll learn about Stitch Fix’s approach to using and managing Spark, including their infrastructure, execution service and other supporting tools. You’ll also hear about the types of capabilities they support with Spark, how the team transitioned to using Spark, and lessons learned along the way. Stitch Fix’s infrastructure utilizes many services from Amazon AWS, tools from Netflix OSS, as well as several home-grown applications.</p>", 
-        "start_time": "2017-06-06T14:40:00", 
-        "end_time": "2017-06-06T15:10:00",  
+        "start_time": "2017-06-06T14:40:00-07:00", 
+        "end_time": "2017-06-06T15:10:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -1130,8 +1130,8 @@ In this session, you’ll learn about Stitch Fix’s approach to using and manag
         "long_abstract": "<p>B2B sales intelligence has become an integral part of LinkedIn’s business to help companies optimize resource allocation and design effective sales and marketing strategies. This new trend of data-driven approaches has “sparked” a new wave of AI and ML needs in companies large and small. Given the tremendous complexity that arises from the multitude of business needs across different verticals and product lines, Apache Spark, with its rich machine learning libraries, scalable data processing engine and developer-friendly APIs, has been proven to be a great fit for delivering such intelligence at scale.
 
 See how Linkedin is utilizing Spark for building sales intelligence products. This session will introduce a comprehensive B2B intelligence system built on top of various open source stacks. The system puts advanced data science to work in a dynamic and complex scenario, in an easily controllable and interpretable way. Balancing flexibility and complexity, the system can deal with various problems in a unified manner and yield actionable insights to empower successful business. You will also learn about some impactful Spark-ML powered applications such as prospect prediction and prioritization, churn prediction, model interpretation, as well as challenges and lessons learned at LinkedIn while building such platform.</p>", 
-        "start_time": "2017-06-06T15:20:00", 
-        "end_time": "2017-06-06T15:50:00",  
+        "start_time": "2017-06-06T15:20:00-07:00", 
+        "end_time": "2017-06-06T15:50:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -1195,8 +1195,8 @@ See how Linkedin is utilizing Spark for building sales intelligence products. Th
 ‒ that appear naturally suited as Hadoop workloads, but haven’t seen wide adoption.</p>", 
         "long_abstract": "<p>Today, there are several compliance use cases ‒ archiving, e-discovery, supervision and surveillance, to name a few
 ‒ that appear naturally suited as Hadoop workloads, but haven’t seen wide adoption. In this session, you’ll learn about common limitations, how Apache Spark helps and some new blueprints for modernizing this architecture and disrupt existing solutions. Additionally, we’ll review the rising role of Apache Spark in this ecosystem, leveraging machine learning and advanced analytics in a space that has traditionally been restricted to fairly rote reporting.</p>", 
-        "start_time": "2017-06-07T11:30:00", 
-        "end_time": "2017-06-07T11:30:00",  
+        "start_time": "2017-06-07T11:30:00-07:00", 
+        "end_time": "2017-06-07T11:30:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -1247,8 +1247,8 @@ Previously, he has worked as a consultant for HP Autonomy delivering compliance 
         "long_abstract": "<p>Data integration is a really difficult problem. We know this because 80% of the time in every project is spent getting the data you want the way you want it. We know this because this problem remains challenging despite 40 years of attempts to solve it. All we want is a service that will be reliable, handle all kinds of data and integrate with all kinds of systems, be easy to manage and scale as our systems grow. Oh, and it should be super low latency too. Is it too much to ask?
 
 In this presentation, we’ll discuss the basic challenges of data integration and introduce few design and architecture patterns that are used to tackle these challenges. We will then explore how these patterns can be implemented using Apache Kafka. Difficult problems are difficult and we offer no silver bullets, but we will share pragmatic solutions that helped many organizations build fast, scalable and manageable data pipelines.</p>", 
-        "start_time": "2017-06-07T17:00:00", 
-        "end_time": "2017-06-07T17:30:00",  
+        "start_time": "2017-06-07T17:00:00-07:00", 
+        "end_time": "2017-06-07T17:30:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -1297,8 +1297,8 @@ In this presentation, we’ll discuss the basic challenges of data integration a
         "long_abstract": "<p>Stepping beyond ETL in batches, large enterprises are looking at ways to generate more up-to-date insights. As we step into the age of Continuous Application, this session will explore the ever more popular Structure Streaming API in Apache Spark, its application to R, and building examples of machine learning use cases.
 
 Starting with an introduction to the high-level concepts, the session will dive into the core of the execution plan internals and examine how SparkR extends the existing system to add the streaming capability. Learn how to build various data science applications on data streams integrating with R packages to leverage the rich R ecosystem of 10k+ packages.</p>", 
-        "start_time": "2017-06-06T11:00:00", 
-        "end_time": "2017-06-06T11:30:00",  
+        "start_time": "2017-06-06T11:00:00-07:00", 
+        "end_time": "2017-06-06T11:30:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -1347,8 +1347,8 @@ Starting with an introduction to the high-level concepts, the session will dive 
         "long_abstract": "<p>Since mid-2016, Spark-as-a-Service has been available to researchers in Sweden from the Rise SICS ICE Data Center at www.hops.site. In this session, Dowling will discuss the challenges in building multi-tenant Spark structured streaming applications on YARN that are metered and easy-to-debug. The platform, called Hopsworks, is in an entirely UI-driven environment built with only open-source software. Learn how they use the ELK stack (Elasticsearch, Logstash and Kibana) for logging and debugging running Spark streaming applications; how they use Grafana and InfluxDB for monitoring Spark streaming applications; and, finally, how Apache Zeppelin can provide interactive visualizations and charts to end-users.
 
 This session will also show how Spark applications are run within a ‘project’ on a YARN cluster with the novel property that Spark applications are metered and charged to projects. Projects are securely isolated from each other and include support for project-specific Kafka topics. That is, Kafka topics are protected from access by users that are not members of the project. In addition, hear about the experiences of their users (over 150 users as of early 2017): how they manage their Kafka topics and quotas, patterns for how users share topics between projects, and the novel solutions for helping researchers debug and optimize Spark applications.hear about the experiences of their users (over 150 users as of early 2017): how they manage their Kafka topics and quotas, patterns for how users share topics between projects, and the novel solutions for helping researchers debug and optimize Spark applications.afka topics are protected from access by users that are not members of the project. We will also discuss the experiences of our users (over 150 users as of early 2017): how they manage their Kafka topics and quotas, patterns for how users share topics between projects, and our novel solutions for helping researchers debug and optimize Spark applications.</p>", 
-        "start_time": "2017-06-06T11:40:00", 
-        "end_time": "2017-06-06T12:10:00",  
+        "start_time": "2017-06-06T11:40:00-07:00", 
+        "end_time": "2017-06-06T12:10:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -1399,8 +1399,8 @@ This session will also show how Spark applications are run within a ‘project�
 This session explores a real-time/online learning algorithm and implementation using Spark Streaming in a hybrid batch/ semi-supervised setting. It presents an easy-to-use, highly scalable architecture with advanced customization and performance optimization. Within this framework, we will examine some of the key methodologies for implementing the algorithm, including partitioning and aggregation schemes, feature extraction, model evaluation and correction over time, and our approaches to minimizing loss and improving convergence. The result is a simple, accurate pipeline that can be easily adapted and scaled to a variety of use cases.
 
 The performance of the algorithm will be evaluated comparatively against existing implementations in both linear and logistic prediction. The session will also cover real-time uses cases of the streaming pipeline using real time-series data and present strategies for optimization and implementation to improve both accuracy and efficiency in a semi-supervised setting.</p>", 
-        "start_time": "2017-06-06T15:20:00", 
-        "end_time": "2017-06-06T15:50:00",  
+        "start_time": "2017-06-06T15:20:00-07:00", 
+        "end_time": "2017-06-06T15:50:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -1456,8 +1456,8 @@ Machine Learning/Multi-objective Optimization for Path Planning/ Cryptography</p
         "long_abstract": "<p>Graph analytics has a wide range of applications, from information propagation and network flow optimization to fraud and anomaly detection. The rise of social networks and the Internet of Things has given us complex web-scale graphs with billions of vertices and edges. However, in order to extract the hidden gems within those graphs, you need tools to analyze the graphs easily and efficiently.
 
 At Spark Summit 2016, Databricks introduced GraphFrames, which implemented graph queries and pattern matching on top of Spark SQL to simplify graph analytics. In this talk, you’ll learn about work that has made graph algorithms in GraphFrames faster and more scalable. For example, new implementations like connected components have received algorithm improvements based on recent research, as well as performance improvements from Spark DataFrames. Discover lessons learned from scaling the implementation from millions to billions of nodes; compare its performance with other popular graph libraries; and hear about real-world applications.</p>", 
-        "start_time": "2017-06-06T11:00:00", 
-        "end_time": "2017-06-06T11:30:00",  
+        "start_time": "2017-06-06T11:00:00-07:00", 
+        "end_time": "2017-06-06T11:30:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -1508,8 +1508,8 @@ At Spark Summit 2016, Databricks introduced GraphFrames, which implemented graph
 The algorithm generates a recursive branching DAG of stages that separates out the “closed” and “open” walks. Spark’s shuffle file management system is ingeniously used to accumulate the walks while the computation is progressing. In-memory caching over multi-core executors enables moving the walks several “steps” forward before shuffling to the next stage.
 
 See performance benchmarks, and hear about LinkedIn’s experience with Spark in production clusters. The session will conclude with an observation of how Spark’s unique and powerful construct opens new models of computation, not possible with state-of-the-art, for developing high-performant and scalable algorithms in data science and machine learning.</p>", 
-        "start_time": "2017-06-06T12:20:00", 
-        "end_time": "2017-06-06T12:50:00",  
+        "start_time": "2017-06-06T12:20:00-07:00", 
+        "end_time": "2017-06-06T12:50:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -1560,8 +1560,8 @@ See performance benchmarks, and hear about LinkedIn’s experience with Spark in
 In the case of surveys, with the introduction of new or modified questions and response choices, the newly collected data must be matched so that the correct fields align with previous periods. This is simple enough with a short questionnaire, but a challenge when there are thousands of variables.
 
 Machine learning techniques are a valuable tool for tackling this challenging problem. In this session, learn how well fuzzy matching algorithms in Spark handle tasks for real world data.</p>", 
-        "start_time": "2017-06-06T14:40:00", 
-        "end_time": "2017-06-06T15:10:00",  
+        "start_time": "2017-06-06T14:40:00-07:00", 
+        "end_time": "2017-06-06T15:10:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -1612,8 +1612,8 @@ A recognized thought leader, her expertise has been acknowledged by USA Today,Ve
         "long_abstract": "<p>Salesforce has created a machine learning framework on top of Spark ML that builds personalized models for businesses across a range of applications. Hear how expanding type information about features has allowed them to deal with custom datasets with good results.
 
 By building a platform that automatically does feature engineering on rich types (e.g. Currency and Percentages rather than Doubles; Phone Numbers and Email Addresses rather than Strings), they have automated much of the work that consumes most data scientists’ time. Learn how you can do the same by building a single model outline based on the application, and then having the framework customize it for each customer.</p>", 
-        "start_time": "2017-06-07T11:00:00", 
-        "end_time": "2017-06-07T11:30:00",  
+        "start_time": "2017-06-07T11:00:00-07:00", 
+        "end_time": "2017-06-07T11:30:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -1664,8 +1664,8 @@ By building a platform that automatically does feature engineering on rich types
 In conjunction, new computing models are rapidly appearing to help data engineers harness the power of this imagery. Vast resources with cloud platforms, and the sharing of processing algorithms, are moving the industry forward quickly. The models are readily available as well.
 
 This session will examine the image recognition techniques available with Apache Spark, and how to put those techniques into production. It will further explore algebraic operations on tensors, and how that can assist in large-scale, high-throughput, highly-parallel image recognition. In particular, this session will showcase the use of Spark in conjunction with a high-performance database to operationalize these workflows.</p>", 
-        "start_time": "2017-06-07T14:40:00", 
-        "end_time": "2017-06-07T15:10:00",  
+        "start_time": "2017-06-07T14:40:00-07:00", 
+        "end_time": "2017-06-07T15:10:00-07:00",  
         "session_type": {
             "id": 1, 
             "length": "00.30", 
@@ -1712,8 +1712,8 @@ This session will examine the image recognition techniques available with Apache
         "subtitle": "", 
         "short_abstract": "<p></p>", 
         "long_abstract": "<p></p>", 
-        "start_time": "2017-06-05T09:00:00", 
-        "end_time": "2017-06-05T12:00:00",  
+        "start_time": "2017-06-05T09:00:00-07:00", 
+        "end_time": "2017-06-05T12:00:00-07:00",  
         "session_type": {
             "id": 2, 
             "length": "03.00", 
@@ -1744,8 +1744,8 @@ This session will examine the image recognition techniques available with Apache
         "subtitle": "", 
         "short_abstract": "<p></p>", 
         "long_abstract": "<p></p>", 
-        "start_time": "2017-06-05T09:00:00", 
-        "end_time": "2017-06-05T12:00:00",  
+        "start_time": "2017-06-05T09:00:00-07:00", 
+        "end_time": "2017-06-05T12:00:00-07:00",  
         "session_type": {
             "id": 2, 
             "length": "03.00", 
@@ -1776,8 +1776,8 @@ This session will examine the image recognition techniques available with Apache
         "subtitle": "", 
         "short_abstract": "<p></p>", 
         "long_abstract": "<p></p>", 
-        "start_time": "2017-06-05T09:00:00", 
-        "end_time": "2017-06-05T12:00:00",  
+        "start_time": "2017-06-05T09:00:00-07:00", 
+        "end_time": "2017-06-05T12:00:00-07:00",  
         "session_type": {
             "id": 2, 
             "length": "03.00", 
@@ -1808,8 +1808,8 @@ This session will examine the image recognition techniques available with Apache
         "subtitle": "", 
         "short_abstract": "<p></p>", 
         "long_abstract": "<p></p>", 
-        "start_time": "2017-06-05T13:00:00", 
-        "end_time": "2017-06-05T17:00:00",  
+        "start_time": "2017-06-05T13:00:00-07:00", 
+        "end_time": "2017-06-05T17:00:00-07:00",  
         "session_type": {
             "id": 3, 
             "length": "04.00", 
@@ -1840,8 +1840,8 @@ This session will examine the image recognition techniques available with Apache
         "subtitle": "", 
         "short_abstract": "<p></p>", 
         "long_abstract": "<p></p>", 
-        "start_time": "2017-06-05T13:00:00", 
-        "end_time": "2017-06-05T17:00:00",  
+        "start_time": "2017-06-05T13:00:00-07:00", 
+        "end_time": "2017-06-05T17:00:00-07:00",  
         "session_type": {
             "id": 3, 
             "length": "04.00", 
@@ -1872,8 +1872,8 @@ This session will examine the image recognition techniques available with Apache
         "subtitle": "", 
         "short_abstract": "<p></p>", 
         "long_abstract": "<p></p>", 
-        "start_time": "2017-06-05T13:00:00", 
-        "end_time": "2017-06-05T17:00:00",  
+        "start_time": "2017-06-05T13:00:00-07:00", 
+        "end_time": "2017-06-05T17:00:00-07:00",  
         "session_type": {
             "id": 3, 
             "length": "04.00", 
