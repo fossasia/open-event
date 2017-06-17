@@ -53,5 +53,13 @@
 		"latitude": 37.329730,
 		"longitude": -121.889383,
 		"room": ""
+	},
+	{
+		"id": 10,
+		"name": "City National Civic",
+		"floor": 1,
+		"latitude": 37.324530,
+		"longitude": -121.859433,
+		"room": ""
 	}
 ]

@@ -116,7 +116,7 @@
          }
       ],
       "track_image_url": "",
-      "font_color": "#FFFFFF"
+      "font_color": "#OOOOOO"
    },
    {
       "id": 5,
@@ -225,7 +225,7 @@
    {
       "id": 10,
       "name": "Workplace",
-      "color": "#BF532E",
+      "color": "#FF3030",
       "sessions": [{
             "id": 19,
             "title": "What’ s next for workplace by Facebook ? "
@@ -257,7 +257,7 @@
    {
       "id": 12,
       "name": "Artifical Intelligence",
-      "color": "#FF3046",
+      "color": "#1C86EE",
       "sessions": [{
             "id": 45,
             "title": "Casual 3D capture"
@@ -281,7 +281,7 @@
    {
       "id": 13,
       "name": "Growth",
-      "color": "#3DC8C3",
+      "color": "#7A378B",
       "sessions": [{
             "id": 48,
             "title": "Build Meaningful customer connections with facebook"
@@ -301,7 +301,7 @@
    {
       "id": 14,
       "name": "Instagram",
-      "color": "#1485CC",
+      "color": "#FF7F00",
       "sessions": [{
             "id": 49,
             "title": "Building offline experiences for instagram"
@@ -317,7 +317,7 @@
    {
       "id": 15,
       "name": "Media & Publishers",
-      "color": "#B21212",
+      "color": "#3CB371",
       "sessions": [{
             "id": 54,
             "title": "Fireside chat: the future of media"
@@ -341,12 +341,23 @@
    {
       "id": 16,
       "name": "WhatsApp",
-      "color": "#E8782C",
+      "color": "#00868B",
       "sessions": [{
          "id": 55,
          "title": "How WhatsApp reduced spam for over 1 billion people"
       }],
       "track_image_url": "",
       "font_color": "#FFFFFF"
+   },
+   {
+      "id": 17,
+      "name": "Keynotes",
+      "color": "#E6E6FA",
+      "sessions": [{
+         "id": 71,
+         "title": "Keynote day 1"
+      }],
+      "track_image_url": "",
+      "font_color": "#OOOOOO"
    }
 ]
