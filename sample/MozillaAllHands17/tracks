@@ -2,6 +2,7 @@
     {
         "id": 455, 
         "name": "All Hands", 
+		"description": "All Hands",
         "color": "#E74C3C",
 		"font_color": "#FFFFFF",
         "sessions": [
@@ -25,12 +26,12 @@
                 "id": 1049, 
                 "title": "Registration and Information Desk"
             }
-		], 
-        "track_image_url": ""
+		]
     },
 	{
         "id": 456, 
         "name": "Meals", 
+		"description": "Meals",
         "color": "#F39C12",
 		"font_color": "#000000",
         "sessions": [
@@ -66,12 +67,12 @@
                 "id": 1010, 
                 "title": "Lunch"
             }
-		], 
-        "track_image_url": ""
+		]
     },
 	{
         "id": 457, 
-        "name": "Firefox", 
+        "name": "Firefox",
+		"description": "Firefox",
         "color": "#5DADE2",
 		"font_color": "#FFFFFF",
         "sessions": [
@@ -535,12 +536,12 @@
 				"id": 1372,
 				"title": "Add-ons State of 57 Migration and Goal Alignment"
 			}
-		], 
-        "track_image_url": ""
+		]
     },
 	{
         "id": 458, 
         "name": "IT", 
+		"description": "IT",
         "color": "#58D68D",
 		"font_color": "#000000",
         "sessions": [
@@ -604,12 +605,12 @@
 				"id": 1258,
 				"title": "App Services Workforce Planning"
 			}
-		], 
-        "track_image_url": ""
+		]
     },
 	{
         "id": 459, 
         "name": "FP&A", 
+		"description": "FP&A",
         "color": "#F5B041",
 		"font_color": "#FFFFFF",
         "sessions": [
@@ -633,12 +634,12 @@
                 "id": 1255, 
                 "title": "Team Work Time"
             }
-		], 
-        "track_image_url": ""
+		]
     },
 	{
         "id": 460, 
         "name": "Marketing", 
+		"description": "Marketing",
         "color": "#229954",
 		"font_color": "#FFFFFF",
         "sessions": [
@@ -810,12 +811,12 @@
                 "id": 1348, 
                 "title": "Marketing at Mitchell Worldview"
             }
-		], 
-        "track_image_url": ""
+		]
     },
 	{
         "id": 461, 
         "name": "Emerging Technologies", 
+		"description": "Emerging Technologies",
         "color": "#85C1E9",
 		"font_color": "#000000",
         "sessions": [
@@ -895,12 +896,12 @@
                 "id": 1254, 
                 "title": "Mozilla Best Router Discussion"
             }
-		], 
-        "track_image_url": ""
+		]
     },
 	{
         "id": 462, 
-        "name": "Meals w/ Registered Guests", 
+        "name": "Meals w/ Registered Guests",
+		"description": "Meals w/ Registered Guests",
         "color": "#F0B27A",
 		"font_color": "#000000",
         "sessions": [
@@ -916,12 +917,12 @@
                 "id": 1102, 
                 "title": "Departure Breakfast"
             }
-		], 
-        "track_image_url": ""
+		]
     },
 	{
         "id": 463, 
         "name": "People", 
+		"description": "People",
         "color": "#F4D03F",
 		"font_color": "#000000",
         "sessions": [
@@ -1077,12 +1078,12 @@
                 "id": 1276, 
                 "title": "Workday Session Reporting"
             }
-		], 
-        "track_image_url": ""
+		]
     },
 	{
         "id": 464, 
         "name": "MoFo", 
+		"description": "MoFo",
         "color": "#A569BD",
 		"font_color": "#FFFFFF",
         "sessions": [
@@ -1262,12 +1263,12 @@
                 "id": 1266, 
                 "title": "MoFo Mid-Week Reflection"
             }
-		], 
-        "track_image_url": ""
+		]
     },
 	{
         "id": 465, 
-        "name": "Office of the Chair", 
+        "name": "Office of the Chair",
+		"description": "Office of the Chair",
         "color": "#C39BD3",
 		"font_color": "#000000",
         "sessions": [
@@ -1303,12 +1304,12 @@
                 "id": 1182, 
                 "title": "Mozilla Worldview"
             }
-		], 
-        "track_image_url": ""
+		]
     },
 	{
         "id": 466, 
-        "name": "Strategic Ops", 
+        "name": "Strategic Ops",
+		"description": "Strategic Ops",
         "color": "#A6ACAF",
 		"font_color": "#000000",
         "sessions": [
@@ -1380,12 +1381,12 @@
                 "id": 1267, 
                 "title": "How are teams using OKRs? How are they using them differently?"
             }
-		], 
-        "track_image_url": ""
+		]
     },
 	{
         "id": 467, 
-        "name": "Legal/Business Development and Policy", 
+        "name": "Legal/Business Development and Policy",
+		"description": "Legal/Business Development and Policy",
         "color": "#48C9B0",
 		"font_color": "#000000",
         "sessions": [
@@ -1425,12 +1426,12 @@
                 "id": 1265, 
                 "title": "Meet at Hilton to Take Buses - Fun Activity"
             }
-		], 
-        "track_image_url": ""
+		]
     },
 	{
         "id": 468, 
-        "name": "Volunteers", 
+        "name": "Volunteers",
+		"description": "Volunteers",
         "color": "#F1948A",
 		"font_color": "#000000",
         "sessions": [
@@ -1438,12 +1439,12 @@
                 "id": 1277, 
                 "title": "Volunteer Contributor Orientation"
             }
-		], 
-        "track_image_url": ""
+		]
     },
 	{
         "id": 469, 
-        "name": "Open Innovation", 
+        "name": "Open Innovation",
+		"description": "Open Innovation",
         "color": "#AED6F1",
 		"font_color": "#000000",
         "sessions": [
@@ -1599,7 +1600,6 @@
                 "id": 1315, 
                 "title": "Reps Council"
             }
-		], 
-        "track_image_url": ""
+		]
     }
 ]
