@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1, 
+        "name": "Registration", 
+        "length": "08.00"
+    },
+	{
+        "id": 2, 
+        "name": "Welcome", 
+        "length": "03.00"
+    },
+	{
+        "id": 3, 
+        "name": "Meal", 
+        "length": "01.00"
+    },
+	{
+        "id": 4, 
+        "name": "Session of 3 hours", 
+        "length": "03.00"
+    },
+	{
+        "id": 5, 
+        "name": "Session of 2 hours", 
+        "length": "02.00"
+    },
+	{
+        "id": 6, 
+        "name": "Session of 1 hour", 
+        "length": "01.00"
+    },
+	{
+        "id": 7, 
+        "name": "Workspace", 
+        "length": "07.00"
+    },
+	{
+        "id": 8, 
+        "name": "Workspace/Meeting", 
+        "length": "09.00"
+    },
+	{
+        "id": 9, 
+        "name": "Session of 4 hours", 
+        "length": "04.00"
+    },
+	{
+        "id": 10, 
+        "name": "Session All Day", 
+        "length": "24.00"
+    }
+]
