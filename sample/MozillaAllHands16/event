@@ -1,0 +1,90 @@
+{ 
+	"id": 3,
+	"name": "All Hands/2016 Hawaii",
+	"latitude": 19.924029,
+	"longitude": -155.887498,
+	"location_name": "Hilton Waikoloa village, Hawaii",
+	"start_time": "2016-12-05T13:00:00",
+	"end_time": "2016-12-09T20:00:00",
+	"timezone": "Hawaii-Aleutian",
+	"description": "Multiple team meetings, happening in the same city, at the same time + some opportunity to get together as one big group as well as with other teams as it makes sense. Then, on the last day, we have a fun social event for all, Mozilla-style!",
+	"background_image": "https://drive.google.com/uc?export=download&id=0B2b0W4GqpgLFbXRFYzdOcDVua2s",
+	"logo": "https://drive.google.com/uc?export=download&id=0B2b0W4GqpgLFbXRFYzdOcDVua2s",
+	"organizer_name": "Mozilla",
+	"organizer_description": "Mozilla, the proudly non-profit champions of the Internet, helping to keep it healthy, open and accessible to all.",
+	"social_links": [{
+			"id": 1,
+			"link": "https://twitter.com/mozilla",
+			"name": "Twitter"
+		},
+		{
+			"id": 2,
+			"link": "https://github.com/mozilla/mofo-allhands/tree/gh-pages/2016-hawaii",
+			"name": "Github"
+		},
+		{
+			"id": 3,
+			"link": "https://www.facebook.com/mozilla",
+			"name": "Facebook"
+		},
+		{
+			"id": 4,
+			"link": "https://www.flickr.com/groups/42678169@N00",
+			"name": "Flickr"
+		},
+		{
+			"id": 5,
+			"link": "https://plus.google.com/+MozillaDeveloperNetwork",
+			"name": "Google Plus"
+		},
+		{
+			"id": 6,
+			"link": "https://www.youtube.com/channel/UCltqjpqVd-IowlC-iLp91eg/videos",
+			"name": "YouTube"
+		},
+		{
+			"id": 7,
+			"link": "https://www.linkedin.com/company-beta/13948/",
+			"name": "Linkedin"
+		},
+		{
+			"id": 8,
+			"link": "https://hawaiiallhands2016.sched.com/",
+			"name": "External Event URL"
+		}
+	],
+	"ticket_url": null,
+	"privacy": "public",
+	"type": "Conference",
+	"topic": null,
+	"sub_topic": null,
+	"code_of_conduct": "",
+	"copyright": {
+		"holder": null,
+		"holder_url": null,
+		"licence": null,
+		"licence_url": null,
+		"logo": null,
+		"year": null
+	},
+	"call_for_papers": {
+		"announcement": null,
+		"end_date": null,
+		"privacy": null,
+		"start_date": null,
+		"timezone": null
+	},
+	"email": null,
+	"has_session_speakers": true,
+	"schedule_published_on": null,
+	"searchable_location_name": null,
+	"state": "Completed",
+	"version": {
+		"event_ver": 1,
+		"microlocations_ver": 1,
+		"sessions_ver": 1,
+		"speakers_ver": 1,
+		"sponsors_ver": 1,
+		"tracks_ver": 1
+	}
+}
