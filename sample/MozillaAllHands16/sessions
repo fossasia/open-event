@@ -23,7 +23,7 @@
       "title":"IT: Application Services - Service Strategy Pivot",
       "track":{
          "id":3,
-         "title":"IT",
+         "name":"IT",
          "color":"#B21212"
       },
       "start_time":"2016-12-06T12:00:00",
@@ -51,7 +51,7 @@
       "speakers":[
          {
             "id":15,
-            "name":"Jeff Bryner ",
+            "name":"Jeff Bryner",
             "organisation":"",
             "city":"",
             "heard_from":"",
@@ -70,7 +70,7 @@
       "title":"IT: Infosec 2017 Planning",
       "track":{
          "id":3,
-         "title":"IT",
+         "name":"IT",
          "color":"#B21212"
       },
       "start_time":"2016-12-06T12:00:00",
@@ -98,7 +98,7 @@
       "speakers":[
          {
             "id":77,
-            "name":"Nancy Kuettel ",
+            "name":"Nancy Kuettel",
             "organisation":"",
             "city":"",
             "heard_from":"",
@@ -117,7 +117,7 @@
       "title":"Ops OKR Presentation / Project Planning",
       "track":{
          "id":5,
-         "title":"People",
+         "name":"People",
          "color":"#E8782C"
       },
       "start_time":"2016-12-06T12:00:00",
@@ -164,7 +164,7 @@
       "title":"SensorWeb: Team Kick-off",
       "track":{
          "id":1,
-         "title":"All Hands",
+         "name":"All Hands",
          "color":"#3DC8C3"
       },
       "start_time":"2016-12-06T13:00:00",
@@ -209,7 +209,7 @@
       "title":"Emerging Technologies Homeroom",
       "track":{
          "id":2,
-         "title":"Emerging Technologies",
+         "name":"Emerging Technologies",
          "color":"#1485CC"
       },
       "start_time":"2016-12-06T13:00:00",
@@ -256,7 +256,7 @@
       "title":"FP&A Session with Jim",
       "track":{
          "id":6,
-         "title":"FP&A",
+         "name":"FP&A",
          "color":"#FF3046"
       },
       "start_time":"2016-12-06T13:00:00",
@@ -303,7 +303,7 @@
       "title":"Marketing: Year in Review and Looking Ahead",
       "track":{
          "id":7,
-         "title":"Marketing",
+         "name":"Marketing",
          "color":"#BF532E"
       },
       "start_time":"2016-12-06T13:00:00",
@@ -350,7 +350,7 @@
       "title":"Form Autofill Q1 Planning & Key Decisions",
       "track":{
          "id":8,
-         "title":"Firefox",
+         "name":"Firefox",
          "color":"#FFF22A"
       },
       "start_time":"2016-12-06T15:00:00",
@@ -397,7 +397,7 @@
       "title":"IT: Who is our new EUS Manager?",
       "track":{
          "id":3,
-         "title":"IT",
+         "name":"IT",
          "color":"#B21212"
       },
       "start_time":"2016-12-07T15:30:00",
@@ -444,7 +444,7 @@
       "title":"A Tour of the Engine Room",
       "track":{
          "id":8,
-         "title":"Firefox",
+         "name":"Firefox",
          "color":"#FFF22A"
       },
       "start_time":"2016-12-07T08:45:00",
@@ -491,7 +491,7 @@
       "title":"Core Browser 2016 Review / 2017 H1 Planning",
       "track":{
          "id":8,
-         "title":"Firefox",
+         "name":"Firefox",
          "color":"#FFF22A"
       },
       "start_time":"2016-12-07T08:45:00",
@@ -538,7 +538,7 @@
       "title":"FP&A Session with Jim",
       "track":{
          "id":6,
-         "title":"FP&A",
+         "name":"FP&A",
          "color":"#FF3046"
       },
       "start_time":"2016-12-08T09:00:00",
@@ -585,7 +585,7 @@
       "title":"IT: Document Vendor Procurement Process",
       "track":{
          "id":3,
-         "title":"IT",
+         "name":"IT",
          "color":"#B21212"
       },
       "start_time":"2016-12-07T09:00:00",
@@ -632,7 +632,7 @@
       "title":"IT: Security Awareness 2017",
       "track":{
          "id":3,
-         "title":"IT",
+         "name":"IT",
          "color":"#B21212"
       },
       "start_time":"2016-12-07T09:00:00",
@@ -679,7 +679,7 @@
       "title":"Emerging Technologies All Hands",
       "track":{
          "id":2,
-         "title":"Emerging technologies",
+         "name":"Emerging Technologies",
          "color":"#1485CC"
       },
       "start_time":"2016-12-07T09:30:00",
@@ -706,7 +706,7 @@
       "short_abstract":"",
       "speakers":[
          {
-            "id":67,
+            "id":62,
             "name":"Guillermo Huerta",
             "organisation":"",
             "city":"",
@@ -726,7 +726,7 @@
       "title":"IT: Commons AV System Design",
       "track":{
          "id":3,
-         "title":"IT",
+         "name":"IT",
          "color":"#B21212"
       },
       "start_time":"2016-12-07T10:00:00",
@@ -773,7 +773,7 @@
       "title":"Merit Cycle Process Conversation",
       "track":{
          "id":5,
-         "title":"People",
+         "name":"People",
          "color":"#E8782C"
       },
       "start_time":"2016-12-07T10:00:00",
@@ -820,7 +820,7 @@
       "title":"People Ops Planning",
       "track":{
          "id":5,
-         "title":"People",
+         "name":"People",
          "color":"#E8782C"
       },
       "start_time":"2016-12-08T08:30:00",
@@ -867,7 +867,7 @@
       "title":"Firefox Homeroom",
       "track":{
          "id":8,
-         "title":"Firefox",
+         "name":"Firefox",
          "color":"#FFF22A"
       },
       "start_time":"2016-12-08T08:45:00",
@@ -914,7 +914,7 @@
       "title":"FP&A Session with Jim",
       "track":{
          "id":6,
-         "title":"FP&A",
+         "name":"FP&A",
          "color":"#FF3046"
       },
       "start_time":"2016-12-09T09:00:00",
@@ -976,7 +976,7 @@
       "title":"Marketing: Q&A with CBeard",
       "track":{
          "id":7,
-         "title":"Marketing",
+         "name":"Marketing",
          "color":"#BF532E"
       },
       "start_time":"2016-12-08T13:00:00",
@@ -1023,7 +1023,7 @@
       "title":"Emerging Technologies Homeroom",
       "track":{
          "id":2,
-         "title":"Emerging Technologies",
+         "name":"Emerging Technologies",
          "color":"#1485CC"
       },
       "start_time":"2016-12-09T09:00:00",
@@ -1070,7 +1070,7 @@
       "title":"Firefox Homeroom",
       "track":{
          "id":8,
-         "title":"Firefox",
+         "name":"Firefox",
          "color":"#FFF22A"
       },
       "start_time":"2016-12-09T09:00:00",
@@ -1117,7 +1117,7 @@
       "title":"FP&A Session with Jim",
       "track":{
          "id":6,
-         "title":"FP&A",
+         "name":"FP&A",
          "color":"#FF3046"
       },
       "start_time":"2016-12-07T09:00:00",
@@ -1164,7 +1164,7 @@
       "title":"Marketing: Durable Teams/Cross Team",
       "track":{
          "id":7,
-         "title":"Marketing",
+         "name":"Marketing",
          "color":"#BF532E"
       },
       "start_time":"2016-12-09T09:00:00",
@@ -1211,7 +1211,7 @@
       "title":"Release Management: So\\, you want to kill Aurora?",
       "track":{
          "id":8,
-         "title":"Firefox",
+         "name":"Firefox",
          "color":"#FFF22A"
       },
       "start_time":"2016-12-09T13:00:00",
@@ -1258,7 +1258,7 @@
       "title":"Marketing: Marketing Closing Remarks",
       "track":{
          "id":7,
-         "title":"Marketing",
+         "name":"Marketing",
          "color":"#BF532E"
       },
       "start_time":"2016-12-09T14:00:00 ",
@@ -1305,7 +1305,7 @@
       "title":"Legal\\, Bus Dev\\, Policy: Mitchell Baker Fireside Chat",
       "track":{
          "id":11,
-         "title":"Legal / business development and policy",
+         "name":"Legal / business development and policy",
          "color":"#B062A1"
       },
       "start_time":"2016-12-09T14:30:00",
@@ -1352,7 +1352,7 @@
       "title":"FlyWeb Security & Status Update",
       "track":{
          "id":8,
-         "title":"Firefox",
+         "name":"Firefox",
          "color":"#FFF22A"
       },
       "start_time":"2016-12-09T15:15:00",
@@ -1399,7 +1399,7 @@
       "title":"Electives Coaching - Final Session",
       "track":{
          "id":5,
-         "title":"Strategic Ops",
+         "name":"Strategic Ops",
          "color":"#9EFF56"
       },
       "start_time":"2016-12-09T017:00:00",
@@ -1443,10 +1443,10 @@
       ],
       "subtitle":"",
       "language":"english",
-      "title":"Connected Devices Wrap-up",
+      "name":"connected devices Wrap-up",
       "track":{
          "id":10,
-         "title":"connected devices",
+         "name":"connected devices",
          "color":"#E0331F"
       },
       "start_time":"2016-12-09T11:00:00",
@@ -1490,10 +1490,10 @@
       ],
       "subtitle":"",
       "language":"english",
-      "title":"Connected Devices All Hands",
+      "name":"connected devices All Hands",
       "track":{
          "id":10,
-         "title":"connected devices",
+         "name":"connected devices",
          "color":"#E0331F"
       },
       "start_time":"2016-12-10T14:00:00",
