@@ -77,7 +77,7 @@
 	"sponsor_type": "Gold Level",
 	"id": 10,
 	"name": "Fusionbox",
-	"logo": "/images/sponsors/fbx.jpg"
+	"logo": "/images/sponsors/fb.jpg"
 }, {
 	"description": "",
 	"level": 6,
@@ -197,7 +197,7 @@
 	"sponsor_type": "Gold Level",
 	"id": 25,
 	"name": "Jump Trading",
-	"logo": "/images/sponsors/jt.jpg"
+	"logo": "/images/sponsors/jump.png"
 }, {
 	"description": "Founded in 2004, Facebook\u00b9s mission is to make the world more open and connected. As an employer, Facebook strives to hire the best people who want to move fast and make an impact. The company empowers people in every way it can to allow our employees to focus on what they love to do. People around the world use Facebook everyday to stay connected with friends and family, to discover what's going on, and to share and express what matters to them.",
 	"level": 6,
@@ -317,7 +317,7 @@
 	"sponsor_type": "Gold Level",
 	"id": 40,
 	"name": "Numerical Algorithms Group",
-	"logo": "/images/sponsors/nag.jpg"
+	"logo": "/images/sponsors/nag.png"
 }, {
 	"description": "",
 	"level": 6,
@@ -357,7 +357,7 @@
 	"sponsor_type": "Gold Level",
 	"id": 45,
 	"name": "Eyesopen",
-	"logo": "/images/sponsors/open.jpg"
+	"logo": "/images/sponsors/open.png"
 }, {
 	"description": "Nexmo is a global cloud communications platform, providing APIs and SDKs for SMS, voice, phone verification, messaging and advanced multi-channel conversations. We have officially supported open source libraries for Python, Node.JS, Ruby, PHP, Java and C# .NET enabling you to build scalable communications features such as two-factor authentication, notifications, two-way and group messaging, one to one or multi person calls, all with the technologies that you are already using.",
 	"level": 6,
@@ -485,7 +485,7 @@
 	"sponsor_type": "Gold Level",
 	"id": 61,
 	"name": "elastic.co",
-	"logo": "/images/sponsors/el.jpg"
+	"logo": "/images/sponsors/elastic.jpg"
 }, {
 	"description": "Indeed Prime helps software engineers simplify their job search and land their dream job. Candidates get immediate exposure to the best tech companies with just one simple application to Indeed Prime.",
 	"level": 6,
@@ -525,7 +525,7 @@
 	"sponsor_type": "Gold Level",
 	"id": 66,
 	"name": "SaltStack intelligent orchestration",
-	"logo": "/images/sponsors/ss.jpg"
+	"logo": "/images/sponsors/salt.jpg"
 }, {
 	"description": "Hudson River Trading is a New York City based algorithmic trading firm. We have built one of the world's most sophisticated computing environments for research and development.  At HRT we are mathematicians, computer scientists, statisticians, physicists and engineers. We research and develop automated trading algorithms using advanced mathematical techniques. We have a fun and casual office atmosphere, but everyone works diligently to get the job done. No politics or red tape impede the generation or implementation of ideas.",
 	"level": 6,
@@ -549,7 +549,7 @@
 	"sponsor_type": "Silver Level",
 	"id": 69,
 	"name": "Oreilly",
-	"logo": "/images/sponsors/or.jpg"
+	"logo": "/images/sponsors/orielly.png"
 }, {
 	"description": "AQR is a global investment management firm built at the intersection of financial theory and practical application. We strive to deliver superior, long-term results for our clients by looking past market noise to identify and isolate what matters most, and by developing ideas that stand up to rigorous testing. Our focus on practical insights and analysis has made us leaders in alternative and traditional strategies since 1998. As of September 30, 2016, we managed approximately $172.4 billion for institutional investors and investment professionals.",
 	"level": 5,
@@ -557,7 +557,7 @@
 	"sponsor_type": "Silver Level",
 	"id": 70,
 	"name": "Aqr",
-	"logo": "/images/sponsors/aqr.jpg"
+	"logo": "/images/sponsors/aqr.png"
 }, {
 	"description": "Leapfrog is a Performance Marketing Agency that has helped leading brands grow digital market share, acquire new customers, and deliver profitable sales for over 20 years. Our easy-to-integrate LFX Conversion Platform connects the consumer journey unlocking marketing intelligence that fuels omni-channel media buying strategies and the targeting of real-time, relevant consumer experiences that compel consumers to convert to customers. Leapfrog analyzes performance and consumer behavior to plan and predict with the purpose of driving continuous optimization.",
 	"level": 5,
@@ -589,7 +589,7 @@
 	"sponsor_type": "Silver Level",
 	"id": 74,
 	"name": "Hulu",
-	"logo": "/images/sponsors/hulu.jpg"
+	"logo": "/images/sponsors/hulu.gif"
 }, {
 	"description": "Doctor On Demand\u2019s mission is to improve the world\u2019s health through compassionate care and innovation.  Through live video visits, our hand-picked, US-trained doctors and psychologists take patient history, perform an exam, and recommend a treatment plan. Prescriptions, if needed, go directly to the pharmacy of choice. While insurance isn\u2019t required, tens of millions of Americans enjoy covered medical and mental health visits through employer and health plan partnerships. ",
 	"level": 5,
@@ -605,7 +605,7 @@
 	"sponsor_type": "Silver Level",
 	"id": 76,
 	"name": "Nooro",
-	"logo": "/images/sponsors/nooro.jpg"
+	"logo": "/images/sponsors/nooro.png"
 }, {
 	"description": "We are Two Sigma. We imagine breakthroughs in investment management, insurance and related fields by pushing the boundaries of what open source and proprietary technology can do. ",
 	"level": 5,
@@ -645,7 +645,7 @@
 	"sponsor_type": "Job Fair Participation",
 	"id": 81,
 	"name": "Research Affiliates",
-	"logo": "/images/sponsors/ra.jpg"
+	"logo": "/images/sponsors/raffiliates.jpg"
 }, {
 	"description": "Car Stickers Inc. is a leading sticker manufacturer founded in 2000 located in Bend, Oregon.  ",
 	"level": 3,
@@ -813,7 +813,7 @@
 	"sponsor_type": "Media Level",
 	"id": 102,
 	"name": "http://pycoders.com/",
-	"logo": "/images/sponsors/pyc.jpg"
+	"logo": "/images/sponsors/pyweekly.jpg"
 }, {
 	"description": "Bryan Lunduke writing for Network World",
 	"level": 1,
@@ -821,5 +821,5 @@
 	"sponsor_type": "Media Level",
 	"id": 103,
 	"name": "Bryan Lunduke writing for Network World",
-	"logo": "/images/sponsors/nw.jpg"
+	"logo": "/images/sponsors/nw.png"
 }]
