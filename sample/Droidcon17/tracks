@@ -1,0 +1,65 @@
+[{
+      "id": 1,
+      "name": "General",
+      "color": "#BF532E",
+      "sessions": [{
+            "id": 1,
+            "title": "Welcome: Community Addiction"
+         },
+         {
+            "id": 56,
+            "title": "The future of monetizing with audience network"
+         },
+         {
+            "id": 57,
+            "title": "Thinking beyond the install"
+         },
+         {
+            "id": 58,
+            "title": "Marketing API's: The automation advantage, for all"
+         },
+         {
+            "id": 59,
+            "title": "Discover new facebook advertising tools"
+         },
+         {
+            "id": 60,
+            "title": "Explore the power of the pages API"
+         }
+      ],
+      "track_image_url": "",
+      "font_color": "#FFFFFF"
+   },
+   {
+      "id": 2,
+      "name": "Keynote",
+      "color": "#E8782C",
+      "sessions": [{
+            "id": 34,
+            "title": "Create Fullscreen experiences on mobile with canvas"
+         },
+         {
+            "id": 56,
+            "title": "The future of monetizing with audience network"
+         },
+         {
+            "id": 57,
+            "title": "Thinking beyond the install"
+         },
+         {
+            "id": 58,
+            "title": "Marketing API's: The automation advantage, for all"
+         },
+         {
+            "id": 59,
+            "title": "Discover new facebook advertising tools"
+         },
+         {
+            "id": 60,
+            "title": "Explore the power of the pages API"
+         }
+      ],
+      "track_image_url": "",
+      "font_color": "#FFFFFF"
+   }
+]
