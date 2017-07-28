@@ -189,7 +189,7 @@
 	"sponsor_type": "Gold Level",
 	"id": 24,
 	"name": "Yelp",
-	"logo": "/images/sponsors/yelp.png"
+	"logo": "/images/sponsors/yelp.jpg"
 }, {
 	"description": "Jump Trading combines sophisticated data analysis, best-in-class technology and an entrepreneurial culture to create a leading global quantitative trading firm. Jump has more than 550 employees across offices around the globe. We leverage our petaflops of computing power and petabytes of data to carefully analyze and identify trends in the global markets across all asset classes. ",
 	"level": 6,
@@ -740,7 +740,7 @@
 	"url": "https://www.postgresql.org/",
 	"sponsor_type": "Open Source Project/Community",
 	"id": 93,
-	"name": "https://www.postgresql.org/",
+	"name": "Postgresql",
 	"logo": "/images/sponsors/post.png"
 }, {
 	"description": "Launched August 2014, we are a fun and friendly user group dedicated to proliferating a diverse and talented Python community in the Puget Sound region. We are devoted to exploring Python-based programming knowledge, embracing those new to Python and experienced Pythonistas from all walks of life, and helping our members to achieve their professional goals.",
@@ -748,7 +748,7 @@
 	"url": "https://www.meetup.com/PSPPython/",
 	"sponsor_type": "Open Source Project/Community",
 	"id": 94,
-	"name": "https://www.meetup.com/PSPPython/",
+	"name": "PSPPython",
 	"logo": "/images/sponsors/psp.jpg"
 }, {
 	"description": "The premier opensource Python-based CMS.",
@@ -756,7 +756,7 @@
 	"url": "https://plone.com",
 	"sponsor_type": "Open Source Project/Community",
 	"id": 95,
-	"name": "https://plone.com",
+	"name": "Plone",
 	"logo": "/images/sponsors/plone.png"
 }, {
 	"description": "Django Girls organize free Python and Django workshops, create open sourced online tutorials and curate amazing first experiences with technology.",
@@ -764,7 +764,7 @@
 	"url": "https://djangogirls.org/",
 	"sponsor_type": "Open Source Project/Community",
 	"id": 96,
-	"name": "https://djangogirls.org/",
+	"name": "Djangogirls",
 	"logo": "/images/sponsors/dg.png"
 }, {
 	"description": "",
@@ -772,7 +772,7 @@
 	"url": "http://www.numfocus.org/",
 	"sponsor_type": "Open Source Project/Community",
 	"id": 97,
-	"name": "http://www.numfocus.org/",
+	"name": "Numfocus",
 	"logo": "/images/sponsors/num.png"
 }, {
 	"description": "San Francisco\u2013based No Starch Press has published the finest in geek entertainment since 1994, covering topics like hacking, open source/Linux, LEGO,\u200b science, math, and programming for all ages. Our best-selling Python books include Python for Kids, Python Crash Course, Automate the Boring Stuff with Python, and Python Playground. Our titles have personality, our authors are passionate about their subjects, and we read and edit every book that bears our name. Our goal is to make computing accessible to technophile and novice alike, and our readers appreciate our straightforward presentation and fearless approach to the complex world of technology.",
@@ -788,7 +788,7 @@
 	"url": "https://www.stickermule.com/",
 	"sponsor_type": "Media Level",
 	"id": 99,
-	"name": "https://www.stickermule.com/",
+	"name": "Stickermule",
 	"logo": "/images/sponsors/smule.png"
 }, {
 	"description": "",
@@ -804,7 +804,7 @@
 	"url": "https://lwn.net",
 	"sponsor_type": "Media Level",
 	"id": 101,
-	"name": "https://lwn.net",
+	"name": "Lwn",
 	"logo": "/images/sponsors/lwn.png"
 }, {
 	"description": "Pycoder's Weekly is a weekly newsletter by members of the Python community for the Python community. Pycoder's delivers the latest and best Python news, projects, articles and discussions to your inbox every week.",
@@ -812,7 +812,7 @@
 	"url": "http://pycoders.com/",
 	"sponsor_type": "Media Level",
 	"id": 102,
-	"name": "http://pycoders.com/",
+	"name": "Pycoders",
 	"logo": "/images/sponsors/pyweekly.jpg"
 }, {
 	"description": "Bryan Lunduke writing for Network World",

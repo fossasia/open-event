@@ -606,5 +606,17 @@
       ],
       "track_image_url": "",
       "font_color": "#FFFFFF"
+   },
+   {
+      "id": 5,
+      "name": "Python Language Summit",
+      "color": "#E6E6FA",
+      "sessions": [{
+            "id": 401,
+            "title": "Summit"
+         }
+      ],
+      "track_image_url": "",
+      "font_color": "#000000"
    }
 ]

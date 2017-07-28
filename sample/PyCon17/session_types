@@ -41,5 +41,15 @@
       "id": 9,
       "name": "1 hour 30 minutes session",
       "length": "01.30"
+   },
+    {
+      "id": 10,
+      "name": "6 hours session",
+      "length": "06.00"
+   },
+   {
+      "id": 11,
+      "name": "8 hours session",
+      "length": "08.00"
    }
 ]

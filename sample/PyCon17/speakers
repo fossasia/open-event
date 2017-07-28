@@ -318,7 +318,12 @@
 		"sessions": [{
 			"id": 12,
 			"title": "Decorators and descriptors decoded"
-		}],
+		},
+		{
+			"id": 402,
+			"title": "Python Education Summit"
+		}
+		],
 		"sponsorship_required": "",
 		"icon": "",
 		"name": "Luciano Ramalho",
@@ -1330,7 +1335,12 @@
 		"sessions": [{
 			"id": 39,
 			"title": "aiosmtpd - A better asyncio based SMTP server"
-		}],
+		},
+		{
+			"id": 401,
+			"title": "Python Language Summit"
+		}
+		],
 		"sponsorship_required": "",
 		"icon": "",
 		"name": "Barry Warsaw",
@@ -3221,7 +3231,17 @@
 		"sessions": [{
 			"id": 115,
 			"title": "The Gilectomy: How's It Going?"
-		}],
+		},
+		{
+			"id": 115,
+			"title": "The Gilectomy: How's It Going?"
+		},
+		{
+			"id": 401,
+			"title": "Python Language Summit"
+		}
+
+		],
 		"sponsorship_required": "",
 		"icon": "",
 		"name": "Larry Hastings",
@@ -3641,7 +3661,12 @@
 		"sessions": [{
 			"id": 131,
 			"title": "Yes, It's Time to Learn Regular Expressions"
-		}],
+		},
+		{
+			"id": 402,
+			"title": "Python Education Summit"
+		}
+		],
 		"sponsorship_required": "",
 		"icon": "",
 		"name": "Al Sweigart",

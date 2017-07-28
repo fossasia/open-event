@@ -133,5 +133,13 @@
 		"latitude": 37.324530,
 		"longitude": -121.859433,
 		"room": ""
+	},
+	{
+		"id": 18,
+		"name": "Room A105-106",
+		"floor": 1,
+		"latitude": 37.324530,
+		"longitude": -121.859433,
+		"room": ""
 	}
 ]
