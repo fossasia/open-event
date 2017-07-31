@@ -1,0 +1,55 @@
+[{
+      "id": 1,
+      "name": "1 hour session",
+      "length": "01.00"
+   },
+   {
+      "id": 2,
+      "name": "2 hour session",
+      "length": "02.00"
+   },
+   {
+      "id": 3,
+      "name": "3 hour session",
+      "length": "03.00"
+   },
+   {
+      "id": 4,
+      "name": "20 minutes session",
+      "length": "00.20"
+   },
+   {
+      "id": 5,
+      "name": "6 hour session",
+      "length": "06.00"
+   }, {
+      "id": 6,
+      "name": "50 minutes session",
+      "length": "00.50"
+   },
+   {
+      "id": 7,
+      "name": "1 hour 50 minutes session",
+      "length": "01.50"
+   },
+   {
+      "id": 8,
+      "name": "11 hours",
+      "length": "11.00"
+   },
+   {
+      "id": 9,
+      "name": "1 hour 30 minutes session",
+      "length": "01.30"
+   },
+    {
+      "id": 10,
+      "name": "6 hours session",
+      "length": "06.00"
+   },
+   {
+      "id": 11,
+      "name": "8 hours session",
+      "length": "08.00"
+   }
+]
