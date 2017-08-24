@@ -1,0 +1,30 @@
+[{
+      "length": "00.45",
+      "id": "1",
+      "name": "45 minutes session"
+   },
+   {
+      "length": "03.00",
+      "id": "3",
+      "name": "3 hours session"
+   },
+   {
+      "length": "00.2 Hour",
+      "id": "4",
+      "name": "2 hour session"
+   },
+   {
+      "length": "00.20 minutes",
+      "id": "5",
+      "name": "20 minutes session"
+   }, {
+      "length": "01.30",
+      "id": "6",
+      "name": "1.5 hours session"
+   },
+   {
+      "id": 7,
+      "name": "1 hour 50 minutes session",
+      "length": "01.50"
+   }
+]
