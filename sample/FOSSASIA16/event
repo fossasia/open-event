@@ -79,11 +79,11 @@
   "privacy": "public",
   "code-of-conduct": "",
   "copyright": {
-    "logo": "https://i.creativecommons.org/l/by/4.0/80x15.png",
-    "licence_url": "http://creativecommons.org/licenses/by/4.0/",
+    "logo-url": "https://i.creativecommons.org/l/by/4.0/80x15.png",
+    "licence-url": "http://creativecommons.org/licenses/by/4.0/",
     "holder": "FOSSASIA",
     "licence": "Creative Commons Attribution License",
-    "holder_url": "http://fossasia.org/contact/",
+    "holder-url": "http://fossasia.org/contact/",
     "year": 2016
   },
   "location-name": "15 Science Centre Rd, Singapore 609081",
