@@ -17,10 +17,10 @@
   "name": "Mozilla All Hands 2017",
   "longitude": -122.408965,
   "licence-details": {
-    "long_name": "Creative Commons Attribution License",
-    "compact_logo": "http://i.creativecommons.org/l/by/4.0/80x15.png",
+    "long-name": "Creative Commons Attribution License",
+    "compact-logo-url": "http://i.creativecommons.org/l/by/4.0/80x15.png",
     "description": "The copyright holder waives his interest in his work and places the work as completely as possible in the public domain so others may freely exploit and use the work without restriction under copyright or database law.",
-    "logo": "http://i.creativecommons.org/l/by/4.0/80x15.png",
+    "logo-url": "http://i.creativecommons.org/l/by/4.0/80x15.png",
     "name": "Creative Commons Attribution License",
     "url": "https://creativecommons.org/licenses/by/4.0/"
   },
@@ -33,7 +33,7 @@
     "tracks_ver": 4
   },
   "ticket-url": "",
-  "background_image": "/images/mozilla_banner.jpg",
+  "background-image": "/images/mozilla_banner.jpg",
   "starts-at": "2017-06-26T12:00:00-07:00",
   "organizer-name": "Mozilla",
   "schedule-published-on": null,
