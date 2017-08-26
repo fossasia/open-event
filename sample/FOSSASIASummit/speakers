@@ -24,7 +24,7 @@
         "short-biography": "<p>Full-stack developer with experience in PHP, Python &amp; Ember.JS. Plays around with Kubernetes and Containers. Avid open source contributor.</p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2167/small/TzZqeGJ0WH/cda73923-af83-4733-8c66-2d55944ae079.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2167/small/TzZqeGJ0WH/cda73923-af83-4733-8c66-2d55944ae079.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -53,7 +53,7 @@
         "short-biography": "<p>Gaurang Torvekar\u00a0CTO/Co-Founder Attores. Gaurang will be speaking about Attores' latest offering, Open Certificates.\u00a0</p>",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2369/small/WWx4YjZCWl/e6c7e59c-1724-4291-883a-aab02f8d67ba.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2369/small/WWx4YjZCWl/e6c7e59c-1724-4291-883a-aab02f8d67ba.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -76,7 +76,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2165/small/V2ppaTVPMW/162a160a-9b8c-49f8-81f5-8c9ff3f4f691.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2165/small/V2ppaTVPMW/162a160a-9b8c-49f8-81f5-8c9ff3f4f691.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -105,7 +105,7 @@
         "short-biography": "Toby Hoenisch CEO &amp; Founder OnePay Pte Ltd. He will be speaking about COMIT.",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2370/small/Rm1STUs1T2/6060bd20-f09a-440a-bf79-a7bd66394a1d.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2370/small/Rm1STUs1T2/6060bd20-f09a-440a-bf79-a7bd66394a1d.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -134,7 +134,7 @@
         "short-biography": "Avi is a programming and technology enthusiast who believes in FOSS and open culture. He was a GSoC student in 2016 under FOSSASIA and is currently mentoring young coders in Google Code-In 2016. Apart from that, he is also a top competitive programmer on Codechef and Hackerrank. His popular open source project Clipjump has over 80k downloads worldwide.When he is not coding, you can find him reading books, watching animes, playing CS or napping.",
         "long-biography": "Avi is a programming and technology enthusiast who believes in FOSS and open culture. He was a GSoC student in 2016 under FOSSASIA and is currently mentoring young coders in Google Code-In 2016. Apart from that, he is also a top competitive programmer on\u00a0Codechef\u00a0and\u00a0Hackerrank. His popular open source project\u00a0Clipjump\u00a0has over 80k downloads worldwide.When he is not coding, you can find him reading books, watching animes, playing CS or napping.",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2160/small/aEZ6WU1wM0/232cdb9d-2c68-4c4e-818a-65ba23b09d23.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2160/small/aEZ6WU1wM0/232cdb9d-2c68-4c4e-818a-65ba23b09d23.jpg",
         "position": "Student",
         "sponsorship-required": ""
     },
@@ -157,7 +157,7 @@
         "short-biography": "<p><span style=\"\">I got 'pushed' into the world of PostgreSQL rather unwillingly back in 2004. From then on, however, I fell in love with the database and the community that develops it. I currently head Marketing &amp; Products for 2ndQuadrant, and in my role, I am fully committed to promoting PostgreSQL and its eco-system across the globe. </span></p>",
         "long-biography": "",
         "country": "Pakistan",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2308/small/MUc5WlRpTU/cb739057-9367-41ea-aa3a-edc069123470.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2308/small/MUc5WlRpTU/cb739057-9367-41ea-aa3a-edc069123470.jpg",
         "position": "Sales Marketing Person",
         "sponsorship-required": ""
     },
@@ -186,7 +186,7 @@
         "short-biography": "Aayush is a certified Frontend Developer and an advocate open source developer. He has worked with FOSSASIA on the project Open Event Web app as a GSOC student in 2016. He is a founder of `Small-Start`, which is an initiative to promote open-source work. His major interest areas include Human Computer Interaction, Data Visualizations, and Data analytics.",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2159/small/aStmMTZlNG/a87b6b6d-c401-4fcf-a315-f607fbf15bc6.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2159/small/aStmMTZlNG/a87b6b6d-c401-4fcf-a315-f607fbf15bc6.jpg",
         "position": "Full Stack Developer",
         "sponsorship-required": ""
     },
@@ -215,7 +215,7 @@
         "short-biography": "Google Developer Expert Android",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2372/small/ekhVZ2dUVj/6dd42701-a207-4b81-bea8-640b99738b1c.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2372/small/ekhVZ2dUVj/6dd42701-a207-4b81-bea8-640b99738b1c.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -244,7 +244,7 @@
         "short-biography": "<p><span style=\"\">I am a Database Consultant working with Ashnik having more than 9 years of experience in Database Administration. He is mainly handling the India, South East Asia, region. I works towards providing enterprise level solutions based on Postgres. I have experience in managing the team of DBA\u2019s and well versed with Oracle Single instance, RAC Database implementation, HA Dataguard configuration, Database Administration, Migration and Performance tuning. I am an EnterpriseDB certified PostgreSQL 9.5 professional and has also acquired Oracle DBA professional certification.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2309/small/UW9zOVdlUW/c6827b65-0571-44d0-a8b7-a0590d58b857.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2309/small/UW9zOVdlUW/c6827b65-0571-44d0-a8b7-a0590d58b857.jpg",
         "position": "Database Consultant",
         "sponsorship-required": ""
     },
@@ -273,7 +273,7 @@
         "short-biography": "Devan Mitchem manages Chrome OS product and infrastructure solutions across APAC. Devan covers partnerships, internet infrastructure, and large-scale device\u00a0<span style=\"\">strategies.\u00a0</span>In 2006, Devan worked on site acquisition and deployment of Google's first utility-scale data center campus in The Dalles Oregon. In 2009, he worked with a small team who negotiated and executed utility-scale data centers eventually announced in Changhua Taiwan &amp; Jurong West\u00a0Singapore.\u00a0Devan moved to Singapore to focus on Access efforts spanning internet exchange development, last-mile infrastructure, and large-scale device strategies.\u00a0<span style=\"\">A 14-Year 'Googler', Devan joined Google in 2003 and currently lives in Singapore supporting developer events, mentoring, and advising. Hobbies include big data analytics with Measurement Lab on BigQuery, developing hardware integrated to full-stack cloud software, consulting on internet exchange policy for domestic and international peering/transit,\u00a0and enabling Vi keybindings wherever possible.\u00a0</span>",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2373/small/UWk1YkE0Um/6410fd16-109d-4867-a7f1-95959ff15468.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2373/small/UWk1YkE0Um/6410fd16-109d-4867-a7f1-95959ff15468.jpg",
         "position": "Product Team, Chrome OS",
         "sponsorship-required": ""
     },
@@ -302,7 +302,7 @@
         "short-biography": "<p><span style=\"\">I have been associated with MySQL since May 2012. I am working as developer in MySQL's SrvGen team with focus to features enhancing security of MySQL database.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2233/small/aTVNV0hyQX/9109d87b-aa17-4aa3-86c4-5d5d4d84e642.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2233/small/aTVNV0hyQX/9109d87b-aa17-4aa3-86c4-5d5d4d84e642.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -331,7 +331,7 @@
         "short-biography": "<p><span style=\"\">Blair Layton is a business development manager at Amazon Web Services (AWS). He is responsible for helping customers adopt the AWS platform across Asia Pacific, allowing them to save money, accelerate their time to market, and focus on their core business. He also listens to customer requirements, consolidating the feedback to the product teams to ensure development roadmaps are customer focused. Blair is a database specialist beginning his career as a research assistant at the University of Queensland on a research project for Oracle Corporation. Subsequently, Blair joined Oracle for 13 years, performing various roles across Australia, Europe and Asia. He is based in Singapore where he has been living for over 10 years. Blair earned his Bachelor's degree in information technology from the University of Queensland, Australia.</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2312/small/WHNDeE1mSn/b9baa45e-6943-49f5-8878-edafc36aebdb.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2312/small/WHNDeE1mSn/b9baa45e-6943-49f5-8878-edafc36aebdb.jpg",
         "position": "Sales Marketing Person",
         "sponsorship-required": ""
     },
@@ -360,7 +360,7 @@
         "short-biography": "Steffen has more than\u00a017 years worth\u00a0of\u00a0experience as a\u00a0technology pioneer, having co-founded and managed a number of successful\u00a0companies in the\u00a0mobile, analytics, big data, software development, collaboration and SaaS space.\u00a0Active involvement in\u00a0numerous\u00a0start-ups and commensurate\u00a0experience as a trusted\u00a0top management\u00a0consultant to the world's\u00a0largest\u00a0multinational\u00a0automotive, banking, insurance &amp; transportation\u00a0corporations\u00a0fuels\u00a0his entrepreneurial instincts.\u00a0",
         "long-biography": "",
         "country": "Germany",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2374/small/REYxTGpOd3/f7f94e97-4072-4882-89e5-d2d190eab5ce.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2374/small/REYxTGpOd3/f7f94e97-4072-4882-89e5-d2d190eab5ce.jpg",
         "position": "CEO",
         "sponsorship-required": ""
     },
@@ -394,7 +394,7 @@
         "short-biography": "<p><span style=\"\">Graduated from the Royal Melbourne Institute of Technology, Dr. Haggen So, has experiences in commercial software development and developed software products for renowned companies such as Kodak. Dr. So also taught in Hong Kong Baptist University as lecturer in the department of Computer Science. Dr. So was the former Project Manager for Creative Commons Hong Kong and currently the president of the Hong Kong Creative Open Technology Association.</span></p>",
         "long-biography": "",
         "country": "Hong Kong",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2232/small/OG9kSTQwK1/4262ca2e-38d0-4606-aeec-8509578747ea.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2232/small/OG9kSTQwK1/4262ca2e-38d0-4606-aeec-8509578747ea.jpg",
         "position": "Freelancer",
         "sponsorship-required": ""
     },
@@ -423,7 +423,7 @@
         "short-biography": "<p><span style=\"\">Over 10 years of experience in database management, system troubleshooting, performance tuning and query optimization. Co-founder of PostgreSQL Consulting</span></p>",
         "long-biography": "",
         "country": "Ukraine",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2314/small/SFRHRjNrbG/02556b0e-3aa5-4ae9-a8d4-54893d783e9e.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2314/small/SFRHRjNrbG/02556b0e-3aa5-4ae9-a8d4-54893d783e9e.jpg",
         "position": "Enterprenuer",
         "sponsorship-required": ""
     },
@@ -446,7 +446,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "",
         "sponsorship-required": ""
     },
@@ -480,7 +480,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2315/small/VElBeW1IQ0/c8b35ddc-363e-4574-9f5b-9f1b39d95c46.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2315/small/VElBeW1IQ0/c8b35ddc-363e-4574-9f5b-9f1b39d95c46.jpg",
         "position": "Solution Architect",
         "sponsorship-required": ""
     },
@@ -514,7 +514,7 @@
         "short-biography": "Harish Pillay is is a member of the Internet Society Singapore Chapter Board of Trustees. He is a pioneer on the Internet having gotten on to the ARPAnet and UUCP networks in 1985. He is a ham and his callsign is 9V1HP.",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2343/small/djUvU1Ftcy/129aae60-9fd1-49c8-8b0d-3b06789c2675.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2343/small/djUvU1Ftcy/129aae60-9fd1-49c8-8b0d-3b06789c2675.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -548,7 +548,7 @@
         "short-biography": "<p><span style=\"\">Brady is Vice President at Highway1, PCH's incubator program. A prolific speaker and maker on the geek scene, Brady can be found at speaking engagements around the world, inventing new forms of transportation at Burning Man, or creating in the Highway1 San Francisco workshop. Additionally, Brady writes for O\u2019Reilly Radar, tracking changes in technology. Brady is the founder of Ignite, a geek event which has spread to over a hundred cities worldwide.</span></p>",
         "long-biography": "",
         "country": "USA",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2376/small/akhwODlLYz/382e5e85-f59d-4b1a-9d47-5335be0dc962.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2376/small/akhwODlLYz/382e5e85-f59d-4b1a-9d47-5335be0dc962.jpg",
         "position": "Co-founder",
         "sponsorship-required": ""
     },
@@ -587,7 +587,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "",
         "sponsorship-required": ""
     },
@@ -616,7 +616,7 @@
         "short-biography": "<p><span style=\"\">Pythonista with Javascript on my back along with Go.KDE Developer for GCompris Educational\u00a0</span>Suit<span style=\"\">, Google Summer of Code 2015 and mentoring Google Summer of Code 2016 after mentoring Google Code In 2015 and Season of KDE 2015.\u00a0</span>Leader<span style=\"\">\u00a0of Open Source Club FOSSLNMIIT and Mozilla Club MozLNMIIT for over a year and organizer of <a href=\"http://conf.kde.in\" rel=\"nofollow\" target=\"_blank\">conf.kde.in</a> 2016(KDE INDIA Conference)</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2363/small/UG5hUmUyeH/b994472f-b918-47e9-a2e0-57ffd20b8e1a.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2363/small/UG5hUmUyeH/b994472f-b918-47e9-a2e0-57ffd20b8e1a.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -645,7 +645,7 @@
         "short-biography": "<p><span style=\"\">Prashanth Pai works as Software Engineer at Red Hat. He is primarily associated with and has contributed to GlusterFS and OpenStack Swift.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2316/small/WE9QdE9FUD/01c986d1-6dc3-4248-a939-f19c8c6d7315.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2316/small/WE9QdE9FUD/01c986d1-6dc3-4248-a939-f19c8c6d7315.jpg",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -674,7 +674,7 @@
         "short-biography": "<p><span style=\"\">IT professional with 14 years of experienced and drown with passion on Malware Analysis, Forensics, and Penetration testing who loves to share knowledge to the world.</span></p>",
         "long-biography": "",
         "country": "Philippines",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2378/small/RFFMWklwQz/2686c38f-4af8-479f-93c4-3b1ff4939d3e.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2378/small/RFFMWklwQz/2686c38f-4af8-479f-93c4-3b1ff4939d3e.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -703,7 +703,7 @@
         "short-biography": "<p><span style=\"\">Saad is a professional geek with a passion for coffee, technology, and the OpenSource way of doing things.\u00a0For a living he\u00a0conceptualizes tech solutions\u00a0for Tusitala, the\u00a0digital publishing arm of Potato Productions. Tusitala means \"story-teller\".  Tusitala is on the look out for Asian stories\u00a0that\u00a0adopt the interactivity of the digital medium to go beyond the page, without trying to replace it.\u00a0\"trans-media storytelling\" as the marketese would have it.</span><span style=\"\">Saad also volunteers with several non-profits and strongly believes that social enterprises should be the key users of and contributors to\u00a0OpenSource tech. Saad is a\u00a0self-confessed maker and coffee person.\u00a0</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2234/small/ajA3WEVkNn/f9c39e0a-2edd-4382-8112-90b868125d7d.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2234/small/ajA3WEVkNn/f9c39e0a-2edd-4382-8112-90b868125d7d.jpg",
         "position": "Chief Geek",
         "sponsorship-required": ""
     },
@@ -732,7 +732,7 @@
         "short-biography": "<p><span style=\"\">Floyd DCosta is the co-founder of Blockchain Foundry. A\u00a0</span><span style=\"\">management consultant by background, Floyd helps enterprises harness\u00a0</span><span style=\"\">the potential of Cloud and Blockchain technology for competitive\u00a0</span><span style=\"\">advantage.</span></p>",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2379/small/czE4RGwvYT/a632e1a8-60d2-42b0-a141-e62a1667f83a.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2379/small/czE4RGwvYT/a632e1a8-60d2-42b0-a141-e62a1667f83a.jpg",
         "position": "Co-Founder",
         "sponsorship-required": ""
     },
@@ -761,7 +761,7 @@
         "short-biography": "<p><span style=\"\">Evgeny Potemkin is Principal Software Engineer in MySQL's Optimizer team, where he works since 2005. </span></p>",
         "long-biography": "",
         "country": "Russia",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2235/small/aXNhMC8wT3/178f8156-a7c7-4dae-a12a-ca91a8812ba9.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2235/small/aXNhMC8wT3/178f8156-a7c7-4dae-a12a-ca91a8812ba9.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -790,7 +790,7 @@
         "short-biography": "<p><span style=\"\">Praveen Kumar is a Senior Software Engineer currently working at Red Hat. At Red Hat his focus is to create tools around container ecosystem and Dockerfiles for different services. In his free time he contribute to Fedora project as RPM packager. He has been a speaker at FUDCon, GNUnify, Flock, FOSSAsia, Jenkins User Conference, Docker-Meet and delivered talks on Docker, Ansible, RPM packaging, Git, Jenkins and various other topics.</span><span style=\"\">   - <a href=\"https://fedoraproject.org/wiki/User:Kumarpraveen\" rel=\"nofollow\" target=\"_blank\">https://fedoraproject.org/wiki/User:Kumarpraveen</a></span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2236/small/ZVBUdWg1TV/13bfebfc-2438-4913-b000-671f072979dc.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2236/small/ZVBUdWg1TV/13bfebfc-2438-4913-b000-671f072979dc.jpg",
         "position": "Senior Software Engineer",
         "sponsorship-required": ""
     },
@@ -834,7 +834,7 @@
         "short-biography": "<p></p>",
         "long-biography": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "",
         "sponsorship-required": ""
     },
@@ -863,7 +863,7 @@
         "short-biography": "<p><span style=\"\">Santosh is a developer, maker, open source contributor and a tech enthusiast. He works as a front end web developer at Infosys Ltd and volunteers to Mozilla in his free time as a tech speaker and participation leader. He is also a Advisory committee member for Campus Clubs in Mozilla and got his name listed in about:credits of the Firefox Browser for his contributions to Mozilla.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2317/small/RFVlODdOV1/374cab91-d30a-4160-9a7c-e138f605d17f.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2317/small/RFVlODdOV1/374cab91-d30a-4160-9a7c-e138f605d17f.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -886,7 +886,7 @@
         "short-biography": "<p>Samuel is a software engineer working with OpenStack since 2013 and is a core reviewer on Keystone, the Identity Service. He likes to help newcomers in the community and to give talks for spreading OpenStack and Open Source awareness in Brazil.</p>",
         "long-biography": "",
         "country": "Brazil",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2381/small/VFdyVlA1bD/e4cf2060-15ed-4955-80c9-f8c3f0b38f77.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2381/small/VFdyVlA1bD/e4cf2060-15ed-4955-80c9-f8c3f0b38f77.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -909,7 +909,7 @@
         "short-biography": "<p>We (Wee He-kun and Wang Siyin and facilitators) are a group of students from Dunman High School and we would like to share with you about our experience with programming the BBC micro:bit\u00a0using MicroPython. Come join us!\u00a0</p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2337/small/YmlJV3pyZ3/0a8b3ff8-c2ad-49e3-9282-2d37d648633a.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2337/small/YmlJV3pyZ3/0a8b3ff8-c2ad-49e3-9282-2d37d648633a.jpg",
         "position": "Student",
         "sponsorship-required": ""
     },
@@ -938,7 +938,7 @@
         "short-biography": "<p><span style=\"\">Benet started programming at the age of 10 creating simple quizzes for his primary school in BASIC. From there, his interests in computers and technology has continue to grow; learning about web programming, dabbling in PC assemblies and troubleshooting and in 2007, graduated from Curtin University of Technology with a Bachelor of Technology majoring in Computer Systems and Networking. Since then, he's worked in Japan for 8 years on network and security solutions development for telcos and large enterprises. Currently, he resides in Singapore and still dabbles in programing during his free time but also works for an industry leader in network test and measurement solutions.</span></p>",
         "long-biography": "",
         "country": "Malaysia",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2237/small/dm5wRkxudW/249ce398-faeb-4976-aed6-ccef7b0bd1f0.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2237/small/dm5wRkxudW/249ce398-faeb-4976-aed6-ccef7b0bd1f0.jpg",
         "position": "Solutions Consultant",
         "sponsorship-required": ""
     },
@@ -967,7 +967,7 @@
         "short-biography": "",
         "long-biography": "<p><span style=\"\">Turning his back against his Economics, Honours degree back in 1996 - Lionel decided to try out a week of work at the local Television station in Singapore, and has not looked back since.</span><span style=\"\">Rising quickly from his beginning position as Assistant Producer to a full-fledged producer in a short span of 4 years, he left Singapore for New York University to take up a specialised Film Directing module after receiving partial scholarship from Singapore Film Commission in 2001. Completing and achieving top of his cohort there, he returned to Singapore and started to path his own niche - writing, producing, directing and even editing: over half a dozen short films that won awards and critical acclaim, feature films, web and mobile content and more. His specialisation for storytelling also led him to write - produce and direct half a dozen full-length theatre plays and a musical that\u2019s staged at The Esplanade in Singapore, in collaboration with the late, renowned Iskander Ismail.</span><span style=\"\">During this whole time, Lionel also made significant progress in his career in the television, broadcast industry; executive producing 2 seasons of the highly acclaimed \u2018Culture Shock\u2019 for Channel News Asia, which went on to be distributed and sold to markets internationally. The next series that he executive produced: \u2018Scene City SIngapore\u2019 - featuring acclaimed photographer and host, Tom Ang - went on to not only secure distribution on Sundance Channel, but also winning the Bronze World Award at the 2010 New York Film and TV Festivals.</span><span style=\"\">With that accolade, he joined the pioneering team at Singapore MediaCorp\u2019s Toggle - the National Broadcaster\u2019s first foray into IPTV via the OTT platform, across TV - Web and Mobile! During this 4 years there as Head of Commissioned Content, he commissioned and executive producer over 30 titles across multiple genres - some of which included the highly acclaimed \u201cLetting Go\u201d by Kyanite TV and \u201cWhat do Men Want\u201d by Bananamana Films, which have gone on to win multiple awards internationally.</span><span style=\"\">\ufffc</span><span style=\"\">Despite the somewhat advancing and cosy career path, Lionel decided to trade in his work life to take on a student role yet again, when news of how Oculus was acquired by Facebook back in 2014. Researching deeply about Virtual Reality during that period, Lionel realised this emerging technology could be the game-changer for media and content, and thus - quit his job, packed his bag and uprooted himself and his family to move to London to pursue a Masters degree in Creative Technology; specialising in Augmented and Virtual Reality. There, he produced London\u2019s first ever 360 Virtual Reality Dance staged at Middlesex University and also Singapore Inside out (London) a VR experience (<a href=\"http://www.sgiolondon.com\" rel=\"nofollow\" target=\"_blank\">www.sgiolondon.com</a>) for the the touring exhibition by Singapore Tourism Board. After completing and achieving distinction in his postgraduate studies, he returned to Singapore and immediately became a much sought after consultant and speaker in the fields of Virtual Reality. Some of this appearance, presentation and speaking engagement includes:</span><span style=\"\">\ufffc</span><span style=\"\">1. Instructor in VR for General Assembly Singapore</span><span style=\"\">2. Invited speaker about VR at at Echelon (Regional Tech Conference 2016)</span><span style=\"\">3. Invited speaker to the entire creative department at Y &amp; R Singapore about VR</span><span style=\"\">4. Invited presenter by Red Dot Innovations at National Design Centre</span><span style=\"\">5. Invited presenter by IBM Studios Singapore to introduce VR to their UX/UI team</span><span style=\"\">6. Invited presenter by Six Degrees Asia in Singapore to share about VR for the design and arts communities</span><span style=\"\">7. Invited Lecturer to Ngee Ann Polytechnic Film and Media Studies on VR Production</span><span style=\"\">8. Invited presenter at Content Asia Production Summit 2016 on VR Storytelling</span><span style=\"\">9. Invited presenter at Global Sources Trade conference 2016 alongside the Director of HTC Vive and acclaimed director at DIgital Magic Hong Kong</span><span style=\"\">10. Distinguished Committee member (VR Showcase) at the 2016 SIGGRAPH in Macau</span><span style=\"\">- amongst others upcoming!</span><span style=\"\">In his current position as Creative Technologist for his startup, iMMERSiVELY (<a href=\"http://www.immersively.co\" rel=\"nofollow\" target=\"_blank\">www.immersively.co</a>) with offices in both Singapore and Kuala Lumpur, Malaysia - he is looking forwards to bring this exciting technology to various industries, and across the rest of Asia.</span></p>",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2171/small/K2VoVnpONk/26422663-517a-4313-b1c7-ea5f0f6af4aa.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2171/small/K2VoVnpONk/26422663-517a-4313-b1c7-ea5f0f6af4aa.jpg",
         "position": "Startup founder",
         "sponsorship-required": ""
     },
@@ -996,7 +996,7 @@
         "short-biography": "<p><span style=\"\">I am working as a developer in MySQL Server Development Team and is part of MySQL family since last 6 years. Earlier, I was working as developer in IBM-India Software Lab, in DB2 database development team. I have done Masters in Information Technology and has 10.5 years of development experience in Database Servers. </span><span style=\"\">I have 2 patents on my name and one of them is in database technology. I also have one invention disclosure published. </span><span style=\"\">In research field, I have an ieee research paper in ICIP (International conference of Image Processing), in field of Image processing.</span><span style=\"\">Previous talk experience: </span><span style=\"\">I have presented MySQL Performance Schema on different conferences and platforms. To name few :</span><span style=\"\">FOSSASIA, Singapore (2016, 2015)</span><span style=\"\">Asia\u2019s premier open technology conference</span><span style=\"\">URL: <a href=\"http://fossasia.org/\" rel=\"nofollow\" target=\"_blank\">http://fossasia.org/</a></span><span style=\"\">OSI-Days, Bangalore, India (2015, 2013, 2012)</span><span style=\"\">Open Source India Conference organized by EFY Group.</span><span style=\"\">URL: <a href=\"http://osidays.com/osidays/speaker-lineup/mayank-prasad-2/\" rel=\"nofollow\" target=\"_blank\">http://osidays.com/osidays/speaker-lineup/mayank-prasad-2/</a>.</span><span style=\"\">Oracle Open World, San Franscisco (2015/2014)</span><span style=\"\">The world\u2019s largest international conference for Oracle customers and technologists San Francisco,US</span><span style=\"\">URL: <a href=\"https://www.oracle.com/openworld/index.html\" rel=\"nofollow\" target=\"_blank\">https://www.oracle.com/openworld/index.html</a>.</span><span style=\"\">MySQL User Camp, Bangalore, India (2013)</span><span style=\"\">A MySQL User Group Meet organized by Oracle.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2238/small/TFAwUVRVWV/21119598-6c7c-4551-8837-712e15d6a238.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2238/small/TFAwUVRVWV/21119598-6c7c-4551-8837-712e15d6a238.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -1035,7 +1035,7 @@
         "short-biography": "<p>Michael Christen is a Big Data Engineer working for some of the largest corporate players from Germany. He is the founder of loklak and SUSI AI and, the creator of the Peer-to-Peer Search engine YaCy. He is also architect of large search portals like the German Digital Library. As a Master of Science in Computer Science he studied Artificial Intelligence and uses this knowledge for the creation of the Open Source Personal Assistant <a href=\"http://asksusi.com\" rel=\"nofollow\" target=\"_blank\">asksusi.com</a>. As an IT Professional he does consulting for search technology and digital\u00a0Transformation\u00a0strategies.</p>",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2332/small/Q2ppS0o2Vn/e7f520f5-20b8-4913-9b73-c5d997dffc8d.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2332/small/Q2ppS0o2Vn/e7f520f5-20b8-4913-9b73-c5d997dffc8d.jpg",
         "position": "Consultant",
         "sponsorship-required": ""
     },
@@ -1058,7 +1058,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2220/small/R3h0azFaN1/bdfef9ce-7a5f-40ca-93ee-f84112d9dee0.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2220/small/R3h0azFaN1/bdfef9ce-7a5f-40ca-93ee-f84112d9dee0.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -1087,7 +1087,7 @@
         "short-biography": "<p><span style=\"\">Sree Harsha Ramanavarapu has 8+ years of experience in database internals development. In his current role he is working in Mysql's Sustaining team, focussing on the Optimizer module. Previously, he worked in the development of the databases Sybase IQ and HP's Nonstop SQL/MX. </span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2239/small/dk9JaDRrd0/cf3eca49-72eb-4470-ba1b-85e9ed8d8000.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2239/small/dk9JaDRrd0/cf3eca49-72eb-4470-ba1b-85e9ed8d8000.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -1116,7 +1116,7 @@
         "short-biography": "<p><span style=\"\">Anwesha Das, an Advocate practicing law for 6 years. She blogs for Python Software Foundation.  One of her major goal is to help the FOSS developers with the legal aspect of the software industry</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2178/small/c1lkdzB3L0/a79dec40-25b7-47b0-95f2-7faf5aa69b6c.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2178/small/c1lkdzB3L0/a79dec40-25b7-47b0-95f2-7faf5aa69b6c.jpg",
         "position": "Lawyer",
         "sponsorship-required": ""
     },
@@ -1139,7 +1139,7 @@
         "short-biography": "<p><span style=\"\">Nicole is a computer scientist on sabbatical in Singapore - formerly Stanford, IDEO, Neo (Pivotal Labs), Goldman Sachs. She was the first product manager at Accompany, a S$300M CRM startup in the Bay Area. In her spare times, she learns at dojo.study and teaches at <a href=\"http://nicoleteachesthings.com\" rel=\"nofollow\" target=\"_blank\">nicoleteachesthings.com</a>.</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2347/small/YnBkVktmZ2/bb575350-0902-4144-888a-822bc6ee93fc.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2347/small/YnBkVktmZ2/bb575350-0902-4144-888a-822bc6ee93fc.jpg",
         "position": "Computer scientist",
         "sponsorship-required": ""
     },
@@ -1162,7 +1162,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "",
         "sponsorship-required": ""
     },
@@ -1191,7 +1191,7 @@
         "short-biography": "<p><span style=\"\">Masayuki Igawa is a software engineer for over 15 years on a wide range of software projects, and developing open source software related to Linux kernel and virtualization. He's been an active technical contributor to OpenStack since the Grizzly release. He is a core member of some OpenStack QA projects such as Tempest, subunit2sql, openstack-health and stackviz. He currently works for HPE to make Upstream OpenStack better for everyone. He has previously been a speaker at OpenStack Summits, LinuxCons Japan and the other open source related conference events.</span></p>",
         "long-biography": "",
         "country": "Japan",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2288/small/aExjcDg4SG/ed6fab7d-65a7-4cb5-a177-d11ba0e2f993.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2288/small/aExjcDg4SG/ed6fab7d-65a7-4cb5-a177-d11ba0e2f993.jpg",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -1220,7 +1220,7 @@
         "short-biography": "<p style=\"\">IBM Blockchain Engineer, traveler and researcher</p><span style=\"\"></span><span style=\"\"></span>",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2331/small/YjY0WGtnTn/28ffa252-0fa3-404e-9f19-7886d417c5a9.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2331/small/YjY0WGtnTn/28ffa252-0fa3-404e-9f19-7886d417c5a9.jpg",
         "position": "Blockchain Garage at IBM",
         "sponsorship-required": ""
     },
@@ -1249,7 +1249,7 @@
         "short-biography": "<p><span style=\"\">Cendekia Pramana Putra is a digital developer at <a href=\"http://online.sequis.co.id\" rel=\"nofollow\" target=\"_blank\">online.sequis.co.id</a> (life insurance company), a freelancer in the weekend and mobile app dev in free time using Js. Previously, Cendekia worked as a web developer for several digital agencies in Jakarta. He wrote some tutorials about how to build a web and mobile application on his blog, <a href=\"http://blog.cendekiapp.com\" rel=\"nofollow\" target=\"_blank\">http://blog.cendekiapp.com</a></span></p>",
         "long-biography": "",
         "country": "Indonesia",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2175/small/MlY2bDdPZl/bd33f8e7-5528-4bf8-8d6b-91c4644e57ce.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2175/small/MlY2bDdPZl/bd33f8e7-5528-4bf8-8d6b-91c4644e57ce.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -1283,7 +1283,7 @@
         "short-biography": "<p><span style=\"\">I am Sudheesh Singanamalla, currently working at Microsoft Research with a previous work experience at Microsoft India Development Centre and Redhat India Pvt. Ltd..., I've previously been a Google summer of Code student in 2015, 2016 with FOSSASIA working on the loklak project and am a part of it's core development team responsible for the API SDKs, Webclient and IOT enhancements to the server.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2242/small/c3lWM2JKRW/74d08c14-081e-42be-b4fd-b4e607630f1e.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2242/small/c3lWM2JKRW/74d08c14-081e-42be-b4fd-b4e607630f1e.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -1312,7 +1312,7 @@
         "short-biography": "<p><span style=\"\">Finished with a master in Microelectronic Systems in Germany three years ago. In my Master thesis I developed a visual Odmetry System on my own for a drone company called Aibotix. Then I worked two years for Echoes as an Android developer. The last three months i spent on getting a better understanding of Computer Vision and especially self localization of drones via a camera.</span></p>",
         "long-biography": "<p></p>",
         "country": "Vietnam",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2176/small/aHdsVG9pV2/409300fc-476a-4981-b0d9-9630908faaed.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2176/small/aHdsVG9pV2/409300fc-476a-4981-b0d9-9630908faaed.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -1341,7 +1341,7 @@
         "short-biography": "<p><span style=\"\">Kushal Das is a Fedora Contributor for over ten years. He is currently working as Fedora Cloud Engineer at Red Hat. He is a core developer of CPython, and also a director at Python Software Foundation.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2177/small/ZTY1ckZqdD/ff0f780d-f60b-469b-b453-783ecea513b7.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2177/small/ZTY1ckZqdD/ff0f780d-f60b-469b-b453-783ecea513b7.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -1364,7 +1364,7 @@
         "short-biography": "<p><span style=\"\">I am a Software Engineer who is passionate about modern trends of application development. JavaScript has been my partner in crime for the last few years. I\u2019m in love with AWS and Serverless paradigm.\u00a0</span><span style=\"\">Apart from development, I am a huge fan of Football (yeah, soccer)</span></p>",
         "long-biography": "",
         "country": "Sri Lanka",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2348/small/WFpENkM0YU/d76109f6-ba9d-4393-a171-131c19966de6.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2348/small/WFpENkM0YU/d76109f6-ba9d-4393-a171-131c19966de6.jpg",
         "position": "Senior Software Engineer",
         "sponsorship-required": ""
     },
@@ -1393,7 +1393,7 @@
         "short-biography": "<p><span style=\"\">President, Board of Directors, Software Liberty Association Taiwan (SLAT);</span><span style=\"\">Member, KDE e.V.</span><span style=\"\">Member, the Document Foundation</span><span style=\"\">LibreOffice Certified Migration Professional</span></p>",
         "long-biography": "",
         "country": "Taiwan",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2181/small/OUxCRlAwN3/e7a7352c-bab4-4709-ac1f-603399e5a568.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2181/small/OUxCRlAwN3/e7a7352c-bab4-4709-ac1f-603399e5a568.jpg",
         "position": "Freelancer",
         "sponsorship-required": ""
     },
@@ -1422,7 +1422,7 @@
         "short-biography": "<p><span style=\"\">Dr. Virgil Griffith is a postdoctoral researcher at <a href=\"http://smart.mit.edu\" rel=\"nofollow\" target=\"_blank\">smart.mit.edu</a>.  He works on the Legalese OSS project creating a domain-specific programming language for both smart-contracts as dumb-contracts.  Virgil is an independent contractor for the Ethereum Foundation.  The New York Times has called him the \"Internet Man of Mystery\".  His Erd\u0151s\u2013Bacon number is 6.</span></p>",
         "long-biography": "",
         "country": "USA",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2319/small/Y0oxUE0yUl/0dd850be-16ee-430d-ad63-464b07656ca8.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2319/small/Y0oxUE0yUl/0dd850be-16ee-430d-ad63-464b07656ca8.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -1451,7 +1451,7 @@
         "short-biography": "<p><span style=\"\">Herr Flupke explains machines to humans and humans to machines. His work deals with security and privacy, society and ethics.</span></p>",
         "long-biography": "",
         "country": "Germany",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2180/small/U1JjQWV5cU/1151b88a-7c20-4c9c-843d-e156f5493145.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2180/small/U1JjQWV5cU/1151b88a-7c20-4c9c-843d-e156f5493145.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -1480,7 +1480,7 @@
         "short-biography": "<p><span style=\"\">Strong background in Free/Open Source Software with more than 11 years experience in Linux server environment. In the past 8 years he has been involved in information management aspect of various natural disaster setting in Indonesia. Currently work as Project Manager in the mission to promote the use of OpenStreetMap, QGIS and InaSAFE in humanitarian response and economic development throughout Indonesia</span></p>",
         "long-biography": "",
         "country": "Indonesia",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2321/small/MzVHOTRYOH/49ca809a-acbc-446c-b3db-85e91b47989d.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2321/small/MzVHOTRYOH/49ca809a-acbc-446c-b3db-85e91b47989d.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -1509,7 +1509,7 @@
         "short-biography": "<p><span style=\"\">I am a computer science graduate, currently working as software developer in Zomato. I am a keen learner and opportunity seeker. I have been contributing in open source organisation since 2014 as a student developer in KDE community. I have worked on Kalzium under Season of KDE programme and on LabPlot under google summer of code.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2326/small/TlZJQ3Y5SH/ce652285-3e17-4306-84cc-626c9f742021.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2326/small/TlZJQ3Y5SH/ce652285-3e17-4306-84cc-626c9f742021.jpg",
         "position": "Software Developer",
         "sponsorship-required": ""
     },
@@ -1538,7 +1538,7 @@
         "short-biography": "<p><span style=\"\">I am working for developer relationship at Mozilla Japan. I love programming languages itself. </span></p>",
         "long-biography": "",
         "country": "Japan",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2322/small/RGkvR2l0Mn/4370aad4-22e7-492c-8e11-f54a174ad8f1.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2322/small/RGkvR2l0Mn/4370aad4-22e7-492c-8e11-f54a174ad8f1.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -1567,7 +1567,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2243/small/Y21SQ3g0dF/af3b3259-f0c8-4f26-ac50-08ab11205adf.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2243/small/Y21SQ3g0dF/af3b3259-f0c8-4f26-ac50-08ab11205adf.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -1596,7 +1596,7 @@
         "short-biography": "<p><span style=\"\">I am a Software Engineer who is passionate about pushing the limits of cloud. Last year my main focus was on serverless computing as it is a turning point in the cloud computing. I enjoy experimenting latest tech around cloud and currently heavily experimenting with the Serverless Framework. In the free time I enjoy contributing to open source projects. I was also a mentor for Google Summer Of Code 2016. Apart from working with technology, I love to speak about my experiences and thoughts on the technologies I worked with.</span></p>",
         "long-biography": "",
         "country": "Sri Lanka",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2349/small/RXRUYWRRTl/abc78edc-312e-487b-a685-5672c8faad10.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2349/small/RXRUYWRRTl/abc78edc-312e-487b-a685-5672c8faad10.jpg",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -1625,7 +1625,7 @@
         "short-biography": "",
         "long-biography": "<p><span style=\"\">Wulf has been toying with computers since the early 1980s, a time when every self-respecting teenager would at least know some BASIC programming. He grew up to become an experimental physicist and worked for a number of years in academic research. A firm believer in Humboldt's ideal of the unity of teaching and research, he is currently promoting science and technology literacy by teaching students through hands-on experimentation and research at Science Centre Singapore.</span></p>",
         "country": "Singapore",
-        "small": null,
+        "small-image-url": null,
         "position": "Scientist/Educator",
         "sponsorship-required": ""
     },
@@ -1654,7 +1654,7 @@
         "short-biography": "<p><span style=\"\">Diky Arga is a Mozilla Tech Speaker, formerly Firefox Student Ambassador. He also lead an open source community at his campus, called Dinus Open Source Community / <a href=\"http://Doscom.org\" rel=\"nofollow\" target=\"_blank\">Doscom.org</a> , Doscom was remastered an OS to help porgrammer, this OS named <a href=\"http://TeaLinuxOS.org\" rel=\"nofollow\" target=\"_blank\">TeaLinuxOS.org</a> . Those both community is non-profit, for make money, He work as part-time Front-en Web Programmer at <a href=\"http://MailTarget.co\" rel=\"nofollow\" target=\"_blank\">MailTarget.co</a> . Last his presentation is at MozFest in London. When He tried combine his two hobbies : Coding + Cycling = <a href=\"http://gph.is/2jDjPhY\" rel=\"nofollow\" target=\"_blank\">http://gph.is/2jDjPhY</a> :D</span></p>",
         "long-biography": "",
         "country": "Indonesia",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2323/small/Uk1XbUtIWU/a2f41a92-ccd8-43f3-a85f-0119a3f158bf.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2323/small/Uk1XbUtIWU/a2f41a92-ccd8-43f3-a85f-0119a3f158bf.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -1683,7 +1683,7 @@
         "short-biography": "",
         "long-biography": "<p><span style=\"\">Lyle graduated from the California Polytechnic State University in San Luis Obispo (otherwise known as Cal Poly) in 2005 with a degree in Computer Engineering. Upon graduation he spent two years serving in Peace Corps, Benin helping local non-profits and other volunteers with technical projects.</span><span style=\"\">Since 2009, Lyle has been managing the technical operations of Asian Hope, a Christian non-profit working in Cambodia. As the MIS Director he works with the leadership team in setting strategy, monitoring and evaluation of programs and oversees internal software development and IT operations.</span><span style=\"\">Lyle lives with his family in Phnom Penh. He enjoys learning languages, playing with his children and eating delicious things at one of the city's many excellent restaurants.</span></p>",
         "country": "Cambodia",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2184/small/MUt2RCtRUU/06e8769e-2bb8-402e-8420-b369a1752567.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2184/small/MUt2RCtRUU/06e8769e-2bb8-402e-8420-b369a1752567.jpg",
         "position": "IT Director",
         "sponsorship-required": ""
     },
@@ -1717,7 +1717,7 @@
         "short-biography": "Certified Android Engineer, Open Source contributor, Passionate about UX Design, Product Design Enthusiast and Technology Evangelist.",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2162/small/OFlZZjRPY0/b386304a-24c3-421e-9fa1-1bca4ec223f1.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2162/small/OFlZZjRPY0/b386304a-24c3-421e-9fa1-1bca4ec223f1.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -1740,7 +1740,7 @@
         "short-biography": "<p><span style=\"\">Gabriel loves electronics. His passion for electronics and his belief to educate electronics to young children has driven him to be actively involved in the Maker Movement.He believes kids should be taught how to be inventors rather than mere users of technology.Kids are the future leaders of\u00a0</span><span style=\"\"><span style=\"\">tomorrow</span></span><span style=\"\">.</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2367/small/Ukp0aVpIeU/5cbeb442-1ddc-4e2b-aa49-c22411500616.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2367/small/Ukp0aVpIeU/5cbeb442-1ddc-4e2b-aa49-c22411500616.jpg",
         "position": "CEO",
         "sponsorship-required": ""
     },
@@ -1769,7 +1769,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "Singapore",
-        "small": "",
+        "small-image-url": "",
         "position": "Coordinator",
         "sponsorship-required": ""
     },
@@ -1792,7 +1792,7 @@
         "short-biography": "<p><span style=\"\">Contributor at PublicLab, Open Source enthusiast and Ruby Geek</span></p>",
         "long-biography": "I am a undergraduate Engineering student who loves working on Ruby language and developing web applications. I am a GSoC 2016 student at Public Lab and Google Code-in 2016 Mentor with FOSSASIA",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2191/small/L1VoOURPK2/7e484f74-09d4-491a-b95f-26749a0cb3ed.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2191/small/L1VoOURPK2/7e484f74-09d4-491a-b95f-26749a0cb3ed.jpg",
         "position": "Student",
         "sponsorship-required": ""
     },
@@ -1821,7 +1821,7 @@
         "short-biography": "<p><span style=\"\">Freelance frontend engineer with startups in Singapore. Lately spending most of my effort experimenting with frontend asset bundling using HTTP/2 Server Push.</span></p>",
         "long-biography": "",
         "country": "Belgium",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2324/small/bTRUMCthT3/cd03d554-9245-42cb-bb86-5d42b853960d.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2324/small/bTRUMCthT3/cd03d554-9245-42cb-bb86-5d42b853960d.jpg",
         "position": "Engineer",
         "sponsorship-required": ""
     },
@@ -1850,7 +1850,7 @@
         "short-biography": "<p><span style=\"\">Currently, I am working with MySQL Database team since 2012 as Senior Principle Member Technical Staff, employed by Oracle, based in Bangalore, India. I have background in the database industry around 14+ years (worked for the database products like Datablitz(Lucent), ANTs, ACS, Sybase, IBM DB2. I have Master degree in Information Technology from Indian Institute of technology, Bombay.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2193/small/K09ZdEM4a2/e54335f2-895f-442d-9313-aa1ee1b97412.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2193/small/K09ZdEM4a2/e54335f2-895f-442d-9313-aa1ee1b97412.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -1889,7 +1889,7 @@
         "short-biography": "Michael Meskes is President and CEO of the credativ Group, an industry leader in free software services with offices in five countries. Its Open Source Support Centers employ leading members of a number of Open-Source projects. He has been Open-Source developer for twenty years working on different Open-Source projects among which Debian and PostgreSQL are most widely known. He also has done a lot of Open-Source related presentations on all sorts of events doing a lot of Open-Source evangelism.",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2280/small/cldhSWpSaH/5b9b2eb5-32fc-4cb9-ae66-1f572b866fad.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2280/small/cldhSWpSaH/5b9b2eb5-32fc-4cb9-ae66-1f572b866fad.jpg",
         "position": "CEO",
         "sponsorship-required": ""
     },
@@ -1918,7 +1918,7 @@
         "short-biography": "<p><span style=\"\">I'm a recent graduate from NSIT, Delhi with a bachelor's degree in Information Technology. A big time open-source enthusiast, I participated in GSoC 2016 under CLTK where I worked on developing the CLTK web app. I've also contributed to other open-source projects like FOSSASIA Open Event, <a href=\"http://Processing.org\" rel=\"nofollow\" target=\"_blank\">Processing.org</a> Android, phpBB. In my free time, I love to develop small utility apps for Android.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2246/small/T0xqRUhQYX/0ada0d15-8626-464e-81cd-4568aba5f557.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2246/small/T0xqRUhQYX/0ada0d15-8626-464e-81cd-4568aba5f557.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -1952,7 +1952,7 @@
         "short-biography": "<p><span style=\"\">I am a Software Engineer in the Virtualization group at Red Hat.</span></p>",
         "long-biography": "",
         "country": "USA",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2247/small/NG1SY2RCTW/af35a0a8-f716-4f86-b444-907fcca69ef9.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2247/small/NG1SY2RCTW/af35a0a8-f716-4f86-b444-907fcca69ef9.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -1981,7 +1981,7 @@
         "short-biography": "<p><span style=\"\">Spencer Yang is the CEO of KeyReply\u2013 an AI chatbot-as-a-service for media, software, e-commerce companies and government agencies. The company's product helps drive AI solutions adoption with government of Singapore, Ninjavan, and other companies. A failed acquisition deal in 2015 forced the team to push the envelope and participated in 3 top accelerators in the USA \u2013 AngelPad (NYC), Plug and Play (SV) and Blue Startups (HI). Before starting the company with his co-founders, Spencer headed the Optimizations team at Twitter APAC and graduated with a double degree from Singapore Management University. In his free time, he enjoys games of volleyball, basketball and poker.</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2325/small/OGx0WloyRH/cdca3a85-95c5-4aa8-873b-913de4aade42.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2325/small/OGx0WloyRH/cdca3a85-95c5-4aa8-873b-913de4aade42.jpg",
         "position": "CEO",
         "sponsorship-required": ""
     },
@@ -2010,7 +2010,7 @@
         "short-biography": "<p><span style=\"\">Estu Fardani is currently working as DevOps in Indonesian local startup, have 3 (three) years experience in system support as system administrator, 6 (six) years experience as GNU/Linux technical support, helpdesk and trainer. He has extensive experience in all aspects of managing event for local, national and international. Last year He success manage <a href=\"http://GNOME.Asia\" rel=\"nofollow\" target=\"_blank\">GNOME.Asia</a> Summit 2015 at Universitas Indonesia, Depok, West Java. Indonesia. This year will manage similar event, <a href=\"http://openSUSE.Asia\" rel=\"nofollow\" target=\"_blank\">openSUSE.Asia</a> Summit 2016 at UIN Sunan Kalijaga, Yogyakarta.</span></p>",
         "long-biography": "",
         "country": "Indonesia",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2170/small/RDdSQ0djUF/0f4e7753-6f54-402d-af98-fc31dfccbf07.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2170/small/RDdSQ0djUF/0f4e7753-6f54-402d-af98-fc31dfccbf07.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -2039,7 +2039,7 @@
         "short-biography": "<p><span style=\"\">Christina Leigh Geros is an architect, landscape architect, and urban designer currently conducting and designing research about the intricate relationships between urbanism, ecology, and politics. Based in Jakarta, she is the Design Director of Anexact Office for Design Research and the Design Research Strategist with the MIT Urban Risk Lab\u2019s <a href=\"http://PetaBencana.id\" rel=\"nofollow\" target=\"_blank\">PetaBencana.id</a> field team in Indonesia. She is also a co-founder and co-investigator in the multidisciplinary collaborative SHO\u2014a design practice working across a variety of scales, materials, technologies, processes, and mediums. Focusing on urban and ecological issues in Indonesia, Christina\u2019s work as a Fulbright National Geographic Digital Storytelling Fellow has used written, photographic, and videographic methodologies to communicate complex urban issues to a global public audience. Having been awarded several other competitive research fellowships and design competitions, including the Penny White Prize at Harvard University's Graduate School of Design, the Rajawali Research Grant from Harvard University's Kennedy School Indonesia Program, and Harvard University's Radcliffe Institute Public Art Competition, Christina\u2019s work aims to merge design and research practices through multi-media publication, exhibitions, and spacial installations. Christina holds a Bachelors of Architecture from the University of Tennessee and two graduate degrees from Harvard University\u2019s Graduate School of Design: a Masters of Architecture and Urban Design and a Masters of Landscape Architecture. As a research and design contributor, her work has been featured in several publications, including WIRED: Japan and Harvard GSD Platform [6,7, &amp;8]. She has also taught architecture and urban design studios at the University of Tennessee College of Architecture + Design and Harvard University's Graduate School of Design Career Discovery Program. </span></p>",
         "long-biography": "",
         "country": "Indonesia",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2248/small/dWJ3MmRSSS/f7373c36-5e7b-4261-bc58-23e010679f54.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2248/small/dWJ3MmRSSS/f7373c36-5e7b-4261-bc58-23e010679f54.jpg",
         "position": "Architect",
         "sponsorship-required": ""
     },
@@ -2068,7 +2068,7 @@
         "short-biography": "<p><span style=\"\">Google summer of Code student under mifos initiative and Google Code in Mentor, Open Source Enthusiast </span></p>",
         "long-biography": "<p></p>",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2250/small/UXc4RnM5UD/aa927e63-6e39-4169-b0e6-9e1f13b35707.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2250/small/UXc4RnM5UD/aa927e63-6e39-4169-b0e6-9e1f13b35707.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -2107,7 +2107,7 @@
         "short-biography": "<p><span style=\"\">Alessandro joins open-source projects combining biology skills with hardware-software programming. He integrates bio-protocols on flexibility-drawn microfluidics devices.</span></p>",
         "long-biography": "",
         "country": "Germany",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2327/small/N3JoZEdiNm/e7c5f800-349b-4d9b-b93f-f77935107892.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2327/small/N3JoZEdiNm/e7c5f800-349b-4d9b-b93f-f77935107892.jpg",
         "position": "Freelancer",
         "sponsorship-required": ""
     },
@@ -2136,7 +2136,7 @@
         "short-biography": "<p><span style=\"\">I am a research fellow at the Translational Molecular Imaging Lab within Stanford\u2019s Canary Center for Cancer Early Detection, and I am working on developing machine learning algorithms to detect pancreatic and breast cancer molecular imaging markers. I am also an avid open source contributor to <a href=\"http://CancerBase.org\" rel=\"nofollow\" target=\"_blank\">CancerBase.org</a>. When I\u2019m not working at the lab, I am a 15 year old high school junior at Stanford University Online High School.</span></p>",
         "long-biography": "",
         "country": "United States",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2249/small/bGZ6S0pCZX/e9afa105-d4ad-4974-99ff-31e46a690937.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2249/small/bGZ6S0pCZX/e9afa105-d4ad-4974-99ff-31e46a690937.jpg",
         "position": "Researcher",
         "sponsorship-required": ""
     },
@@ -2165,7 +2165,7 @@
         "short-biography": "<p><span style=\"\">I am a computer programmer and an undergrad student from New Delhi, India. I currently work as a software developer for a startup in London. I mainly write open source code in Python, JavaScript and C languages. Besides programming, I enjoy reading history books and classic literature. Professionally, I am interested in using Math, Design and Computing as tools to solve complex problems.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2251/small/NEVzOEpNQT/a0921155-3115-4585-b970-39a4fa3a6e18.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2251/small/NEVzOEpNQT/a0921155-3115-4585-b970-39a4fa3a6e18.jpg",
         "position": "computer programmer",
         "sponsorship-required": ""
     },
@@ -2194,7 +2194,7 @@
         "short-biography": "<p><span style=\"\">I am an OWASP Chapter Leader and Mozilla Representative. I do my task with a passion in speaking, making and teaching. I am enthusiastic infosec researcher who loves the open web and new technologies around it. I believe in the mission to ensure the Internet is a global public resource, open and accessible to all. I have spoken at many conferences and seminars at home and abroad.</span></p>",
         "long-biography": "",
         "country": "Bangladesh",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2318/small/R1V2WVB4NU/49aced80-8440-432c-8901-361760d9cd3f.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2318/small/R1V2WVB4NU/49aced80-8440-432c-8901-361760d9cd3f.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -2223,7 +2223,7 @@
         "short-biography": "<p><span style=\"\">Raj Rohit works as a senior data scientist at Zomato. He has authored a book on doing data science in Julia lang, and is a committer in more than 20 data science libraries of Julia and Go.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2252/small/SmJNcVpSV0/e085a92b-b2cf-4ac4-8d10-0580f62df3fe.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2252/small/SmJNcVpSV0/e085a92b-b2cf-4ac4-8d10-0580f62df3fe.jpg",
         "position": "senior data scientist",
         "sponsorship-required": ""
     },
@@ -2252,7 +2252,7 @@
         "short-biography": "<p><span style=\"\">After working for 2 years in electronic as QE, I developed interest in Software Industry and Open Source, so I started with Python and software stuffs 7 months back, and now I am an intern at RedHat. I am also part of PyLadies-Pune group which organize monthly meetup.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2253/small/Ly9tU1A2OF/53632a47-67df-4d6f-b9b4-c6aed320508e.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2253/small/Ly9tU1A2OF/53632a47-67df-4d6f-b9b4-c6aed320508e.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -2281,7 +2281,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2350/small/WjRoZGdTMk/0db2365d-ad38-427d-93d9-488bd3479768.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2350/small/WjRoZGdTMk/0db2365d-ad38-427d-93d9-488bd3479768.jpg",
         "position": "Designer and Research Coordinator",
         "sponsorship-required": ""
     },
@@ -2304,7 +2304,7 @@
         "short-biography": "<p><span style=\"\">Josh Lim is a community manager by profession, having worked with two startups. He is also a longtime Wikipedia editor, having edited since April 2005, and also served as President of Wikimedia Philippines, the Philippine local chapter of the Wikimedia Foundation.</span><span style=\"\">Since 2011, he has taken interest in analyzing social relations on the Wikimedia projects (and, since then, with online communities and Internet research in general), and hopes that he can contribute something meaningful to the discipline somehow.</span></p>",
         "long-biography": "",
         "country": "Philippines",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2254/small/d0JxdkIvQ1/4dd1bf77-f53e-4274-b990-19963628363e.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2254/small/d0JxdkIvQ1/4dd1bf77-f53e-4274-b990-19963628363e.jpg",
         "position": "President",
         "sponsorship-required": ""
     },
@@ -2333,7 +2333,7 @@
         "short-biography": "<p><span style=\"\">Jens Petersen has been involved in the Haskell community since 1998. He maintains many Haskell packages for Fedora and EPEL, and no longer writes Bash shell scripts! He works for Red Hat as a software engineering manager.</span></p>",
         "long-biography": "",
         "country": "Japan",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2255/small/RUVtZ3I0Vj/b3738de0-3da6-407b-abaa-cc3753553009.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2255/small/RUVtZ3I0Vj/b3738de0-3da6-407b-abaa-cc3753553009.jpg",
         "position": "Software Engineering Manager",
         "sponsorship-required": ""
     },
@@ -2362,7 +2362,7 @@
         "short-biography": "Mercurial Contributor.",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2256/small/b1Y5K1h2VG/c33a7e26-c48d-4eef-8343-ebbc24646900.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2256/small/b1Y5K1h2VG/c33a7e26-c48d-4eef-8343-ebbc24646900.jpg",
         "position": "Student",
         "sponsorship-required": ""
     },
@@ -2391,7 +2391,7 @@
         "short-biography": "<p><span style=\"\">Writing automation scripts and contributing to open source projects is what interests Shubham. He spends most of the time hacking on exceptional ideas which aims to reduce manual efforts. Being a Tech entrepreneur, he believes maximal societal improvement can be achieved through technical awareness. He works at Amazon as a Software development engineer and open source contributor at Berkman Klein Center, Harvard university. </span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2257/small/bGlGaDdtV2/40db7393-4bf6-41ad-8a8b-d7054b9839da.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2257/small/bGlGaDdtV2/40db7393-4bf6-41ad-8a8b-d7054b9839da.jpg",
         "position": "Software development engineer",
         "sponsorship-required": ""
     },
@@ -2420,7 +2420,7 @@
         "short-biography": "<p><span style=\"\">MySQL Server sustaining team engineer. Employed with ORACLE for the past four years. Main job role is to fix bugs in replication module. </span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2194/small/aGJBS24vWV/cf326e6d-f767-4a01-8afa-6c9287f217f1.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2194/small/aGJBS24vWV/cf326e6d-f767-4a01-8afa-6c9287f217f1.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -2464,7 +2464,7 @@
         "short-biography": "<span><span style=\"\">Mario is a German born technologist with 15 years of experience in software development and the co-founder of SUSI AI, the upcoming Open Source Personal Assistant. Mario helped to get the lubuntu community started. For years he run an IT development company in Vietnam, and setup mesh networks in Afghan schools. He also build a hotel and he likes learning languages.</span></span>",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2330/small/ZGgxOHNnSk/fcdf9385-99fc-4efc-90e2-e63959e5a228.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2330/small/ZGgxOHNnSk/fcdf9385-99fc-4efc-90e2-e63959e5a228.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -2493,7 +2493,7 @@
         "short-biography": "<p><span style=\"\">Steven Shiau is a researcher at the NCHC (National Center for High-performance Computing), Taiwan. While there he wrote parallel and distributed program to simulate plasma. This program formed the basic idea for the future development of the free software DRBL (Diskless Remote Boot in Linux), a rapid deployment software for distributed PC cluster and education environment. With Kuo-Lien Huang, Ceasar Sun, Jazz Wang and Thomas Tsai, he developed another free software \"Clonezilla\", a cloning and imaging tool. He is the project leader of the file system imaging tool \u201cPartclone\u201d, and the maintainer of GParted live. The project DRBL won first place in 'Public Sector Applications' category at the Free Software Contest in France in 2007. He is the deputy division leader of software development technology division at NCHC now, and spends most of his time in the development of DRBL, Clonezilla and promoting the use of free software and high-performance computing.</span></p>",
         "long-biography": "<p></p>",
         "country": "Taiwan",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2202/small/QmZjZUx2NH/a604084c-60db-4360-b018-0ef46b661929.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2202/small/QmZjZUx2NH/a604084c-60db-4360-b018-0ef46b661929.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -2522,7 +2522,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2161/small/OVE4cGMxUl/e86f68fd-57db-4e77-a7bf-061a4878ea22.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2161/small/OVE4cGMxUl/e86f68fd-57db-4e77-a7bf-061a4878ea22.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -2551,7 +2551,7 @@
         "short-biography": "<p><span style=\"\">Current working as cybersecurity software engineer in a  **Custodio Pte Ltd doing R&amp;D.</span><span style=\"\">Education:</span><span style=\"\">-Master in Technology , NUS , current on going </span><span style=\"\">-Bachelor of Computer Science (Digital Systems Security), UOW </span><span style=\"\">-Diploma in information technology , singapore poly </span><span style=\"\">Career: </span><span style=\"\">Cybersecurity software engineer, Custodio , Aug 2015 - current</span><span style=\"\">Freelance software developer ,feb 2015 - Aug 2015 </span><span style=\"\">information systems technician, sept 2012 - feb 2015 </span><span style=\"\">**</span><span style=\"\">Custodio Pte Ltd. was established in 2014 as a Singaporean R&amp;D Centre of Israel Aerospace Industries (IAI) Ltd., in order to spearhead R&amp;D activities in the field of cyber early warning as well as lead IAI\u2019s offering in the field of cybercrime prevention, forensics and investigation for Law Enforcement agencies.</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "",
+        "small-image-url": "",
         "position": "cybersecurity software engineer",
         "sponsorship-required": ""
     },
@@ -2580,7 +2580,7 @@
         "short-biography": "<p><span style=\"\">June Zhang, worked in Red Hat as interaction designer for 7years. focused on the interaction design, front-end development, and usability testing.</span></p>",
         "long-biography": "",
         "country": "China",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2226/small/dlA4cVMyVV/54413652-3b80-4ee1-847f-4ffe144d3f40.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2226/small/dlA4cVMyVV/54413652-3b80-4ee1-847f-4ffe144d3f40.jpg",
         "position": "Designer",
         "sponsorship-required": ""
     },
@@ -2609,7 +2609,7 @@
         "short-biography": "<p><span style=\"\">Alexander is a software engineer and PMC of Apache Zeppelin</span></p>",
         "long-biography": "",
         "country": "South Korea",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2304/small/aE9kQUJhc1/b01f1125-7305-4dc4-9408-452139ed9871.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2304/small/aE9kQUJhc1/b01f1125-7305-4dc4-9408-452139ed9871.jpg",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -2638,7 +2638,7 @@
         "short-biography": "<p><span style=\"\">Ecaterina Moraru is a core committer, designing and developing for the open source <a href=\"http://XWiki.org\" rel=\"nofollow\" target=\"_blank\">XWiki.org</a> project since 2008. From the beginning of 2015 she has also been involved with the Open Source Design community (<a href=\"http://opensourcedesign.net\" rel=\"nofollow\" target=\"_blank\">opensourcedesign.net</a>) trying to spread out the benefits of integrating design processes inside open source roadmaps. </span></p>",
         "long-biography": "",
         "country": "Romania",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2188/small/czl6cXIxNz/0c7542f7-0906-45ec-944d-88126eecee6a.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2188/small/czl6cXIxNz/0c7542f7-0906-45ec-944d-88126eecee6a.jpg",
         "position": "Designer",
         "sponsorship-required": ""
     },
@@ -2667,7 +2667,7 @@
         "short-biography": "<p><span style=\"\">Quang has worked with IT for more than 10 years with different positions, he still loves writing code. 2y ago, he felt in love with meditation and IoT; of course he brought them to his programming.</span><span style=\"\">Currently, he works as an Agile Coach for DEK Technologies, a Software and Hardware Development Company. He helps to build up Agile and Lean culture in the company. People call him an Agile Coach, he calls him an Impediment :)</span><span style=\"\">Additionally, he also contributes for Agile Vietnam community by organizing as well as giving speaks in many conferences and events.</span></p>",
         "long-biography": "",
         "country": "Vietnam",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2260/small/OEs3RmlrVV/a528fe9b-38a5-466b-b174-d31c2b411c40.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2260/small/OEs3RmlrVV/a528fe9b-38a5-466b-b174-d31c2b411c40.jpg",
         "position": "Agile Coach",
         "sponsorship-required": ""
     },
@@ -2696,7 +2696,7 @@
         "short-biography": "<p><span style=\"\">Andy Li is a member of the Haxe Foundation. He obtained a Ph.D. in the School of Creative Media, City University of Hong Kong. He is interested in programming language theories as well as mobile user interface, interactivity, installation art and generative graphics.</span></p>",
         "long-biography": "",
         "country": "Hong Kong",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2261/small/bVV4RXVtTD/b6a31351-028f-426e-9e6c-de6e47ae6885.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2261/small/bVV4RXVtTD/b6a31351-028f-426e-9e6c-de6e47ae6885.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -2730,7 +2730,7 @@
         "short-biography": "<p><span style=\"\">Ricky Setyawan has been in the IT industry for 18 years with the good last 16 years working as RDBMS specialist. He is currently MySQL Principal Sales Consultant for Singapore, Malaysia, Indonesia, Brunei and Pakistan. Prior to joining Oracle, he was a Principal DBA doing database design and management on Oracle and DB2 on RedHat Linux on continuous availability server. He has been working on a number of </span><span style=\"\">RDBMS throughout his career such as Oracle, DB2, SQL Server, and MySQL.</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2291/small/NlZhNkdGaz/78bf049e-0348-4cd7-810d-3f9354c0ca1b.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2291/small/NlZhNkdGaz/78bf049e-0348-4cd7-810d-3f9354c0ca1b.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -2753,7 +2753,7 @@
         "short-biography": "<p><span style=\"\">Parmeshwr Prasad is associated with Dell server Division from past 4 years. He is having varied experience in embedded system, servers, cloud and Open Source. He has been an active Linux kernel developer for more than 8 years. Keen passion for continuous learning, innovation and adoption of new ideas from lateral technology domains. Patents across diverse areas covering UEFI, ESRT and PCIe.</span><span style=\"\">He was the speaker for many open source events.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "",
+        "small-image-url": "",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -2782,7 +2782,7 @@
         "short-biography": "<p><span style=\"\">Sven Dowideit is a principal software engineer at Rancher Labs, where he works on RancherOS, a thin Linux distribution that delivers the entire operating system as containers. Prior to joining Rancher Labs, Sven held engineering positions at Unisys and Docker, where he developed the Boot2Docker Linux distribution.</span></p>",
         "long-biography": "",
         "country": "Australia",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2263/small/ajZjZVhEQX/1478cf8f-c795-4c32-ad0f-cdd5dd0f59a3.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2263/small/ajZjZVhEQX/1478cf8f-c795-4c32-ad0f-cdd5dd0f59a3.jpg",
         "position": "software engineer",
         "sponsorship-required": ""
     },
@@ -2811,7 +2811,7 @@
         "short-biography": "<p>Vlado Koljibabic\u00a0currently leads IT for the new CASE business and is COO of the Digital and IT organization that delivers new digital services for Mercedes-Benz Cars/Marketing &amp; Sales. He was Executive Assistant to Vice President Digital &amp; IT Mercedes-Benz Cars/Marketing &amp; Sales and led various strategic initiatives and agile projects in the IT environment at Daimler Financial Services (i.a. IT responsibility for Daimler Financial Services Fleet Management).</p>",
         "long-biography": "",
         "country": "Germany",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2361/small/azhSNjJBSj/94453d47-0666-4b3c-96c0-c88d55d35f2e.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2361/small/azhSNjJBSj/94453d47-0666-4b3c-96c0-c88d55d35f2e.jpg",
         "position": "COO",
         "sponsorship-required": ""
     },
@@ -2840,7 +2840,7 @@
         "short-biography": "<p><span style=\"\">Ben Sadeghi is the Big Data &amp; Advanced Analytics Specialist at Microsoft (SE Asia &amp; Korea), providing consulting and implementation services on the cloud-based Azure Cortana Analytics Platform.</span><span style=\"\">Prior to Microsoft, Ben worked as a data scientist at MapR Technologies, applying data-driven, machine learning solutions on Hadoop. He has developed internal and external data products at <a href=\"http://Wego.com\" rel=\"nofollow\" target=\"_blank\">Wego.com</a>, a travel meta-search site, and worked in the Internet of Things domain at Jawbone, where he implemented predictive applications for the UP Band self-quantification platform. Before moving to the private sector, Ben contributed to several NASA and JAXA space missions.</span><span style=\"\">Ben is an active member of the open-source Julia language community. He holds an <a href=\"http://M.Sc\" rel=\"nofollow\" target=\"_blank\">M.Sc</a>. in computational physics, with an astrophysics emphasis.</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2209/small/Yjkwb2lCeW/95095c29-b954-4d68-97c8-8aeab7cc8616.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2209/small/Yjkwb2lCeW/95095c29-b954-4d68-97c8-8aeab7cc8616.jpg",
         "position": "Data Scientist",
         "sponsorship-required": ""
     },
@@ -2869,7 +2869,7 @@
         "short-biography": "<p><span style=\"\">I am a student at National Cheng Kung University in Taiwan. I got to know more about the FOSS related course when I was sophomore, and finally I served as the course assistant in my senior year now .  During the last two years, I have promoted FOSS and founded a community, Edu.FOSS, in college.</span></p>",
         "long-biography": "",
         "country": "Taiwan",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2221/small/QnJlWWxlL3/48c79b2e-46e5-4fc8-8a6e-da433629df1c.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2221/small/QnJlWWxlL3/48c79b2e-46e5-4fc8-8a6e-da433629df1c.jpg",
         "position": "Student",
         "sponsorship-required": ""
     },
@@ -2898,7 +2898,7 @@
         "short-biography": "<p><span style=\"\">Carol Chen is the Community Development Manager for ManageIQ, the open source project that powers Red Hat\u00ae CloudForms. She has been actively involved in open source communities while working for Jolla and Nokia previously. In addition, she also has experiences in software development/integration in her 12 years in the mobile industry. On a personal note, Carol plays the Timpani in an orchestra in Tampere, Finland, where she now calls home.</span></p>",
         "long-biography": "",
         "country": "Finland",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2264/small/VGREdG5JY3/4766cf60-d822-4bda-b680-38fccb5532bf.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2264/small/VGREdG5JY3/4766cf60-d822-4bda-b680-38fccb5532bf.jpg",
         "position": "Community Developer Manager",
         "sponsorship-required": ""
     },
@@ -2927,7 +2927,7 @@
         "short-biography": "A FOSS programmer",
         "long-biography": "<ul><li><span>6 years experience in software developing, focusing in FOSS.</span></li><li><span>A strong Linux user and has been contributing code to various FOSS projects.</span></li><li><span>A GSoC mentor.</span></li><li><span>Want to bridge two look-different fields: IT and agriculture. Co-founder of a startup about agritech.</span></li></ul>",
         "country": "Vietnam",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2204/small/Z09JRkdaWl/8b3cea3e-6d60-4314-b267-9b8c776c9d60.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2204/small/Z09JRkdaWl/8b3cea3e-6d60-4314-b267-9b8c776c9d60.jpg",
         "position": "CTO",
         "sponsorship-required": ""
     },
@@ -2956,7 +2956,7 @@
         "short-biography": "<p><span style=\"\">Christopher Lek has more than 15 years of IT experience. He graduated from Singapore Polytechnic (Electrical Engineering) and Nanyang Technological University (Computer Engineering) and holds several certifications including GCIH, GCFE, GCFA, GREM, CISSP and ISO 27001 Auditor, PMP and ITIL.</span><span style=\"\">Christopher works in the Global Security Incident Response team for a Fortune 500 Company. He has previously worked for a financial institution and Internet Service Provider. Being active in the IT Security community, Christopher was the workshop committee member for Global HoneyNet Workshop held in Warsaw (2014) and past SIG2 member. He is currently involved in the honeeepi project, which is a customized Raspbian OS running on raspberry pi.</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "",
+        "small-image-url": "",
         "position": "Cyber Security practitioner & Adjunct lecturer",
         "sponsorship-required": ""
     },
@@ -2985,7 +2985,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2351/small/T1pEVjNvd2/644b2243-22b3-4683-b45c-985b890a8305.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2351/small/T1pEVjNvd2/644b2243-22b3-4683-b45c-985b890a8305.jpg",
         "position": "Owner/Founder",
         "sponsorship-required": ""
     },
@@ -3014,7 +3014,7 @@
         "short-biography": "<p><span style=\"\">open source developer for the OpenChrom project, former life science researcher (list of publications: <a href=\"http://scholar.google.se/citations?user=JBBE0c8AAAAJ&amp;hl=en\" rel=\"nofollow\" target=\"_blank\">http://scholar.google.se/citations?user=JBBE0c8AAAAJ&amp;hl=en</a>)</span></p>",
         "long-biography": "",
         "country": "Sweden",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2265/small/a2FLUGFzUW/0e929c07-385f-427e-9574-e4ad8152f14c.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2265/small/a2FLUGFzUW/0e929c07-385f-427e-9574-e4ad8152f14c.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -3043,7 +3043,7 @@
         "short-biography": "<p><span style=\"\">Siddhesh leads a toolchain team at Linaro and works on enablement and optimization of cutting edge ARM processors. He is a maintainer of the GNU C Library and is also an Ambassador and packager for the Fedora Project.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2276/small/SjNmdUVUSk/1381df4b-fb82-44f3-b726-2c5f97c3a641.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2276/small/SjNmdUVUSk/1381df4b-fb82-44f3-b726-2c5f97c3a641.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -3072,7 +3072,7 @@
         "short-biography": "<p><span style=\"\">Linux and Open source developers having contributed to various open source projects, founder of Enlightenment, working as Master Engineer for Samsung Electronics Korea working on Tizen Gadgets and the OS. Have used and written software for Linux since 1996 and still do professionally to this day.</span></p>",
         "long-biography": "",
         "country": "South Korea",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2266/small/WE5Dc3NNal/998c891a-c0bc-4878-b97a-2785346e817f.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2266/small/WE5Dc3NNal/998c891a-c0bc-4878-b97a-2785346e817f.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -3101,7 +3101,7 @@
         "short-biography": "<p><span style=\"\">This is Guruswamy Revana working as Associate Professor at BVRIT Hyderabad College of Engineering for women. I totally have 14 years of teaching experience in the field of Electrical and Electronics Engineering. I completed my Master of Technology from Jawaharlal Nehru Technological University, Anantapur and Bachelor of Engineering from Andhra University. My areas of interest are Assistive Technologies, Open Source Software, Renewable energy sources and Robotics.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2269/small/SVhzRElxYS/2e946928-f244-430a-9379-b173c17ceec7.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2269/small/SVhzRElxYS/2e946928-f244-430a-9379-b173c17ceec7.jpg",
         "position": "Associate Professor",
         "sponsorship-required": ""
     },
@@ -3130,7 +3130,7 @@
         "short-biography": "<p><span style=\"\">Matt has worked in the Embedded Linux field in various roles for 10+ years at various companies including Embedded Alley, Mentor Graphics, Intel's Open Source Technology Center, and currently at Konsulko Group</span></p>",
         "long-biography": "",
         "country": "United States",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2272/small/SVZpTWRuRG/d660e12e-e905-4a54-9d96-70e78a0472be.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2272/small/SVZpTWRuRG/d660e12e-e905-4a54-9d96-70e78a0472be.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -3159,7 +3159,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "Singapore",
-        "small": "",
+        "small-image-url": "",
         "position": "Technical Specialist",
         "sponsorship-required": ""
     },
@@ -3188,7 +3188,7 @@
         "short-biography": "<p><span style=\"\">I am jayaditya gupta . I mostly deal with web development , application development and online secuity , I have participated in GSOC 2016 as student for KDE . I worked on a project named \"wikitolearn Desktop client\" . It is written in Qt(c++) and QML .</span><span style=\"\">Other than that i play lots of warchalls ( security challenges ) and online CTF's !!</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2270/small/TFJJM3dEdF/58a22f63-17c4-4f9b-8c0a-345738a445d1.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2270/small/TFJJM3dEdF/58a22f63-17c4-4f9b-8c0a-345738a445d1.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -3217,7 +3217,7 @@
         "short-biography": "<p><span style=\"\">Quality Assurance Architect at VMware.</span><span style=\"\">Formerly at MySQL AB, and then through acquisitions at Sun Microsystems and Oracle.</span><span style=\"\">Then at Continuent, Inc and currently at VMware through a merge. </span><span style=\"\">I am active member of the MySQL community and long timer open source enthusiast. During the past 25 years I have worked in various IT related fields, with focus on databases, object oriented programming, system administration. Fluent in Italian, English, Perl, Spanish, Ruby, SQL, Bash, and good speaker of C, French, and Java. I work in cyberspace, with a virtual team.</span></p>",
         "long-biography": "",
         "country": "Spain",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2267/small/VUJyV28vek/5f6b88ad-689e-4795-b11d-b5ebb95f37c7.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2267/small/VUJyV28vek/5f6b88ad-689e-4795-b11d-b5ebb95f37c7.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -3246,7 +3246,7 @@
         "short-biography": "<p><span style=\"\">Rohit is a technologist, explorer and a proud Indian.</span><span style=\"\">As a technologist, he has worked in the area of convergence of telephony over the web. He has worked as an devops engineer, product developer, customer support and also helped built teams. He loves open-source, started a Linux User Group at his university and has an active Github profile.</span><span style=\"\">As an explorer, he loves to try out new things. He loves trekking, photography, chess, challenged himself with vipassana meditation and long distance (1000+ km) bike tours.</span><span style=\"\">You can find more about him at <a href=\"http://www.rohit.io\" rel=\"nofollow\" target=\"_blank\">www.rohit.io</a></span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2275/small/MjRoZ3YzaE/cc80c60b-de29-4451-9917-60469c425d33.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2275/small/MjRoZ3YzaE/cc80c60b-de29-4451-9917-60469c425d33.jpg",
         "position": "Technologist",
         "sponsorship-required": ""
     },
@@ -3275,7 +3275,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Program Marketing Manager (APAC)",
         "sponsorship-required": ""
     },
@@ -3304,7 +3304,7 @@
         "short-biography": "<p><span style=\"\">Liling is currently a data scientist as Rakuten Asia. Before that he was working on translation (human and machine) in the Translation Technology Group at the Sprachwissenschaften sowie \u00dcbersetzen und Dolmetschen department @ Universit\u00e4t des Saarlandes. Previously, alvas was a linguistics graduate student in Bond lab @ NTU.</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2271/small/d2FiKzZzaU/152d7684-8ae7-4679-b502-a748a0c8855b.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2271/small/d2FiKzZzaU/152d7684-8ae7-4679-b502-a748a0c8855b.jpg",
         "position": "Data scientist",
         "sponsorship-required": ""
     },
@@ -3333,7 +3333,7 @@
         "short-biography": "<p><span style=\"\">Philip Paeps (\"trouble\") is an independent consultant and contractor based in Belgium. He provides research and development on low-level software and operating systems, particularly in an embedded or real-time context. His main interests are bootloaders, device drivers and high-performance networking. He can also be convinced to teach courses and workshops on a variety of networking-related topics.</span><span style=\"\">In his so-called free time, Philip is a FreeBSD committer contributing mainly to the kernel and a member of the FreeBSD security team. He was one of the main organisers of FOSDEM, the largest annual open source software conference in Europe, from the early 2000s until 2015. He denies having any involvement with amateur radio or tabletop role playing games.</span><span style=\"\">Philip is a director of the FreeBSD Foundation.</span></p>",
         "long-biography": "",
         "country": "Europe",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2273/small/Tnl4dk5UTk/1e9c962c-2b9d-4837-a97f-8155293666c4.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2273/small/Tnl4dk5UTk/1e9c962c-2b9d-4837-a97f-8155293666c4.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -3362,7 +3362,7 @@
         "short-biography": "<p><span style=\"\">A Physics teacher who loves FOSS, Fedora and Python</span><span style=\"\">Praveen has been FOSSASIA Google Summer of Code alumnus (GSoC 2014, 2015 and 2016). He is also mentor for Google Code-In and a proud Fedora and Fossasia volunteer. </span><span style=\"\">Actively involved in ExpEYES project (<a href=\"http://expeyes.in\" rel=\"nofollow\" target=\"_blank\">http://expeyes.in</a>), teacher training programs and in the free time develops e-content for National Repository of Open Educational Resources (NROER). </span><span style=\"\">Praveen is actively working to promote digital literacy in the rural areas and help students to take their first steps in the world of FOSS.</span><span style=\"\">Experimenting and exploring the use of Python to actively engage the students and help them visualize the concepts of science and maths and have a better understanding.</span><span style=\"\">Currently working on ExpEYES and PSLab. These are python powered science lab interfaces which are aimed at providing affordable open source lab equipment to enable students to learn by doing.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2274/small/eVRWNStsaT/15f75231-3ff1-47a6-8b98-88edadabbbec.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2274/small/eVRWNStsaT/15f75231-3ff1-47a6-8b98-88edadabbbec.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -3391,7 +3391,7 @@
         "short-biography": "<p><span style=\"\">* I have 8 years embedded Linux software development experiences and familiar with many desktop Linux distributions (Ubuntu,Debian, Arch, Gentoo),OpenWrt and cross toolchains. </span><span style=\"\">* I love open source projects, include hardware and software.</span><span style=\"\">* I have done a lot of works on embedded Linux about GUI and driver porting.</span><span style=\"\">* I have development experiences on ARM,MIPS,LatticeMico32,Z80 embedded systems</span></p>",
         "long-biography": "",
         "country": "China",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2223/small/WXZaV0FpNW/799d08ca-5859-407b-b4f6-62bb7e1fea34.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2223/small/WXZaV0FpNW/799d08ca-5859-407b-b4f6-62bb7e1fea34.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -3420,7 +3420,7 @@
         "short-biography": "<p><a href=\"https://drive.google.com/file/d/0BwT8yllSQxOscjRSX0VUcWMxTms/view\" rel=\"nofollow\" target=\"_blank\">https://drive.google.com/file/d/0BwT8yllSQxOscjRSX0VUcWMxTms/view</a></p>",
         "long-biography": "",
         "country": "Indonesia",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2334/small/OElZQWNsd1/54fdffe1-3cd8-4ed2-90c9-a67138fa3116.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2334/small/OElZQWNsd1/54fdffe1-3cd8-4ed2-90c9-a67138fa3116.jpg",
         "position": "IT manager",
         "sponsorship-required": ""
     },
@@ -3464,7 +3464,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2240/small/MCtVUGxiek/d4da228d-9943-492e-8fa2-12965b15f2b8.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2240/small/MCtVUGxiek/d4da228d-9943-492e-8fa2-12965b15f2b8.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -3493,7 +3493,7 @@
         "short-biography": "<p><span style=\"\">I am a second year computer science student at IIIT Hyderabad, an opensource enthusiast,has been contributing to FOSSASIA and FreedomBox.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2336/small/M3Nhdks2Vj/18c6139e-0698-4b5d-b998-31f0cac7e018.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2336/small/M3Nhdks2Vj/18c6139e-0698-4b5d-b998-31f0cac7e018.jpg",
         "position": "Student",
         "sponsorship-required": ""
     },
@@ -3522,7 +3522,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "",
         "sponsorship-required": ""
     },
@@ -3551,7 +3551,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "",
         "sponsorship-required": ""
     },
@@ -3580,7 +3580,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2358/small/cUU5R2VGVW/2a55ac4e-d34c-456f-97da-829903eb3886.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2358/small/cUU5R2VGVW/2a55ac4e-d34c-456f-97da-829903eb3886.jpg",
         "position": "General Manager",
         "sponsorship-required": ""
     },
@@ -3609,7 +3609,7 @@
         "short-biography": "<p><span style=\"\">As a policy associate with the Centre for Internet and Society in Bangalore sva has been in Asia for the first time in 2013. In the year of Snowden she organized multiple cryptoparties and is also a member of the cryptoparty-admin-team. Besides she is an active part with one of the oldest hacker associations in the world, the Chaos Computer Club and also organizes the 33-year-old Chaos Communication Congress. She also (co-) founded and mentored various hackspaces and might be known among hackers in India for her work on <a href=\"http://hillhacks.in\" rel=\"nofollow\" target=\"_blank\">hillhacks.in</a> and <a href=\"http://hackbeach.in\" rel=\"nofollow\" target=\"_blank\">hackbeach.in</a>. Today sva continues working on the goal to have privacy by default for everyone together with the swiss p\u2261p foundation. She holds a diploma/master in social/cultural anthropology and computer science from Munich.</span></p>",
         "long-biography": "",
         "country": "Germany/Swizerland",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2277/small/QVZxMEU2cj/784e3fec-9719-44b1-b760-bc9c61bb5820.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2277/small/QVZxMEU2cj/784e3fec-9719-44b1-b760-bc9c61bb5820.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -3643,7 +3643,7 @@
         "short-biography": "<p><span style=\"\">Michael is Axelerant\u2019s Chief Revenue Officer overseeing sales and marketing efforts. Being CRO is his third major role with Axelerant since starting as Chief People Officer in 2013 and becoming Chief Operating Officer in 2015.</span><span style=\"\">Michael has been involved with software development since 1984; coding snakes every morning before school just to play a computer game. Outside of geekdom, he's lived and worked in six countries and traveled dozens more around the world. Though Portland, Maine is his current address, Taiwan remains his home of heart with wife Peichi and boys, Drusus and Jace.</span></p>",
         "long-biography": "",
         "country": "United States",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2335/small/ZHB5azhUVz/eb256975-1079-44cf-88ef-707d19208827.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2335/small/ZHB5azhUVz/eb256975-1079-44cf-88ef-707d19208827.jpg",
         "position": "Chief Revenue Officer",
         "sponsorship-required": ""
     },
@@ -3672,7 +3672,7 @@
         "short-biography": "<p><span style=\"\">I'm open source enthusiast and currently working for automotive company in Singapore.</span><span style=\"\">In my free time I contribute to mainline u-boot and mainline linux kernel.</span><span style=\"\">I've contributed to Linux mainline kernel and u-boot for allwinner SOCs.</span><span style=\"\">Linux Contributions listed here: <a href=\"http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?qt=author&amp;q=vishnu+patekar\" rel=\"nofollow\" target=\"_blank\">http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/log/?qt=author&amp;q=vishnu+patekar</a></span><span style=\"\"> U-boot contributions listed here: <a href=\"http://git.denx.de/?p=u-boot.git&amp;a=search&amp;h=HEAD&amp;st=grep&amp;s=vishnupatekar\" rel=\"nofollow\" target=\"_blank\">http://git.denx.de/?p=u-boot.git&amp;a=search&amp;h=HEAD&amp;st=grep&amp;s=vishnupatekar</a></span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2278/small/K0dWeVpXM1/58f968a2-4f7c-4499-bafd-5d5867d24c7d.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2278/small/K0dWeVpXM1/58f968a2-4f7c-4499-bafd-5d5867d24c7d.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -3701,7 +3701,7 @@
         "short-biography": "<p><span style=\"\">Co-founder of Japanese RailsTutorial, RailsGuides, and CoderDojo Japan. Committer to OpenSource Cafe. Runs YassLab, a remote work company based in Tokyo &amp; Okinawa, focusing on Ruby/Rails, education, and opensource, with a vision of \"Having a Good Life with OpenSource\".</span><span style=\"\"># References</span><span style=\"\">CoderDojo Heroes: Yohei Yasukawa \u2013 Co-founder of CoderDojo Japan</span><span style=\"\"><a href=\"https://coderdojo.com/news/2016/03/30/coderdojo-heroes-yohei-yasukawa-co-founder-of-coderdojo-japan/\" rel=\"nofollow\" target=\"_blank\">https://coderdojo.com/news/2016/03/30/coderdojo-heroes-yohei-yasukawa-co-founder-of-coderdojo-japan/</a></span><span style=\"\">YassLab - Having a Good Life with OpenSource ;)</span><span style=\"\"><a href=\"http://yasslab.jp/en/\" rel=\"nofollow\" target=\"_blank\">http://yasslab.jp/en/</a></span></p>",
         "long-biography": "",
         "country": "Japan",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2279/small/SW53dlBGaT/b6449912-e16b-4ebb-bca5-f9d95588ca9b.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2279/small/SW53dlBGaT/b6449912-e16b-4ebb-bca5-f9d95588ca9b.jpg",
         "position": "Co-founder",
         "sponsorship-required": ""
     },
@@ -3730,7 +3730,7 @@
         "short-biography": "<p><span style=\"\">I am a 3rd year Engineering student from India and an open source enthusiast. I have been working on open source projects for the past 3 years and I am currently ranked No.1 in India in terms in number of stars and forks on my projects. I have been a speaker in India's largest Android conference for the past 2 years. Our team won the PMO Mobile app contest in India to build the official app for the Indian Prime Minister's office in mentorship with Google and we were were awarded by the Prime Minister of India and were invited by Google to their HQ to meet with Google developers. I also love to participate hackathons and won multiple hackathons over the past years.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2192/small/VzB2OUtLb3/fa842a94-a759-4b69-8958-c408b6a52b0a.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2192/small/VzB2OUtLb3/fa842a94-a759-4b69-8958-c408b6a52b0a.jpg",
         "position": "Student",
         "sponsorship-required": ""
     },
@@ -3774,7 +3774,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2214/small/Y2pYb2lncG/c08de81d-8f48-4803-b7b1-59951999705c.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2214/small/Y2pYb2lncG/c08de81d-8f48-4803-b7b1-59951999705c.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -3803,7 +3803,7 @@
         "short-biography": "<p><span style=\"\">Haoyi is a software engineer who used to work at Dropbox in San Francisco and is deeply involved in the open-source Scala community.</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2219/small/Nng1MDQrR3/6bed85bb-c5dc-45ad-aee9-7e7e71ecb82d.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2219/small/Nng1MDQrR3/6bed85bb-c5dc-45ad-aee9-7e7e71ecb82d.jpg",
         "position": "Startup founder",
         "sponsorship-required": ""
     },
@@ -3832,7 +3832,7 @@
         "short-biography": "<p><span style=\"\">backend developer held multiple talks and course on backend and database.</span></p>",
         "long-biography": "",
         "country": "Hong Kong",
-        "small": "",
+        "small-image-url": "",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -3861,7 +3861,7 @@
         "short-biography": "<p><span style=\"\">Martin has a PhD in Machine Learning, and has been an Open Source developer since 1999.  After a career in finance (based in London and New York), he decided to follow his original passion, and now works on Machine Learning / Artificial Intelligence full-time.  Martin has given several talks and workshops on Deep Learning over the last 12 months, including FOSSIA, PyConSG, DataScienceSG and at the Fifth Elephant conference (in India).  </span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2285/small/ZDJxQ3d4M3/27fe0443-4b52-4bea-87c9-134411e1a278.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2285/small/ZDJxQ3d4M3/27fe0443-4b52-4bea-87c9-134411e1a278.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -3884,7 +3884,7 @@
         "short-biography": "<p><span style=\"\">Ryusuke Kajiyama(\u68b6\u5c71\u9686\u8f14) is Open Source Software business specialist with 10+ years of experience of systems design using MySQL and open source solutions. He originally joined MySQL AB, and is currently managing MySQL Sales Consultant team of Asia Pacific region at Oracle.</span><span style=\"\">Prior to join MySQL, he was Consultant at Nomura Research Institute, working on enterprise systems design with Oracle Database, WebLogic, Solaris, and various Open Source software including MySQL, JBoss and Linux. He is a Co-Founder of Japan JBoss Users Group.</span></p>",
         "long-biography": "",
         "country": "Japan",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2286/small/eHJrVkFPdn/ecccdcd0-01c4-42d4-8538-93d21c5f8c9c.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2286/small/eHJrVkFPdn/ecccdcd0-01c4-42d4-8538-93d21c5f8c9c.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -3913,7 +3913,7 @@
         "short-biography": "<p><span style=\"\">I, Trishul Goel am an open source enthusiast specifically in web domain. I am frontend developer and love to play with modern JS and CSS. I volunteer for Mozilla in terms of code and serve as Mozilla tech speaker.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2287/small/bHo0NnlDZW/2b3c5e02-745e-481e-b4ec-80392a9aecc8.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2287/small/bHo0NnlDZW/2b3c5e02-745e-481e-b4ec-80392a9aecc8.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -3942,7 +3942,7 @@
         "short-biography": "<p><span style=\"\">Colin Charles is the Chief Evangelist at Percona. He was previously on the founding team of MariaDB Server in 2009, and had worked at MySQL since 2005, and been a MySQL user since 2000. Before joining MySQL, he worked actively on the Fedora and <a href=\"http://OpenOffice.org\" rel=\"nofollow\" target=\"_blank\">OpenOffice.org</a> projects. He's well known within open source communities in APAC, and has spoken at many conferences.</span></p>",
         "long-biography": "",
         "country": "Malaysia",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2211/small/YklXaXZBM2/fdb9ddaf-498b-4c5c-8dc1-d78d613e4f8f.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2211/small/YklXaXZBM2/fdb9ddaf-498b-4c5c-8dc1-d78d613e4f8f.jpg",
         "position": "Chief Evangelist",
         "sponsorship-required": ""
     },
@@ -3971,7 +3971,7 @@
         "short-biography": "<p><span style=\"\">Dietrich Ayala works for internet freedom at Mozilla, the non-profit makers of Firefox.</span></p>",
         "long-biography": "",
         "country": "USA",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2222/small/bGoyY0d0WG/12d86513-18e5-41e8-aeda-714fe4f2104e.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2222/small/bGoyY0d0WG/12d86513-18e5-41e8-aeda-714fe4f2104e.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -4005,7 +4005,7 @@
         "short-biography": "<p><span style=\"\">Matthew is currently a member of the OpenStack TC (Technical Committee) and was previously the PTL (project technical lead) of the OpenStack community's QA program from OpenStack's Juno development cycle in 2014 through the Mitaka development cycle in 2016. He is a core contributor on several Openstack projects and a core member of the OpenStack stable maintenance team. He has been working on and contributing to Open Source software for most of his career and has been primarily contributing to OpenStack since 2012. Matthew currently works for HPE's Upstream OpenStack team working to make OpenStack better for everyone. Matthew has previously been a speaker at OpenStack summits, LinuxCons Japan and North America, FOSSASIA, PyConAU's OpenStack miniconf, and <a href=\"http://linux.conf.au\" rel=\"nofollow\" target=\"_blank\">linux.conf.au</a>'s CI and Testing miniconf.</span></p>",
         "long-biography": "",
         "country": "United States",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2290/small/R2JXZURRdX/c0dc22a4-c226-4a29-a71e-95eebb49ab53.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2290/small/R2JXZURRdX/c0dc22a4-c226-4a29-a71e-95eebb49ab53.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -4034,7 +4034,7 @@
         "short-biography": "<p><span style=\"\">Chan Cheow Hoe is the Government Chief Information Officer (CIO)/DCE of GovTech. As the Government CIO, Cheow Hoe oversees Singapore Government\u2019s central information technology systems and infrastructure, and drives the development and delivery of innovative public services for citizens and businesses.</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2158/small/Y2I1am9ETV/7a457074-60ef-4b65-8b8b-188ad2cb0132.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2158/small/Y2I1am9ETV/7a457074-60ef-4b65-8b8b-188ad2cb0132.jpg",
         "position": "Government Chief Information Officer (CIO)/DCE",
         "sponsorship-required": ""
     },
@@ -4063,7 +4063,7 @@
         "short-biography": "<p><span style=\"\">Tony Thomas volunteers as the Organization Administrator for Google Summer of Code (round 12) and Outreachy (round 12-13) with the Wikimedia Foundation. He started with his contirbutions to the Mediawiki codebase back in September 2013, and did his GSoC with the Wikimedia Foundation in 2014. Post succesfull deployment of his project in production, he volunteered as a GSoC mentor in the 2015 and 2016 GSoC rounds as well with the Foundation. He had been part of various meetups and Hackathons with the Foundation at SFO, France, Italy, Israel and parts of India too.  </span><span style=\"\">Apart from his involvments with Wikimedia, Tony Thomas currently interns with Igalia, and develops web in Python, Angular and PHP. He is currently doing his Masters in Internet Technolgies and Architecuter at TU Berlin, post his Bachelors in Computer Science and Engineering.</span></p>",
         "long-biography": "",
         "country": "Germany",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2292/small/THlrWlJadl/a6549d8f-71a9-4c9c-9a93-0cd886846581.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2292/small/THlrWlJadl/a6549d8f-71a9-4c9c-9a93-0cd886846581.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -4092,7 +4092,7 @@
         "short-biography": "<p style=\"\"><span style=\"font-weight: 400; text-decoration: none;\">Short Biography of Urvika</span></p><ol style=\"\"><li style=\"font-weight: 400; text-decoration: none;\"><p style=\"\"><span style=\"font-weight: 400; text-decoration: none;\">Pre-final year </span><span style=\"font-weight: 400; text-decoration: none;\">Computer Science Engineering student.</span></p></li><li style=\"font-weight: 400; text-decoration: none;\"><p style=\"\"><span style=\"font-weight: 400; text-decoration: none;\">Outreachy Round 13 Intern.</span></p></li><li style=\"font-weight: 400; text-decoration: none;\"><p style=\"\"><span style=\"font-weight: 400; text-decoration: none;\">Summer Intern at WIPRO.</span></p></li><li style=\"font-weight: 400; text-decoration: none;\"><p style=\"\"><span style=\"font-weight: 400; text-decoration: none;\">I love to code (Android, Java mainly! )</span></p></li><li style=\"font-weight: 400; text-decoration: none;\"><p style=\"\"><span style=\"font-weight: 400; text-decoration: none;\">I recently stepped into the world of open source by getting in the Outreachy Programme for Women to work with Debian.</span></p></li></ol><p style=\"\"><span style=\"font-weight: 400; text-decoration: none;\">.. and it brought me here.</span></p><p><span></span></p><ol style=\"\"><li style=\"font-weight: 400; text-decoration: none;\"><p style=\"\"><span style=\"font-weight: 400; text-decoration: none;\">Love Dogs.</span></p></li></ol>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2229/small/THd0VWdPZk/494d0ff8-1935-4ee1-bd02-eb32d391d41e.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2229/small/THd0VWdPZk/494d0ff8-1935-4ee1-bd02-eb32d391d41e.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -4115,7 +4115,7 @@
         "short-biography": "<p>CTO of 2ndQuadrant, PostgreSQL Committer.\u00a0</p>",
         "long-biography": "",
         "country": "United Kingdom",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2293/small/akZkYjZ4Rl/38572027-6529-492a-b1ae-63ee9db4ff30.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2293/small/akZkYjZ4Rl/38572027-6529-492a-b1ae-63ee9db4ff30.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -4144,7 +4144,7 @@
         "short-biography": "Jan is currently the CFO of CASE (Connected, Autonomous, Shared &amp; Services, Electric; newly established entity within Mercedes-Benz). He serves on the board of Deutsche ACCUMOTIVE, MB Energy and CROOVE. He acted as director of Controlling Mercedes-Benz Cars and led strategic projects in multiple finance senior management positions at Mercedes-Benz in Germany and the US\u201d.",
         "long-biography": "",
         "country": "Germany",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2333/small/emJGWnZ3Uk/65c2b84e-3828-4201-ba2d-7f84e918f2e9.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2333/small/emJGWnZ3Uk/65c2b84e-3828-4201-ba2d-7f84e918f2e9.jpg",
         "position": "CFO",
         "sponsorship-required": ""
     },
@@ -4173,7 +4173,7 @@
         "short-biography": "<p>Gary Lin is a SUSE engineer and long time linux user. He participated openSUSE gnome development and mainly focuses on UEFI related issues now.</p>",
         "long-biography": "",
         "country": "Taiwan",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2295/small/OUNDTS9GY2/5d9c8a05-18ce-4db9-8464-9ae8257cc0cd.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2295/small/OUNDTS9GY2/5d9c8a05-18ce-4db9-8464-9ae8257cc0cd.jpg",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -4202,7 +4202,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "",
         "sponsorship-required": ""
     },
@@ -4231,7 +4231,7 @@
         "short-biography": "<p><span style=\"\">Sanjay Manwani is a 20+ year veteran in computer technology.</span><span style=\"\">He has been managing and working closely with Database technologies for the past 10 years.He has been a speaker at multiple events. He currently manages the MySQL India team, which is involved in all aspects of MySQL development. </span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2225/small/MHpRbE02MW/cf2d61f4-74ca-498d-bc50-838279fc1c56.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2225/small/MHpRbE02MW/cf2d61f4-74ca-498d-bc50-838279fc1c56.jpg",
         "position": "MySQL Director",
         "sponsorship-required": ""
     },
@@ -4260,7 +4260,7 @@
         "short-biography": "<p><span style=\"\">Dr. Graham Williams is Microsoft's Director of Data Science for the Asia and Pacific region. He recently joined Microsoft bringing with him over 30 years of research and deployment in Artificial Intelligence, Machine Learning, Data Mining, Analytics and Data Science. Graham has authored a number of books introducing Data Mining and Machine Learning using the R Statistical Open Source Software. Until recently he was principal data scientist with the Australian Taxation Office and was the lead data scientist with the Australian Government's Center of Excellence in Analytics. Through these roles he assisted government departments in building their Data Science capabilities and worked on projects that focused on delivering cost effective data science solutions using open source platforms.</span></p>",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2244/small/OVVvYzg5aD/56ba2e19-b469-4be8-b17a-796271f1b56f.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2244/small/OVVvYzg5aD/56ba2e19-b469-4be8-b17a-796271f1b56f.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -4289,7 +4289,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "China",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2296/small/K2pQNWZMQy/bfc8110f-ae8b-43b2-8dbb-3c989272d93e.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2296/small/K2pQNWZMQy/bfc8110f-ae8b-43b2-8dbb-3c989272d93e.jpg",
         "position": "Employee",
         "sponsorship-required": ""
     },
@@ -4318,7 +4318,7 @@
         "short-biography": "<p><span style=\"\">Stephan is an IBM Code Mage who started coding with COBOL. He's a frequent speaker on IT related topics and interested in mobile and IoT. He's blogging for more than a decade at <a href=\"http://wissel.net\" rel=\"nofollow\" target=\"_blank\">wissel.net</a></span></p>",
         "long-biography": "",
         "country": "Germany",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2360/small/UmpxckRsUG/cea896c2-f763-4e52-b11e-1d3435b2a703.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2360/small/UmpxckRsUG/cea896c2-f763-4e52-b11e-1d3435b2a703.jpg",
         "position": "Code Mage",
         "sponsorship-required": ""
     },
@@ -4341,7 +4341,7 @@
         "short-biography": "<p><span style=\"\">Stephanie Taylor has been a Program Manager at Google on the Open Source Outreach team for over 6 years. She has given talks to thousands of students about Google Code-in and Google Summer of Code, all with the goal of bringing more students into open source software development. In her free\u00a0</span>time<span style=\"\">\u00a0Stephanie loves to travel, explore, and hike. While finding time to discover the best hot chocolate spots in every city she visits.</span></p>",
         "long-biography": "",
         "country": "USA",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2340/small/QjZoUURGSD/a1871d6d-5a34-40b5-a6b0-07508ac93c7f.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2340/small/QjZoUURGSD/a1871d6d-5a34-40b5-a6b0-07508ac93c7f.jpg",
         "position": "Program Manager",
         "sponsorship-required": ""
     },
@@ -4375,7 +4375,7 @@
         "short-biography": "Konrad Willi D\u00f6ring was born in M\u00fclheim/Ruhr, Germany. He has studied computer science and further started his PhD in computational neuroscience at the Free University of Berlin. He has been working on evacuation simulation frameworks, computer vision, machine learning, robotics and brain-computer interface projects. Currently he is working on the Brainduino project, providing open-source, high-quality EEG device and software.",
         "long-biography": "",
         "country": "Germany",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2342/small/Nk8rN0QvRX/3f59ccfc-a308-4207-918e-271b41be3032.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2342/small/Nk8rN0QvRX/3f59ccfc-a308-4207-918e-271b41be3032.jpg",
         "position": "CEO",
         "sponsorship-required": ""
     },
@@ -4409,7 +4409,7 @@
         "short-biography": "<p><span style=\"\">I work as a Developer Advocate at the Wikimedia Foundation. I lead our efforts to engage volunteer developers in Wikimedia software projects and to grow the Wikimedia technical community. More info: <a href=\"https://meta.wikimedia.org/wiki/User:SSethi_(WMF)\" rel=\"nofollow\" target=\"_blank\">https://meta.wikimedia.org/wiki/User:SSethi_(WMF)</a></span></p>",
         "long-biography": "",
         "country": "United States",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2297/small/L1ZjQm5WUW/f39a5612-4c6f-4850-81c5-6b6cf094279b.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2297/small/L1ZjQm5WUW/f39a5612-4c6f-4850-81c5-6b6cf094279b.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -4438,7 +4438,7 @@
         "short-biography": "<p>Victoria Bondarchuk is a UX researcher, interested in open source and open design. Member of <a href=\"http://opensourcedesign.net\" rel=\"nofollow\" target=\"_blank\">opensourcedesign.net</a>.</p><span style=\"\"></span>",
         "long-biography": "",
         "country": "South Korea",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2166/small/Umt4cUwxMy/93480914-77b6-49fb-9680-cdc61739e35c.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2166/small/Umt4cUwxMy/93480914-77b6-49fb-9680-cdc61739e35c.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -4467,7 +4467,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2341/small/ZHdLKzhic3/0a9393a7-d31b-4170-a297-cccf7ae0ea63.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2341/small/ZHdLKzhic3/0a9393a7-d31b-4170-a297-cccf7ae0ea63.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -4506,7 +4506,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2359/small/cUtYbEh1eE/2f7ff48c-0d74-4728-a1c3-7d2dc76ef01a.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2359/small/cUtYbEh1eE/2f7ff48c-0d74-4728-a1c3-7d2dc76ef01a.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -4535,7 +4535,7 @@
         "short-biography": "<p>Marco is an advocate open source developer, specially in the field of robotics. He is currently in the final stage of his PhD in computer vision for robotics. He has participated as developer in several open source projects, mostly related to robots, such as the PointCloud Library, RoboComp or OpenDetection. This year will be his fourth year as a Google Summer of Code organization administrator for the robocomp project and the second year with OpenDetection.\u00a0</p><p>He is also currently experimenting with OpenWRT and WIFI devices.</p>",
         "long-biography": "",
         "country": "Spain",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2353/small/TGp4bk04ZH/cbd7bb1a-534f-43d5-bad3-cc76727c6c7b.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2353/small/TGp4bk04ZH/cbd7bb1a-534f-43d5-bad3-cc76727c6c7b.jpg",
         "position": "Developer",
         "sponsorship-required": "Only the ticket sponsorship is required."
     },
@@ -4564,7 +4564,7 @@
         "short-biography": "Jason is the Director of Software Development for IBM Connections and an IBM Distinguished Engineer. A recognised executive in social business and collaboration, within IBM, and in the global marketplace, Jason Roy Gary has demonstrated, in two decades of leadership, vision and drive in social collaboration, software architecture, real-time collaboration, agile transformation, open source initiatives, and situational applications. Jason has led IBM innovation efforts in social business from development engineering and services. He is an acknowledged thought leader and is widely solicited, by the industry, to speak and provide thought focus around the world.",
         "long-biography": "",
         "country": "USA",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2241/small/QVo1dkw3eF/264a341c-813a-4eca-bb06-c593602282d3.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2241/small/QVo1dkw3eF/264a341c-813a-4eca-bb06-c593602282d3.jpg",
         "position": "Director Engineering",
         "sponsorship-required": ""
     },
@@ -4598,7 +4598,7 @@
         "short-biography": "<span style=\"\">Andrew Selle is a Staff Software Engineer working on TensorFlow Infrastructure within Google Brain. He has contributed to TensorFlow by improving the expressiveness and consistency of the Python API to ease the learning curve for NumPy users. In addition he has been leading the effort to remain responsive to the open source GitHub issues community. His current research interests center on automated construction of machine learning models. Previously he worked in physical simulation and rendering techniques for film at Walt Disney Animation Studios and Industrial Light and Magic. He holds a Ph.D. in Computer Science from Stanford University.\u00a0</span>",
         "long-biography": "",
         "country": "USA",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2354/small/STFmWGhaMX/828c1dae-9d9c-4c70-bf91-a6eafa10531f.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2354/small/STFmWGhaMX/828c1dae-9d9c-4c70-bf91-a6eafa10531f.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -4627,7 +4627,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2298/small/MWF6YklSU3/687de2dd-bff2-46fb-b77c-67ffb87a27da.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2298/small/MWF6YklSU3/687de2dd-bff2-46fb-b77c-67ffb87a27da.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -4656,7 +4656,7 @@
         "short-biography": "<p><span style=\"\">I am working with the MySQL RDBMS Product Team in Oracle Bangalore. My main responsibilities are</span><span style=\"\">* Technically lead a team of test engineers to verify and validate the new features and performance of MySQL Optimizer.</span><span style=\"\">* Developing and maintaining the test suites.</span><span style=\"\">* Development of automation frameworks and enhancing existing frameworks as and when required.</span><span style=\"\">* Benchmarking the optimizer performance.</span><span style=\"\">* Developing new tools for testing the database as and when required.</span><span style=\"\">Our test tools and frameworks are developed using PERL and Java.</span><span style=\"\">My previous experience includes working on RDBMS like DB2-UDB for LUW, Sybase-IQ and Microsoft SQL Server. Before joining Oracle I have worked with IBM India Software Labs, Microsoft and Sybase Inc.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2284/small/ZnpwbDMzVz/dbce773a-5ce5-4afa-9f19-ceea774d212e.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2284/small/ZnpwbDMzVz/dbce773a-5ce5-4afa-9f19-ceea774d212e.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -4690,7 +4690,7 @@
         "short-biography": "<span style=\"\">Frank Karlitschek is a free software developer, entrepreneur and privacy activist. He founded the Nextcloud and the ownCloud projects and was involved in several other free software projects. He published the \u201cUser Data Manifesto\u201d and is a regular keynote speaker at conferences like CCC, LinuxCon, Latinoware, openSUSE Conf, Akademy and now FOSSASIA.</span>",
         "long-biography": "",
         "country": "Germany",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2157/small/TjV2L0wyYS/27979f7a-e9c8-4f52-ad84-2edc5f04387a.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2157/small/TjV2L0wyYS/27979f7a-e9c8-4f52-ad84-2edc5f04387a.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -4719,7 +4719,7 @@
         "short-biography": "<p><span style=\"\">Currently I teach Android Application Development at CodingBlocks, a programming bootcamp startup.</span><span style=\"\">I have been a Developer and Device Maintainer at CyanogenMod and AOKP, building latest Android images for Sony Xperia devices, adding awesome usability features that make users fall in love. I have also been a contributor to the Dialer and Phone projects under AOSP.</span><span style=\"\">I have been a Open Source community partner with Sony Mobile for the last two years.</span><span style=\"\">I was part of the team that made many contextually smart UI/UX enhacements for the Micromax Canvas A290, A310, A315 series of phones.</span><span style=\"\">I am also an open source enthusiast with contributions to Linux, GNOME, Arduino, Android and other open source projects, and a Google Summer of Code alumnus.</span><span style=\"\">Have been a speaker at Mobile Developer Summit 2014, and DroidCon 2014, 2015. </span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2338/small/RlNTWEZKMk/46f5396b-9bcd-4b4c-9568-ee85648f5fbd.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2338/small/RlNTWEZKMk/46f5396b-9bcd-4b4c-9568-ee85648f5fbd.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -4748,7 +4748,7 @@
         "short-biography": "<p><span style=\"\">I'm front-end and server side developer and\u00a0</span>hifive<span style=\"\">\u00a0evangelist. I run my business in Japan, and I'm Administrator of MOONGIFT that introduces\u00a0</span>oss<span style=\"\">\u00a0everyday for Japanese since Jan 2004. I have introduced 10,000 or more\u00a0</span>oss<span style=\"\">. <a href=\"http://www.moongift.jp\" rel=\"nofollow\" target=\"_blank\">http://www.moongift.jp</a></span></p>",
         "long-biography": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "",
         "sponsorship-required": ""
     },
@@ -4777,7 +4777,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2164/small/VFlBaENqWX/03754a51-92f8-4063-82db-a9ceef75c733.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2164/small/VFlBaENqWX/03754a51-92f8-4063-82db-a9ceef75c733.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -4806,7 +4806,7 @@
         "short-biography": "<p><span style=\"\">I\u2019m currently pursuing a degree in Computer Science with strong mathematical background. I am able to navigate in large code-bases and write clean self-documented code. Working as a part of a talented team comes naturally to me. I love to contribute to open source projects that would have a worldwide impact.</span><span style=\"\">As I\u2019m an Open Source enthusiast, I have contributed to open source projects like KDE, MediaWiki and WikiToLearn. I was selected for Google Summer of Code 2016 as a Student Developer under KDE organisation. My project was to build an Offline Extension that adds offline support to the WikiEditor used by WikiToLearn, a project sponsored by KDE and Wikimedia Foundation.</span><span style=\"\">Currently, I'm working as a Software Developer at WikiToLearn. I have given talks at few occasions about WikiToLearn including a recent one at BITS Pilani Hyderabad Campus.</span><span style=\"\"> </span><span style=\"\">At college, I also got an opportunity to be part of ThinkFOSS, which is a technical startup offering technical training, online courses, and solutions for computer science professionals and students. It aims at increasing the technical know-how of University students in India, and bringing them closer to Open source development.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2300/small/dkdvSHZZVS/97b6cd1f-c3b5-4d04-852d-1512f85022c7.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2300/small/dkdvSHZZVS/97b6cd1f-c3b5-4d04-852d-1512f85022c7.jpg",
         "position": "Software Developer",
         "sponsorship-required": ""
     },
@@ -4835,7 +4835,7 @@
         "short-biography": "<span style=\"\">Andrey Terekhov is an Open Source Sales &amp; Marketing Lead at Microsoft Asia Pacific HQ, based in Singapore. In this role he is responsible for defining Microsoft\u2019s open source strategy and developing business in Asia Pacific region, with particular focus on scaling up open source workloads on Microsoft Azure cloud platform.</span><span style=\"\">Andrey is a 13-years veteran of Microsoft, having worked in different roles in Russia, Ukraine and Germany. Prior to Microsoft, Andrey worked in Russia and made his way from software developer to Chief Operation Officer of a medium-size software company.</span><span style=\"\">He holds a PhD in Computer Science and published over 40 scientific articles.</span>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2328/small/aFYxLzF2TE/3a29c39e-11aa-4605-89dd-83221655aae3.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2328/small/aFYxLzF2TE/3a29c39e-11aa-4605-89dd-83221655aae3.jpg",
         "position": "Open Source Sales & Marketing Lead",
         "sponsorship-required": ""
     },
@@ -4864,7 +4864,7 @@
         "short-biography": "<p><span style=\"\">Julyanto Sutandang is the Director and Practitioner of PostgreSQL Solution Provider in Indonesia. He has using PostgreSQL since version 7 and keep it improving his skill since then. Now he works in Equnix Business Solutions, PT. </span><span style=\"\">PostgreSQL has getting more accepted in big Enterprises in Indonesia, it is included Big Banks, Telco Companies, and worth to mention Big Retail System such as: Transretail (it was Carrefour Indonesia). </span><span style=\"\">He directs Expertise in Open Source especially in Linux and PostgreSQL implementation for Enterprises. Enabling research and experience as the main tools, He with his team facing great challenges from Clients and anticipated well, almost all of our implementation is using against Oracle and perform better more than expected.</span></p>",
         "long-biography": "",
         "country": "Indonesia",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2320/small/UCt4bCtkRj/0ff1ccb4-ff19-43d9-9a07-5287513e73d5.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2320/small/UCt4bCtkRj/0ff1ccb4-ff19-43d9-9a07-5287513e73d5.jpg",
         "position": "Director",
         "sponsorship-required": ""
     },
@@ -4893,7 +4893,7 @@
         "short-biography": "<p><span style=\"\">A full stack developer working in a startup called Oizom as a tech lead having 3 years of experience in same area. I am associated with open source contribution in different languages, organize meetups under <a href=\"http://datameet.org\" rel=\"nofollow\" target=\"_blank\">datameet.org</a>, remote researcher at crowd source platform of Stanford. Die hard comic book/movie fan, so when I am not coding I am in other universe like Marvel or DC.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2283/small/TVN6d1d2Nk/461952bf-456b-4ca3-b7ce-1a98d73fd0a3.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2283/small/TVN6d1d2Nk/461952bf-456b-4ca3-b7ce-1a98d73fd0a3.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -4922,7 +4922,7 @@
         "short-biography": "<p>I am a community builder with 4 years of experience in community building, outreach and mentoring. I helped build diverse communities across India. I'm mentoring around 25 community leaders as Brave India Liaison. . I designed a Program for Students along with Brave Team called \"Brave Youth Program\" </p><p>I work for brand360 as a Head of Creative Services. Brand360 have the power to add revenues to a brand with one-touch.Brand Marketers constantly need help to reach out to their target audience.</p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2230/small/ek4vTFRXWm/43474729-8976-42d5-9746-fbdd2b87d0a5.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2230/small/ek4vTFRXWm/43474729-8976-42d5-9746-fbdd2b87d0a5.jpg",
         "position": "Community Liaison",
         "sponsorship-required": ""
     },
@@ -4951,7 +4951,7 @@
         "short-biography": "<p><span style=\"\">Currently leading Business Development efforts focused on Google Search, Chrome and Developer products. </span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2231/small/VHN2eDU2Rm/95ec4f99-c075-4f7a-821c-9384584fd52c.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2231/small/VHN2eDU2Rm/95ec4f99-c075-4f7a-821c-9384584fd52c.jpg",
         "position": "Technology Partnerships",
         "sponsorship-required": ""
     },
@@ -4974,7 +4974,7 @@
         "short-biography": "<p><span style=\"\">Sanjeev is an IT Governance consultant, with lots of spare time for extra-curricular activities, mostly in Open Source.  He used to have a good grasp of FORTRAN-IV, and perhaps FORTRAN 77.  He now sticks to outreach and documentation issues.</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2301/small/ZFE3SkFjM1/97758c61-60ed-4b34-b8f8-56bf070fc666.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2301/small/ZFE3SkFjM1/97758c61-60ed-4b34-b8f8-56bf070fc666.jpg",
         "position": "IT Governance consultant",
         "sponsorship-required": ""
     },
@@ -5003,7 +5003,7 @@
         "short-biography": "<p><span style=\"\">A hardworking, resourceful and ambitious student with an intense desire to learn. Experience of undertaking analytic work and research projects whilst working in a team environment with multiple priorities and tight deadlines.</span><span style=\"\">Currently a mentor in Google Code-In program. Previous Google Summer of Code scholar. Speaker at GDG Delhi and WTM Delhi. </span><span style=\"\">SauceLabs scholarship winner for PyBay 2016.</span><span style=\"\">Conferences attended: MIT Media Lab Design Innovation Workshop 2015</span><span style=\"\">Resume: <a href=\"https://goo.gl/zGm1WF\" rel=\"nofollow\" target=\"_blank\">https://goo.gl/zGm1WF</a></span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2303/small/Rkt4QVh5el/6d3de016-e8b3-42d4-80c7-78edb7bf17f0.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2303/small/Rkt4QVh5el/6d3de016-e8b3-42d4-80c7-78edb7bf17f0.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -5032,7 +5032,7 @@
         "short-biography": "<p><span style=\"\">Mozilla Reps Mentor from Manila, Philippines. General Manager &amp; Chief Technology Officer of TurfSite Web Services, one of the Philippines' best website hosting &amp; development companies.</span></p>",
         "long-biography": "",
         "country": "Philippines",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2307/small/bFdZMkhPM1/8a127b36-602e-49d2-ae1e-3df19fc518dc.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2307/small/bFdZMkhPM1/8a127b36-602e-49d2-ae1e-3df19fc518dc.jpg",
         "position": "CTO",
         "sponsorship-required": ""
     },
@@ -5055,7 +5055,7 @@
         "short-biography": "<span style=\"\">Dilip is working at EnterpriseDB since December 2015,</span><span style=\"\">Prior to that he has worked for Huawei. He has worked in various databases (PostgreSql, In-house in memory database) for more than 10 years.</span><span style=\"\">Dilip has worked in various database development, maintenance projects.</span><span style=\"\">He has worked on optimizer, statistics collection, Executor and various MVCC solutions. He has worked on changing PostgreSQL to integrate in-memory storage Engine. He has also implemented CSN based snapshot for PostgreSQL based in-house DB and presented paper for the same in PgCon2015.</span><span style=\"\">Currently He is working on parallelism in Postgres and have two ongoing patches in community Parallel Bitmap Scan and Parallel Merge Join.</span>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2294/small/bkdlbWV2V2/cfc2afb3-65bb-44a5-b160-0615927eb52c.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2294/small/bkdlbWV2V2/cfc2afb3-65bb-44a5-b160-0615927eb52c.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -5078,7 +5078,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2163/small/aHRFbnJ5cW/1a879577-15af-4712-82cc-f59a657cc131.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2163/small/aHRFbnJ5cW/1a879577-15af-4712-82cc-f59a657cc131.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -5107,7 +5107,7 @@
         "short-biography": "<p>I am Madhuri Peri pursuing my bachelors in Information Technology Department. I am by profession a coder and by passion a dancer. I have attended to the hackathon Med4Dev and the one week campaign of Engineering the Eye conducted by LVPEI chain in coordination with MIT media labs! I have an enthusiasm in writing and own a blog! I have achieved a score of 90/100 in the BEC exam conducted by Cambridge university!Iam a board member of our college's newsletter B-SMART!</p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2169/small/UzNRM2hIa1/1f6a3629-ec91-4389-90f3-f67dd99cafbe.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2169/small/UzNRM2hIa1/1f6a3629-ec91-4389-90f3-f67dd99cafbe.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -5136,7 +5136,7 @@
         "short-biography": "<p><span style=\"font-weight: 400; text-decoration: none;\"> I am a hustler, geek who always keep myself learning and innovating new things. By profession Computer Science Engineer, by passion Photographer, Dancer. My mind is similar to neutron in behaviour and properties.  I love programming and developing apps on Android and Windows Platforms. I have participated in many hackathons and also contribute to open source technologies. </span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2172/small/SEQ3R2Nuck/62a11b62-a491-4fad-9f1d-376faff12296.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2172/small/SEQ3R2Nuck/62a11b62-a491-4fad-9f1d-376faff12296.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -5165,7 +5165,7 @@
         "short-biography": "<p><span style=\"\">My name is Darin Kris Lobo and I am a 16 year old student. I enjoy building gadgets and doing projects as a hobby. I am interested in Quantum mechanics, Genetics and Neuroscience and recently I am currently learning about electronics and programming. I am an advocate for citizen science and I am trying to encourage the public to gain interest in science.</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2173/small/UWZpeDh6VH/07e879da-5a52-4d45-b615-e57e063e3f7a.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2173/small/UWZpeDh6VH/07e879da-5a52-4d45-b615-e57e063e3f7a.jpg",
         "position": "Student",
         "sponsorship-required": ""
     },
@@ -5194,7 +5194,7 @@
         "short-biography": "<p><span style=\"\">Masters Student, Software Engineer with specialization in embedded systems. Have worked with multiple hardware systems with applications in the automotive industry and IOT. With a strong academic background have written a thesis based on OpenCL and its performance characteristics on various embedded systems. An ardent maker with a combination of hardware as well as software skills which help me bring about the fine tuned performance from embedded systems.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2305/small/ek53QkZrL0/425c1138-8529-42cf-835f-d6d8bb88997b.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2305/small/ek53QkZrL0/425c1138-8529-42cf-835f-d6d8bb88997b.jpg",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -5223,7 +5223,7 @@
         "short-biography": "",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2344/small/RmFGbUwvQV/de14939b-7e6c-42dc-864c-99a0ac1f9d9b.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2344/small/RmFGbUwvQV/de14939b-7e6c-42dc-864c-99a0ac1f9d9b.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -5252,7 +5252,7 @@
         "short-biography": "<p><span style=\"\">Melvin is an avid programmer who enjoys designing and implementing novel</span><span style=\"\">algorithms.  As the maintainer of Magarena, an open source card game project, Melvin focuses on improving the AI and releasing an update every month. Melvin received his B. Comp (Hons) and Ph.D. degrees from National University of Singapore, School of Computing.</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2174/small/SWJ1V2M5bX/a98cd0d3-1a14-4106-a262-e09b14746f1c.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2174/small/SWJ1V2M5bX/a98cd0d3-1a14-4106-a262-e09b14746f1c.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -5281,7 +5281,7 @@
         "short-biography": "<p><span style=\"\">Final year engineering student at Delhi Technological University, India. Prempal successfully completed his GSoC '16 under DHIS2 organization and has previously interned at HackerEarth and Peppertap. He is passionate about Android development, frequently attends hackathons, and loves to take things apart to see how they work.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2179/small/OUdKTmlpbT/9c4ef2d0-29b9-4600-92a7-94434bd9dd05.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2179/small/OUdKTmlpbT/9c4ef2d0-29b9-4600-92a7-94434bd9dd05.jpg",
         "position": "Student",
         "sponsorship-required": ""
     },
@@ -5310,7 +5310,7 @@
         "short-biography": "<p><span style=\"\">kathleen azali founded an independent library and co-working space in Surabaya called C2O library &amp; collabtive in 2008. As a researcher in the Institute of Southeast Asian Studies (ISEAS), and a practicing designer and programmer, she is interested in the histories and intersections of information, design, (digital) technology, and society. Her writings have been published in Networked Researcher Open Access Week (2012), Cornell University Southeast Asia Program Bulletin (2014), SOJOURN (2015, 2016), and most recently \u201cCashless in Indonesia: Gelling mobile e-friction?\u201d in Journal of Southeast Asian Economies (2016).\u00a0</span></p>",
         "long-biography": "",
         "country": "Indonesia",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2182/small/MEtqUXR6S1/688fda26-d2c3-437b-bbff-7a2459631cd4.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2182/small/MEtqUXR6S1/688fda26-d2c3-437b-bbff-7a2459631cd4.jpg",
         "position": "researcher and library founder",
         "sponsorship-required": ""
     },
@@ -5333,7 +5333,7 @@
         "short-biography": "<p><span style=\"\">Ferdian THUNG is a Ph.D. candidate at School of Information Systems, Singapore Management University advised by Assistant Professor David Lo and Assistant Professor Lingxiao Jiang. He received his B.Eng. in Informatics Engineering from School of Electrical Engineering and Informatics, Bandung Institute of Technology in 2011. He then worked as a research engineer for more than a year in School of Information Systems, Singapore Management University. From August 2015 to May 2015, he visited Institute for Software Research in Carnegie Mellon University. His research interests are in software engineering and data mining area. He has been working on automated prediction techniques, recommendation systems, and empirical studies in software engineering.</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2183/small/cU5yQVpLcE/fbbc3323-6e99-42b7-a854-96d32f5434ee.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2183/small/cU5yQVpLcE/fbbc3323-6e99-42b7-a854-96d32f5434ee.jpg",
         "position": "Student",
         "sponsorship-required": ""
     },
@@ -5362,7 +5362,7 @@
         "short-biography": "<p><span style=\"\">Masakazu Takasu, Catalyst at teamLab, takes us on a journey to his homeland of Japan and their exciting ways of using technology, design and science. teamLab combines these disciplines to create innovative digital solutions often with physical elements of interaction.</span><span style=\"\">Through playing and experimentation, connecting prototyping with 3D graphics, art and much more, they're creating a whole new world of gaming, interactive decorations and augmented reality. </span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2187/small/YU1ERkt1RX/03e5999d-e4b1-4e5a-82f8-e1462561cba7.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2187/small/YU1ERkt1RX/03e5999d-e4b1-4e5a-82f8-e1462561cba7.jpg",
         "position": "Sales/Marketing person",
         "sponsorship-required": ""
     },
@@ -5391,7 +5391,7 @@
         "short-biography": "<p><span style=\"\">I am working with MySQL Database team since 2012. Currently employed at Oracle, based in India, Bangalore working as Principal Software Developer for the Runtime Team of the MySQL Database. My experience is in the database industry. I have worked for Alcatel Lucent's DataBlitz main memory database in past. Completed my Master in Computer Science degree from Illinois Institute of Technology, Chicago, IL in 2014.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2190/small/NHlKUHpFcU/adb6931c-97ed-4249-9d02-4be602264371.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2190/small/NHlKUHpFcU/adb6931c-97ed-4249-9d02-4be602264371.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -5420,7 +5420,7 @@
         "short-biography": "<p><span style=\"\">Andrew Lee (Hualian, Taiwan) \u2013 an active Open Source Liaison focusing on\nthe Debian and LXDE Projects. He worked on localization efforts of various\nkinds of local dialects and aborigines languages in Taiwan.\nHe acreated various localization related packages in Red Hat, Mandrake,\nand Debian distros, and also creates and maintains packages in Debian for\nLXDE project.</span></p><p><span style=\"\">\nAndrew Lee works as a software developer in the Build and Infrastructure team at\nCollabora and has 5 years of experience working with the Open Build\nService(OBS) building both rpm and deb format packages and distribution\ncreations for many different projects and clients. He is now making an\nefforts on packaging OBS in Debian distro.</span></p>",
         "long-biography": "",
         "country": "Taiwan",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2189/small/YmxYY0lieW/5e0d3652-70a4-477a-890a-0bffdaabd8fd.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2189/small/YmxYY0lieW/5e0d3652-70a4-477a-890a-0bffdaabd8fd.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -5454,7 +5454,7 @@
         "short-biography": "<p><span style=\"\">Open-source fanatic, wandering geek, and jittering caffeine addict. I head up SpaceGAMBIT open source space program and am working closely with the Open Source Village team to think of new ways to apply open source to everyday life.</span></p>",
         "long-biography": "",
         "country": "United Kingdom",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2195/small/N2RpR1pMWk/86ce83cc-9849-4822-a862-8df5de47ccb6.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2195/small/N2RpR1pMWk/86ce83cc-9849-4822-a862-8df5de47ccb6.jpg",
         "position": "Sales/Marketing person",
         "sponsorship-required": ""
     },
@@ -5483,7 +5483,7 @@
         "short-biography": "<p><span style=\"\">Keerthana K is a developer based in Cochin, India. She was a participant in GSoC 2016. She's a FOSS enthusiast and contributor who likes to chill out by playing with new technology and writing about her coding escapades. She was also a speaker to DebConf16, the official Debian conference in 2016 held at Cape Town, South Africa.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2196/small/RVJkNjRzbE/b346df6a-d488-4c2a-abe5-ef3b8eb8b358.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2196/small/RVJkNjRzbE/b346df6a-d488-4c2a-abe5-ef3b8eb8b358.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -5512,7 +5512,7 @@
         "short-biography": "<p><span style=\"\">I'm a gentoo linux developer in the Hardened and SELinux projects. I maintain the SELinux policies and userland integration on gentoo.</span></p>",
         "long-biography": "",
         "country": "Sweden",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2200/small/dmlkRGxDND/c92727cc-ada2-4bd5-86ea-5adb4446c8e3.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2200/small/dmlkRGxDND/c92727cc-ada2-4bd5-86ea-5adb4446c8e3.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -5541,7 +5541,7 @@
         "short-biography": "<p><span style=\"\">Viktor Gal is currently working as a data scientist. He got involved in the development of Shogun, while working on his PhD in computer science, in the are of medical image processing. He is currently one of the core developers of the library, and in the last three years he has co-mentored half a dozen Google Summer of Code projects.</span></p>",
         "long-biography": "",
         "country": "Hungary",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2201/small/UnlKUFk1aW/dcca1cb1-09ec-4587-8a64-5699937ed277.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2201/small/UnlKUFk1aW/dcca1cb1-09ec-4587-8a64-5699937ed277.jpg",
         "position": "Data scientist",
         "sponsorship-required": ""
     },
@@ -5570,7 +5570,7 @@
         "short-biography": "<p><span style=\"\">I have been involved with VLC media player mostly as a hobby for 13 years. By day, I develop and reasearch system software for a large Asian electronics company.</span></p>",
         "long-biography": "",
         "country": "Findland",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2203/small/UHVoZ05DSz/c992db27-e5f7-419c-9ae7-2218ea9b7037.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2203/small/UHVoZ05DSz/c992db27-e5f7-419c-9ae7-2218ea9b7037.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -5599,7 +5599,7 @@
         "short-biography": "<p><span style=\"\">I'm an undergraduate student pursuing my computer science degree at Indraprasatha Institute of Information Technology, Delhi. I will be graduating in December 2016. I started working on coala as my GSoC 2015 project. Since then I have been a core maintainer of coala. Further, I was a mentor for Python Software Foundation in GSoC 2016. I have visited multiple conferences representing coala. Currently I'm a Google Code-in mentor for FOSSASIA. Other than that I'm a researcher in Program Analysis and Systems field.</span><span style=\"\">My other passions include photography, cycling, running and football.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2198/small/T0VpWlNtVn/0e133cda-db87-4ada-b46e-3c4e830d8af5.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2198/small/T0VpWlNtVn/0e133cda-db87-4ada-b46e-3c4e830d8af5.jpg",
         "position": "Student",
         "sponsorship-required": ""
     },
@@ -5628,7 +5628,7 @@
         "short-biography": "<p><span style=\"\">Vaishali Thakkar is working as a Linux Kernel engineer at Oracle. She works on memory management and security related parts of the kernel. She often uses Coccinelle to find/fix bugs in the kernel and have previously worked as an Outreachy intern on project Coccinelle. Her area of interest includes embedded systems, operating systems, security and computer architecture.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2205/small/Q241YU1KbD/bdde0f0f-705a-4c9b-a572-4d429fa339c5.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2205/small/Q241YU1KbD/bdde0f0f-705a-4c9b-a572-4d429fa339c5.jpg",
         "position": "Engineer",
         "sponsorship-required": ""
     },
@@ -5662,7 +5662,7 @@
         "short-biography": "<p><span style=\"\">Dr. Emin Ak\u015fehirli is working as a full stack data wrangler at DataSpark. He is preparing data, developing algorithms, productionize them using DevOps techniques, and support them. He is a data scientist, an experienced Java developer, a former Java trainer, and most importantly an open/free culture advocate.</span></p>",
         "long-biography": "",
         "country": "Turkey",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2208/small/K3NuQmE4cV/89671262-4501-4653-85ee-2352994f0070.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2208/small/K3NuQmE4cV/89671262-4501-4653-85ee-2352994f0070.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -5691,7 +5691,7 @@
         "short-biography": "<p><span style=\"\">Lars is the technical lead for Git at Autodesk, working out of Berlin, Germany. His current work involves migrating large codebases to Git, establishing Git workflows within teams, and maintaining a GitHub Enterprise instance. He is a Git contributor, the author of the ShowInGitHub Xcode plugin, and an avid kiteboarder.</span></p>",
         "long-biography": "",
         "country": "Germany",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2210/small/c090K29kbm/a8dcbe8f-8d32-4fd7-9cf7-b87edb999688.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2210/small/c090K29kbm/a8dcbe8f-8d32-4fd7-9cf7-b87edb999688.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -5720,7 +5720,7 @@
         "short-biography": "<p><span style=\"\">Jesper Krogh is an Oracle MySQL Senior Principal Support Engineer who has been using MySQL as a developer and database administrator since 2006. The work he was involved in before joining Oracle included online business applications using complex database architectures and logic. Investigating and solving performance issues are among the tasks Jesper finds most interesting. Jesper lives in Sydney, Australia and enjoys visiting the national parks and traveling.</span></p>",
         "long-biography": "",
         "country": "Australia",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2212/small/SURvazNJa0/e34d1c77-de36-483b-b99a-82ef55816b8c.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2212/small/SURvazNJa0/e34d1c77-de36-483b-b99a-82ef55816b8c.jpg",
         "position": "Technical Analyst",
         "sponsorship-required": ""
     },
@@ -5749,7 +5749,7 @@
         "short-biography": "<p><span style=\"\">Christian Couder is an independent software developer working on Git for GitLab and <a href=\"http://Booking.com\" rel=\"nofollow\" target=\"_blank\">Booking.com</a>. He started contributing to Git more than 10 years ago, and he is now among the top 15 Git developers. He has given presentations about Git at many conferences, like LinuxCon North America and Europe,  since 2009.</span></p>",
         "long-biography": "",
         "country": "France",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2213/small/Z1AzYjJDOG/fc03d208-7c6e-4682-91da-e9ce0052a936.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2213/small/Z1AzYjJDOG/fc03d208-7c6e-4682-91da-e9ce0052a936.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -5778,7 +5778,7 @@
         "short-biography": "Full stack developer with equal interest in python and javascript. Love making web applications and chrome extensions to make life easier. Contributor in FOSSASIA.",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2215/small/aUNlVGRsRz/3fe75667-da24-4798-a19e-6b2db6b55b51.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2215/small/aUNlVGRsRz/3fe75667-da24-4798-a19e-6b2db6b55b51.jpg",
         "position": "",
         "sponsorship-required": ""
     },
@@ -5812,7 +5812,7 @@
         "short-biography": "<p><span style=\"\">bunnie is best known for his work hacking the Microsoft Xbox, as well as for his efforts in designing and manufacturing open source hardware, including the chumby (app-playing alarm clock), chibitronics (teaching electronics through arts and crafts), and Novena (DIY laptop). He received his PhD in EE from MIT in 2002. He currently lives in Singapore where he runs a private product design studio, Kosagi, and he actively mentors several startups and students of the MIT Media Lab.</span></p>",
         "long-biography": "",
         "country": "USA",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2217/small/UmY0M0QrWE/17c9088a-f109-4c2d-994f-7256c2a5b32e.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2217/small/UmY0M0QrWE/17c9088a-f109-4c2d-994f-7256c2a5b32e.jpg",
         "position": "Freelancer",
         "sponsorship-required": ""
     },
@@ -5841,7 +5841,7 @@
         "short-biography": "<p><span style=\"\">Yuen Hoe is a long time programmer and all round free-spirited geek whose interests have taken him across a variety of endeavours, notably including contributing code as a Summer of Code student - and later in his free time - to Free Software projects like KDE and Thunderbird.</span><span style=\"\">Nowadays He is the technical co-founder of <a href=\"http://MomoCentral.com\" rel=\"nofollow\" target=\"_blank\">MomoCentral.com</a>, where he spends his days architecting technical infrastructure, vanquishing marauding bugs, and working with the team in the battle against wasteful distractions to make cross-internet client-developer engagements more fruitful.</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2224/small/YjBlRjNwWn/7d827abd-9ceb-4938-a3c3-4eaf5eaa7f92.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2224/small/YjBlRjNwWn/7d827abd-9ceb-4938-a3c3-4eaf5eaa7f92.jpg",
         "position": "Startup founder",
         "sponsorship-required": ""
     },
@@ -5870,7 +5870,7 @@
         "short-biography": "<p><span style=\"\">I lead Google's international team of Cloud Architects who publish reference architectures and advise on best practices for moving to a cloud computing model. My professional focus areas include cloud infrastructure, data analytics and machine learning. Before Google, I worked at Amazon Web Services, Standard Chartered Bank and Accenture.</span><span style=\"\">In my spare time I am pursuing a part-time MSc in Computer Science at Georgia Tech, and enjoy making toy projects with Python, Go and C. I consider myself a pragmatist (Emacs with Evil mode) and always look for opportunities to learn from others - so please find me at FOSS and share your knowledge!</span></p>",
         "long-biography": "",
         "country": "Norway",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2289/small/czFBL0hlcX/c5f46ee3-6204-4ea5-bc29-4bd3e5a37389.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2289/small/czFBL0hlcX/c5f46ee3-6204-4ea5-bc29-4bd3e5a37389.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -5899,7 +5899,7 @@
         "short-biography": "<p><span style=\"\">I worked on Hadoop around 2015 for my former company, NTT DATA Inc. Now I'm working on PostgreSQL for NTT OSS Center.</span><span style=\"\">My current jobs:</span><span style=\"\">  * PostgreSQL engineering support and consultation.</span><span style=\"\">  * Extensive quality verification of PostgreSQL releases.</span></p>",
         "long-biography": "",
         "country": "Japan",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2311/small/cm1WdUdQdU/cf2f9938-9c73-4a7a-9cce-b0deee2213eb.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2311/small/cm1WdUdQdU/cf2f9938-9c73-4a7a-9cce-b0deee2213eb.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -5928,7 +5928,7 @@
         "short-biography": "<p><span style=\"\">I am a researcher in computational linguistics. I have been working under the supervision of Francis Bond at NTU for the past 3 years. Among others, my research focuses mainly on deep semantic and syntactic parsing, lexical semantics and computer assisted language learning.</span></p>",
         "long-biography": "",
         "country": "Singapore",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2228/small/OXBKTnNjeX/15ea0a52-db68-4b0f-a1af-7c77b958161d.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2228/small/OXBKTnNjeX/15ea0a52-db68-4b0f-a1af-7c77b958161d.jpg",
         "position": "Researcher",
         "sponsorship-required": ""
     },
@@ -5951,7 +5951,7 @@
         "short-biography": "<p><span style=\"\">Architect by education, designer by heart and choice. Priyasha holds 3 years experience of working at agency of which 1 year was spent working at an open source agency. </span><span style=\"\">Priyasha is an artist, through and through, which means outside of work she finds herself obsessively sketching out new ideas, taking part in online artistry challenges, and visualizing how to make spaces bold, balanced, and beautiful.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2227/small/UE4yYXZTN0/4b597b55-f0b3-4c77-8d94-d50aee203981.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2227/small/UE4yYXZTN0/4b597b55-f0b3-4c77-8d94-d50aee203981.jpg",
         "position": "Designer",
         "sponsorship-required": ""
     },
@@ -5980,7 +5980,7 @@
         "short-biography": "<p><span style=\"\">I am a Fedora Infrastructure Engineer. I develop and maintain various applications within the Fedora Infrastructure. I am primarily a Python/Django developer and love helping people to get started contributing to open source.</span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2306/small/WTlxQTYxen/1cd48f73-f68f-479d-bd43-53d3976c4ac6.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2306/small/WTlxQTYxen/1cd48f73-f68f-479d-bd43-53d3976c4ac6.jpg",
         "position": "Infrastructure Engineer",
         "sponsorship-required": ""
     },
@@ -6003,7 +6003,7 @@
         "short-biography": "<p><span style=\"\">Devrim G\u00fcnd\u00fcz is a long-time PostgreSQL, Red Hat, Fedora contributor, and also working on some more open source projects. His career started as a system administrator, and now he is working as Principle Systems Engineer at EnterpriseDB. He is also a Red Hat Certified Engineer.</span></p>",
         "long-biography": "",
         "country": "Turkey",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2310/small/cE5VbFJRZk/5599fbc6-f05e-4ca3-a2b7-45dbd67aa9b3.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2310/small/cE5VbFJRZk/5599fbc6-f05e-4ca3-a2b7-45dbd67aa9b3.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -6032,7 +6032,7 @@
         "short-biography": "<p><span style=\"\">Poornima Kannan is a physicist by training and a self taught communications consultant.she devotes her time with various causes and organisations trying to make the world a little better everyday. She is the lead of the Random Hacks of Kindness Bangalore site where she works with technologists to build solutions to civic issues </span></p>",
         "long-biography": "",
         "country": "India",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2345/small/MTFyYzZiVC/760cce8b-7ce6-44ad-8c73-c2ae943bf7f3.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2345/small/MTFyYzZiVC/760cce8b-7ce6-44ad-8c73-c2ae943bf7f3.jpg",
         "position": "Developer",
         "sponsorship-required": ""
     },
@@ -6055,7 +6055,7 @@
         "short-biography": "<p><span style=\"\">A software developer for many years of his career, Gary's interests have moved from application development to data; and how best to extract value from it. His hobbies of Adventure riding and cave diving have created a strong interest in GIS systems and spatial databases.</span><span style=\"\">Gary currently works for Fujitsu Australia in their PostgreSQL services team, where he works with Fujitsu's customers to get the best out of PostgreSQL and Fujitsu Enterprise Postgres.</span></p>",
         "long-biography": "",
         "country": "Australia",
-        "small": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2313/small/YVBEbzN3L0/e5bb8aef-04c7-4933-aa22-02d51b3df3e5.jpg",
+        "small-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2313/small/YVBEbzN3L0/e5bb8aef-04c7-4933-aa22-02d51b3df3e5.jpg",
         "position": "PostgreSQL support and services",
         "sponsorship-required": ""
     }

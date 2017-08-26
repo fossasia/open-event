@@ -16,8 +16,8 @@
                 "organisation": "O\u2019Reilly Media",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 1,
                 "icon-image-url": ""
             },
@@ -31,8 +31,8 @@
                 "organisation": "Google",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 2,
                 "icon-image-url": ""
             }
@@ -51,13 +51,13 @@
             "name": "5 minute sessions"
         },
         "starts-at": "2017-05-10T09:00:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#1485CC",
             "id": 2,
             "name": "Performance sessions"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Program chairs Rachel Roumeliotis and Kelsey Hightower open the first day of keynotes.",
         "language": "",
@@ -82,8 +82,8 @@
                 "organisation": "Counter Hack",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 3,
                 "icon-image-url": ""
             }
@@ -102,13 +102,13 @@
             "name": "15 minute sessions"
         },
         "starts-at": "2017-05-10T09:05:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#3DC8C3",
             "id": 1,
             "name": "Open source: From consumer to contributor"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Fans of the comic strip Calvin and Hobbes will undoubtedly remember when Calvin invented the transmogrifier, an ingenious device that could turn one thing into another with a quick ZAP Fans of the comic strip Calvin and Hobbes will undoubtedly remember when Calvin invented the transmogrifier, an ingenious device that could turn one thing into another with a quick ZAP. Evan Booth explains how his adventures in real-world transmogrification have shaped his perspective on open source hardware, manufacturing, and finding potential in the unremarkable.",
         "language": "",
@@ -133,8 +133,8 @@
                 "organisation": "IBM",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 4,
                 "icon-image-url": ""
             }
@@ -153,13 +153,13 @@
             "name": "10 minute sessions"
         },
         "starts-at": "2017-05-10T09:20:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#3DC8C3",
             "id": 1,
             "name": "Open source: From consumer to contributor"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Open source isn\u2019t winning; it\u2019s won. In the last decade, there's been an incredible explosion in open source software. Massive projects have been developed in the open, on open operating systems, using open languages and compilers. But, Christopher Aedo asks, was all the infrastructure open as well?",
         "language": "",
@@ -184,8 +184,8 @@
                 "organisation": "Netflix",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 5,
                 "icon-image-url": ""
             }
@@ -204,13 +204,13 @@
             "name": "15 minute sessions"
         },
         "starts-at": "2017-05-10T09:30:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#9EFF56",
             "id": 4,
             "name": "In Real Life (IRL) sessions"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Netflix has become well known for its contributions to open source, creating and contributing to over 50 active projects. Dianne Marsh tells the story of Spinnaker to demonstrate how open source contributes to Netflix's success and vice versa.",
         "language": "",
@@ -235,8 +235,8 @@
                 "organisation": "Huawei",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 6,
                 "icon-image-url": ""
             }
@@ -255,13 +255,13 @@
             "name": "10 minute sessions"
         },
         "starts-at": "2017-05-10T09:45:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#FF3046",
             "id": 7,
             "name": "Random"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Ying Xiong discusses the fast-growing open source market in China, exploring the role Huawei plays in China\u2019s open source software industry, developer community engagement, and Huawei\u2019s continuous commitment to open source strategy and growing contribution to various open source technologies. Along the way, Ying shares use cases on how Huawei uses innovated open source technologies to solve problems for its customers and partners.",
         "language": "",
@@ -286,8 +286,8 @@
                 "organisation": "The Linux Foundation",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 7,
                 "icon-image-url": ""
             }
@@ -306,13 +306,13 @@
             "name": "5 minute sessions"
         },
         "starts-at": "2017-05-10T09:55:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#FF3046",
             "id": 7,
             "name": "Random"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Global confidence in institutions is in steep decline worldwide. Technology frequently lets us down too. Brian Behlendorf explains why trust is essential to building a functioning society and how it's under serious threat. Brian argues that open source software offers a model for how we can work together, even when we have no reason to trust each other.",
         "language": "",
@@ -337,8 +337,8 @@
                 "organisation": "The White House",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 8,
                 "icon-image-url": ""
             }
@@ -357,13 +357,13 @@
             "name": "15 minute sessions"
         },
         "starts-at": "2017-05-10T10:00:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#FF3046",
             "id": 7,
             "name": "Random"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Last August, the White House released the Federal Source Code Policy to improve nationwide access to the government\u2019s custom-developed software. Alvin Salehi walks you through some of the government's coolest open source projects available on the newly launched Code.gov.",
         "language": "",
@@ -388,8 +388,8 @@
                 "organisation": "Avi Networks",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 9,
                 "icon-image-url": ""
             }
@@ -408,13 +408,13 @@
             "name": "Sessions"
         },
         "starts-at": "2017-05-10T11:00:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#1485CC",
             "id": 2,
             "name": "Performance sessions"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Guru Chahal and Ranga Rajagopalan share techniques to intelligently scale application and load-balancing resources automatically and on-demand to achieve just-in-time-scaling across clouds without compromising an application's performance.",
         "language": "",
@@ -439,8 +439,8 @@
                 "organisation": "Puppet labs",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 10,
                 "icon-image-url": ""
             }
@@ -459,13 +459,13 @@
             "name": "Sessions"
         },
         "starts-at": "2017-05-10T11:00:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#3DC8C3",
             "id": 1,
             "name": "Open source: From consumer to contributor"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "This talk is for you\u2014the documentarians, developers, students, or community members wondering what you can contribute to open source and how to get started. Lucy Wyman discusses several ways open source projects need your help, what to look for in a project you're contributing to, and some first steps to making your first pull request.",
         "language": "",
@@ -490,8 +490,8 @@
                 "organisation": "Cambia Health solutions",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 11,
                 "icon-image-url": ""
             }
@@ -510,13 +510,13 @@
             "name": "Sessions"
         },
         "starts-at": "2017-05-10T11:00:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#FF3046",
             "id": 6,
             "name": "Security sessions"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "While the rest of the world tries to solve the problems of insecure software with firewalls and intrusion detection, Jeremy Anderson explains how to solve the problem where it starts: at the code that defines it. Join Jeremy to learn how to fix code security defects when they\u2019re created instead of during production when it\u2019s already too late.",
         "language": "",
@@ -541,8 +541,8 @@
                 "organisation": "Microsoft",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 12,
                 "icon-image-url": ""
             }
@@ -561,13 +561,13 @@
             "name": "Sessions"
         },
         "starts-at": "2017-05-10T11:00:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#9EFF56",
             "id": 4,
             "name": "In Real Life (IRL) sessions"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Recently, Microsoft went from calling open source, a cancer to being the biggest contributor on GitHub. Edward Thomson explains how Microsoft, one of the unlikeliest software vendors, began to embrace and even extend (but not extinguish) open source software and how you can begin using and contributing to open source software in your organization.",
         "language": "",
@@ -592,8 +592,8 @@
                 "organisation": "University of Wisconsin-Madison",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 13,
                 "icon-image-url": ""
             },
@@ -607,8 +607,8 @@
                 "organisation": "University of Wisconsin-Madison",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 14,
                 "icon-image-url": ""
             }
@@ -627,13 +627,13 @@
             "name": "Keynotes"
         },
         "starts-at": "2017-05-08T09:00:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#FF3046",
             "id": 6,
             "name": "Security sessions"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Securing your network is not enough. Every service that you deploy is a window into your data center from the outside world\u2014a window that could be exploited by an attacker. Bart Miller and Elisa Heymann explain how to minimize the security flaws in the software you develop or manage.",
         "language": "",
@@ -658,8 +658,8 @@
                 "organisation": "Google",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 15,
                 "icon-image-url": ""
             }
@@ -678,13 +678,13 @@
             "name": "Tutorials"
         },
         "starts-at": "2017-05-08T09:00:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 3,
             "name": "Architecture sessions"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Members of Google\u2019s Site Reliability Engineering (SRE) team guide you through the principles of systems engineering. You'll work in small groups to solve a systems problem, using ideas from distributed computing to build a sample system and gain practical experience with the issues surrounding large-scale system design.",
         "language": "",
@@ -709,8 +709,8 @@
                 "organisation": "Evolutionnext.com",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 16,
                 "icon-image-url": ""
             }
@@ -729,13 +729,13 @@
             "name": "Tutorials"
         },
         "starts-at": "2017-05-08T09:00:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 3,
             "name": "Architecture sessions"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "RxJava is a relatively new way of expressing and composing streams of data as well as asynchronous computations. Daniel Hinojosa demonstrates how to use RxJava safely and effectively in both greenfield and legacy projects, allowing you to write expressive, thread-safe, and well-performing code on both the server and mobile devices..",
         "language": "",
@@ -760,8 +760,8 @@
                 "organisation": "JetBrains",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 17,
                 "icon-image-url": ""
             }
@@ -780,13 +780,13 @@
             "name": "Tutorials"
         },
         "starts-at": "2017-05-08T09:00:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 3,
             "name": "Architecture sessions"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Hadi Hariri explains the basics of functional programming using Kotlin\u2014where it fits in with the object orientation paradigm and how to use it in your everyday work. Along the way, Hadi covers important functional programming concepts and demonstrates how and where to apply functional patterns to cut down boilerplate code and keep it maintainable.",
         "language": "",
@@ -811,8 +811,8 @@
                 "organisation": "Powerful Python",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 18,
                 "icon-image-url": ""
             }
@@ -831,13 +831,13 @@
             "name": "Tutorials"
         },
         "starts-at": "2017-05-08T09:00:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 5,
             "name": " Adopt This Now sessions"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Python decorators are key to many popular Python frameworks, including Flask, Django, pytest, and SQLAlchemy. While using decorators is easy, writing them requires a sophisticated understanding of Python's memory model, function abstractions, and generic programming. Aaron Maxwell helps you attain fluent mastery in writing and leveraging Python decorators.",
         "language": "",
@@ -862,8 +862,8 @@
                 "organisation": "Pivotal",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 18,
                 "icon-image-url": ""
             }
@@ -882,13 +882,13 @@
             "name": "Tutorials"
         },
         "starts-at": "2017-05-09T09:00:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#3DC8C3",
             "id": 1,
             "name": " Open source: From consumer to contributor"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Microservices invite architectural complexity that few are prepared to address. Joshua Long explores how high-performance organizations like Ticketmaster, Alibaba, and Netflix make short work of that complexity with Spring Boot and Spring Cloud, moving beyond mere theory to implement real code to support a microservices system, live.",
         "language": "",
@@ -913,8 +913,8 @@
                 "organisation": "Pivotal",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 1,
                 "icon-image-url": ""
             }
@@ -933,13 +933,13 @@
             "name": "Tutorials"
         },
         "starts-at": "2017-05-09T13:30:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 5,
             "name": "Adopt This Now sessions"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Measure all the things. It\u2019s a great mantra for any organization that wants the benefits of cloud computing while maintaining solid operational stability. But how? With what tooling? Kelsey Hightower guides you through hands-on tutorials using open source software that empowers you to continue down the journey of measuring the right things using open source tools.",
         "language": "",
@@ -964,8 +964,8 @@
                 "organisation": "O\u2019Reilly Media",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 1,
                 "icon-image-url": ""
             },
@@ -979,8 +979,8 @@
                 "organisation": "Google",
                 "speaking-experience": "",
                 "thumbnail-image-url": "",
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "id": 2,
                 "icon-image-url": ""
             }
@@ -999,13 +999,13 @@
             "name": "5 minute sessions"
         },
         "starts-at": "2017-05-11T09:00:00-05:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#1485CC",
             "id": 2,
             "name": "Performance sessions"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Program chairs Rachel Roumeliotis and Kelsey Hightower open the second day of keynotes.",
         "language": "",

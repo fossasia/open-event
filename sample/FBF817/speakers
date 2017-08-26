@@ -24,7 +24,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product Manager",
         "sponsorship-required": ""
     },
@@ -53,7 +53,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "United Kingdom",
-        "small": "",
+        "small-image-url": "",
         "position": "Engineering Manager",
         "sponsorship-required": ""
     },
@@ -82,7 +82,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "United Kingdom",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -111,7 +111,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineering Manager",
         "sponsorship-required": ""
     },
@@ -140,7 +140,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product Manager",
         "sponsorship-required": ""
     },
@@ -169,7 +169,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -198,7 +198,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product Manager",
         "sponsorship-required": ""
     },
@@ -227,7 +227,7 @@
         "gender": "female",
         "thumbnail-image-url": "",
         "country": "United States",
-        "small": "",
+        "small-image-url": "",
         "position": "Product Manager",
         "sponsorship-required": ""
     },
@@ -256,7 +256,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "United States",
-        "small": "",
+        "small-image-url": "",
         "position": "Engineering Manager",
         "sponsorship-required": ""
     },
@@ -285,7 +285,7 @@
         "gender": "female",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Engineering Manager",
         "sponsorship-required": ""
     },
@@ -314,7 +314,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Engineering Manager",
         "sponsorship-required": ""
     },
@@ -343,7 +343,7 @@
         "gender": "female",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -372,7 +372,7 @@
         "gender": "female",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Global Head of Production",
         "sponsorship-required": ""
     },
@@ -401,7 +401,7 @@
         "gender": "female",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Executive Producer",
         "sponsorship-required": ""
     },
@@ -430,7 +430,7 @@
         "gender": "female",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Head of VR",
         "sponsorship-required": ""
     },
@@ -459,7 +459,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "CEO",
         "sponsorship-required": ""
     },
@@ -488,7 +488,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "CEO",
         "sponsorship-required": ""
     },
@@ -517,7 +517,7 @@
         "gender": "female",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Product Marketing Manager",
         "sponsorship-required": ""
     },
@@ -546,7 +546,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -575,7 +575,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "Indonesia",
-        "small": "",
+        "small-image-url": "",
         "position": "Managing Partner",
         "sponsorship-required": ""
     },
@@ -604,7 +604,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Engineering Manager",
         "sponsorship-required": ""
     },
@@ -633,7 +633,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "England",
-        "small": "",
+        "small-image-url": "",
         "position": "Product Manager",
         "sponsorship-required": ""
     },
@@ -662,7 +662,7 @@
         "gender": "female",
         "thumbnail-image-url": "",
         "country": "England",
-        "small": "",
+        "small-image-url": "",
         "position": "Growth Manager",
         "sponsorship-required": ""
     },
@@ -691,7 +691,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "VP of Business Development",
         "sponsorship-required": ""
     },
@@ -720,7 +720,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Engineering Manager",
         "sponsorship-required": ""
     },
@@ -749,7 +749,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -778,7 +778,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -807,7 +807,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Global Gaming Partnerships Director ",
         "sponsorship-required": ""
     },
@@ -836,7 +836,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -865,7 +865,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -894,7 +894,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Founder & President",
         "sponsorship-required": ""
     },
@@ -923,7 +923,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "England",
-        "small": "",
+        "small-image-url": "",
         "position": "Engineering Manager",
         "sponsorship-required": ""
     },
@@ -952,7 +952,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product Designer",
         "sponsorship-required": ""
     },
@@ -981,7 +981,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Product Manager",
         "sponsorship-required": ""
     },
@@ -1010,7 +1010,7 @@
         "gender": "female",
         "thumbnail-image-url": "",
         "country": "India",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -1039,7 +1039,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "England",
-        "small": "",
+        "small-image-url": "",
         "position": "Partner Engineer",
         "sponsorship-required": ""
     },
@@ -1068,7 +1068,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Strategic Partnership Manager",
         "sponsorship-required": ""
     },
@@ -1097,7 +1097,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Strategic Partnerships",
         "sponsorship-required": ""
     },
@@ -1126,7 +1126,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -1155,7 +1155,7 @@
         "gender": "female",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -1184,7 +1184,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -1213,7 +1213,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Partner Manager",
         "sponsorship-required": ""
     },
@@ -1242,7 +1242,7 @@
         "gender": "female",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -1271,7 +1271,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Product Manager",
         "sponsorship-required": ""
     },
@@ -1300,7 +1300,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -1329,7 +1329,7 @@
         "gender": "female",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Research Manager",
         "sponsorship-required": ""
     },
@@ -1358,7 +1358,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product Manager",
         "sponsorship-required": ""
     },
@@ -1387,7 +1387,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -1416,7 +1416,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product Manager",
         "sponsorship-required": ""
     },
@@ -1445,7 +1445,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Head of Development Engineering for Mobile",
         "sponsorship-required": ""
     },
@@ -1474,7 +1474,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product manager",
         "sponsorship-required": ""
     },
@@ -1503,7 +1503,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Data Scientist",
         "sponsorship-required": ""
     },
@@ -1532,7 +1532,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -1561,7 +1561,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Engineering manager",
         "sponsorship-required": ""
     },
@@ -1590,7 +1590,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Engineering manager",
         "sponsorship-required": ""
     },
@@ -1619,7 +1619,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Technical program manager",
         "sponsorship-required": ""
     },
@@ -1648,7 +1648,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Research Lead",
         "sponsorship-required": ""
     },
@@ -1677,7 +1677,7 @@
         "gender": "Female",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Product Manager",
         "sponsorship-required": ""
     },
@@ -1706,7 +1706,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Research Scientist",
         "sponsorship-required": ""
     },
@@ -1735,7 +1735,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Growth Marketing Director",
         "sponsorship-required": ""
     },
@@ -1764,7 +1764,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Engineering manager",
         "sponsorship-required": ""
     },
@@ -1793,7 +1793,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "UX Research",
         "sponsorship-required": ""
     },
@@ -1822,7 +1822,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -1851,7 +1851,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Marketing operations manager",
         "sponsorship-required": ""
     },
@@ -1880,7 +1880,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Marketing operations manager",
         "sponsorship-required": ""
     },
@@ -1909,7 +1909,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Chief product officer",
         "sponsorship-required": ""
     },
@@ -1938,7 +1938,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "VP, partnerships",
         "sponsorship-required": ""
     },
@@ -1967,7 +1967,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "VP",
         "sponsorship-required": ""
     },
@@ -1996,7 +1996,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product manager",
         "sponsorship-required": ""
     },
@@ -2025,7 +2025,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Director",
         "sponsorship-required": ""
     },
@@ -2054,7 +2054,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Founder",
         "sponsorship-required": ""
     },
@@ -2083,7 +2083,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Founder and CEO",
         "sponsorship-required": ""
     },
@@ -2112,7 +2112,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "CEO",
         "sponsorship-required": ""
     },
@@ -2141,7 +2141,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product marketing manager",
         "sponsorship-required": ""
     },
@@ -2170,7 +2170,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Partnerships Director",
         "sponsorship-required": ""
     },
@@ -2199,7 +2199,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Editor-in-chief",
         "sponsorship-required": ""
     },
@@ -2228,7 +2228,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Head of programming",
         "sponsorship-required": ""
     },
@@ -2257,7 +2257,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "President",
         "sponsorship-required": ""
     },
@@ -2286,7 +2286,7 @@
         "gender": "female",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "President",
         "sponsorship-required": ""
     },
@@ -2314,7 +2314,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Software engineer",
         "sponsorship-required": ""
     },
@@ -2343,7 +2343,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product manager",
         "sponsorship-required": ""
     },
@@ -2372,7 +2372,7 @@
         "gender": "female",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product marketing lead",
         "sponsorship-required": ""
     },
@@ -2401,7 +2401,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product marketing lead",
         "sponsorship-required": ""
     },
@@ -2430,7 +2430,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product marketing director",
         "sponsorship-required": ""
     },
@@ -2459,7 +2459,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product manager",
         "sponsorship-required": ""
     },
@@ -2488,7 +2488,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product marketing manager",
         "sponsorship-required": ""
     },
@@ -2517,7 +2517,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Research manager",
         "sponsorship-required": ""
     },
@@ -2546,7 +2546,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product manager",
         "sponsorship-required": ""
     },
@@ -2575,7 +2575,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Software engineer",
         "sponsorship-required": ""
     },
@@ -2604,7 +2604,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product manager",
         "sponsorship-required": ""
     },
@@ -2633,7 +2633,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Engineering manager",
         "sponsorship-required": ""
     },
@@ -2662,7 +2662,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -2691,7 +2691,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -2720,7 +2720,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -2749,7 +2749,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Research scientist",
         "sponsorship-required": ""
     },
@@ -2778,7 +2778,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Engineering Manager",
         "sponsorship-required": ""
     },
@@ -2807,7 +2807,7 @@
         "gender": "female",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -2836,7 +2836,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Software Engineer",
         "sponsorship-required": ""
     },
@@ -2865,7 +2865,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Engineering Manager",
         "sponsorship-required": ""
     },
@@ -2894,7 +2894,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Product Manager",
         "sponsorship-required": ""
     },
@@ -2923,7 +2923,7 @@
         "gender": "female",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Technical program Manager",
         "sponsorship-required": ""
     },
@@ -2952,7 +2952,7 @@
         "gender": "female",
         "thumbnail-image-url": "",
         "country": "",
-        "small": "",
+        "small-image-url": "",
         "position": "Security Engineer",
         "sponsorship-required": ""
     },
@@ -2981,7 +2981,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "CEO and Co-founder",
         "sponsorship-required": ""
     },
@@ -3014,7 +3014,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Chief Technology Officer",
         "sponsorship-required": ""
     },
@@ -3043,7 +3043,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Director, Connectivity program",
         "sponsorship-required": ""
     },
@@ -3072,7 +3072,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Director, AML",
         "sponsorship-required": ""
     },
@@ -3101,7 +3101,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Chief scientist, Oculus research",
         "sponsorship-required": ""
     },
@@ -3130,7 +3130,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "VP of engineering and head of building 8",
         "sponsorship-required": ""
     },
@@ -3159,7 +3159,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "VP of platform and marketplace",
         "sponsorship-required": ""
     },
@@ -3188,7 +3188,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "Head of social VR",
         "sponsorship-required": ""
     },
@@ -3217,7 +3217,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "VP of product partnerships",
         "sponsorship-required": ""
     },
@@ -3246,7 +3246,7 @@
         "gender": "male",
         "thumbnail-image-url": "",
         "country": "US",
-        "small": "",
+        "small-image-url": "",
         "position": "VP of messaging products",
         "sponsorship-required": ""
     }

@@ -5,7 +5,7 @@
   "id": 173,
   "timezone": "US/Pacific",
   "ends-at": "2017-07-01T09:30:00-07:00",
-  "copyright": {
+  "event-copyright": {
     "holder": "Mozilla",
     "year": 2017,
     "licence": "Creative Commons Attribution License",
@@ -33,7 +33,7 @@
     "tracks_ver": 4
   },
   "ticket-url": "",
-  "background-image": "/images/mozilla_banner.jpg",
+  "original-image-url": "/images/mozilla_banner.jpg",
   "starts-at": "2017-06-26T12:00:00-07:00",
   "organizer-name": "Mozilla",
   "schedule-published-on": null,
@@ -71,8 +71,8 @@
   "location-name": "San Francisco, California, USA (Hilton & Parc 55 Union Square)",
   "large": "",
   "searchable-location-name": null,
-  "call-for-papers": null,
-  "has-session-speakers": true,
+  "speakers-call": null,
+  "is-sessions-speakers-enabled": true,
   "thumbnail-image-url": "/images/mozilla_banner.jpg",
   "logo-url": "/images/mozilla_logo.png",
   "latitude": 37.784878,
