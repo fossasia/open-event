@@ -1,7 +1,6 @@
 {
-  "Email": "dev@fossasia.org",
-  "App_Name": "Droidcon",
-  "Api_Link": ""
+  "email": "info@droidcon.it",
+  "app-name": "Droidcon 2017",
+  "api-link": "",
+  "is-auth-enabled": false
 }
-
-
