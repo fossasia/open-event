@@ -28,7 +28,6 @@
             }
         ],
         "color": "#BF532E",
-        "track_image_url": "",
         "font-color": "#FFFFFF",
         "id": 1
     },
@@ -49,7 +48,6 @@
             }
         ],
         "color": "#FF3046",
-        "track_image_url": "",
         "font-color": "#FFFFFF",
         "id": 2
     },
@@ -98,7 +96,6 @@
             }
         ],
         "color": "#E8782C",
-        "track_image_url": "",
         "font-color": "#FFFFFF",
         "id": 3
     },
@@ -119,7 +116,6 @@
             }
         ],
         "color": "#9EFF56",
-        "track_image_url": "",
         "font-color": "#OOOOOO",
         "id": 4
     },
@@ -152,7 +148,6 @@
             }
         ],
         "color": "#B21212",
-        "track_image_url": "",
         "font-color": "#FFFFFF",
         "id": 5
     },
@@ -169,7 +164,6 @@
             }
         ],
         "color": "#1485CC",
-        "track_image_url": "",
         "font-color": "#FFFFFF",
         "id": 6
     },
@@ -186,7 +180,6 @@
             }
         ],
         "color": "#3DC8C3",
-        "track_image_url": "",
         "font-color": "#FFFFFF",
         "id": 7
     },
@@ -203,7 +196,6 @@
             }
         ],
         "color": "#3DC8C3",
-        "track_image_url": "",
         "font-color": "#FFFFFF",
         "id": 8
     },
@@ -228,7 +220,6 @@
             }
         ],
         "color": "#B21212",
-        "track_image_url": "",
         "font-color": "#FFFFFF",
         "id": 9
     },
@@ -245,7 +236,6 @@
             }
         ],
         "color": "#FF3030",
-        "track_image_url": "",
         "font-color": "#FFFFFF",
         "id": 10
     },
@@ -262,7 +252,6 @@
             }
         ],
         "color": "#BF532E",
-        "track_image_url": "",
         "font-color": "#FFFFFF",
         "id": 11
     },
@@ -287,7 +276,6 @@
             }
         ],
         "color": "#1C86EE",
-        "track_image_url": "",
         "font-color": "#FFFFFF",
         "id": 12
     },
@@ -308,7 +296,6 @@
             }
         ],
         "color": "#7A378B",
-        "track_image_url": "",
         "font-color": "#FFFFFF",
         "id": 13
     },
@@ -325,7 +312,6 @@
             }
         ],
         "color": "#FF7F00",
-        "track_image_url": "",
         "font-color": "#FFFFFF",
         "id": 14
     },
@@ -350,7 +336,6 @@
             }
         ],
         "color": "#3CB371",
-        "track_image_url": "",
         "font-color": "#FFFFFF",
         "id": 15
     },
@@ -363,7 +348,6 @@
             }
         ],
         "color": "#00868B",
-        "track_image_url": "",
         "font-color": "#FFFFFF",
         "id": 16
     },
@@ -376,7 +360,6 @@
             }
         ],
         "color": "#E6E6FA",
-        "track_image_url": "",
         "font-color": "#OOOOOO",
         "id": 17
     }

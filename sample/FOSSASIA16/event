@@ -45,18 +45,18 @@
   "starts-at": "2016-03-18T09:30:00+08:00",
   "id": 20,
   "name": "FOSSASIA 2016",
-  "call-for-papers": {
+  "speakers-call": {
     "announcement": "<p>Wanna speak at our prestigious event. Send us a proposal</p>",
-    "start_date": "2016-03-10T19:30:00+00:00",
+    "starts-at": "2016-03-10T19:30:00+00:00",
     "timezone": "UTC",
     "privacy": "public",
-    "end_date": "2016-03-16T20:30:00+00:00"
+    "ends-at": "2016-03-16T20:30:00+00:00"
   },
   "logo-url": "/images/fossasia-dark.png",
   "timezone": "Asia/Singapore",
   "searchable-location-name": null,
   "description": "The Internet of Things for Me at Asia's Premier Open Technology Event",
-  "has-session-speakers": true,
+  "is-sessions-speakers-enabled": true,
   "topic": "Science & Technology",
   "schedule-published-on": "2016-03-18T00:00:00+08:00",
   "state": "Completed",
@@ -68,7 +68,7 @@
     "sessions_ver": 3,
     "tracks_ver": 4
   },
-  "background-image": "/images/fossasia16.jpg",
+  "original-image-url": "/images/fossasia16.jpg",
   "email": "contact@fossasia.org",
   "sub-topic": null,
   "type": "Conference",
@@ -78,7 +78,7 @@
   "ends-at": "2016-03-20T17:30:00+08:00",
   "privacy": "public",
   "code-of-conduct": "",
-  "copyright": {
+  "event-copyright": {
     "logo-url": "https://i.creativecommons.org/l/by/4.0/80x15.png",
     "licence-url": "http://creativecommons.org/licenses/by/4.0/",
     "holder": "FOSSASIA",

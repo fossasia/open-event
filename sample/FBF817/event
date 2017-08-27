@@ -4,11 +4,11 @@
     "latitude": 37.329008,
     "longitude": -121.888794,
     "location-name": "San Jose Convention Center, 150 W San Carlos St  San Jose  CA USA 95113 ",
-    "start-time": "2017-04-18T10:00:00-07:00",
-    "end-time": "2017-04-19T10:00:00-07:00",
+    "starts-at": "2017-04-18T10:00:00-07:00",
+    "ends-at": "2017-04-19T10:00:00-07:00",
     "timezone": "US / Pacific",
     "description": "Join us for our annual 2-day event, where developers and businesses come together to explore the future of technology. Learn how Facebook connects the world through new products and innovation. This year’s event is bigger than ever – with more than 50 sessions, interactive experiences, and the opportunity to meet one-on-one with members of the Facebook team.",
-    "background-image": "/images/background.jpg",
+    "original-image-url": "/images/background.jpg",
     "logo-url": "/images/fbf8.png",
     "organizer-name": "Facebook",
     "organizer-description": "Join us for our annual 2-day event, where developers and businesses come together to explore the future of technology. Learn how Facebook connects the world through new products and innovation. This year’s event is bigger than ever – with more than 50 sessions, interactive experiences, and the opportunity to meet one-on-one with members of the Facebook team.",
@@ -41,7 +41,7 @@
   "topic": "Science & Technology",
   "sub-topic": "High Tech",
   "code-of-conduct": "",
-  "copyright": {
+  "event-copyright": {
     "logo-url": "",
     "licence-url": "https://en.wikipedia.org/wiki/All_rights_reserved",
     "holder": "Facebook",
@@ -49,11 +49,11 @@
     "holder-url": null,
     "year": 2017
   },
-  "call-for-papers": null,
+  "speakers-call": null,
   "email": null,
-  "has-session-speakers": false,
+  "is-sessions-speakers-enabled": false,
   "identifier": "7d16c124",
-  "large": null,
+  "large-image-url": null,
   "licence-details": {
     "logo-url": "",
     "compact-logo-url": "",

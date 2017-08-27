@@ -15,8 +15,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 2,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Michael Slater",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -36,13 +36,13 @@
             "name": "50 minutes session"
         },
         "starts-at": "2017-04-18T12:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#FF3046",
             "id": 2,
             "name": "Camera"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Come hear more about Camera Effects Platform, a suite of creative tools that lets you create effects for the Facebook camera, from simple photo frames to interactive masks and effects that use Augmented Reality (AR). In this session you\u2019ll learn what camera effects are, how to create and submit your own, and how you can connect with the audiences that matter to you by providing rich experiences that help them express themselves.",
         "language": "",
@@ -66,8 +66,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 4,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Lucas Rocha ",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -92,13 +92,13 @@
             "name": "50 minutes session"
         },
         "starts-at": "2017-04-18T12:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 3,
             "name": "Engineering & Open Source"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Components for Android allows developers to implement complex, efficient RecyclerViews through a simple declarative API. In this session we\u2019ll discuss the function and features of this powerful framework.",
         "language": "",
@@ -122,8 +122,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 6,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Justin Rogers",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -153,13 +153,13 @@
             "name": "50 minutes session"
         },
         "starts-at": "2017-04-18T12:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 5,
             "name": "Virtual Reality"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Web-based frameworks such as React VR are making it easier than ever to create VR content that can be shared with a huge audience across VR, mobile, and the web. Coupled with the new web browser that Oculus is building, more of the web will become immersive over the coming years. Join us to learn what you can build with WebVR and how this new technology can help enhance your existing content.",
         "language": "",
@@ -183,8 +183,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 9,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Kemal El Moujahid",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -209,13 +209,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T12:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#3DC8C3",
             "id": 8,
             "name": "Messenger"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Facebook Messenger connects over a billion people around the world. For marketers and bot builders, this session presents best practices and tips for engaging your audience with Messenger.",
         "language": "",
@@ -239,8 +239,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 13,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Mikhail Larionov",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -265,13 +265,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T13:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#3DC8C3",
             "id": 8,
             "name": "Messenger"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Understand the features and technology available to developers in Messenger. Engineers and bot developers, join us for a technical deep dive, including best practices on major features, and updates on the latest in the Messenger Platform.",
         "language": "",
@@ -295,8 +295,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 15,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Tom Occhino",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -321,13 +321,13 @@
             "name": "50 minutes session"
         },
         "starts-at": "2017-04-18T13:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 3,
             "name": "Engineering & Open Source"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "With cutting-edge rendering and data-fetching, React and GraphQL continue to revolutionize modern apps. In this session, we\u2019ll discuss new developments in these frameworks that will help improve performance in the next evolution of app design.",
         "language": "",
@@ -351,8 +351,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 17,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Megan Summers",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -392,13 +392,13 @@
             "name": "50 minutes session"
         },
         "starts-at": "2017-04-18T13:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 5,
             "name": "Virtual Reality"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Learn how to develop a VR experience, and take a project from creative idea to a piece ready for prime time. Gain best practices and tips and tricks for producing experiences, how to approach acting and directing in VR, and distribution.",
         "language": "",
@@ -422,8 +422,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 22,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Tejal Parekh",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -448,13 +448,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T13:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#9EFF56",
             "id": 4,
             "name": "Games"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Facebook Gameroom helps you build your business and connect with highly engaged players on a new gaming platform dedicated to gaming. Join us to learn top tips on how to get started with the SDK, publish native games, and take advantage of services like hosting.",
         "language": "",
@@ -478,8 +478,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 25,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Khailee Ng",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -499,13 +499,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T13:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 9,
             "name": "General"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "How does one succeed in creating products for a world that is increasingly divided? Bold ideas are proposed, changes in Southeast Asia, and personal confessions from Khailee Ng's journey from petty crimes to repeatedly creating successful startups in emerging markets.",
         "language": "",
@@ -529,8 +529,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 27,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Dolapo Falola",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -544,8 +544,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 154,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Sammi Krug",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -565,13 +565,13 @@
             "name": "50 minutes session"
         },
         "starts-at": "2017-04-18T13:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#FF3046",
             "id": 2,
             "name": "Camera"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Facebook's Camera Effects Platform includes AR Studio, a new tool that lets 3D artists and developers create interactive photo and video effects for the new Facebook camera.  Join this live demo to learn more about AR Studio and what\u2019s involved in building effects, and see an effect be built live on stage.",
         "language": "",
@@ -595,8 +595,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 28,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Simon Cross",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -621,13 +621,13 @@
             "name": "50 minutes session"
         },
         "starts-at": "2017-04-18T14:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#BF532E",
             "id": 10,
             "name": "Workplace"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Workplace by Facebook is changing the way companies are run and how teams work together. Learn about our new integration APIs for bots, file storage, e-discovery and live video streaming. See how we're automating workflows at Facebook.",
         "language": "",
@@ -651,8 +651,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 30,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Gary Urteag",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -672,13 +672,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T14:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#BF532E",
             "id": 10,
             "name": "Workplace"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Gary Urteaga shares his entrepreneurial journey from his initial curiosity about Silicon Valley, various web & app projects, milestones as a startup founder, and his work helping entrepreneurs transform big ideas into startups that solve the humanity's grand challenges.",
         "language": "",
@@ -702,8 +702,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 31,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Christoph Pojer ",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -728,13 +728,13 @@
             "name": "50 minutes session"
         },
         "starts-at": "2017-04-18T14:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 3,
             "name": "Engineering & Open source"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Yarn and Jest are popular and widely adopted open source projects. In this session, we\u2019ll present our roadmap for these projects and share our experiences \u2013 good and bad \u2013 in releasing and maintaining popular open source projects.",
         "language": "",
@@ -758,8 +758,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 33,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Ray Guang",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -784,13 +784,13 @@
             "name": "50 minutes session"
         },
         "starts-at": "2017-04-18T14:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#9EFF56",
             "id": 4,
             "name": "Games"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Distribution on mobile is exceptionally difficult. Come hear about Facebook\u2019s latest way of solving mobile game distribution in a fun way that brings people together to play and compete across our social platforms.",
         "language": "",
@@ -814,8 +814,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 37,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Andrew Imm",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -840,13 +840,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T14:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 5,
             "name": "Virtual Reality"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Learn how React VR builds upon React Native, and how the supporting layers and libraries interact. We will take you through a sample VR web app built with React VR, and show how easy it is to create immersive experiences across VR, mobile, and web.",
         "language": "",
@@ -870,8 +870,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 39,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Jack (Peng) Zhang",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -891,13 +891,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T14:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 9,
             "name": "General"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "There\u2019s been 110 billion-dollar tech startups since 2010, and behind them lies the whole route of China's mobile economy boom. With a highly connected and digitalized social environment, it\u2019s possible to fill big gaps of user demands in a more efficient and intelligent way - a pattern that can be repeated.",
         "language": "",
@@ -921,8 +921,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 40,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Volodymyr Giginiak",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -936,8 +936,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 41,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Stef Smet",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -957,13 +957,13 @@
             "name": "50 minutes session"
         },
         "starts-at": "2017-04-18T15:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#FF3046",
             "id": 2,
             "name": "Camera"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "With AI that transforms images, Facebook\u2019s Camera Effects Platform lets you create animated masks, interactive overlays, frames, and other effects that people can apply to their photos and videos in the Facebook camera. Learn best technical and design practices for creating effects using this innovative technology, and see examples of successful effects.",
         "language": "",
@@ -987,8 +987,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 42,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Mike Booth",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1008,13 +1008,13 @@
             "name": "50 minutes session"
         },
         "starts-at": "2017-04-18T15:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 5,
             "name": "Virtual Reality"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "A behind-the-scenes look at how we built Facebook Spaces, the new immersive social VR experience from Facebook. We\u2019ll walk through major product features and how they were developed, sharing the lessons we learned about how to create compelling social experiences in VR.",
         "language": "",
@@ -1038,8 +1038,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 43,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Astha Agarwal",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1064,13 +1064,13 @@
             "name": "50 minutes session"
         },
         "starts-at": "2017-04-18T15:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#BF532E",
             "id": 10,
             "name": "Workplace"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Workplace by Facebook can revolutionize the way your company works together. Join us for a technical deep dive and a first look at the new integrations announced for bots in groups and Work Chat, and tips on how to build more effective bots.",
         "language": "",
@@ -1094,8 +1094,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 45,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Stephen Ellis",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1120,13 +1120,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T15:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#9EFF56",
             "id": 4,
             "name": "Games"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Who streams their gameplay live, and why? Join a former pro gamer and veteran streamer to explore why people stream, and who\u2019s watching. If you\u2019ve thought about adding live streaming to your game, this talk is for you.",
         "language": "",
@@ -1150,8 +1150,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 51,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Dwayne Reeves",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1171,13 +1171,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T15:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 3,
             "name": "Engineering & Open Source"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Learn about the unique scaling challenges encountered when developing Hack, the programming language behind Facebook.com. We\u2019ll share the story of how we migrated from millions of lines of PHP, engineering through the problems that only come with a rapidly evolving codebase",
         "language": "",
@@ -1201,8 +1201,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 52,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Katie Coons",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1227,13 +1227,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T16:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 3,
             "name": "Engineering & Open Source"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "At Facebook, we help developers move fast by providing them with powerful tools. We'll take a look at how Facebook optimizes developer workflows today, and will explore the use of deep learning to power the next wave of advances.",
         "language": "",
@@ -1257,8 +1257,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 54,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Matias Castello",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1283,13 +1283,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T16:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#3DC8C3",
             "id": 7,
             "name": "Facebook Platform"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Power your app with the Places Graph. We're providing free access to the same place data that powers Facebook, Instagram, and Messenger. Learn how to use data about 140M+ places around the world to create location aware app experiences.",
         "language": "",
@@ -1313,8 +1313,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 56,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Rachel Tucker",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1339,13 +1339,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T16:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#BF532E",
             "id": 1,
             "name": "Ads & Monetization"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Canvas is an immersive platform that makes it simple to create fullscreen, engaging experiences on mobile. In this session, we\u2019ll share tips for easily creating your own Canvas, along with highlights from partner integrations on the Canvas API.",
         "language": "",
@@ -1369,8 +1369,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 58,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Megan Witmer",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1390,13 +1390,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T16:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#1485CC",
             "id": 6,
             "name": "Research"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Building products for unfamiliar markets is challenging, and there are many factors to take into consideration before getting started. Hear the process the Facebook Research team follows to guide product development for new markets.",
         "language": "",
@@ -1420,8 +1420,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 59,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Mike LeBeau",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1441,13 +1441,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T16:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 5,
             "name": "Virtual Reality"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "We\u2019ve already learned a lot since launching Oculus Rooms. We\u2019ll share insights from our research and observations on what works, what doesn\u2019t, and how people interact together in Rooms \u2014 plus the latest features we\u2019ve added to the experience.",
         "language": "",
@@ -1471,8 +1471,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 106,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Mike Howard",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1492,13 +1492,13 @@
             "name": "1 hour session"
         },
         "starts-at": "2017-04-19T14:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 5,
             "name": "Virtual Reality"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Interactive and fun social experiences foster greater consumer engagement in VR. This talk will focus on the APIs and features that Oculus provides to add a social layer to your app, including the Avatar SDK, VoIP, Invites, and Oculus Rooms.",
         "language": "",
@@ -1522,8 +1522,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 118,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Chris Pruett",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1543,13 +1543,13 @@
             "name": "1 hour session"
         },
         "starts-at": "2017-04-19T16:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 5,
             "name": "Virtual Reality"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "We will share some of the road blocks that engineers will encounter as they ramp up in VR development with practical lessons and case studies to overcome them. Attendees can expect insights on everything from code samples to tools to design tips.",
         "language": "",
@@ -1573,8 +1573,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 119,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Josh Twist",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1594,13 +1594,13 @@
             "name": "50 minutes session"
         },
         "starts-at": "2017-04-18T16:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#BF532E",
             "id": 11,
             "name": "Analytics"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "People use multiple channels across different devices throughout their customer journey. Learn how Facebook Analytics can help you simplify measurement with powerful omni-channel analytics",
         "language": "",
@@ -1624,8 +1624,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 120,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Lisa Jones",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1639,8 +1639,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 121,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Luke Sernau",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1660,13 +1660,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-19T13:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#BF532E",
             "id": 11,
             "name": "Analytics"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Analytics can provide powerful insights to help you grow. Learn how you can save time, make better decisions, optimize your product, and win with Facebook Analytics.",
         "language": "",
@@ -1690,8 +1690,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 122,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Necip Fazil Ayan",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1711,13 +1711,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-19T12:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#FF3046",
             "id": 12,
             "name": "Artifical Intelligence"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Deep learning has profoundly shaped the translation process. Join us as we discuss the unique challenges faced in translation, difficulties with neural networks, how these challenges were overcome, and future applications of deep learning in translation.",
         "language": "",
@@ -1741,8 +1741,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 123,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Benoit Dumoulin",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1756,8 +1756,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 124,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Aparna Lakshmiratan",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1777,13 +1777,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-19T13:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#FF3046",
             "id": 12,
             "name": "Artifical Intelligence"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "In this brief talk, we will highlight some of the natural language understanding technologies that have been developed at Facebook and how they are already powering new user\u2019s experiences.",
         "language": "",
@@ -1807,8 +1807,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 125,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Manohar Paluri",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1822,8 +1822,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 126,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Merlyn Deng",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1843,13 +1843,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-19T13:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#FF3046",
             "id": 12,
             "name": "Artifical Intelligence"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "As media content grows on FB, we are investing in new ways for engineering teams to harness the power of computer vision for their products and services without the need for prior expertise. Come for a sneak peek into how we're advancing this framework for video products, which has both multimodal and time complexities.",
         "language": "",
@@ -1873,8 +1873,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 127,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Johannes Kopf",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1894,13 +1894,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-19T14:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#FF3046",
             "id": 12,
             "name": "Artifical Intelligence"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "This session will look at traditional scene capture through images and the ability to, for the first time, add depth and context to images and applying them in VR + Feed",
         "language": "",
@@ -1924,8 +1924,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 128,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Brian Hale",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1945,13 +1945,13 @@
             "name": "1 hour 50 minutes session"
         },
         "starts-at": "2017-04-18T12:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#3DC8C3",
             "id": 13,
             "name": "Growth"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Even the most successful apps must constantly work to build and maintain their customer bases. Join Facebook\u2019s growth marketing experts for best practices in acquisition, optimization, engagement and virality.",
         "language": "",
@@ -1975,8 +1975,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 129,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Olga Kuznetsova",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -1990,8 +1990,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 130,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Raman Hansi",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2011,13 +2011,13 @@
             "name": "50 minutes session"
         },
         "starts-at": "2017-04-18T16:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#3DC8C3",
             "id": 13,
             "name": "Growth"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Over the last year, we've made product improvements to Facebook Login and Account Kit based on insights on consumer preferences and market trends. Learn about the impact these could have on your business along with coding demos on how to integrate these exciting features into your apps.",
         "language": "",
@@ -2041,8 +2041,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 89,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "John Anderson",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2062,13 +2062,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-19T12:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#3DC8C3",
             "id": 13,
             "name": "Growth"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "We show you how to provide an experience for your customers that is consistent, safe, and delightful across channels and throughout their journey with your business.",
         "language": "",
@@ -2092,8 +2092,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 131,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Hendri",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2113,13 +2113,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T17:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#1485CC",
             "id": 14,
             "name": "Instagram"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Instagram\u2019s mission is to help people connect through shared experiences. 80% of the community is outside of the US, and as our platform grows, Instagram must perform across an increasing variety of devices and networks to keep people connected. For people in low-bandwidth regions, we\u2019ve begun testing offline experiences that keep the Instagram experience consistent and let people consume and engage with content, even if they don\u2019t have service. In this talk we\u2019ll introduce some of our initial explorations into offline features, and share learnings you can apply to your own apps.",
         "language": "",
@@ -2143,8 +2143,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 132,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Jeff Hui",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2158,8 +2158,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 133,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Christina Ting",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2179,13 +2179,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-19T13:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#1485CC",
             "id": 14,
             "name": "Instagram"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Businesses worldwide are connecting with millions of potential customers through Instagram. Learn how Instagram is using the power of visual storytelling to help businesses strengthen relationships with customers and find new ones through business tools, shopping and Instagram Stories.",
         "language": "",
@@ -2209,8 +2209,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 134,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Chris Cox",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2224,8 +2224,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 135,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Dan Rose",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2245,13 +2245,13 @@
             "name": "1 hour 50 minutes session"
         },
         "starts-at": "2017-04-18T12:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 15,
             "name": "Media & Publishers"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Chris Cox, Facebook's Chief Product Officer, explores the role media plays on Facebook and what we're learning from our community. Dan Rose, VP of Partnerships, will share how we're partnering with our media partners to deliver business value.",
         "language": "",
@@ -2275,8 +2275,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 134,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Adam Mosseri",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2296,13 +2296,13 @@
             "name": "1 hour 50 minutes session"
         },
         "starts-at": "2017-04-18T13:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 15,
             "name": "Media & Publishers"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Adam Mosseri, VP, News Feed, will dive into how News Feed works so publishers can more effectively reach their audiences.",
         "language": "",
@@ -2326,8 +2326,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 135,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Daniel Danker",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2347,13 +2347,13 @@
             "name": "1 hour 50 minutes session"
         },
         "starts-at": "2017-04-18T14:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 15,
             "name": "Media & Publishers"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Video is playing an increasingly important role in connecting people. Learn how we're bringing video to the forefront of the Facebook experience and harnessing the power of the Facebook community to drive discovery, consumption, discussion, and sharing of video.",
         "language": "",
@@ -2377,8 +2377,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 136,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Ricky Van Veen",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2392,8 +2392,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 137,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Jason Blum",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2407,8 +2407,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 138,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Simon Fuller",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2422,8 +2422,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 139,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Erika Nardini",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2443,13 +2443,13 @@
             "name": "1 hour 50 minutes session"
         },
         "starts-at": "2017-04-18T15:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 15,
             "name": "Media & Publishers"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "In a world where video is the primary format, what kind of content works well? We'll talk about the types of creative that drive community and engagement and hear from special guests on how they think about this.",
         "language": "",
@@ -2473,8 +2473,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 140,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Kate Orseth",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2488,8 +2488,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 141,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Scott Hershkowitz",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2503,8 +2503,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 142,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Nicholas Carlson",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2518,8 +2518,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 143,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Oren Katzeff",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2533,8 +2533,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 144,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Athan Stephanopoulaos",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2554,13 +2554,13 @@
             "name": "1 hour 50 minutes session"
         },
         "starts-at": "2017-04-18T16:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 15,
             "name": "Media & Publishers"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Our partners are investing heavily in video. We want to help them achieve a sustainable return on that investment, both on Facebook and on their own sites. Executives from three different publishers will talk about what they've learned in testing some of our latest monetization features.",
         "language": "",
@@ -2584,8 +2584,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 145,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Fidji Simo",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2605,13 +2605,13 @@
             "name": "1 hour 50 minutes session"
         },
         "starts-at": "2017-04-18T17:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 15,
             "name": "Media & Publishers"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Join us for a discussion on the future of media with Fidji Simo, VP of Media Products at Facebook, and James Gunn, Writer and Director, Guardians of the Galaxy Vol. 2.",
         "language": "",
@@ -2635,8 +2635,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 146,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Matt Jones",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2656,13 +2656,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-19T12:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 16,
             "name": "WhatsApp"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Building a spam detection system for an end-to-end encrypted messaging system serving over 1 billion people worldwide is no small task. Get a behind-the-scenes look at how the anti-spam team designed scalable ways to detect and prevent abuse.",
         "language": "",
@@ -2686,8 +2686,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 147,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Maya Cahier",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2701,8 +2701,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 148,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Evan Piwowarski",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2722,13 +2722,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T16:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 11,
             "name": "Ads & Monetization"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "The monetization ecosystem is ever changing and complex, leaving mobile developers and publishers struggling to find the right solutions to maximize monetization and user experience. Learn how Audience Network is helping developers and publishers tackle these challenges today, and into the future.",
         "language": "",
@@ -2752,8 +2752,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 148,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Christine De martini",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2767,8 +2767,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 147,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "David Park",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2788,13 +2788,13 @@
             "name": "50 minutes session"
         },
         "starts-at": "2017-04-18T17:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 11,
             "name": "Ads & Monetization"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Maintaining a connection with high-value customers after download is key to your app\u2019s success. Learn how mobile app ads\u2019 sophisticated targeting and optimization help you reach these customers and grow your app.",
         "language": "",
@@ -2818,8 +2818,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 149,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Melody Chu",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2839,13 +2839,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T14:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 11,
             "name": "Ads & Monetization"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Facebook's Marketing API enables developers and businesses to deliver solutions beyond the capabilities of traditional marketers. Learn how Netflix used the Marketing API\u2019s to automate their ads management process and drive better ads performance.",
         "language": "",
@@ -2869,8 +2869,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 150,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Richard Sim",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2890,13 +2890,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-19T14:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 11,
             "name": "Ads & Monetization"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Facebook\u2019s developers have a variety of goals \u2013 from driving installs to building on the marketing API. Whatever your aim, we have the advertising tools you need for success. Join the ads team as we reveal the latest in video, Live, Pages, and ad formats.",
         "language": "",
@@ -2920,8 +2920,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 151,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Suvrat Joshi",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2935,8 +2935,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 152,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Bradley Owens",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -2956,13 +2956,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-19T15:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 11,
             "name": "Ads & Monetization"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Facebook Pages help developers manage and curate content as well as grow their communities. Come hear the benefits of the Pages API, learn about upcoming features, discover insights, and dive into webhooks.",
         "language": "",
@@ -2986,8 +2986,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 153,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Jill Christ",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3007,13 +3007,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T17:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#1485CC",
             "id": 6,
             "name": "Research"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Insights from research guide good business decisions. In this session, we\u2019ll discuss creative methods used at Facebook for conducting research to help you get deeper, more engaging insights.",
         "language": "",
@@ -3037,8 +3037,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 153,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Jill Christ",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3058,13 +3058,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T16:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 3,
             "name": "Engineering & Open source"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Facebook is committed to accessibility. In this session we\u2019ll discuss how we\u2019re helping engineers identify problem areas for accessibility and implement fixes with Stetho, our open source Android debugging tool.",
         "language": "",
@@ -3088,8 +3088,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 156,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Chetan Gupta",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3109,13 +3109,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-19T13:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 3,
             "name": "Engineering & Open source"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "360 Capture SDK makes it accessible for people to capture and share their VR experience through a 360 photo or video on Facebook. Find out about using this SDK in VR titles.",
         "language": "",
@@ -3139,8 +3139,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 157,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Jenny Yuen",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3154,8 +3154,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 158,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Ansha Yu",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3175,13 +3175,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-19T15:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 3,
             "name": "Engineering & Open source"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "In this talk, we will explain how we have managed to maintain a culture of speed while staying in tune with our global and diverse user base, testing and shipping new features and improvements that work for everyone around the globe",
         "language": "",
@@ -3205,8 +3205,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 159,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Andrew Tulloch",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3220,8 +3220,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 160,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Yangqing Jia",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3241,13 +3241,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-19T15:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 3,
             "name": "Engineering & Open source"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "As web services shifted to mobile, machine-learning was left in the data centers. We\u2019ve moved ML to the phone, launching a full machine-learning runtime inside Facebook. Come learn what we\u2019ve built, how it\u2019s used, and what it means for developers.",
         "language": "",
@@ -3271,8 +3271,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 161,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Shannon Chen",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3286,8 +3286,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 162,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "David Pio",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3301,8 +3301,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 163,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Evgeny Kuzyakov",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3322,13 +3322,13 @@
             "name": "50 minutes session"
         },
         "starts-at": "2017-04-19T14:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 3,
             "name": "Engineering & Open source"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Last year, we introduced VR video streaming tech that made videos look clearer and play faster. We\u2019ll give an update on that technology, including our latest techniques to analyze VR video so it can be compressed and streamed in an even more efficient manner.",
         "language": "",
@@ -3352,8 +3352,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 164,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Mark Peng",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3367,8 +3367,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 165,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Ergin Erant",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3388,13 +3388,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-18T17:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E8782C",
             "id": 3,
             "name": "Engineering & Open source"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Like. Love. Haha. Wow. Sad. Angry. Join engineers who worked on Facebook's reactions for an inside peek at how Facebook launches a brand new feature to the world.",
         "language": "",
@@ -3418,8 +3418,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 166,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Chen Zheng",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3433,8 +3433,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 167,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Susan Kwok",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3454,13 +3454,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-19T14:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#3DC8C3",
             "id": 7,
             "name": "Facebook platform"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "People use Facebook to discover and engage with products and services, increasingly on mobile. Hear tips to help businesses drive discovery and sales on Facebook.",
         "language": "",
@@ -3484,8 +3484,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 168,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Brad Hill",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3505,13 +3505,13 @@
             "name": "20 minutes session"
         },
         "starts-at": "2017-04-19T17:00:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#B21212",
             "id": 9,
             "name": "General"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "Maintaining account security goes beyond the login process: learn how trusted identities by sites like Facebook can make account recovery more efficient, more secure, and easier to manage for developers\u2014all while putting privacy front and center.",
         "language": "",
@@ -3537,9 +3537,9 @@
             "name": "11 hours"
         },
         "starts-at": "2017-04-18T08:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": null,
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "",
         "language": "",
@@ -3563,8 +3563,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 169,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Mark Zuckerberg",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3578,8 +3578,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 175,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Deb Liu",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3593,8 +3593,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 177,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Rachel Franklin",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3608,8 +3608,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 178,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Ime Archibong",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3623,8 +3623,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 179,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "David Marcus",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3644,13 +3644,13 @@
             "name": "1 hour 30 minutes session"
         },
         "starts-at": "2017-04-18T10:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E6E6FA",
             "id": 17,
             "name": "Keynotes"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "",
         "language": "",
@@ -3674,8 +3674,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 170,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "mike schroepfer",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3689,8 +3689,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 173,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Michael Abrash",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3704,8 +3704,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 174,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Regina Dugan",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3719,8 +3719,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 172,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Joaquin Quinonero Candela",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3734,8 +3734,8 @@
                 "photo-url": "",
                 "organisation": "Facebook",
                 "id": 171,
-                "heard_from": "",
-                "small": "",
+                "heard-from": "",
+                "small-image-url": "",
                 "name": "Yael Macguire",
                 "thumbnail-image-url": "",
                 "icon-image-url": ""
@@ -3755,13 +3755,13 @@
             "name": "1 hour 30 minutes session"
         },
         "starts-at": "2017-04-19T10:30:00-07:00",
-        "audios-url": "",
+        "audio-url": "",
         "track": {
             "color": "#E6E6FA",
             "id": 17,
             "name": "Keynotes"
         },
-        "videos-url": "",
+        "video-url": "",
         "signup-url": "",
         "long-abstract": "",
         "language": "",
