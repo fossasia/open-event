@@ -1,5 +1,6 @@
 {
-  "Email": "dev@google.com",
-  "App_Name": "Google IO 2017",
-  "Api_Link": "https://raw.githubusercontent.com/fossasia/open-event/master/sample/GoogleIO17"
+  "email": "dev@google.com",
+  "app-name": "Google IO 2017",
+  "api-link": "",
+  "is-auth-enabled": false
 }
