@@ -1,27 +1,27 @@
-[{
-      "id": 1,
-      "name": "1 hour session",
-      "length": "01.00"
-   },
-   {
-      "id": 10,
-      "name": "15 Minutes session",
-      "length": "00.15"
-   },
-   {
-      "id": 11,
-      "name": "45 Minutes session",
-      "length": "00.45"
-   },
-   {
-      "id": 7,
-      "name": "1 hour 30 minutes session",
-      "length": "01.30"
-   },
-   {
-      "id": 2,
-      "name": "30 mins session",
-      "length": "00.30"
-   }
-
+[
+  {
+    "id": 1,
+    "name": "1 hour session",
+    "length": "01.00"
+  },
+  {
+    "id": 10,
+    "name": "15 Minutes session",
+    "length": "00.15"
+  },
+  {
+    "id": 11,
+    "name": "45 Minutes session",
+    "length": "00.45"
+  },
+  {
+    "id": 7,
+    "name": "1 hour 30 minutes session",
+    "length": "01.30"
+  },
+  {
+    "id": 2,
+    "name": "30 mins session",
+    "length": "00.30"
+  }
 ]
