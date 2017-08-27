@@ -1,83 +1,83 @@
 [
-    {
-        "id": 1, 
-        "name": "Google", 
-        "logo": "/images/sponsors/Google.png", 
-        "level": null, 
-        "sponsor_type": null, 
-        "url": "http://google.com", 
-        "description": ""
-    }, 
-    {
-        "id": 2, 
-        "name": "Red Hat", 
-        "logo": "/images/sponsors/RedHat.png", 
-        "level": null, 
-        "sponsor_type": null, 
-        "url": "http://www.redhat.com/openstack/evaluation/", 
-        "description": ""
-    }, 
-    {
-        "id": 3, 
-        "name": "MySQL", 
-        "logo": "/images/sponsors/MySQL.png", 
-        "level": null, 
-        "sponsor_type": null, 
-        "url": "http://mysql.com", 
-        "description": ""
-    },
-    {
-        "id": 4, 
-        "name": "Treasure Data", 
-        "logo": "/images/sponsors/treasure-data-transparent-square.png", 
-        "level": null, 
-        "sponsor_type": null, 
-        "url": "http://treasure-data.com", 
-        "description": ""
-    },
-    {
-        "id": 5, 
-        "name": "Python Software Foundation", 
-        "logo": "/images/sponsors/python-logo-generic.png", 
-        "level": null, 
-        "sponsor_type": null, 
-        "url": "https://www.python.org", 
-        "description": ""
-    },
-    {
-        "id": 6, 
-        "name": "Uptime Technologies", 
-        "logo": "/images/sponsors/uptime_logo.png", 
-        "level": null, 
-        "sponsor_type": null, 
-        "url": "http://uptime.jp", 
-        "description": ""
-    },
-    {
-        "id": 7, 
-        "name": "Internet Society Singapore", 
-        "logo": "/images/sponsors/Internet_Society_SG.png", 
-        "level": null, 
-        "sponsor_type": null, 
-        "url": "http://isoc.sg", 
-        "description": ""
-    },
-    {
-        "id": 8, 
-        "name": "Mozilla", 
-        "logo": "/images/sponsors/mozilla.png", 
-        "level": null, 
-        "sponsor_type": null, 
-        "url": "http://mozilla.org", 
-        "description": ""
-    },
-    {
-        "id": 9, 
-        "name": "MBM Asia", 
-        "logo": "/images/sponsors/mbm_logo.png", 
-        "level": null, 
-        "sponsor_type": null, 
-        "url": "http://mbm.asia", 
-        "description": ""
-    }
+  {
+    "id": 1,
+    "name": "Google",
+    "logo-url": "/images/sponsors/Google.png",
+    "level": "7",
+    "type": "Platinum Sponsor",
+    "url": "http://google.com",
+    "description": ""
+  },
+  {
+    "id": 2,
+    "name": "Red Hat",
+    "logo-url": "/images/sponsors/RedHat.png",
+    "level": "6",
+    "type": "Special Sponsor",
+    "url": "http://www.redhat.com/openstack/evaluation/",
+    "description": ""
+  },
+  {
+    "id": 3,
+    "name": "MySQL",
+    "logo-url": "/images/sponsors/MySQL.png",
+    "level": "3",
+    "type": "Thank you for your support!",
+    "url": "http://mysql.com",
+    "description": ""
+  },
+  {
+    "id": 4,
+    "name": "Treasure Data",
+    "logo-url": "/images/sponsors/treasure-data-transparent-square.png",
+    "level": "3",
+    "type": "Thank you for your support!",
+    "url": "http://treasure-data.com",
+    "description": ""
+  },
+  {
+    "id": 5,
+    "name": "Python Software Foundation",
+    "logo-url": "/images/sponsors/python-logo-generic.png",
+    "level": "2",
+    "type": "Amazing Community Partner",
+    "url": "https://www.python.org",
+    "description": ""
+  },
+  {
+    "id": 6,
+    "name": "Uptime Technologies",
+    "logo-url": "/images/sponsors/uptime_logo.png",
+    "level": "2",
+    "type": "Amazing Community Partner",
+    "url": "http://uptime.jp",
+    "description": ""
+  },
+  {
+    "id": 7,
+    "name": "Internet Society Singapore",
+    "logo-url": "/images/sponsors/Internet_Society_SG.png",
+    "level": "2",
+    "type": "Amazing Community Partner",
+    "url": "http://isoc.sg",
+    "description": ""
+  },
+  {
+    "id": 8,
+    "name": "Mozilla",
+    "logo-url": "/images/sponsors/mozilla.png",
+    "level": "3",
+    "type": "Thank you for your support!",
+    "url": "http://mozilla.org",
+    "description": ""
+  },
+  {
+    "id": 9,
+    "name": "MBM Asia",
+    "logo-url": "/images/sponsors/mbm_logo.png",
+    "level": "3",
+    "type": "Thank you for your support!",
+    "url": "http://mbm.asia",
+    "description": ""
+  }
 ]

@@ -1,18 +1,18 @@
 [
-    {
-        "id": 1, 
-        "name": "Biopolis, 30 Biopolis Street, Singapore", 
-        "floor": 2, 
-        "latitude": 1.303304, 
-        "longitude": 103.792613, 
-        "room": Auditorium
-    }, 
-    {
-        "id": 2, 
-        "name": "NUS Plug-In@Blk71, 71 Ayer Rajah Crescent,", 
-        "floor": 0, 
-        "latitude": 1.296667, 
-        "longitude": 103.787173, 
-        "room": null
-    }
+  {
+    "id": 1,
+    "name": "Biopolis, 30 Biopolis Street, Singapore",
+    "floor": 2,
+    "latitude": 1.303304,
+    "longitude": 103.792613,
+    "room": null
+  },
+  {
+    "id": 2,
+    "name": "NUS Plug-In@Blk71, 71 Ayer Rajah Crescent,",
+    "floor": 0,
+    "latitude": 1.296667,
+    "longitude": 103.787173,
+    "room": null
+  }
 ]
