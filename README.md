@@ -15,7 +15,7 @@ The Open Event Project offers event managers a platform to organize all kinds of
 
 The source code of each component has its own repository and technology stack. The software applications can be hosted as stand alone solutions or they can be integrated as microservices into the Open Event Orga Server through APIs. 
 
-The Open Event project was originally started to support the organization of the [FOSSASIA OpenTechSummit](http://fossasia.org) and is maintainted by the FOSSASIA community.
+The Open Event project was originally started to support the organization of the [FOSSASIA OpenTechSummit](http://fossasia.org) and is maintained by the FOSSASIA community.
 
 ## Open Event Repository
 
