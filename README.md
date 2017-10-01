@@ -39,7 +39,7 @@ Chat Channel: https://gitter.im/fossasia/open-event
 
 ### Open Event Organizer Server
 
-The Open Event Orga Server enables organizers to manage events from concerts to conferences and meetups. It offers features for events with several tracks and venues. Event managers can create invitation forms for speakers and build schedules in a drag and drop interface. The event information is stored in a database, which can be a sqlite db file or saved in json itself. The system provides API endpoints to fetch the data, and to modify and update it. Organizers can import and export event data in a standard compressed file format that includes the event data in JSON and binary media files like images and audio
+The Open Event Orga Server enables organizers to manage events from concerts to conferences and meetups. It offers features for events with several tracks and venues. Event managers can create invitation forms for speakers and build schedules in a drag and drop interface. The event information is stored in a database, which can be a sqlite db file or saved in json itself. The system provides API endpoints to fetch the data, and to modify and update it. Organizers can import and export event data in a standard compressed file format that includes the event data in JSON and binary media files like images and audio.
 
 Repository: https://github.com/fossasia/open-event-orga-server   
 
