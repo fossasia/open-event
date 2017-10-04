@@ -1037,7 +1037,7 @@
       "slides":"",
       "state":"accepted",
       "video":"",
-      "end_time":"2016-12-10T17:00:00",
+      "end_time":"2016-12-09T17:00:00",
       "microlocation":{
          "id":21,
          "name":"Queen's Ballroom 5"
@@ -1084,7 +1084,7 @@
       "slides":"",
       "state":"accepted",
       "video":"",
-      "end_time":"2016-12-10T15:00:00",
+      "end_time":"2016-12-09T15:00:00",
       "microlocation":{
          "id":9,
          "name":"Kohala Ballroom 4 "
@@ -1402,7 +1402,7 @@
          "name":"Strategic Ops",
          "color":"#9EFF56"
       },
-      "start_time":"2016-12-09T017:00:00",
+      "start_time":"2016-12-09T17:00:00",
       "session_type":{
          "id":6,
          "length":"1.00",
@@ -1496,7 +1496,7 @@
          "name":"connected devices",
          "color":"#E0331F"
       },
-      "start_time":"2016-12-10T14:00:00",
+      "start_time":"2016-12-09T14:00:00",
       "session_type":{
          "id":6,
          "length":"1.00",
@@ -1507,7 +1507,7 @@
       "slides":"",
       "state":"accepted",
       "video":"",
-      "end_time":"2016-12-10T15:00:00",
+      "end_time":"2016-12-09T15:00:00",
       "microlocation":{
          "id":14,
          "name":"Kona Ballroom 5"
