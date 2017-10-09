@@ -349,6 +349,10 @@
             {
                 "id": 420,
                 "title": "Using the systemd Journal for Your Daily Work"
+            },
+            {
+                "id": 191,
+                "title": "Technologies developed by Red Hat"
             }
         ],
         "mobile": null,
@@ -1095,7 +1099,7 @@
         "website": "https://github.com/rafalkowalski",
         "short-biography": "",
         "github": "https://github.com/rafalkowalski",
-        "name": "Rafal Kowalski, Manan Wason",
+        "name": "Rafal Kowalski",
         "sessions": [
             {
                 "id": 50,
@@ -1114,7 +1118,7 @@
         "facebook": null,
         "organisation": "Open Event",
         "position": null,
-        "email": "rafal_kowalski_manan_wason@fossasia.org"
+        "email": "rafal_kowalski@fossasia.org"
     },
     {
         "website": "http://campjs.com/",
@@ -1174,7 +1178,7 @@
         "sessions": [
             {
                 "id": 65,
-                "title": "Rebuildling Cultural Heritage with #NEWPALMYRA"
+                "title": "Rebuilding Cultural Heritage with #NEWPALMYRA"
             }
         ],
         "mobile": null,
@@ -1470,6 +1474,10 @@
             {
                 "id": 62,
                 "title": "How I left my word processor and embraced Asciidoc"
+            },
+            {
+                "id": 191,
+                "title": "Technologies developed by Red Hat"
             }
         ],
         "mobile": null,
@@ -1742,6 +1750,10 @@
             {
                 "id": 113,
                 "title": "Mobile development for students"
+            },
+            {
+                "id": 50,
+                "title": "Open Event Orga Server Project"
             }
         ],
         "mobile": null,
@@ -2033,6 +2045,10 @@
             {
                 "id": 263,
                 "title": "Python 3 101"
+            },
+            {
+                "id": 191,
+                "title": "Technologies developed by Red Hat"
             }
         ],
         "mobile": null,
@@ -2187,7 +2203,13 @@
             {
                 "id": 206,
                 "title": "The oVirt Way - General Product Overview"
+            },
+            {
+                "id": 191,
+                "title": "Technologies developed by Red Hat"
             }
+
+
         ],
         "mobile": null,
         "country": "Israel",
@@ -2212,6 +2234,10 @@
             {
                 "id": 193,
                 "title": "Comparing virtualization and containers"
+            },
+            {
+                "id": 191,
+                "title": "Technologies developed by Red Hat"
             }
         ],
         "mobile": null,
@@ -2237,6 +2263,10 @@
             {
                 "id": 194,
                 "title": "Globalizing your software"
+            },
+            {
+                "id": 191,
+                "title": "Technologies developed by Red Hat"
             }
         ],
         "mobile": null,
@@ -2387,6 +2417,10 @@
             {
                 "id": 204,
                 "title": "oVirt - Development of shared storage management system in the virualization world"
+            },
+            {
+                "id": 191,
+                "title": "Technologies developed by Red Hat"
             }
         ],
         "mobile": null,
@@ -2412,6 +2446,10 @@
             {
                 "id": 208,
                 "title": "Let Builder write the Jenkins Jobs (JJB)"
+            },
+            {
+                "id": 191,
+                "title": "Technologies developed by Red Hat"
             }
         ],
         "mobile": null,
@@ -2902,6 +2940,10 @@
             {
                 "id": 259,
                 "title": "Using Python Client to talk with Zanata Server"
+            },
+            {
+                "id": 191,
+                "title": "Technologies developed by Red Hat"
             }
         ],
         "mobile": null,
@@ -3056,6 +3098,10 @@
             {
                 "id": 273,
                 "title": "Openess in Quality: Migrating testing framework from bash to pytest"
+            },
+            {
+                "id": 191,
+                "title": "Technologies developed by Red Hat"
             }
         ],
         "mobile": null,
@@ -3918,6 +3964,10 @@
             {
                 "id": 368,
                 "title": "Not all security flaws are born equal"
+            },
+            {
+                "id": 191,
+                "title": "Technologies developed by Red Hat"
             }
         ],
         "mobile": null,
@@ -5061,15 +5111,19 @@
         "sessions": [
             {
                 "id": 380,
-                "title": "Rebuildling Cultural Heritage with #NEWPALMYRA"
+                "title": "Rebuilding Cultural Heritage with #NEWPALMYRA"
             },
             {
                 "id": 391,
-                "title": "Rebuildling Cultural Heritage with #NEWPALMYRA"
+                "title": "Rebuilding Cultural Heritage with #NEWPALMYRA"
             },
             {
                 "id": 402,
-                "title": "Rebuildling Cultural Heritage with #NEWPALMYRA"
+                "title": "Rebuilding Cultural Heritage with #NEWPALMYRA"
+            },
+            {
+                "id": 65,
+                "title": "Rebuilding Cultural Heritage with #NEWPALMYRA"
             }
         ],
         "mobile": null,

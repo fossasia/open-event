@@ -603,7 +603,12 @@
     "speakers": [
       {
         "id": 43,
-        "name": "Rafal Kowalski, Manan Wason",
+        "name": "Rafal Kowalski",
+        "organisation": "Open Event"
+      },
+      {
+        "id": 67,
+        "name": "Manan Wason",
         "organisation": "Open Event"
       }
     ],
@@ -2349,12 +2354,17 @@
     "speakers": [
       {
         "id": 56,
-        "name": "Barry Threw, Jon Phillips",
+        "name": "Barry Threw",
+        "organisation": "#NEWPALMYRA"
+      },
+      {
+        "id": 175,
+        "name": "Jon Phillips",
         "organisation": "#NEWPALMYRA"
       }
     ],
     "slides-url": null,
-    "title": "Rebuildling Cultural Heritage with #NEWPALMYRA",
+    "title": "Rebuilding Cultural Heritage with #NEWPALMYRA",
     "id": 65,
     "session-type": {
       "id": 12,
@@ -6346,6 +6356,61 @@
       {
         "id": 4,
         "name": "Harish Pillay",
+        "organisation": "Red Hat"
+      },
+      {
+        "id": 94,
+        "name": "Amit Shah",
+        "organisation": "Red Hat"
+      },
+      {
+        "id": 127,
+        "name": "Amita Sharma",
+        "organisation": "Red Hat"
+      },
+      {
+        "id": 101,
+        "name": "Anita Narang",
+        "organisation": "Red Hat"
+      },
+      {
+        "id": 53,
+        "name": "George Goh",
+        "organisation": "Red Hat"
+      },
+      {
+        "id": 169,
+        "name": "Huzaifa Sidhpurwala",
+        "organisation": "Red Hat"
+      },
+      {
+        "id": 80,
+        "name": "Kushal Das",
+        "organisation": "Fedora Project"
+      },
+      {
+        "id": 11,
+        "name": "Lennart Poettering",
+        "organisation": "Red Hat"
+      },
+      {
+        "id": 100,
+        "name": "Liron Aravot",
+        "organisation": "Red Hat"
+      },
+      {
+        "id": 95,
+        "name": "Parag Ashok Nemade",
+        "organisation": "Red Hat"
+      },
+      {
+        "id": 125,
+        "name": "Sundeep Anand",
+        "organisation": "Red Hat"
+      },
+      {
+        "id": 93,
+        "name": "Yaniv Bronhaim",
         "organisation": "Red Hat"
       }
     ],
@@ -12692,7 +12757,7 @@
       }
     ],
     "slides-url": null,
-    "title": "Rebuildling Cultural Heritage with #NEWPALMYRA",
+    "title": "Rebuilding Cultural Heritage with #NEWPALMYRA",
     "id": 380,
     "session-type": {
       "id": 26,
@@ -13046,7 +13111,7 @@
       "name": "Tinkering Studio"
     },
     "ends-at": "2016-03-19T14:00:00+08:00",
-    "long-abstract": "Science Hack Begins with project groups working on  * Rebuildling Cultural Heritage with #NEWPALMYRA * Creating patterns is like mapping the night sky * DIY Circuit Board Workshop * ExpEYES: Pocket Science Lab - Developing Open Source Science Experiments with FOSSASIA   * #NefertitiHack and Cultural Commons \"The Other Nefertiti\"",
+    "long-abstract": "Science Hack Begins with project groups working on  * Rebuilding Cultural Heritage with #NEWPALMYRA * Creating patterns is like mapping the night sky * DIY Circuit Board Workshop * ExpEYES: Pocket Science Lab - Developing Open Source Science Experiments with FOSSASIA   * #NefertitiHack and Cultural Commons \"The Other Nefertiti\"",
     "subtitle": null,
     "state": "accepted",
     "short-abstract": "Short Abstract for the event",
@@ -13070,7 +13135,7 @@
       }
     ],
     "slides-url": null,
-    "title": "Rebuildling Cultural Heritage with #NEWPALMYRA",
+    "title": "Rebuilding Cultural Heritage with #NEWPALMYRA",
     "id": 391,
     "session-type": {
       "id": 26,
@@ -13418,7 +13483,7 @@
       "name": "Tinkering Studio"
     },
     "ends-at": "2016-03-20T10:00:00+08:00",
-    "long-abstract": "Science Hack Day continues with project groups working on  * Rebuildling Cultural Heritage with #NEWPALMYRA * Creating patterns is like mapping the night sky * DIY Circuit Board Workshop * ExpEYES: Pocket Science Lab - Developing Open Source Science Experiments with FOSSASIA   * #NefertitiHack and Cultural Commons \"The Other Nefertiti\"",
+    "long-abstract": "Science Hack Day continues with project groups working on  * Rebuilding Cultural Heritage with #NEWPALMYRA * Creating patterns is like mapping the night sky * DIY Circuit Board Workshop * ExpEYES: Pocket Science Lab - Developing Open Source Science Experiments with FOSSASIA   * #NefertitiHack and Cultural Commons \"The Other Nefertiti\"",
     "subtitle": null,
     "state": "accepted",
     "short-abstract": "Short Abstract for the event",
@@ -13442,7 +13507,7 @@
       }
     ],
     "slides-url": null,
-    "title": "Rebuildling Cultural Heritage with #NEWPALMYRA",
+    "title": "Rebuilding Cultural Heritage with #NEWPALMYRA",
     "id": 402,
     "session-type": {
       "id": 28,
@@ -13772,7 +13837,7 @@
       "name": "Tinkering Studio"
     },
     "ends-at": "2016-03-20T13:30:00+08:00",
-    "long-abstract": "Science Hack continues with project groups working on  * Rebuildling Cultural Heritage with #NEWPALMYRA * Creating patterns is like mapping the night sky * DIY Circuit Board Workshop * ExpEYES: Pocket Science Lab - Developing Open Source Science Experiments with FOSSASIA   * #NefertitiHack and Cultural Commons \"The Other Nefertiti\"",
+    "long-abstract": "Science Hack continues with project groups working on  * Rebuilding Cultural Heritage with #NEWPALMYRA * Creating patterns is like mapping the night sky * DIY Circuit Board Workshop * ExpEYES: Pocket Science Lab - Developing Open Source Science Experiments with FOSSASIA   * #NefertitiHack and Cultural Commons \"The Other Nefertiti\"",
     "subtitle": null,
     "state": "accepted",
     "short-abstract": "Short Abstract for the event",
@@ -13904,7 +13969,7 @@
       "name": "Tinkering Studio"
     },
     "ends-at": "2016-03-20T15:15:00+08:00",
-    "long-abstract": "Hack demos of project groups being with * Rebuildling Cultural Heritage with #NEWPALMYRA * Creating patterns is like mapping the night sky * DIY Circuit Board Workshop * ExpEYES: Pocket Science Lab - Developing Open Source Science Experiments with FOSSASIA   * #NefertitiHack and Cultural Commons \"The Other Nefertiti\"",
+    "long-abstract": "Hack demos of project groups being with * Rebuilding Cultural Heritage with #NEWPALMYRA * Creating patterns is like mapping the night sky * DIY Circuit Board Workshop * ExpEYES: Pocket Science Lab - Developing Open Source Science Experiments with FOSSASIA   * #NefertitiHack and Cultural Commons \"The Other Nefertiti\"",
     "subtitle": null,
     "state": "accepted",
     "short-abstract": "Short Abstract for the event",
