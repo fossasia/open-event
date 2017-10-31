@@ -1,0 +1,45 @@
+{
+  "Scholarships": [
+    "WWDC Scholarships reward talented students and STEM organization members with the opportunity to attend this year’s conference. Developers selected for a scholarship will receive a WWDC 2017 ticket and lodging free of charge.",
+    "Registration Closed"
+  ],
+  "Applying": [
+    "1. Tell us about yourself.Sign in with the Apple ID associated with your developer account. If you’re 13 – 17 years old and share your Apple ID with your parent or legal guardian, you will be asked to enter your name. You will also be asked for a phone number where we can reach you.",
+    "2. Provide school / membership information.If you’re a student, you will need to provide a PDF, PNG, or JPG of your current class schedule or other current proof of enrollment and your dean or principal’s contact information. If you’re a member or alumni of a STEM organization, you will need to provide a PDF, PNG, or JPG of your membership information and your local leader’s contact information.",
+    "3. Upload your Swift playground.Create a visually interactive scene in a Swift playground that can be experienced within three minutes. Be creative. You can use Swift Playgrounds on iPad or Xcode on macOS. If you need inspiration, start with templates in Swift Playgrounds for a head start on more advanced creations. Get inventive and make them your own by adding graphics, audio, and more.",
+    "4. Describe your Swift playground.Tell us about the features and technologies that you used in your Swift playground, in 500 words or less.",
+    "5. Provide optional information.",
+    "Beyond WWDCLet us know how you've considered sharing your coding knowledge and enthusiasm for computer science with others, in 500 words or less.",
+    "AssistanceIf you have extenuating circumstances that would require financial assistance for travel to attend the conference, let us know in 500 words or less. You will also need to provide a letter of reference (PDF, PNG, or JPG) from a teacher, supervisor, or other person of authority in your community confirming your need for travel assistance. Make sure that it includes their role and contact information.",
+    "Your Résumé / CVIf you're 18 years of age or older and currently pursuing a BS, MS, or PhD in computer science, software engineering, computer engineering, or a similar field and wish to share your résumé or CV with other groups at Apple, upload a PDF. This information will not influence the judging process.",
+    "Beyond WWDCLet us know how you've considered sharing your coding knowledge and enthusiasm for computer science with others, in 500 words or less.AssistanceIf you have extenuating circumstances that would require financial assistance for travel to attend the conference, let us know in 500 words or less. You will also need to provide a letter of reference (PDF, PNG, or JPG) from a teacher, supervisor, or other person of authority in your community confirming your need for travel assistance. Make sure that it includes their role and contact information.Your Résumé / CVIf you're 18 years of age or older and currently pursuing a BS, MS, or PhD in computer science, software engineering, computer engineering, or a similar field and wish to share your résumé or CV with other groups at Apple, upload a PDF. This information will not influence the judging process."
+  ],
+  "Eligibility": [
+    "To be eligible to apply for a WWDC Scholarship, you must be:",
+    "13 years of age or older;",
+    "Registered for free with Apple as an Apple developer or a member of a paid Apple Developer Program; and",
+    "Enrolled part-time or full-time in a course of study, or be a member or alumni of a STEM organization.",
+    "13 years of age or older;Registered for free with Apple as an Apple developer or a member of a paid Apple Developer Program; andEnrolled part-time or full-time in a course of study, or be a member or alumni of a STEM organization."
+  ],
+  "Deadline": [
+    "Submissions will be accepted from Monday, March 27, 2017 at 10:00 a.m. PDT until Sunday, April 2, 2017 at 5:00 p.m. PDT. All applicants will be notified of their status by Friday, April 21, 2017.",
+    "Ask questions and connect with other scholarship applicants on the WWDC Scholarship forum."
+  ],
+  "Judging": [
+    "Submissions must follow all requirements in the WWDC Scholarship Terms. Applications will be judged on:",
+    "Technical accomplishment;",
+    "Creativity of ideas; and",
+    "Content of written responses.",
+    "Technical accomplishment;Creativity of ideas; andContent of written responses.",
+    "For full details, see the WWDC Scholarship Terms."
+  ],
+  "Swift Playground Requirements ": [
+    "The Swift playground you submit should be created entirely by you as an individual. Group work will not be considered.",
+    "Your Swift playground should be built using Swift Playgrounds on iPad or Xcode on macOS.",
+    "Your Swift playground should function properly and run on the latest releases of Swift Playgrounds and iOS or Xcode and macOS.",
+    "All content should be in English.",
+    "Your .zip file size should not be more than 25 MB.",
+    "Any resources in your project should be included locally in the .zip file that you provide, as your Swift playground will be judged offline.",
+    "The Swift playground you submit should be created entirely by you as an individual. Group work will not be considered.Your Swift playground should be built using Swift Playgrounds on iPad or Xcode on macOS.Your Swift playground should function properly and run on the latest releases of Swift Playgrounds and iOS or Xcode and macOS.All content should be in English.Your .zip file size should not be more than 25 MB.Any resources in your project should be included locally in the .zip file that you provide, as your Swift playground will be judged offline."
+  ]
+}

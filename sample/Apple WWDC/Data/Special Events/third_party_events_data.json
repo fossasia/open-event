@@ -1,0 +1,46 @@
+{
+  "name": [
+    "AltConf 2017",
+    "CocoaConf Next Door",
+    "Layers",
+    "Beard Bash 2017",
+    "iOS Engineering with Square",
+    "The Talk Show with John Gruber Live",
+    "Swift@IBM Workshops",
+    "SAP CodeJam",
+    "James Dempsey and the Breakpoints"
+  ],
+  "description": [
+    "Free, community-supported developer conference in downtown San Jose.",
+    "Multi-track conference featuring trainers, authors, and developers from the Apple community.",
+    "Design-focused conference for the Apple community.",
+    "Annual party with live music celebrating the developer community. Hosted by Jim Dalrymple of The Loop.",
+    "Free event with discussions on delivering great payment experiences using Apple Pay with Square APIs and best practices for e-commerce and point-of-sale applications.",
+    "Renowned columnist and podcaster John Gruber of Daring Fireball discusses the latest trends in technology and design.",
+    "Free 45-minute labs featuring the latest cognitive, IoT, and server-side capabilities with Swift.",
+    "Free, hands-on workshops to learn how to use SAP's SDK for iOS, built on Swift, to build business apps.",
+    "The iTunes chart-topping band plays Cocoa developer music in a benefit concert for App Camp For Girls, organized by WWDCGirls."
+  ],
+  "location": [
+    "San Jose Marriott",
+    "Hilton San Jose",
+    "Montgomery Theater",
+    "City National Civic",
+    "The Tech Museum of Innovation",
+    "California Theater",
+    "Hyatt Place San Jose",
+    "Hyatt Place San Jose",
+    "City National Civic"
+  ],
+  "date-day": [
+    "June 5 – 8, Monday – Thursday",
+    "June 5 – 8, Monday – Thursday",
+    "June 5 – 7, Monday – Wednesday",
+    "June 5, Monday",
+    "June 6, Tuesday",
+    "June 6, Tuesday",
+    "June 7 - 8, Wednesday - Thursday",
+    "June 7, Wednesday",
+    "June 7, Wednesday"
+  ]
+}
