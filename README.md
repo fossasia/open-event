@@ -25,7 +25,7 @@ This repository holds the **JSON Schema** sample implementation in the [/sample]
 
 Please join our mailing list to discuss questions regarding the project: https://groups.google.com/forum/#!forum/open-event
 
-Our chat channel is here: https://gitter.im/fossasia/open-event
+Use the following link to access out Chat Channel: https://gitter.im/fossasia/open-event
 
 ## Project Components
 
