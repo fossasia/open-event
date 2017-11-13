@@ -99,8 +99,8 @@
             "title": "Agile software development--the Red Hat way"
          }
       ],
-      "track_image_url": "",
-      "font_color": "#FFFFFF"
+      "track-image-url": "",
+      "font-color": "#FFFFFF"
    },
    {
       "id": 2,
@@ -115,8 +115,8 @@
             "title": "Red Hat 3scale API Masters contest"
          }
       ],
-      "track_image_url": "",
-      "font_color": "#FFFFFF"
+      "track-image-url": "",
+      "font-color": "#FFFFFF"
    },
    {
       "id": 3,
@@ -167,8 +167,8 @@
             "title": "Modernizing storage infrastructure with open scale-out storage"
          }
       ],
-      "track_image_url": "",
-      "font_color": "#FFFFFF"
+      "track-image-url": "",
+      "font-color": "#FFFFFF"
    },
    {
       "id": 4,
@@ -343,8 +343,8 @@
             "title": "A practical introduction to container security (replay)"
          }
       ],
-      "track_image_url": "",
-      "font_color": "#OOOOOO"
+      "track-image-url": "",
+      "font-color": "#OOOOOO"
    },
    {
       "id": 5,
@@ -399,8 +399,8 @@
             "title": "Containers lightning talks"
          }
       ],
-      "track_image_url": "",
-      "font_color": "#FFFFFF"
+      "track-image-url": "",
+      "font-color": "#FFFFFF"
    },
    {
       "id": 6,
@@ -447,8 +447,8 @@
             "title": "Healthcare 2020 : How open source and disruptive tech are transforming the future of patient care"
          }
       ],
-      "track_image_url": "",
-      "font_color": "#FFFFFF"
+      "track-image-url": "",
+      "font-color": "#FFFFFF"
    },
    {
       "id": 7,
@@ -530,8 +530,8 @@
             "title": "ARM-based datacenters: Myth or reality?"
          }
       ],
-      "track_image_url": "",
-      "font_color": "#FFFFFF"
+      "track-image-url": "",
+      "font-color": "#FFFFFF"
    },
    {
       "id": 8,
@@ -993,7 +993,7 @@
             "title": "Reproducible development to live applications with Java and Red Hat CDK"
          }
       ],
-      "track_image_url": "",
-      "font_color": "#FFFFFF"
+      "track-image-url": "",
+      "font-color": "#FFFFFF"
    }
 ]
