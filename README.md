@@ -75,5 +75,6 @@ The **Open Event Web App Project** has two components :-
 
 ## License
 
-This repository is licensed under the [GNU General Public License v3](LICENSE).
-To obtain the software under a different license, Please contact **FOSSASIA**.
+This repository is licensed under the **[GNU General Public License v3](LICENSE.md)**.
+
+> To obtain the software under a different license, Please contact **FOSSASIA**.
