@@ -1,0 +1,42 @@
+{
+  "title": [
+    "Design and Accessibility",
+    "App Store",
+    "Apple Podcasts Studio"
+  ],
+  "topic": [
+    "User Interface Design",
+    "Accessibility Design",
+    "App Review",
+    "Apple Developer Program Support",
+    "Apple Marketing Communications",
+    "Business and Marketing",
+    "Export Compliance",
+    "iTunes Connect",
+    "Search Ads"
+  ],
+  "description": [
+    "Get advice on making your apps simple to use and more visually compelling. Come prepared with a working prototype, development build, or your released app.",
+    "Find out how to make your apps accessible and easy to use for everyone. Learn the basics of VoiceOver and other accessibility features to better understand how customers with varying needs use your products. Come prepared with a working prototype, development build, or your released app.",
+    "Gain a better understanding of the App Store Review Guidelines so you can plan and build your apps with these important guidelines in mind.",
+    "Get help with updating your developer account, managing your development devices and certificates, renewing your membership, and more.",
+    "Learn how you can be considered for potential promotional opportunities on Apple.com, Apple Retail Stores, Channel, and Broadcast.",
+    "Receive guidance on choosing the right business model for your app, pricing strategies, discoverability, launch planning, marketing, engaging your users, making the most of your product page, and localizing your app to reach users around the world. Bring any information that will help us assist you, such as a demo of your app or business and marketing plans.",
+    "Find out what is required for your apps to comply with the U.S. Export Regulations for encryption and get details on how Apple reviews apps that use encryption technologies.",
+    "Get help with iTunes Connect and features like TestFlight, Sales and Trends, and App Analytics. Receive guidance on responding to customer reviews, offering subscriptions, setting up in-app purchases, uploading builds, in-app purchase receipts, using altool and Transporter, and more.",
+    "Learn how you can put your apps at the top of relevant search results and get details on implementing Search Ads.",
+    "Reserve time in our fully outfitted studio to record the latest episode of your audio podcast, right here at WWDC. Each 60 minute session can accommodate up to four contributors, with Apple experts on hand to help get your session up and running. You will receive a copy of your session for post-production and distribution."
+  ],
+  "time": [
+    "Tuesday: 10:00 AM - 6:00 PM, Wednesday - Thursday: 9:00 AM - 6:00 PM, Friday: 9:00 AM - 3:30 PM",
+    "Tuesday: 10:00 AM - 6:00 PM, Wednesday - Thursday: 9:00 AM - 6:00 PM, Friday: 9:00 AM - 1:15 PM",
+    "Tuesday: 10:00 AM - 6:00 PM, Wednesday - Thursday: 9:00 AM - 6:00 PM, Friday 9:00 AM - 4:00 PM",
+    "Tuesday 10:00 AM - 6:00 PM, Wednesday - Thursday: 9:00 AM - 6:00 PM, Friday 9:00 AM - 4:00 PM",
+    "Tuesday 10:00 AM - 6:00 PM, Wednesday - Thursday: 9:00 AM - 6:00 PM, Friday 9:00 AM - 1:00 PM",
+    "Tuesday 10:00 AM - 6:00 PM, Wednesday - Thursday: 9:00 AM - 6:00 PM, Friday 9:00 AM - 4:00 PM",
+    "Thursday: 9:00 AM - 6:00 PM",
+    "Tuesday: 10:00 AM - 6:00 PM, Wednesday - Thursday: 9:00 AM - 6:00 PM, Friday: 9:00 AM - 4:00 PM",
+    "Wednesday: 9:00 AM - 6:00 PM, Friday 9:00 AM - 4:00 PM",
+    "Tuesday: 10:00 AM - 6:00 PM, Wednesday - Thursday: 9:00 AM - 6:00 PM, Friday: 9:00 AM - 3:00 PM"
+  ]
+}
