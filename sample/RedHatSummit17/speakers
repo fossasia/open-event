@@ -9,7 +9,7 @@
       "heard-from": "",
       "thumbnail-image-url-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 204,
@@ -38,7 +38,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 170,
@@ -67,7 +67,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 113,
@@ -99,7 +99,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "As a product manager with a background in cognitive science, Mike Amburn has been developing customer-focused products for over twenty years. Shortly after joining Red Hat ten years ago, Mike served as the founding architect for what would become the award-winning Red Hat Customer Portal. In his current role within the Integrated Solutions Business Unit, Mike leads the effort to coordinate and visualize the complex challenge of integration and interoperability across Red Hat products and partner solutions for open hybrid and private clouds and convert that insight into actionable intelligence for both customers and Red Hat associates.",
       "sessions": [{
          "id": 89,
@@ -128,7 +128,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Ms. Robin Appia is the President & CEO of Educology Solutions, Inc. (ESI), which she founded in 2008.  Following graduate school, Robin entered into the Information Technology (IT) sector as a software developer and navigated her way throughout various IT positions, with industry giant Electronic Data Systems, and subsequently found herself successfully and confidently managing large, complex IT programs.  Robin\u2019s career progression and insight into the industry led her to fill a niche roll in middleware services and she eventually started her company.  With the responsibilities of managing and growing ESI, Robin continues to works on-site as a Program Manager for one of ESI\u2019s largest middleware customers.  ESI currently has a presence within the Federal, State and Commercial sectors supporting various IT initiatives.  Along with her title as CEO, Robin is also a wife and mother.  Although challenging, Robin works hard to maintain a successful work life balance while continuing to ensure ESI\u2019s success and growth.",
       "sessions": [{
          "id": 113,
@@ -157,7 +157,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Prakash Aradhya is responsible for driving the roadmap and vision of Red Hat\u2019s BPM and BRMS technologies.",
       "sessions": [{
          "id": 156,
@@ -186,7 +186,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Senior Energy AppDev Solution Architect at Red Hat focused on Big Data, IIoT, Mobile and Cloud solutions for Oil and Gas and the Utilities segments",
       "sessions": [{
          "id": 98,
@@ -215,7 +215,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 241,
@@ -244,7 +244,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 181,
@@ -273,7 +273,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 240,
@@ -302,7 +302,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 175,
@@ -331,7 +331,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Keith Babo is a product manager for JBoss Fuse and 3scale API Management at Red Hat.  Prior to joining product management, Keith was a core developer in the JBoss division of Red Hat, where he founded and served as project lead for the open source project SwitchYard.",
       "sessions": [{
          "id": 127,
@@ -360,7 +360,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Kyle Bader is a Senior Solution Architect working in the Storage Solutions Team at Red Hat, lending his design and operational skills with Ceph to help develop tested solutions that ensure repeatable success when deploying distributed, fault-tolerent, multi-petabyte storage systems. Prior to Red Hat, Kyle had architectural roles at both Inktank and DreamHost. Kyle was part of the team that brought the first production Ceph clusters to the world, supporting DreamHost's DreamObjects and DreamCompute services.",
       "sessions": [{
          "id": 177,
@@ -392,7 +392,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Working on Container and Openstack at Veritas Technologies",
       "sessions": [{
          "id": 90,
@@ -421,7 +421,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 94,
@@ -450,7 +450,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Leads Red Hat's OpenShift as a Service efforts",
       "sessions": [{
          "id": 157,
@@ -479,7 +479,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Nick is Senior Director of Product Management for OpenStack at\u00a0Red Hat. \u00a0Nick joined Red Hat in\u00a0June 2014, as part of the acquisition of eNovance, where he was VP of Products. Prior to that role, Nick was Ubuntu Server and Cloud Product manager at Canonical, where he participated in the definition and success of Ubuntu as a platform above and under the cloud. Nick joined the OpenStack project since its first summit and has been working in various roles in the OpenSource space since early 2000.",
       "sessions": [{
          "id": 92,
@@ -511,7 +511,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 180,
@@ -540,7 +540,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Mike Barrett, OpenShift by Red Hat product manager, specializes in accelerating application platforms through the use of operating system and hardware technologies. He is a 20-year veteran of datacenter architecture. Mike previously worked in both services and product management at Sun Microsystems and Oracle.",
       "sessions": [{
          "id": 147,
@@ -569,7 +569,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Guil Barros, is a Sr. Principal Product Manager at Red Hat in the RHEL OpenStack Platform group. His focus is on working with partners to create interesting solutions to customer problems. Guil has a passion for finding the sweet spot that ties existing technologies together into truly useful implementations. In his career, this has spanned all the way from understanding how to best interact with users, to architecting support strategy, to bringing partners to innovate together.",
       "sessions": [{
          "id": 67,
@@ -598,7 +598,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Boris Baryshnikov is a principal program manager in the Azure Compute team focusing on Linux/OSS on Azure. Previously, Boris worked in Database Systems Group focusing on features related to the next generation of Azure SQL Database platform. Before that, he was in SQL Server Engine Query Processor team working on features for efficient query performance troubleshooting and predictable query processing, including leading the SQL Server 2008 Resource Governor project.",
       "sessions": [{
          "id": 182,
@@ -627,7 +627,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 190,
@@ -659,7 +659,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "George Batchvarov is a solution architect and senior director at NCI Inc. He has been working on development, design and architecture  of high frequency transactional and Big Data analytical systems for multiple federal government agencies and companies like FINRA, Fannie Mae, AOL, MCI Worldcom and Siemens AG.",
       "sessions": [{
          "id": 145,
@@ -688,7 +688,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Gabriel Bechara is a principal solutions architect at Red Hat. Gabriel is a veteran in Middleware, technology enthusiast, motivated by innovation and the relation of those innovations with our day to day life. Gabriel has served as an architect and advisor on large projects, providing practical experience and feedback on concepts that can provide a foundation for building new information systems. His interests include methodologies for defining software and enterprise architectures, with a strong focus on DevOps and innovative software architectures sustained by a PaaS.",
       "sessions": [{
          "id": 124,
@@ -720,7 +720,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Jon Benedict is a Tech Evangelist for Red Hat Virtualization and is based out of Raleigh, North Carolina. He has been involved in technology in since 1997, providing consulting, integration, and pre-sales services. In 2011, Jon combined his love of virtualization, storage, and writing into what has become a very popular technology blog - http://CaptainKVM.com. He has been published in numerous industry online magazines, whitepapers, tech interviews. Jon is a veteran speaker numerous trade shows including Red Hat Summit, KVM Forum, oVirt Workshop, and OpenStack Summit. When not working he enjoys time his family and writing, playing, and recording music.",
       "sessions": [{
          "id": 122,
@@ -749,7 +749,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Rafael Benevides is a Director of Developer Experience at Red Hat, working on JBoss open-source projects with emphasis on improving developer productivity. In his current role, he is the JBoss Developer Materials lead providing Quickstarts and tools to improve the developer\u2019s experience. He worked in several fields including application architecture and design. Besides that, he is also member of Apache DeltaSpike PMC - a Duke\u2019s Choice Award winner project. Besides that, He also worked in several fields including application architecture and design and he\u2019s also a speaker at conferences like JUDCon, TDC, JavaOne and Devoxx.",
       "sessions": [{
          "id": 187,
@@ -781,7 +781,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Andrius Benokraitis is a Principal Product Manager for Networking at Ansible by Red Hat.",
       "sessions": [{
          "id": 89,
@@ -810,7 +810,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 27,
@@ -839,7 +839,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "William Benton leads a team of data scientists and engineers at Red Hat, where he has applied analytic techniques to problems ranging from forecasting cloud infrastructure costs to designing better cycling workouts.  His current focus is designing infrastructure for next-generation insightful applications, but he has also conducted research and development in the areas of static program analysis, managed language runtimes, logic databases, cluster configuration management, and music technology.  Benton holds a PhD in computer sciences from the University of Wisconsin.",
       "sessions": [{
          "id": 72,
@@ -868,7 +868,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 94,
@@ -897,7 +897,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "TBD",
       "sessions": [{
          "id": 22,
@@ -926,7 +926,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Josh Berkus works within Red Hat OSAS to organize, promote and support the communities around container technologies used by the Red Hat container stack.  This includes Atomic Host, Atomic developer tools, Docker, Kubernetes, and the CNCF.  He is also well-known as a former Core Team member of the PostgreSQL Project.",
       "sessions": [{
          "id": 17,
@@ -955,7 +955,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 27,
@@ -984,7 +984,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Blair has worked in distributed computing at Monash University for ten years, in cloud computing with OpenStack and Ceph for half of that. Team lead, architect, admin, user, researcher and occasional hacker - Blair's unique perspective has helped guide the evolution of the research computing engine central to Monash's 21st Century Microscope.",
       "sessions": [{
          "id": 212,
@@ -1013,7 +1013,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 241,
@@ -1042,7 +1042,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 223,
@@ -1071,7 +1071,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Sebastien Blanc is JEE engineer with 10 years of experience. He works at Red Hat and works on the KeyCloak project. Besides his \u201cheavy\u201d JEE profile (middleware, banking and insurance products) S\u00e9bastien spends advocating his passion through different conferences (Devoxx, JUDCon, JavaOne, SpringOne).",
       "sessions": [{
          "id": 233,
@@ -1103,7 +1103,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Andrew Block is a Principal Consultant with Red Hat Consulting. He specializes on delivering cloud based and integration solutions for customers along with emphasizing the importance of Continuous Integration and Continuous Delivery methodologies to develop and deploy software faster. Andrew is a contributor to a variety of open source projects and initiatives. He is a frequent blogger and has spoken at both large conferences and small-image-url community meetups.",
       "sessions": [{
          "id": 46,
@@ -1135,7 +1135,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 96,
@@ -1167,7 +1167,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Nenad Bogojevic, web architecture expert at Amadeus, has 20+ years of experience in software development. He has worked on e-commerce applications, natural language processing tools, and high-performance network middleware. In his job, Nenad is an architect who codes, a technical lead, and an evangelist for application platforms, online and web technologies. Currently, he is driving a transition of a large online system and building new container based platform for new services. In his spare time he travels, manages small-image-url home clusters or builds and programs robots with his daughters.",
       "sessions": [{
          "id": 165,
@@ -1196,7 +1196,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Andy is currently an Enterprise Architect at Capital One with over 16 years of hands-on IT experience building real-time high transaction decisioning and workflow applications. His current focus areas are on application architectures including microservices, reactive architecture, case management & BPMS products, rules engines, and enterprise shared services. He holds an undergraduate and master's degree in Computer Science along with a concentration in Information Security. He has several industry certifications including AWS Certified Solutions Architect - Associate, CISSP and CSSLP.",
       "sessions": [{
          "id": 216,
@@ -1228,7 +1228,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Marc has nearly fifteen years of identity and access management experience as a software engineer, product developer and consultant.  Marc is experienced building, deploying and managing identity systems from all major vendors across numerous industries as well as working with security teams to analyze compliance and remediate issues.  Marc has previously spoken at Google DevFest 2016, The Information Security Systems Association conference and given multiple briefings on identity management for OpenShift Commons.",
       "sessions": [{
          "id": 235,
@@ -1257,7 +1257,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Manfred Bortenschlager is the director of API Market Development at 3scale by Red Hat. He leads business development for API management and educates markets about the value of application programming interfaces. Manfred's activities include establishing and managing strategic partnerships, writing and presenting API thought leadership content, and API strategy consulting. He holds a PhD in Computer Science (Mobile Computing) and an MBA.",
       "sessions": [{
          "id": 152,
@@ -1286,7 +1286,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 126,
@@ -1315,7 +1315,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Terry Bowling is a Senior Technology Product Manager for Red Hat Enterprise Linux where he focuses on systems management tooling.",
       "sessions": [{
          "id": 143,
@@ -1344,7 +1344,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 98,
@@ -1373,7 +1373,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Emily Brand is a Territory Services Manager based in NYC. Her successful project sales and delivery range from OpenStack to Storage to Middleware Application Development. As one of the co-founders of JBoss Windup, her technology background specializes in JBoss middleware migrations. She is the Integration Community of Practice Manager at Red Hat and holds a masters and undergraduate degree in Computer Science.",
       "sessions": [{
          "id": 82,
@@ -1402,7 +1402,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "A Senior Solutions Engineer for the central IT organization at the University of North Carolina at Chapel Hill.",
       "sessions": [{
          "id": 137,
@@ -1431,7 +1431,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 94,
@@ -1460,7 +1460,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Ben Breard is the Technology Product Manager for Linux Containers at Red Hat where he focuses on  driving the container roadmap, RHEL Atomic Host, and evangelizing open source technology in his free time.",
       "sessions": [{
          "id": 180,
@@ -1489,7 +1489,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Ted Brunell is the Principal Solution Architect for DoD Programs at Red Hat.  During his 5+ years at Red Hat, Ted has focused on enabling customers to adopt of Open Source technology for IT automation and cloud computing.  Ted is also a retired US Marine and in his spare time, he helps organize a Linux Users Group in his hometown of Fredericksburg, VA and enjoys kayak fishing, craft beer, and tinkering with technology.",
       "sessions": [{
          "id": 191,
@@ -1518,7 +1518,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 171,
@@ -1547,7 +1547,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Martin is a cloud computing veteran, having been involved first in the rise of Amazon Web Services (2006 - 2010), an most recently at Google Cloud Platform (2011 - present). He has held a variety of roles including product management, sales management, business development, and strategy. He has also worked at Microsoft and Ericcson, as well as several startups.",
       "sessions": [{
          "id": 157,
@@ -1576,7 +1576,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 140,
@@ -1605,7 +1605,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 191,
@@ -1637,7 +1637,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "David Bush is a Senior Consultant for the Red Hat Business Automation Practice, and has deep experience in designing BPM solutions across industries in North America. He applies emerging technologies to the business automation practice, which enables process and rule discovery, self-learning human tasks, and self-optimizing rules and processes.",
       "sessions": [{
          "id": 28,
@@ -1666,7 +1666,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Tom is the University Outreach team lead at Red Hat, overseeing Red Hat's involvement and partnerships with higher education. He has been at Red Hat since 2001, and is an active participant in the Fedora comunity.",
       "sessions": [{
          "id": 95,
@@ -1695,7 +1695,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 87,
@@ -1724,7 +1724,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Thomas Cameron is a digital transformation strategist at Red Hat. He has been in the information technology industry since 1993, and has beena t Red Hat since 2005. Thomas has held certifications as a Novell Certified NetWare Engineer and a Microsoft Certified Systems Engineer/Trainer. Thomas is currently a Red Hat Certified Architect (RHCA), a Red Hat Certified Datacenter Specialist (RHCDS), a Red Hat Certified Security Specialist (RHCSS), a Red Hat Certified Virtualization Administrator (RHCVA), and and a Red Hat Certified Examiner (RHCX). Thomas sits on the systems management and Enterprise Linux subject matter expert teams at Red Hat.",
       "sessions": [{
          "id": 96,
@@ -1756,7 +1756,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Marco Carrer is CTO of EUROTECH where he is leading the company towards the enablement of Internet of Things solutions and applications. Marco began his career as an engineer at Sony and later joined Oracle in the Server Technologies group where, over the span of 13-year career, he was directly responsible for the design and development of several innovative Oracle products in the areas of Web Services and Enterprise Collaboration. Throughout his career, Marco loved collaborating on open source projects and is currently project lead for Eclipse Kura and Kapua. Marco Carrer holds a Laurea in Electronic Engineering from University of Padova and a Master in Computer Science from Cornell University. He is a certified SCRUM Master and has been awarded ten US patents.",
       "sessions": [{
          "id": 237,
@@ -1785,7 +1785,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Steven Carter is a Principal Solutions Architect with over 20 years of industry experience working in large universities, government research and development, and the private sector.  He has spent time as a system administrator running some of the World\u2019s largest supercomputers and a network engineer building out one of the World\u2019s first SDN networks for the Department of Energy. In addition, Steven has a wide range of experience in networking ranging from operations, to embedded software development and spends much of his time helping customers apply cloud technologies to address business requirements.",
       "sessions": [{
          "id": 83,
@@ -1814,7 +1814,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Software development engineer in the middleware team responsible of the Business Rules frameworks at Amadeus",
       "sessions": [{
          "id": 221,
@@ -1843,7 +1843,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Experienced senior infrastructure engineer and technical leader, focusing on Platform as a Service and Middleware technologies (application hosting, messaging, file transfer, authentication services). Responsible for managing a globally located technical team in order to deliver strategic platforms and components for Middleware hosting services",
       "sessions": [{
          "id": 160,
@@ -1872,7 +1872,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Ilker Cebeli is a Senior Director of Product Planning at Samsung. He is responsible for leading and directing the emerging memory, SSD, and all-flash-array related storage solutions and technologies. He has spent over 25 years in enterprise computing, storage and networking working in various roles as a strategist, engineering management, and technologist. Prior to joining to Samsung, Ilker worked at Micron, and was leading and directing emerging memory projects in memory division. Ilker also spent 15 years at Intel and he was responsible for Intel's Xeon\u2122 product planning and server platform architecture definition. He led the strategies and product planning for several Intel Xeon\u2122 CPUs, chipsets, and server initiatives; including Intel\u2019s first Core\u2122 architecture based Xeon\u2122 \u201cWoodcrest\u201d, Intel\u00ae first micro server SOC \"Avoton\", Sandy Bridge Xeon\u2122 CPU and Romley platform, Intel\u2019s first integrated memory controller Xeon \u2122 CPU \u201cNehalem\u201d, and Intel DDR server chipset, blades, rack server form factor initiatives. He holds a Master\u2019s degree in Electrical Engineering from the University of Southern California, and a BSEE from Istanbul Technical University.",
       "sessions": [{
          "id": 121,
@@ -1901,7 +1901,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Gregory Charot currently serves as a OpenStack Senior Field Product Manager for Red Hat. OpenSource passionate, he worked as a production engineer then  architect for about 8 years before joining Red Hat and dedicate its time to OpenStack; first as an Architect then as part of the OpenStack Product Team. As Field Product Manager, he represents the BU on the field, his main missions are to enable, help, advice and update Red Hat internal team as well as our customers all over Europe.",
       "sessions": [{
          "id": 57,
@@ -1930,7 +1930,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 31,
@@ -1959,7 +1959,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Red Hat Solutions Architect",
       "sessions": [{
          "id": 61,
@@ -1994,7 +1994,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Aria Chernik, JD, PhD, is a Lecturing Fellow in the Social Science Research Institute at Duke University and Director of OSPRI (Open Source Pedagogy, Research + Innovation), which integrates open source principles and methodologies into modes of teaching and learning, communicating, and creating within and beyond educational institutions. Aria has over 15 years of experience teaching at the K-12, undergraduate, graduate, and professional levels. Her research focuses on the intersection of access to information, open learning, and education innovation, networked communication and democratic form, and open collaboration. She has presented and written extensively about open education. She is @ariachernik on Twitter.",
       "sessions": [{
          "id": 95,
@@ -2023,7 +2023,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 211,
@@ -2055,7 +2055,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Hiram Chirino is one of the founders of the Apache ActiveMQ, Camel and ServiceMix projects. He's also created a number of of other supporting Open Source projects. He is an Apache Software Foundation member is the Fuse Platform Architect at Red Hat. He has been developing Open Source based messaging and integration products for the last 14 years.",
       "sessions": [{
          "id": 127,
@@ -2087,7 +2087,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "During his 5 years at Red Hat, Mike has worked closely with the product developers to deploy Red Hat solutions in-house.  Following his success in helping redefine Identity Management within IT, Mike has most recently been working to transform IT's approach to process management with the implementation of JBoss BPM Suite.",
       "sessions": [{
          "id": 194,
@@ -2116,7 +2116,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "To Be Filled by Cian",
       "sessions": [{
          "id": 59,
@@ -2145,7 +2145,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 231,
@@ -2177,7 +2177,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Mary Cochran is part of the Red Hat NA Enterprise Integration Practice as a Middleware Consultant.  She has worked with a wide variety of technologies and developed the whole stack on enterprise applications.  She is an Apache Camel contributor and also has an integration blog.  In addition, writes posts for Red Hat\u2019s developers blog.",
       "sessions": [{
          "id": 84,
@@ -2207,7 +2207,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 177,
@@ -2236,7 +2236,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Scott Collier is a Consulting Engineer and lead in the Atomic OpenShift program at Red Hat.  He focuses on OpenShift and infrastructure integration as well as other container and container orchestration based activities.",
       "sessions": [{
          "id": 65,
@@ -2271,7 +2271,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 139,
@@ -2300,7 +2300,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 90,
@@ -2329,7 +2329,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 148,
@@ -2361,7 +2361,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Carlos H. A. Costa is a Research Staff Member at IBM T. J. Watson Research Center, where he is part of the System Software group within the Data-Centric Solutions (DCS) department. His work is mainly focused on system software, programming models and middleware for next-generation high-performance computing systems. Currently, he is leading efforts to bridge the gap between emerging paradigms for distributed computing, such as Cloud computing, and traditional HPC platforms. He has made contributions showing how analytics frameworks like Apache Spark can be optimized in an HPC platform, and how advanced features and HPC technology can be used to scale and accelerate workflows in the areas of machine learning and genomics.",
       "sessions": [{
          "id": 24,
@@ -2390,7 +2390,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 83,
@@ -2419,7 +2419,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Madou is a Red Hat EMEA Specialist Solution Architect with a strong focus on Red Hat JBoss Data Virtualization and Red Hat JBoss Data Grid. He is responsible for providing expertise and knowledge about these products to prospective customers.",
       "sessions": [{
          "id": 66,
@@ -2448,7 +2448,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Principal Product Manager - Container Infrastructure for Openshift",
       "sessions": [{
          "id": 147,
@@ -2480,7 +2480,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 222,
@@ -2515,7 +2515,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 34,
@@ -2544,7 +2544,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 211,
@@ -2576,7 +2576,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Will Darton, Systems Engineer for Navy Federal Credit Union, has worked with Red Hat Enterprise Linux for over 15 years in the retail, hospitality and financial sectors. His emphasis has been on deploying and utilizing Red Hat Satellite to standardize environments, streamline enterprise management and provide compliance for various security policies.",
       "sessions": [{
          "id": 226,
@@ -2605,7 +2605,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 239,
@@ -2640,7 +2640,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 97,
@@ -2669,7 +2669,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Rob Davis is Vice President of Storage Technology at Mellanox where he focuses on ways to apply high-speed interfaces to storage systems. As a technology leader and visionary for over 35 years, he has been a key figure in the development of an entire generation of storage networking products. He is currently leading the development and marketing of products based on NVMe over fabrics, which will allow for the high-speed networking of PCIe-based storage. Davis was previously Vice President and Chief Technology Officer at QLogic, where he drove development and marketing of Fibre Channel, Ethernet and InfiniBand technology into new markets such as blade servers. Before joining QLogic, Davis worked at Ancor Communications, where he drove development and marketing of Fibre Channel and InfiniBand products. Davis\u2019 areas of expertise include virtualization, Ethernet, Fibre Channel, SCSI, iSCSI, InfiniBand, RoCE (remote DMA over converged Ethernet), SAS, PCI, SATA, NVMe and flash storage.",
       "sessions": [{
          "id": 84,
@@ -2698,7 +2698,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Platform Architect and Engineering Manager at Red Hat. Since 2005 he has been involved in opensource. Enjoying working remotely and creating free software for a living. Platform Architect of JBoss Portal and Project Lead of GateIn till 2014. Co founder of PicketLink project. Currently managing security team at Red Hat Middleware - responsible for projects like KeyCloak. Representing Red Hat in JSR 351 oraz JSR 362 EGs. Formerly one of Warsaw JUG leaders. Co organizer of conferences - Javarsovia/Confitura 2008 and Warsjawa 2008, 2012 and 2013. Co founder of Warsaw JBoss User Group.",
       "sessions": [{
          "id": 208,
@@ -2727,7 +2727,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Margaret Dawson, Red Hat global product marketing, is an author and speaker on cloud computing, big data, open source, women in tech, and the intersection of business and technology. She has led programs and teams at several startups\u2014such as Aventail and Hubspan\u2014and Fortune 500 companies, including Amazon, Microsoft, and HP. She is a former vice president of product marketing and cloud evangelist for HP Helion, the cloud division of Hewlett-Packard. Her passions include agile methodologies, mentoring and coaching, and helping companies use technology to increase success.",
       "sessions": [{
          "id": 97,
@@ -2756,7 +2756,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Tom Debevoise is the chief business process management evangelist for Signavio. He is a master solution designer, architect and systems integrator. Tom has process, decision and event modeling expertise in many areas including recent work in Compliance especially Dodd-Frank, BPM for GRC, Cognitive and Blockchain Processes, Next Generation Energy, and Security C2. He is also the author of several other books including the successful \u2018Microguide to Process and Decision Modeling in BPMN/DMN'",
       "sessions": [{
          "id": 220,
@@ -2785,7 +2785,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Donna DeCapite is a Principal Staff Scientist at SAS focusing on emerging technologies.",
       "sessions": [{
          "id": 87,
@@ -2814,7 +2814,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Greg DeKoenigsberg is VP of Community at Ansible.",
       "sessions": [{
          "id": 22,
@@ -2843,7 +2843,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 225,
@@ -2872,7 +2872,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Founder and lead of OptaPlanner and BRMS Business Resource Planner.",
       "sessions": [{
          "id": 172,
@@ -2901,7 +2901,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Senior Developer for OpenShift",
       "sessions": [{
          "id": 248,
@@ -2933,7 +2933,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Bill is a diverse IT professional with experience in many aspects of software development and product management, architecture and technical management. Extensive field experience with cutting edge firms building high-value business applications. Delivers outstanding results in highly competitive situations requiring a minimum of supervision.",
       "sessions": [{
          "id": 146,
@@ -2962,7 +2962,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "test",
       "sessions": [{
          "id": 113,
@@ -2991,7 +2991,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Abhijit Dey is the director of engineering in storage and availability at Symantec. He leads the Linux platform train within the Storage Engineering team and is responsible for Linux deliverables in the storage category in Symantec. Abhijit works very closely with Red Hat\u2019s Engineering and Product Management teams and is a key contributor to Red Hat and Symantec\u2019s partner relationship. Abhijit has worked in the storage industry for more than 15 years and is a technologist at heart. His key focus areas are Cluster File System, Red Hat Enterprise Virtualization, OpenStack, and general Linux.",
       "sessions": [{
          "id": 90,
@@ -3020,7 +3020,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Red Hat Principle Solutions Architect and Red Hat Certified Architect (RHCA), Christoph Doerbeck worked for 18+ years as a UNIX IT sys-admin before joining Red Hat in 2006. Now having worked with some of Red Hat's largest North American commercial and financial accounts over the past 10 years, the cumulative experience is integrated into informative sessions related to deploying and supporting Red Hat solutions to meet enterprise demands and scale.",
       "sessions": [{
          "id": 61,
@@ -3055,7 +3055,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Laurent Domb is a Principal Cloud Solutions Architect working for Red Hat with over 20 years of industry experience. He is a Red Hat Certified Architect Level VI, a puppet certified professional 2013/2014 and ITILv2 certified. Next to his technical certifications he also holds an eMBA degree in general management as well as a BSc in applied computer sciences.",
       "sessions": [{
          "id": 140,
@@ -3084,7 +3084,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Russell has over 20 years experience working with high performance computing technologies and applications. Machine Learning is delivering proven business value solving real problems and needs a range of HPC technologies to run effectively.",
       "sessions": [{
          "id": 9,
@@ -3113,7 +3113,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Senior Platform consultant focusing on emerging technology and providing customers with Red Hat solutions to meet their business needs. I have over 15 years\u2019 experience in IT consulting across a range of businesses that require an Agile approach to solving problems. Using a range of DevOps tooling and mythology for best practices.",
       "sessions": [{
          "id": 86,
@@ -3142,7 +3142,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 220,
@@ -3174,7 +3174,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "John Doyle, Red Hat senior principal product manager, works in the Application Platforms group. He has more than 15 years of experience in the industry in both engineering and product management. John has been a product manager for JBoss Enterprise Application Platform, JBoss Web Server, and JBoss Operations Network.",
       "sessions": [{
          "id": 243,
@@ -3203,7 +3203,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 98,
@@ -3232,7 +3232,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Jason is a Specialist Application Architect at Red Hat where he help customers understand and adopt emerging technology.  Prior to joining Red Hat, he has been a part of many successful software-centric programs and projects.  These projects run the gamut, from unmanned air vehicle command and control to games for your XBox and mobile phones.  He has a B.S. in Computer Engineering and a M.S. in Computer Science, both from Virginia Tech.",
       "sessions": [{
          "id": 173,
@@ -3261,7 +3261,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Denise Dumas is the VP of Platform Engineering at Red Hat. With an extensive background in operating systems, she\u2019s filled a wide variety of software development and management roles across 3 major operating systems over 25 years. Denise runs the organization that produces and delivers Red Hat Enterprise Linux, the foundation of Red Hat's product offerings.",
       "sessions": [{
          "id": 8,
@@ -3290,7 +3290,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 56,
@@ -3319,7 +3319,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Jens Eckert leads the Platform-as-a-Service project at BMW. Before his time at BMW, Jens worked as a consultant for Systems Integration and IT-Strategy for clients in the telecommunication and media industry. Jens holds a dregree in business and computer science from the University of M\u00fcnster and an Executive Certificate in Management and Leadership from the Massachusetts Institute of Technology.",
       "sessions": [{
          "id": 154,
@@ -3348,7 +3348,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 181,
@@ -3378,7 +3378,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 144,
@@ -3410,7 +3410,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "David Egts is the Chief Technologist of Red Hat's North America Public Sector organization. As the intersection between between public sector customers and Red Hat engineering and product management, his customer interactions and domain expertise blend customer needs with industry trends to help Red Hat define open source computing in the enterprise. He has achieved Red Hat's highest level of certification as a Red Hat Certified Architect (RHCA), and has received Red Hat's highest employee honor as a Red Hat Chairman's Award recipient.",
       "sessions": [{
          "id": 96,
@@ -3439,7 +3439,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 69,
@@ -3468,7 +3468,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "I have worked on distributed storage performance for over 2 decades, contributing to Ceph, Gluster, EMC Atmos, and IBRIX Fusion (now HP), and was a developer for a decade before that.   More recently I have authored the \"small-image-urlfile\" benchmark and contributed to fio benchmark, and have built the largest Red-Hat-internal OpenStack-Ceph cluster.",
       "sessions": [{
          "id": 164,
@@ -3497,7 +3497,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Who am I? That\u2019s a good question. I am principal software engineer at Red Hat. But before that, I had several professional lives, from academic positions to management. Currently, I am working as a Vert.x core developer. I have been involved in projects and products touching many domains and technologies such as OSGi, mobile app development, continuous delivery, and DevOps. I am an active contributor to many open source projects such as Apache Felix, iPOJO, Wisdom Framework, and Eclipse Vert.x.",
       "sessions": [{
          "id": 159,
@@ -3526,7 +3526,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 206,
@@ -3558,7 +3558,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Vagner works with Linux and open source in general for 20 years. In the last couple of years he has been working in key OpenStack projects in Brazil.",
       "sessions": [{
          "id": 141,
@@ -3587,7 +3587,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Red Hat Channels Solution Architect East Region",
       "sessions": [{
          "id": 97,
@@ -3616,7 +3616,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Chad Ferman is the service Design Lead for ExxonMobil. He has over 20 years of IT experience starting with MVS and Unix and working through all of the different platforms since. He is a huge advocate and evangelist for Open source and the Dev/ops movement.",
       "sessions": [{
          "id": 126,
@@ -3645,7 +3645,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Joe Fernandes is the Director of Product Management for Red Hat's OpenShift Platform as a Service. Prior to joining Red Hat, Joe was the Director of Product Management for Application Quality Management solutions at Oracle and served as the Director of Product Management and Marketing for Empirix's Web business unit prior to its acquisition by Oracle. Joe has spent the past 15 years helping customers build, test, and manage enterprise applications. He holds a BS in Electrical and Computer Engineering from Worcester Polytechnic Institute and an MBA from Boston College.",
       "sessions": [{
          "id": 92,
@@ -3674,7 +3674,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Rebecca Fernandez is a  writer and a leadership development coach with a passion for cultivating and sustaining great company cultures. She is the maintainer and evangelist for the Open Decision Framework, a collection of Red Hat\u2019s best practices for open, collaborative, and inclusive decision making that has been is-featured in Forbes, ZDNet, and Business Insider. Rebecca is a founding member and contributor to Opensource.com, an editor for Red Hat CEO Jim Whitehurst\u2019s book The Open Organization, and an Open Organization Ambassador. She is a Principal Employment Branding + Communications Specialist at Red Hat.",
       "sessions": [{
          "id": 8,
@@ -3706,7 +3706,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 144,
@@ -3735,7 +3735,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 217,
@@ -3767,7 +3767,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Yan Fisher is a Product marketing Lead responsible for Hyperscale platforms at Red Hat. Yan has a deep background in systems design and architecture. He has spent the past 20 years of his career working in the computer and telecommunication industries, where he tackled as diverse areas as sales and operations to performance and benchmarking. With a passion for solutions-oriented marketing he is known for bringing a customer-centric perspective into traditional IT discussions and having an eye for innovative approaches that stand out in the competitive landscape.",
       "sessions": [{
          "id": 115,
@@ -3796,7 +3796,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Annagreth joined Red Hat in 2008 and is a manager within the EMEA Customer Experience and Engagement group, driving development and implementation of regional success strategies. With a focus on strategic customer and partner engagement across all verticals and product lines, her European teams are responsible for building up strong technical and business partnerships that govern the engagement for providing expert guidance, stability and security to ensure confident deploying of enterprise solutions in business\u00ad critical environments.",
       "sessions": [{
          "id": 20,
@@ -3825,7 +3825,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 91,
@@ -3854,7 +3854,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 215,
@@ -3883,7 +3883,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "John Fulton works for Systems Engineering at Red Hat and is a member of the  OpenStack and Ceph integration team. He has spent the past year focussed on hyper converged OpenStack/Ceph deployment, i.e. running Nova Compute and Ceph OSD services on the same servers, and has contributed upstream to TripleO. Prior to joining Systems Engineering, John worked with customers in the highly competitive Financial Services Industry as a technical resource to build private clouds based on OpenStack. He blogs at johnlikesopenstack.com.",
       "sessions": [{
          "id": 229,
@@ -3912,7 +3912,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Mario is a Java Champion and Drools extraordinaire.",
       "sessions": [{
          "id": 23,
@@ -3941,7 +3941,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "\uf0a7Pim is a result driven system integration specialist. He has extensive knowledge in the areas of SOA, Microservices, API Management, EAI and BPM. And knows how to combine these concepts with real world experience. Pim is able to advice customers and help them implement complex integration scenarios to realize customer business goals. From requirements analysis and architecture up until the technical realization and maintenance. From a technical perspective Pim is very experienced in both the Red Hat JBoss and the TIBCO product stacks. The combination of integration as specialty, the experience with multiple product stacks as well as his practical approach make Pim a very in demand team member with customers.",
       "sessions": [{
          "id": 204,
@@ -3970,7 +3970,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 219,
@@ -3999,7 +3999,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Tom Gamull is a Solutions Architect at Red Hat, focusing on cloud, linux, virtualization and data center areas.  Tom also brings in experience having worked on various large and complex projects utilizing agile development, devops and CI/CD. He has spoken at many conferences and local user groups. You can follow his blog (magicalyak.org) or follow him on Twitter @MagicalYak.",
       "sessions": [{
          "id": 126,
@@ -4031,7 +4031,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 225,
@@ -4060,7 +4060,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Jonathan Gershater has lived and worked in Silicon-image-url Valley since 1996.  At Red Hat, he specializes in competitive marketing for cloud computing and NFV. Prior to joining Red Hat, Jonathan worked at 3Com, Entrust (by acquisition), Sun Microsystems and Trend Micro.",
       "sessions": [{
          "id": 174,
@@ -4095,7 +4095,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 18,
@@ -4127,7 +4127,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Please ask Jerome for this Bio section, as well as his actual job title. thanks, --jhubbard",
       "sessions": [{
          "id": 193,
@@ -4156,7 +4156,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 76,
@@ -4185,7 +4185,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Moran Goldboim is a Senior Product Manager for Red Hat Virtualization and is based out of the Tel Aviv office.",
       "sessions": [{
          "id": 239,
@@ -4217,7 +4217,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 171,
@@ -4246,7 +4246,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 200,
@@ -4275,7 +4275,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 162,
@@ -4304,7 +4304,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Bryan Grant has been working in Healthcare Integration for the past 15-yrs and has implemented  solutions using a variety of products.",
       "sessions": [{
          "id": 168,
@@ -4333,7 +4333,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Bill Gray is a bit-twiddling member of the Red Hat Enterprise Linux Performance Engineering team.  His focus areas include memory performance (e.g. NUMA), CPU and non-traditional / future computing performance issues.",
       "sessions": [{
          "id": 163,
@@ -4362,7 +4362,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 113,
@@ -4391,7 +4391,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 38,
@@ -4421,7 +4421,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "I've been a UK based Redhatter for about 2 years. Prior to this, I've worked in IT most of my career in customer facing and project focussed delivery situations. I love coming up with ideas and creating solutions for people. In my spare time, my passion is cycling and the great outdoors!",
       "sessions": [{
          "id": 80,
@@ -4450,7 +4450,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 41,
@@ -4479,7 +4479,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Yanis has been working around automation and CI/CD problematic for more than 5 years. At Red Hat his focus has been scoped around OpenStack automated deployment and OpenStack automated testing. Making Red Hat OpenStack Platform stronger, more stable and simpler have been and still are his current  goals.",
       "sessions": [{
          "id": 14,
@@ -4508,7 +4508,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Victoria Guido is an emerging leader in the DC tech community. She combines a strong project management background with diverse experience in technology, including DevOps, Agile, and other specialties. In her current role at Blackstone Technology Group, Victoria has established an Agile Project Management Organization, revitalized internal communications, and developed an enviable company culture with fun events for learning and collaboration.",
       "sessions": [{
          "id": 113,
@@ -4537,7 +4537,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 74,
@@ -4566,7 +4566,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Gordon is a technology evangelist in Red Hat\u2019s Cloud Product Strategy group where he helps define the overall strategy for how all of Red Hat's products and technologies come together as a cohesive portfolio for open hybrid clouds. He is a frequent and highly acclaimed speaker at customer and industry events and is the author of books along with numerous other publications.  Prior to Red Hat, as an industry analyst, Gordon wrote hundreds of research notes, was frequently quoted in the press on a wide range of IT topics, and advised clients on product and marketing strategies. Earlier in his career, he was responsible for bringing a wide range of computer systems, from minicomputers to large UNIX servers, to market while at Data General.",
       "sessions": [{
          "id": 134,
@@ -4595,7 +4595,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Sebastien Han currently serves as a Principal Software Engineer, Storage Architect for Red Hat. He has been involved with OpenStack and Ceph since 2011 and has built a strong expertise around them. Curious and passionate, he loves working on bleeding edge technologies and identifying opportunities where OpenStack and Ceph can enhance the user experience. In 2013, he began working with containers as well and ultimately implemented containerized Docker Ceph services. Now on a daily basis, he rotates between Ceph, OpenStack, and Docker in an effort to strengthen the integration between all three. From time to time, he attends various events where he evangelizes these technologies and their usage, while devoting his copious spare time to blogging. See http://www.sebastien-han.fr/blog/. But alas, this is just the beginning.",
       "sessions": [{
          "id": 57,
@@ -4624,7 +4624,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 181,
@@ -4653,7 +4653,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Philip was part of Feedhenry prior to the acquisition by Red Hat in Oct 2014.  Philip has been working on Enterprise Mobile development projects for 5 years.  Since relocated to the US in Feb 2016, Philip has been senior member of the Red Hat Mobile Practice.",
       "sessions": [{
          "id": 32,
@@ -4682,7 +4682,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 241,
@@ -4711,7 +4711,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Itamar Heim is a Senior Director of engineering for Container, Virtualization and System Management. Itamar leads the community and product engineering teams comprising Satellite, Red Hat Enterprise Virtualization and Container Management groups. Prior to this Role Itamar worked on architecture and technology as a Consulting Software Engineer in Red Hat, and as Chief Architect in Qumranet. Itamar has over 20 years of experience in managing development and integration of complex enterprise-grade software systems, specializing in management of networking, security and virtualization. Itamar holds an MBA and a bachelor degree in computer science.",
       "sessions": [{
          "id": 240,
@@ -4740,7 +4740,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 31,
@@ -4769,7 +4769,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Ryan Hennessy is a Senior Solutions Architect at Red Hat.  Ryan has been with Red Hat for 5 years and in that time has had the opportunity to work with Red Hat customers in Illinois, Wisconsin, as well as the telecommunications industry.   When not running around working with customers, Ryan is at home with his wife and 2 kids in a far west suburb of Chicago.  In his free time Ryan enjoys hacking away at his home lab, photo-urlgraphy, and brewing beer.",
       "sessions": [{
          "id": 161,
@@ -4798,7 +4798,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "William has over 25 years experience developing distributed applications and systems and service oriented architectures for both government and private industry.  Industries include: finance, telecommunications, health-care, transport, movie animation, and software development.  William's variety of roles include, engineering, professional services, partner alliances, several management and director roles. He also owned a consulting startup that was acquired by a publicly traded company. William joined Red Hat in the office of the CTO, in 2008, focusing on emerging technologies and currently works in the Cloud Product Strategy team focusing on DevOps and DevSecOps Strategy. He travels extensively speaking with customers in various industries about the latest innovations and how they can and will effect how they do business in their industry. He is a regular speaker af various industry events.",
       "sessions": [{
          "id": 134,
@@ -4830,7 +4830,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Malcolm has spent 16 years at Red Hat, primarily in Consulting, bringing open source technology and culture to an enterprise organisations. Extensive experience on the use and development of open source principals within the enterprise.",
       "sessions": [{
          "id": 176,
@@ -4859,7 +4859,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Sr Solutions Architect on the OpenShift Tiger Team. Experience with enterprise architecture, networking, and web development. Avid Soccer Fan.",
       "sessions": [{
          "id": 77,
@@ -4888,7 +4888,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Using Linux since 1999, Dirk Herrmann has joined Red Hat in 2008 coming with a strong IT Governance & Open Source background. After working in various consulting, presales and sales roles he joined Red Hat's Systems Design & Engineering group in 2014. Since 2016 he runs the Red Hat Container Catalog and multiple surrounding initiatives focusing on end2end use cases and customer user experience.",
       "sessions": [{
          "id": 91,
@@ -4917,7 +4917,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Abdi Hersi, from Cox Automotive, is a Sr. Linux Systems Engineer focused on Information Technology process automation -- predominantly for Cox Auto's Big Data infrastructure. Mr. Hersi has over fifteen years of experience and a proven record in IT multi-platform systems support and design. He has in-depth knowledge and experience for IT infrastructure build and automation processes to deploy and manage using Red Hat platforms. At Cox Auto he has spent the last several years architecting successful new business solutions and solving complex technical issues by leveraging, adapting, and improving existing process and technologies in Cox Automotive's IT group. He values Open Source Software principles for value-added success and is a Red Hat Certified Professional.",
       "sessions": [{
          "id": 185,
@@ -4946,7 +4946,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Thomas Heute is the Engineering Manager for the Middleware Management products.",
       "sessions": [{
          "id": 243,
@@ -4975,7 +4975,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Jason Hibbets is a senior community evangelist in Corporate Marketing at Red Hat where he is a community manager for Opensource.com. He has been with Red Hat since 2003 and is the author of The foundation for an open source city. Prior roles include senior marketing specialist, project manager, Red Hat Knowledgebase maintainer, and support engineer. Follow him on Twitter: @jhibbets.",
       "sessions": [{
          "id": 96,
@@ -5004,7 +5004,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Roel Hodzelmans is one of the Red Hat's Senior Solution Architects for Red Hat\u2019s Middleware (JBoss) portfolio, for the Red Hat PaaS en Container platform OpenShift and Red Hat's Internet of Things. Roel works predominantly on advising potential and existing customers of Red Hat on determining their way to the Open Hybrid Clouds: How do you design applications for the Cloud, how does one bring (existing or legacy) applications to Clouds and how does one manage applications in Clouds. He also regularly speaks at customer, partner and Red Hat events to help create awareness, introduce the Red Hat portfolio and solutions and share how Open Source can help in future proofing companies.",
       "sessions": [{
          "id": 204,
@@ -5033,7 +5033,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Conrad has over eight years in software quality assurance and testing. He is currently finishing an MBA at Boston University in technology, innovation strategy, and organizational behavior. Hailing from Virginia Beach, Virginia, Conrad is an Afghanistan war veteran and volunteers for a nonprofit called Operation Code, helping veterans and the military community learn software development.",
       "sessions": [{
          "id": 82,
@@ -5062,7 +5062,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Justin Holmes is a Paas & DevOps Architect for the Open Innovation Lab, where he helps accelerate the delivery of our customer\u2019s innovative ideas the Red Hat Way. Justin has a deep background in Agile application development techniques, including Behavior Driven Development, Continuous Delivery and Impact Mapping. Before joining the Innovation Lab, Justin lead Red Hat's North American Business Automation practice, delivering rules & process driven solutions for customers in Finance, Health Care & Telco.",
       "sessions": [{
          "id": 34,
@@ -5091,7 +5091,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 56,
@@ -5120,7 +5120,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Chad Holmes leads the Red Hat Mobile Application Platform (RHMAP) Solution Architecture team which focuses on demonstrating how new mobile technologies and approaches can significantly improve adoption of enterprise mobility solutions. Increasingly, Chad also finds himself speaking with clients about how newer technologies such as Node.js and Mobile Backend as a Service (MBaaS) will directly impact their IoT strategies in the future",
       "sessions": [{
          "id": 132,
@@ -5152,7 +5152,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 100,
@@ -5181,7 +5181,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 113,
@@ -5210,7 +5210,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 244,
@@ -5239,7 +5239,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 97,
@@ -5268,7 +5268,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 97,
@@ -5306,7 +5306,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Linux kernel driver engineer for NVIDIA since 2007. Various systems software programming jobs before that, since 1996. Eight years as an Unrestricted Line Officer in the U.S. Navy's submarine force, including 2 years as a certified Naval instructor (Pearl Harbor, Hawaii), finishing up as the Combat Systems Officer (\"Weps\") of the USS Bluefish (SSN 675). BSEE from Utah State University, 1987. VLSI certificate from UCSC (2015).",
       "sessions": [{
          "id": 193,
@@ -5335,7 +5335,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Tom Hudak is a full-stack technologist with extensive experience in Unix/Linux, storage, networking, web/application development, database design, data security, and IT architecture. He is currently building an army of 10,000 robots while evangelizing orchestration and DevOps throughout the Enterprise space.",
       "sessions": [{
          "id": 222,
@@ -5364,7 +5364,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "As a software engineering manager with a background in software consulting and support, Steven has been developing and delivering customer solutions for over 15 years. Since joining Red Hat, Steven has led the development of the interoperability and integration continuous integration system and data hub which are used as primary services to evaluate, analyze, and report on multi-product deployment scenarios.  In his current role within the Systems Design & Engineering team, Steven collaborates across multiple business units to provide insights to Red Hat associates, partners, and customers.",
       "sessions": [{
          "id": 89,
@@ -5393,7 +5393,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Tommy Hughes is a Principal Engineer and lead in the Atomic OpenShift program at Red Hat.",
       "sessions": [{
          "id": 53,
@@ -5425,7 +5425,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Timothy Hunt is a Senior Architect for the Red Hat Consulting Container Practice. He has worked with Red Hat\u2019s OpenShift Container Platform since version 1. He has deep experience working with large enterprises to design and deploy OpenShift as well as assisting them in migrate workloads into containers.",
       "sessions": [{
          "id": 179,
@@ -5454,7 +5454,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 218,
@@ -5483,7 +5483,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Distributed systems specialist with twenty five years\u2019 experience, encompassing academic research, startups and large corporations. Technical focus on reliable messaging and IoT middleware on a range of platforms. Currently engineering director with the Red Hat JBoss middleware team, responsible for messaging and IoT middleware.",
       "sessions": [{
          "id": 238,
@@ -5515,7 +5515,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Rimma Ionte is a Senior Cloud Architect at Red Hat working on building Red Hat NFV solutions.  After fourteen years with one of the major North American Service Providers, joined Red Hat to help expand the business into service providers networks, combining Red Hat NFV platform products with partner solutions to create high performance and easy to manage future-proof networks.",
       "sessions": [{
          "id": 33,
@@ -5544,7 +5544,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Tariq Islam has been a Senior Architect and Applications Architect at Red Hat for 2 years with a strong focus on modern application development, containers, and microservices. Prior to his time at Red Hat, Tariq worked across the government spectrum in application development from the intelligence community to across the federal civilian space.",
       "sessions": [{
          "id": 66,
@@ -5574,7 +5574,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 100,
@@ -5603,7 +5603,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "TBD",
       "sessions": [{
          "id": 40,
@@ -5635,7 +5635,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Stephen Jacobs is a Professor in the School of Interactive Games and Media at RIT. He is a faculty affiliate with the Center for Media, Art, Games, Interaction and Creativity (MAGIC) and the Digital Humanities and Social Sciences Program. He became involved in the Open Source community when he had his students make educational games for the One Laptop per Child/Sugar platform.  His work there led to a collaboration with other professors to create the first academic minor in open source and free culture and LibreCorps an initiative of the FOSS@MAGIC program that brings experienced, proven open source students together with humanitarian and civic organizations for full-time, paid co-ops and part-time student that support humanitarian organizations.",
       "sessions": [{
          "id": 95,
@@ -5664,7 +5664,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 228,
@@ -5693,7 +5693,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Asmita is a passionate engineer at Veritas and has about 14 years of experience with Enterprise Storage & High Availability products and is currently working on HyperScale, which is Veritas\u2019 upcoming storage offering for OpenStack. Her areas of interest include Storage, Distributed Systems, Clustering, Virtualization and Cloud.",
       "sessions": [{
          "id": 90,
@@ -5722,7 +5722,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "I am an author, engineer and serial entrepreneur.  My interest in AI goes back to the days when nobody was interested in it.  Currently, I'm working on a deep learning book for mere mortals called Learning AI if You Suck at Math!",
       "sessions": [{
          "id": 24,
@@ -5751,7 +5751,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Marek currently works as a Developer Advocate at Red Hat, where his task is to introduce Containers, Kubernetes, OpenShift and other cool technologies to engineers, architects, etc. Before joining Red Hat Marek worked as a Ruby, PHP and Java engineer and consultant. He is one of the founders of the Brno Ruby User Group (BRUG) and is a long-time advocate of FOSS.",
       "sessions": [{
          "id": 69,
@@ -5780,7 +5780,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "See other bio submission, but leader of the Open Source Enablement Community of Practice in Red Hat",
       "sessions": [{
          "id": 176,
@@ -5809,7 +5809,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Rich will provide it since he's submitting multiple sessions.",
       "sessions": [{
          "id": 226,
@@ -5844,7 +5844,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Chakri to fill in",
       "sessions": [{
          "id": 77,
@@ -5873,7 +5873,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Kevin Jones is a Cloud Architect for Red Hat. His mission is to bring OpenStack into public service for Government, Research, and Educational entities. Kevin spends his time working with customers to define use cases around cloud and devops. Kevin has significant experience working with research and scientific computing entities to determine best fit for OpenStack and other technologies. Kevin comes to Red Hat from NASA Langley Research Center where he was the Chief Technologist for IT. In his role at NASA, he helped evangelize the use of hybrid cloud computing. Kevin came up in his career as a developer first and via curiosity, migrated to a holistic approach focused on utilizing technology to deliver business results.",
       "sessions": [{
          "id": 174,
@@ -5902,7 +5902,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "To be completed",
       "sessions": [{
          "id": 64,
@@ -5931,7 +5931,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Miska Kaipiainen is the CEO and founder of Kontena, the creator of the Kontena open source, developer-friendly container platform that was recognized by Black Duck as one of the Top 10 Open Source Rookies of the Year 2015. A serial entrepreneur and business developer, he has extensive experience in managing high-tech businesses in both the hardware and software sectors. Twitter: @miskakai",
       "sessions": [{
          "id": 13,
@@ -5960,7 +5960,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 75,
@@ -5989,7 +5989,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 36,
@@ -6018,7 +6018,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 48,
@@ -6053,7 +6053,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 21,
@@ -6082,7 +6082,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Michelle is an Enterprise Architect at Capital One.  She has a lot of in-depth experience architecting, building and maintaining Case Management applications.",
       "sessions": [{
          "id": 216,
@@ -6111,7 +6111,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Lucy Huh Kerner is currently a Principal Technical Product Marketing Manager for Security at Red Hat. Prior to this role, she was a Senior Cloud Solutions Architect at Red Hat. Lucy has over 13 years of professional experience as both a software and hardware development engineer and a pre-sales solutions architect. Prior to joining Red Hat, she worked at IBM as both a Mainframe microprocessor design engineer and a pre-sales solutions architect for IBM x86 servers. She has also interned at Apple, Cadence, Lockheed Martin, and MITRE, where she worked on both software and hardware development. Lucy graduated from Carnegie Mellon University with a  M.S and B.S in Electrical and Computer Engineering. She also graduated from Carnegie Mellon University with a Minor in Spanish.",
       "sessions": [{
          "id": 169,
@@ -6149,7 +6149,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Anthony Kesterton is a Senior Solution Architect for Red Hat UK.  He works as part of a global account team, looking after Barclays, HSBC and Royal Bank of Scotland. In a previous life, he was tinted Blue, but is feeling much better now.  When not working at Red Hat, he spends time helping the Bloodhound Supersonic Car project (www.bloodhoundssc.com), a land speed record attempt, aiming for 1000 mph - yes, that is one thousand miles an hour. This project is being used to encourage young people to spark interest in STEM-related careers and topics. Anthony is an academic ambassador for the BloodhoundSSC project.",
       "sessions": [{
          "id": 160,
@@ -6178,7 +6178,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "will be updated.",
       "sessions": [{
          "id": 128,
@@ -6207,7 +6207,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 156,
@@ -6236,7 +6236,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 192,
@@ -6265,7 +6265,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "We have been building Cisco's Cloud for 2.5 years. We currently have over 100k cores and are continuing to grow. I am a founding member of the Cloud Operations Engineering Team.  We use Red Hat OSP and Ceph for our storage.",
       "sessions": [{
          "id": 164,
@@ -6294,7 +6294,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 237,
@@ -6323,7 +6323,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 101,
@@ -6352,7 +6352,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 25,
@@ -6381,7 +6381,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "TBD",
       "sessions": [{
          "id": 149,
@@ -6410,7 +6410,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Bob Kozdemba works for Red Hat as a Domain Architect who specializes in the OpenShift container platform. He has worked with Linux and open source technologies for a number of years with experience in software development, 3D graphics and high performance computing.  Bob is a Red Hat Certified Architect and holds an MS in Information Technology and an MBA from the University of Maryland. In his spare time he enjoys studying jazz and blues and performs with the Austin Classical Guitar Ensemble.",
       "sessions": [{
          "id": 78,
@@ -6442,7 +6442,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Jen Krieger is Chief Agile Architect at Red Hat. Most of her 20+ year career has been in software development representing many roles throughout the waterfall and agile lifecycles. At Red Hat, she lead a department-wide DevOps movement focusing on CI/CD best practices. Most recently, she worked with with the Project Atomic & OpenShift teams. Now Jen is guiding teams across the company into agility in a way that respects and supports Red Hat's commitment to Open Source.",
       "sessions": [{
          "id": 150,
@@ -6477,7 +6477,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Manager IT, Lead Innovation Lab with many years of experience in IT consulting, IT projectlead, Microservices and API gateway.",
       "sessions": [{
          "id": 228,
@@ -6506,7 +6506,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 124,
@@ -6535,7 +6535,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Working to make a better, faster, stronger university IT",
       "sessions": [{
          "id": 137,
@@ -6564,7 +6564,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "",
       "sessions": [{
          "id": 156,
@@ -6593,7 +6593,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "James Labocki",
       "sessions": [{
          "id": 99,
@@ -6622,7 +6622,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Ugo Landini, Red Hat Principal Solution Architect, has more than 20 years of experience working with European customers as an architect, project lead, or trainer and has a deep knowledge of distributed architectures and Red Hat\u00ae JBoss\u00ae Middleware. Ugo co-founded the JBoss user group (JUG) Roma, writes code in whatever language he finds interesting, and contributes to several open source projects. He is also the founder of the Hacep project and co-founder and chair of the technical committee at Codemotion.",
       "sessions": [{
          "id": 41,
@@ -6651,7 +6651,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "Mauricio Leal (aka Maltron) is currently a SME (Subject Matter Expert) for Developer Experience in Latin America and it holds more than 15 years of experience in Open Source technologies, High Availability environments and Mobile technologies software. Prior to Red Hat, he was deeply engaged with Open Source server softwares in Latin American Media Companies, Telco's and in the Financial Sector working for several big players in the region. Maltron already worked in several other markets and engaged high technical projects in Germany, France and Ireland and looks for ways to promote open source software whenever he goes.",
       "sessions": [{
          "id": 141,
@@ -6680,7 +6680,7 @@
       "heard-from": "",
       "thumbnail-image-url": "",
       "website": "",
-      "long-biography": ""
+      "long-biography": "",
       "short-biography": "I'm a Senior Software Engineer at Red Hat who works in the OpenStack team. My work involves development and software automation.",
       "sessions": [{
          "id": 14,
