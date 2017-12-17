@@ -1,13 +1,12 @@
-[
-    {
-        "id": 1,
-        "name": "Welcome",
-        "length": "00:30"
+[{
+          "id": 1,
+          "name": "Welcome",
+          "length": "00:30"
     },
     {
-        "id": 2,
-        "name": "Keynotes",
-        "length": "00:30"
+          "id": 2,
+          "name": "Keynotes",
+          "length": "00:30"
     }
 
 ]
