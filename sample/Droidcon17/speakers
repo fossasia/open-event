@@ -961,37 +961,6 @@
     "thumbnail-image-url": ""
   },
   {
-    "id": 32,
-    "name": "Todd Burner",
-    "email": "",
-    "mobile": "",
-    "photo-url": "/images/speakers/tb.jpg",
-    "sessions": [
-      {
-        "id": 21,
-        "title": "Stability, Analytics and Deployment with Fabric and fastlan"
-      }
-    ],
-    "organisation": "",
-    "country": "",
-    "short-biography": "Todd is a developer advocate at Google, working on Fabric and fastlane. He loves supporting customers and talking about technology.",
-    "website": "",
-    "twitter": "https://twitter.com/toddlovesthis",
-    "facebook": "",
-    "github": "",
-    "linkedin": "",
-    "is-featured": false,
-    "position": "",
-    "city": "",
-    "gender": "",
-    "heard-from": "",
-    "icon-image-url": "",
-    "small-image-url": "",
-    "speaking-experience": "",
-    "sponsorship-required": "",
-    "thumbnail-image-url": ""
-  },
-  {
     "id": 33,
     "name": "Tyler Nappy",
     "email": "",
