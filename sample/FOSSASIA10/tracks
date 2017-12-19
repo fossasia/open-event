@@ -3,10 +3,10 @@
         "id": 1,
         "name": "Lightweight Technologies",
         "color": "#3DC8C3",
+        "font-color": "#FFFFFF",
         "description": "Lightweight solutions are currently a strong focus in all major IT markets",
         "location": "Raffles International College Ho Chi Minh City",
-        "sessions": [
-            {
+        "sessions": [{
                 "id": 1,
                 "title": "Pre-Meeting"
             },
@@ -19,16 +19,16 @@
                 "title": "Hack Sessions"
             }
         ],
-        "track_image_url": null
+        "track-image-url": null
     },
     {
         "id": 2,
         "name": "Growing the community, expanding Openness",
         "color": "#1485CC",
+        "font-color": "#FFFFFF",
         "description": " Growing the community, expanding Openness",
         "location": "Raffles International College Ho Chi Minh City",
-        "sessions": [
-            {
+        "sessions": [{
                 "id": 4,
                 "title": "Community Day (keynotes, talks, workshops)"
             },
@@ -41,34 +41,34 @@
                 "title": "Workshops and Follow ups"
             }
         ],
-        "track_image_url": null
+        "track-image-url": null
     },
     {
         "id": 3,
         "name": "OpenOffice.org/ODF",
         "color": "#B21212",
+        "font-color": "#FFFFFF",
         "description": "OpenOffice.org and Open Document Formats Key Focus",
         "location": "Raffles International College Ho Chi Minh City",
-        "sessions": [
-            {
+        "sessions": [{
                 "id": 7,
                 "title": "Mekong Excursion organized by tour company"
             }
         ],
-        "track_image_url": null
+        "track-image-url": null
     },
     {
         "id": 4,
         "name": "Debconf",
         "color": "#9EFF56",
+        "font-color": "#FFFFFF",
         "description": "Debian Mini-Debconf Asia",
         "location": "Raffles International College Ho Chi Minh City",
-        "sessions": [
-            {
+        "sessions": [{
                 "id": 8,
                 "title": "Presentations and Meetings with students and professors in universities"
             }
         ],
-        "track_image_url": null
+        "track-image-url": null
     }
 ]
