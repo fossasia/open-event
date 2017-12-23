@@ -4120,10 +4120,10 @@
         "sponsorship-required": ""
     },
     {
-        "twitter": "",
+        "twitter": "https://twitter.com/kvlado80",
         "is-featured": true,
         "photo-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2333/photo/MW01T0xJMD/12a095c7-1926-4c7b-90bc-2043731df29d.png",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/in/kvlado80/",
         "id": 2333,
         "city": "Stuttgart",
         "organisation": "Daimler",
@@ -4336,7 +4336,7 @@
         "facebook": "",
         "github": "",
         "name": "Stephanie Taylor",
-        "gender": "",
+        "gender": "Female",
         "thumbnail-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2340/thumbnail/VGFNbkZkRE/8bb669ac-7c84-4cb6-8580-0062180e8d62.jpg",
         "short-biography": "<p><span style=\"\">Stephanie Taylor has been a Program Manager at Google on the Open Source Outreach team for over 6 years. She has given talks to thousands of students about Google Code-in and Google Summer of Code, all with the goal of bringing more students into open source software development. In her free\u00a0</span>time<span style=\"\">\u00a0Stephanie loves to travel, explore, and hike. While finding time to discover the best hot chocolate spots in every city she visits.</span></p>",
         "long-biography": "",
@@ -4682,7 +4682,7 @@
             }
         ],
         "icon-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2157/icon/WWIvMG93eF/29336eda-074d-4817-9d90-01fbc14c7e1a.jpg",
-        "facebook": "",
+        "facebook": "https://www.facebook.com/janmichael.graef",
         "github": "https://github.com/karlitschek",
         "name": "Frank Karlitschek",
         "gender": "",
@@ -5425,7 +5425,7 @@
         "sponsorship-required": ""
     },
     {
-        "twitter": "http://twitter.com/opensourceville",
+        "twitter": "https://twitter.com/alexcg",
         "is-featured": false,
         "photo-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2195/photo/T1VndmszMk/1485789127.5.png",
         "linkedin": "http://www.linkedin.com/in/alexcg",
@@ -5757,7 +5757,7 @@
         "twitter": "https://www.twitter.com/Saptak013",
         "is-featured": false,
         "photo-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2215/photo/R09NSko3bF/1485849320.74.png",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/in/saptaks/",
         "id": 2215,
         "city": "Allahabad",
         "organisation": "FOSSASIA",
@@ -5786,7 +5786,7 @@
         "twitter": "https://twitter.com/chibitronics",
         "is-featured": true,
         "photo-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2217/photo/TURhbVYwUU/1485888353.84.png",
-        "linkedin": "",
+        "linkedin": "https://www.linkedin.com/in/bunnie-huang-b98910/",
         "id": 2217,
         "city": "Singapore",
         "organisation": "Chibitronics PTE LTD",
