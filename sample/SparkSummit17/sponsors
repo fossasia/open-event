@@ -3,8 +3,8 @@
         "description": "",
         "level": "1",
         "url": "https://aws.amazon.com/",
-        "sponsor_type": "Gold Sponser",
-        "logo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKbVZBT2JmRktGZ2M",
+        "type": "Gold Sponser",
+        "logo-url": "/images/sponsors/aws-logo.png",
         "id": 1,
         "name": "Amazon Web Services"
     },
@@ -12,8 +12,8 @@
         "description": "",
         "level": "1",
         "url": "https://cloud.google.com/",
-        "sponsor_type": "Gold Sponsor",
-        "logo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKVlBLVG5ZQ0NYLTA",
+        "type": "Gold Sponsor",
+        "logo-url": "/images/sponsors/ggogle-cloud-logo.png",
         "id": 2,
         "name": "Google Cloud"
     },
@@ -21,8 +21,8 @@
         "description": "",
         "level": "1",
         "url": "http://www.nvidia.com/content/global/",
-        "sponsor_type": "Gold Sponser",
-        "logo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKODlZejBhVWpZWlU",
+        "type": "Gold Sponser",
+        "logo-url": "/images/sponsors/nvidia-logo.png",
         "id": 3,
         "name": "Nvidia"
     },
@@ -30,8 +30,8 @@
         "description": "",
         "level": "1",
         "url": "https://www.microsoft.com/en-in/",
-        "sponsor_type": "Gold Sponsor",
-        "logo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKTDJYQmlWcmFKa1E",
+        "type": "Gold Sponsor",
+        "logo-url": "/images/sponsors/microsoft-logo.png",
         "id": 4,
         "name": "Microsoft"
     },
@@ -39,8 +39,8 @@
         "description": "",
         "level": "2",
         "url": "http://www.cray.com/",
-        "sponsor_type": "Silver Sponsor",
-        "logo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKSUdSRjhfaWJGMTA",
+        "type": "Silver Sponsor",
+        "logo-url": "/images/sponsors/cray-logo.png",
         "id": 5,
         "name": "Cray"
     },
@@ -48,8 +48,8 @@
         "description": "",
         "level": "2",
         "url": "http://cask.co/",
-        "sponsor_type": "Silver Sponsor",
-        "logo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKcG56eDl6QWZZb0E",
+        "type": "Silver Sponsor",
+        "logo-url": "/images/sponsors/cask-logo.png",
         "id": 6,
         "name": "CASK"
     },
@@ -57,8 +57,8 @@
         "description": "",
         "level": "3",
         "url": "https://www.techatbloomberg.com/",
-        "sponsor_type": "Silver Sponsor",
-        "logo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKbkJWY0tIYzdFS2c",
+        "type": "Silver Sponsor",
+        "logo-url": "/images/sponsors/bloomberg-logo.png",
         "id": 7,
         "name": "Bloomberg"
     },
@@ -66,8 +66,8 @@
         "description": "",
         "level": "4",
         "url": "http://www.netapp.com/us/index.aspx",
-        "sponsor_type": "Silver Sponsor",
-        "logo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKbXRCZXltNzlWWFE",
+        "type": "Silver Sponsor",
+        "logo-url": "/images/sponsors/netapp-logo.png",
         "id": 8,
         "name": "NetApp"
     },
@@ -75,8 +75,8 @@
         "description": "",
         "level": "3",
         "url": "https://www.versive.com/",
-        "sponsor_type": "Bronze Sponser",
-        "logo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKRlVUR1NRWjVmX2s",
+        "type": "Bronze Sponser",
+        "logo-url": "/images/sponsors/versive-sponsor-logo.png",
         "id": 9,
         "name": "Versive"
     },
@@ -84,10 +84,9 @@
         "description": "",
         "level": "3",
         "url": "https://corporate.target.com/Careers",
-        "sponsor_type": "Bronze Sponsor",
-        "logo": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKbm9lWmlZeEhkNEU",
+        "type": "Bronze Sponsor",
+        "logo-url": "/images/sponsors/target-logo.png",
         "id": 10,
         "name": "Target"
     }
-
 ]

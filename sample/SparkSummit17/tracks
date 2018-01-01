@@ -2,7 +2,8 @@
     {
         "id": 455, 
         "name": "Research", 
-        "color": "#2E7D32",  
+        "color": "#2E7D32",
+        "font-color": "#FFFFFF", 
         "sessions": [
 			{
                 "id": 1001, 
@@ -36,13 +37,13 @@
                 "id": 1008, 
                 "title": "Creating Personalized Container Solutions with Container Services"
             }
-		], 
-        "track_image_url": ""
+		] 
     },
 	{
         "id": 456, 
         "name": "Spark Ecosystem", 
-        "color": "#283593", 
+        "color": "#283593",
+        "font-color": "#FFFFFF", 
         "sessions": [
 			{
                 "id": 1009, 
@@ -68,13 +69,13 @@
                 "id": 1014, 
                 "title": "Homologous Apache Spark Clusters using Nomad"
             }
-		], 
-        "track_image_url": ""
+		] 
     },
 	{
         "id": 457, 
         "name": "Developer", 
-        "color": "#37474F",  
+        "color": "#37474F",
+        "font-color": "#FFFFFF",
         "sessions": [
 			{
                 "id": 1015, 
@@ -100,12 +101,12 @@
                 "id": 1020, 
                 "title": "Improving Apache Spark with S3"
             }
-		], 
-        "track_image_url": ""
+		] 
     },
 	{
         "id": 458, 
-        "name": "Enterprise", 
+        "name": "Enterprise",
+        "font-color": "#FFFFFF",
         "color": "#6A1B9A", 
         "sessions": [
 			{
@@ -128,13 +129,13 @@
                 "id": 1025, 
                 "title": "Stream all things-patterns of Modern Data Integration"
             }
-		], 
-        "track_image_url": ""
+		] 
     },
 	{
         "id": 459, 
         "name": "Streaming", 
-        "color": "#00695C",  
+        "color": "#00695C",
+        "font-color": "#FFFFFF",
         "sessions": [
 			{
                 "id": 1026, 
@@ -148,13 +149,13 @@
                 "id": 1028, 
                 "title": "An Online Spark Pipeline: Semi Supervised Learning and Automatic Retraining with Spark Streaming"
             }
-		], 
-        "track_image_url": ""
+		] 
     },
 	{
         "id": 460, 
         "name": "Machine Learning", 
-        "color": "#4527A0", 
+        "color": "#4527A0",
+        "font-color": "#FFFFFF", 
         "sessions": [
 			{
                 "id": 1029, 
@@ -176,13 +177,13 @@
                 "id": 1033, 
                 "title": "Real-Time Image Recognition with Apache Spark"
             }
-		], 
-        "track_image_url": ""
+		] 
     },
 	{
         "id": 461, 
         "name": "Training", 
-        "color": "#558B2F", 
+        "color": "#558B2F",
+        "font-color": "#FFFFFF", 
         "sessions": [
 			{
                 "id": 1034, 
@@ -208,7 +209,6 @@
                 "id": 1039, 
                 "title": "Apache Spark Intro for Machine Learning and Data Science"
             }
-		], 
-        "track_image_url": ""
+		] 
     }
 ]

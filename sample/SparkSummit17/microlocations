@@ -5,7 +5,7 @@
         "floor": 0, 
         "latitude": 37.783103, 
         "longitude": -122.404059, 
-        "room": ""
+        "room": null
     },
 	{
         "id": 3, 
@@ -13,7 +13,7 @@
         "floor": 0, 
         "latitude": 37.783103, 
         "longitude": -122.404059, 
-        "room": ""
+        "room": null
     },
 	{
         "id": 4, 
@@ -21,7 +21,7 @@
         "floor": 0, 
         "latitude": 37.783103, 
         "longitude": -122.404059, 
-        "room": ""
+        "room": null
     },
 	{
         "id": 6, 
@@ -29,7 +29,7 @@
         "floor": 0, 
         "latitude": 37.783103, 
         "longitude": -122.404059, 
-        "room": ""
+        "room": null
     },
 	{
         "id": 8, 
@@ -37,7 +37,7 @@
         "floor": 0, 
         "latitude": 37.783103, 
         "longitude": -122.404059, 
-        "room": ""
+        "room": null
     },
 	{
         "id": 10, 
@@ -45,7 +45,7 @@
         "floor": 0, 
         "latitude": 37.783103, 
         "longitude": -122.404059, 
-        "room": ""
+        "room": null
     },
 	{
         "id": 12, 
@@ -53,7 +53,7 @@
         "floor": 0, 
         "latitude": 37.783103, 
         "longitude": -122.404059, 
-        "room": ""
+        "room": null
     },
 	{
 		"id": 16, 
@@ -61,7 +61,7 @@
         "floor": 0, 
         "latitude": 37.783103, 
         "longitude": -122.404059, 
-        "room": ""
+        "room": null
 	},
 	{
 		"id": 20, 
@@ -69,7 +69,7 @@
         "floor": 0, 
         "latitude": 37.783103, 
         "longitude": -122.404059, 
-        "room": ""
+        "room": null
 	},
 	{
 		"id": 22, 
@@ -77,6 +77,6 @@
         "floor": 0, 
         "latitude": 37.783103, 
         "longitude": -122.404059, 
-        "room": ""
+        "room": null
 	}
 ]
