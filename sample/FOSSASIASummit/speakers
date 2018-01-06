@@ -4120,10 +4120,10 @@
         "sponsorship-required": ""
     },
     {
-        "twitter": "https://twitter.com/kvlado80",
+        "twitter": "",
         "is-featured": true,
         "photo-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2333/photo/MW01T0xJMD/12a095c7-1926-4c7b-90bc-2043731df29d.png",
-        "linkedin": "https://www.linkedin.com/in/kvlado80/",
+        "linkedin": "",
         "id": 2333,
         "city": "Stuttgart",
         "organisation": "Daimler",
@@ -4336,7 +4336,7 @@
         "facebook": "",
         "github": "",
         "name": "Stephanie Taylor",
-        "gender": "Female",
+        "gender": "",
         "thumbnail-image-url": "https://storage.googleapis.com/eventyay.com/events/6/speakers/2340/thumbnail/VGFNbkZkRE/8bb669ac-7c84-4cb6-8580-0062180e8d62.jpg",
         "short-biography": "<p><span style=\"\">Stephanie Taylor has been a Program Manager at Google on the Open Source Outreach team for over 6 years. She has given talks to thousands of students about Google Code-in and Google Summer of Code, all with the goal of bringing more students into open source software development. In her free\u00a0</span>time<span style=\"\">\u00a0Stephanie loves to travel, explore, and hike. While finding time to discover the best hot chocolate spots in every city she visits.</span></p>",
         "long-biography": "",
