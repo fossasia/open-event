@@ -2,16 +2,18 @@
 		"id": 1,
 		"name": "All hands",
 		"color": "#3DC8C3",
+		"font-color": "#FFFFFF",
 		"sessions": [{
 				"id": 20,
 				"title": "SensorWeb: Team Kick-off"
-			}],
-		"track_image_url": ""
+		}],
+		"track-image-url": null
 	},
 	{
 		"id": 2,
 		"name": "Emerging Technologies",
 		"color": "#1485CC",
+		"font-color": "#FFFFFF",
 		"sessions": [{
 				"id": 213,
 				"title": "Emerging Technologies Homeroom"
@@ -24,12 +26,13 @@
 				"id": 69,
 				"title": "Emerging Technologies All Hands"
 			}],
-		"track_image_url": ""
+		"track-image-url": null
 	},
 	{
 		"id": 3,
 		"name": "IT",
 		"color": "#B21212",
+		"font-color": "#FFFFFF",
 		"sessions": [
 
 			{
@@ -56,12 +59,13 @@
 				"id": 11,
 				"title": "IT: Infosec 2017 Planning"
 			}],
-		"track_image_url": ""
+		"track-image-url": null
 	},
 	{
 		"id": 4,
 		"name": "Strategic Ops",
 		"color": "#9EFF56",
+		"font-color": "#FFFFFF",
 		"sessions": [{
 				"id": 209,
 				"title": "WPR\\, Metrics & Internal Comms Homeroom"
@@ -71,12 +75,13 @@
 				"title": "Electives Coaching - Final Session"
 			}
 		],
-		"track_image_url": ""
+		"track-image-url": null
 	},
 	{
 		"id": 5,
 		"name": "people",
 		"color": "#E8782C",
+		"font-color": "#FFFFFF",
 		"sessions": [{
 				"id": 13,
 				"title": "Ops OKR Presentation / Project Planning"
@@ -89,12 +94,13 @@
 				"id": 129,
 				"title": "People Ops planning"
 			}],
-		"track_image_url": ""
+		"track-image-url": null
 	},
 	{
 		"id": 6,
 		"name": "FP&A",
 		"color": "#FF3046",
+		"font-color": "#FFFFFF",
 		"sessions": [{
 				"id": 22,
 				"title": "FP&A Session with Jim"
@@ -112,12 +118,13 @@
 				"title": "FP&A Session with Jim"
 			}
 		],
-		"track_image_url": ""
+		"track-image-url": null
 	}, 
 	{
 		"id": 7,
 		"name": "Marketing",
 		"color": "#BF532E",
+		"font-color": "#FFFFFF",
 		"sessions": [
 			{
 				"id": 28,
@@ -137,12 +144,13 @@
 			}
 
 		],
-		"track_image_url": ""
+		"track-image-url": null
 	},
 	{
 		"id": 8,
 		"name": "Firefox",
 		"color": "#FFF22A",
+		"font-color": "#FFFFFF",
 		"sessions": [{
 				"id": 252,
 				"title": "FlyWeb Security & Status Update"
@@ -176,12 +184,13 @@
 				"title": "Firefox Homeroom"
 			}
 			],
-		"track_image_url": ""
+		"track-image-url": null
 	},
 	{
 		"id": 10,
 		"name": "connected devices",
 		"color": "#E0331F",
+		"font-color": "#FFFFFF",
 		"sessions": [{
 				"id": 247,
 				"title": "Connected Devices Wrap-up"
@@ -191,16 +200,17 @@
 				"title": "Connected Devices All Hands"
 			}
 		],
-		"track_image_url": ""
+		"track-image-url": null
 	},
 	{
 		"id": 11,
 		"name": "Legal / business development and policy",
 		"color": "#B062A1",
+		"font-color": "#FFFFFF",
 		"sessions": [{
 			"id": 246,
 			"title": "Legal\\, Bus Dev\\, Policy: Mitchell Baker Fireside Chat"
 		}],
-		"track_image_url": ""
+		"track-image-url": null
 	}
 ]
