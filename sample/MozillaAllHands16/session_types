@@ -1,47 +1,42 @@
 [
-
-        {   
-            "id": 1, 
-            "length": "2.00", 
-            "name": "2 hour session"
-        },
-        {
-            "id": 2, 
-            "length": "2.30", 
-            "name": "2.5 hour session"
-        }, 
-        {
-            "id": 3, 
-            "length": "0.30", 
-            "name": "0.5 hour session"
-        }, 
-        {
-            "id": 5, 
-            "length": "", 
-            "name": "Random"
-        }, 
-        {
-            "id": 6, 
-            "length": "1.00", 
-            "name": "1 hour session"
-        },
-        {
-            "id": 7, 
-            "length": "1.15", 
-            "name": "1.15 hour session"
-        },
-        {
-            "id": 8, 
-            "length": "4.00", 
-            "name": "4 hour session"
-        },
-        {
-            "id": 4, 
-            "length": "1.30", 
-            "name": "1.5 hour session"
-        }
-
-
-
-
+    {
+        "id": 1,
+        "length": "2:00",
+        "name": "2 hour session"
+    },
+    {
+        "id": 2,
+        "length": "2:30",
+        "name": "2:5 hour session"
+    },
+    {
+        "id": 3,
+        "length": "0:30",
+        "name": "0:5 hour session"
+    },
+    {
+        "id": 5,
+        "length": "",
+        "name": "Random"
+    }, 
+    {
+        "id": 6,
+        "length": "1:00",
+        "name": "1 hour session"
+    },
+    {
+        "id": 7,
+        "length": "1:15",
+        "name": "1:15 hour session"
+    },
+    {
+        "id": 8,
+        "length": "4:00",
+        "name": "4 hour session"
+    },
+    {
+        "id": 4,
+        "length": "1:30",
+        "name": "1:5 hour session"
+    }
 ]
