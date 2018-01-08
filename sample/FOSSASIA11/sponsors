@@ -1,28 +1,27 @@
-[
-    {
+[{
         "id": 1,
         "name": "MBM",
-        "logo": "/images/sponsors/mbm_logo_0.png",
+        "logo-url": "/images/sponsors/mbm_logo-url_0.png",
         "level": "1",
-        "sponsor_type": "Organizing Partners",
+        "type": "Organizing Partners",
         "url": "http://mbm.asia/",
         "description": ""
     },
     {
         "id": 2,
         "name": "Van Lang University",
-        "logo": "/images/sponsors/van-lang-university.png",
+        "logo-url": "/images/sponsors/van-lang-university.png",
         "level": "2",
-        "sponsor_type": "HOST 2011",
+        "type": "HOST 2011",
         "url": "http://www.vanlanguni.edu.vn/",
         "description": ""
     },    
     {
         "id": 3,
         "name": "XOAI Hotel",
-        "logo": "/images/sponsors/xoai-hotel.png",
+        "logo-url": "/images/sponsors/xoai-hotel.png",
         "level": "3",
-        "sponsor_type": "Hotel Partner",
+        "type": "Hotel Partner",
         "url": "http://hotelxoai.com/",
         "description": ""
     }
