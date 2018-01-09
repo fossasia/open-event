@@ -3,7 +3,7 @@
 		"name": "Jonathan Bloom",
 		"email": "jbloom@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKdkVkdU9XZEJNSVk",
+		"photo-url": "/images/speakers/jonathon_bloom.jpg",
 		"organisation": "Broad Institute of MIT and Harvard",
 		"position": "Co-Founder, Hail Team",
 		"country": "US",
@@ -25,14 +25,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKdkVkdU9XZEJNSVk"
+		"thumbnail-image-url": "/images/speakers/jonathon_bloom.jpg"
 	},
 	{
 		"id": 2,
 		"name": "Timothy Poterba",
 		"email": "tpoterba@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKMXRHa2xGb1Vaa1U",
+		"photo-url": "/images/speakers/tim_poterba.jpg",
 		"organisation": "Broad Institute of MIT and Harvard",
 		"position": "Engineer and Computational Biologist",
 		"country": "UK",
@@ -54,7 +54,7 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKMXRHa2xGb1Vaa1U"
+		"thumbnail-image-url": "/images/speakers/tim_poterba.jpg"
 	},
 	{
 		"id": 3,
@@ -90,7 +90,7 @@
 		"name": "Patrick Stuedi",
 		"email": "pstuedu@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKdmp0ZUdVMGpycG8",
+		"photo-url": "/images/speakers/patrick_stuedi.jpg",
 		"organisation": "IBM",
 		"position": "Research Staff Member",
 		"country": "Switzerland",
@@ -112,7 +112,7 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKdmp0ZUdVMGpycG8"
+		"thumbnail-image-url": "/images/speakers/patrick_stuedi.jpg"
 	},
 	{
 		"id": 5,
@@ -148,7 +148,7 @@
 		"name": "Michael Malak",
 		"email": "mmalak@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKcjFaemhxOGtLMmM",
+		"photo-url": "/images/speakers/michael_malak.jpg",
 		"organisation": "Oracle",
 		"position": "",
 		"country": "India",
@@ -170,14 +170,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKcjFaemhxOGtLMmM"
+		"thumbnail-image-url": "/images/speakers/michael_malak.jpg"
 	},
 	{
 		"id": 7,
 		"name": "Ali Zaidi",
 		"email": "azaidi@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKMHhqVm4xd0ZLaUk",
+		"photo-url": "/images/speakers/ali_zaidi.jpg",
 		"organisation": "Microsoft",
 		"position": "Data Scientist",
 		"country": "US",
@@ -204,14 +204,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKMHhqVm4xd0ZLaUk"
+		"thumbnail-image-url": "/images/speakers/ali_zaidi.jpg"
 	},
 	{
 		"id": 8,
 		"name": "Hossein Falaki",
 		"email": "hfalaki@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKeWdmOE02QUZJbTg",
+		"photo-url": "/images/speakers/hossein_falaki.jpg",
 		"organisation": "Databricks",
 		"position": "Software Engineer",
 		"country": "India",
@@ -233,14 +233,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKeWdmOE02QUZJbTg"
+		"thumbnail-image-url": "/images/speakers/hossein_falaki.jpg"
 	},
 	{
 		"id": 9,
 		"name": "Ross Gardler",
 		"email": "rgardler@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKTDJxMFh5NEpsN2c",
+		"photo-url": "/images/speakers/ross_gardler.jpg",
 		"organisation": "Apache Software Foundation",
 		"position": "VP",
 		"country": "UK",
@@ -262,14 +262,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKTDJxMFh5NEpsN2c"
+		"thumbnail-image-url": "/images/speakers/ross_gardler.jpg"
 	},
 	{
 		"id": 10,
 		"name": "Nan Zhu",
 		"email": "nzhu@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKTHktWW13REVNcEU",
+		"photo-url": "/images/speakers/nan_zhu.jpg",
 		"organisation": "Microsoft",
 		"position": "Software Engineer",
 		"country": "China",
@@ -291,14 +291,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKTHktWW13REVNcEU"
+		"thumbnail-image-url": "/images/speakers/nan_zhu.jpg"
 	},
 	{
 		"id": 11,
 		"name": "Ryan Williams",
 		"email": "rwilliams@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKdXJldWRicmNJb3c",
+		"photo-url": "/images/speakers/ryan_williams.jpg",
 		"organisation": "Mount Sinai School of Medicine",
 		"position": "Software Developer",
 		"country": "UK",
@@ -320,14 +320,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKdXJldWRicmNJb3c"
+		"thumbnail-image-url": "/images/speakers/ryan_williams.jpg"
 	},
 	{
 		"id": 12,
 		"name": "Shay Nativ",
 		"email": "snativ@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKdjlXZFVlcFZ1S2s",
+		"photo-url": "/images/speakers/shay_nativ.jpg",
 		"organisation": "Redis Labs",
 		"position": "Software Developer",
 		"country": "UK",
@@ -349,7 +349,7 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKdjlXZFVlcFZ1S2s"
+		"thumbnail-image-url": "/images/speakers/shay_nativ.jpg"
 	},
 	{
 		"id": 13,
@@ -385,7 +385,7 @@
 		"name": "Alex Dadgar",
 		"email": "adadgar@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKSWxwNnI1c050ckE",
+		"photo-url": "/images/speakers/alex_dadgar.jpg",
 		"organisation": "Hashicorp",
 		"position": "Project Lead",
 		"country": "UK",
@@ -407,7 +407,7 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKSWxwNnI1c050ckE"
+		"thumbnail-image-url": "/images/speakers/alex_dadgar.jpg"
 	},
 	{
 		"id": 15,
@@ -472,7 +472,7 @@
 		"name": "Joseph Bradley",
 		"email": "jbradley@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKNmpJY3dYYTRaLU0",
+		"photo-url": "/images/speakers/joseph_bradley.jpg",
 		"organisation": "Databricks",
 		"position": "Software Engineer",
 		"country": "US",
@@ -494,7 +494,7 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKNmpJY3dYYTRaLU0"
+		"thumbnail-image-url": "/images/speakers/joseph_bradley.jpg"
 	},
 	{
 		"id": 18,
@@ -530,7 +530,7 @@
 		"name": "Sam Penrose",
 		"email": "spenrose@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKS1JXZDNadnlQaUE",
+		"photo-url": "/images/speakers/sam_penrose.jpg",
 		"organisation": "Mozilla",
 		"position": "",
 		"country": "US",
@@ -552,14 +552,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKS1JXZDNadnlQaUE"
+		"thumbnail-image-url": "/images/speakers/sam_penrose.jpg"
 	},
 	{
 		"id": 20,
 		"name": "Ryan Blue",
 		"email": "rblue@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKUGtYMnpkTmJGTmc",
+		"photo-url": "/images/speakers/ryan_blue.jpg",
 		"organisation": "Netflix",
 		"position": "",
 		"country": "US",
@@ -581,14 +581,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKUGtYMnpkTmJGTmc"
+		"thumbnail-image-url": "/images/speakers/ryan_blue.jpg"
 	},
 	{
 		"id": 21,
 		"name": "Prabhu Kasinthan",
 		"email": "pkasinthan@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKTGxXenRLOVVCZGs",
+		"photo-url": "/images/speakers/prabhu_kasinathan.jpg",
 		"organisation": "Paypal",
 		"position": "Chief Data Engineer",
 		"country": "India",
@@ -610,14 +610,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKTGxXenRLOVVCZGs"
+		"thumbnail-image-url": "/images/speakers/prabhu_kasinathan.jpg"
 	},
 	{
 		"id": 22,
 		"name": "Derek Bennet",
 		"email": "dbennet@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKUkVkbmlOQ3VRWjQ",
+		"photo-url": "/images/speakers/derek_bennet.jpg",
 		"organisation": "Stitch Fix",
 		"position": "Platform Infrastructure Team Lead",
 		"country": "UK",
@@ -639,14 +639,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKUkVkbmlOQ3VRWjQ"
+		"thumbnail-image-url": "/images/speakers/derek_bennet.jpg"
 	},
 	{
 		"id": 23,
 		"name": "Songtao Guo",
 		"email": "sguo@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKMzNpSDJUYnFqdzQ",
+		"photo-url": "/images/speakers/soongtao_guo.jpg",
 		"organisation": "LinkedIn",
 		"position": "Principal Data Scientist",
 		"country": "Korea",
@@ -668,14 +668,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKMzNpSDJUYnFqdzQ"
+		"thumbnail-image-url": "/images/speakers/soongtao_guo.jpg"
 	},
 	{
 		"id": 24,
 		"name": "Wei Di",
 		"email": "wdi@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKVG5rTHVwUUJHZXc",
+		"photo-url": "/images/speakers/wei_di.jpg",
 		"organisation": "LinkedIn",
 		"position": "Business Analytic Data mining team",
 		"country": "Korea",
@@ -697,14 +697,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKVG5rTHVwUUJHZXc"
+		"thumbnail-image-url": "/images/speakers/wei_di.jpg"
 	},
 	{
 		"id": 25,
 		"name": "Jordan Volz",
 		"email": "jvolz@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKdkRwM2FMX3g1MHc",
+		"photo-url": "/images/speakers/jordon_volz.jpg",
 		"organisation": "Cloudera",
 		"position": "Systems Engineer",
 		"country": "US",
@@ -726,14 +726,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKdkRwM2FMX3g1MHc"
+		"thumbnail-image-url": "/images/speakers/jordon_volz.jpg"
 	},
 	{
 		"id": 26,
 		"name": "Gwen Shapira",
 		"email": "gshapira@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKWXA3NXNjTHdmUDA",
+		"photo-url": "/images/speakers/gwen_shapira.jpg",
 		"organisation": "Confluent",
 		"position": "Product Manager",
 		"country": "Germany",
@@ -755,14 +755,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKWXA3NXNjTHdmUDA"
+		"thumbnail-image-url": "/images/speakers/gwen_shapira.jpg"
 	},
 	{
 		"id": 27,
 		"name": "Felix Cheung",
 		"email": "fcheung@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKMUpEQ29TdDRaTWM",
+		"photo-url": "/images/speakers/felix_cheung.jpg",
 		"organisation": "Microsoft",
 		"position": "PMC/Committer",
 		"country": "Korea",
@@ -784,14 +784,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKMUpEQ29TdDRaTWM"
+		"thumbnail-image-url": "/images/speakers/felix_cheung.jpg"
 	},
 	{
 		"id": 28,
 		"name": "Jim Dowling",
 		"email": "jdowling@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKTThBbzNDNHB5YWc",
+		"photo-url": "/images/speakers/jim_dowling.jpg",
 		"organisation": "KTH Royal Institute of Technology",
 		"position": "Associate Professor",
 		"country": "US",
@@ -813,7 +813,7 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKTThBbzNDNHB5YWc"
+		"thumbnail-image-url": "/images/speakers/jim_dowling.jpg"
 	},
 	{
 		"id": 29,
@@ -849,7 +849,7 @@
 		"name": "Xiangrui Meng",
 		"email": "xmeng@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKWmRoUUNWLVRsUk0",
+		"photo-url": "/images/speakers/xiangrui_meng.jpg",
 		"organisation": "Databricks",
 		"position": "Software Engineer",
 		"country": "China",
@@ -871,7 +871,7 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKWmRoUUNWLVRsUk0"
+		"thumbnail-image-url": "/images/speakers/xiangrui_meng.jpg"
 	},
 	{
 		"id": 31,
@@ -907,7 +907,7 @@
 		"name": "Jennifer Shin",
 		"email": "jshin@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKdWhFMkxiTk5kb2M",
+		"photo-url": "/images/speakers/jennifer_shin/jpg",
 		"organisation": "8 Path Solutions",
 		"position": "Founder",
 		"country": "UK",
@@ -929,14 +929,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKdWhFMkxiTk5kb2M"
+		"thumbnail-image-url": "/images/speakers/jennifer_shin.jpg"
 	},
 	{
 		"id": 33,
 		"name": "Leah McGuire",
 		"email": "lmcguire@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKZU1ZT1lCdlI1QW8",
+		"photo-url": "/images/speakers/leah_mcguire.jpg",
 		"organisation": "Salesforce.com",
 		"position": "Technical Staff",
 		"country": "US",
@@ -958,14 +958,14 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKZU1ZT1lCdlI1QW8"
+		"thumbnail-image-url": "/images/speakers/leah_mcguire.jpg"
 	},
 	{
 		"id": 34,
 		"name": "Nikita Shamgunov",
 		"email": "nshamgunov@gmail.com",
 		"mobile": "",
-		"photo-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKeEwxQ2Y3WVV6c3c",
+		"photo-url": "/images/speakers/nikita_shamgunov.jpg",
 		"organisation": "MemSQL",
 		"position": "CTO",
 		"country": "Switzerland",
@@ -987,6 +987,6 @@
 		"small-image-url": "",
 		"speaking-experience": "",
 		"sponsorship-required": "",
-		"thumbnail-image-url": "https://drive.google.com/uc?export=download&id=0B6k_UTO5VOZKeEwxQ2Y3WVV6c3c"
+		"thumbnail-image-url": "/images/speakers/nikita_shamgunov.jpg"
 	}
 ]
