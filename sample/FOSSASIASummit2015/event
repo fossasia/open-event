@@ -1,0 +1,91 @@
+{
+  "id": 1,
+  "name": "FOSSASIA Summit 2015",
+  "latitude": 1.296770,
+  "longitude": 103.786914,
+  "location-name": "NUS Plug-In@Blk71, 71 Ayer Rajah Crescent, 139951 Singapore",
+  "starts-at": "2015-03-12T14:00:00+08:00",
+  "ends-at": "2015-03-15T17:00:00+08:00",
+  "timezone": "Asia/Singapore",
+  "description": "The Smart City with Open Source, Big Data, Design Thinking and Free Knowledge Tools at Asia's Premier 2015 Open Technology Event",
+  "social-links": [
+    {
+      "id": 1,
+      "link": "https://twitter.com/fossasia",
+      "name": "Twitter"
+    },
+    {
+      "id": 2,
+      "link": "https://github.com/fossasia",
+      "name": "Github"
+    },
+    {
+      "id": 3,
+      "link": "https://www.facebook.com/fossasia",
+      "name": "Facebook"
+    },
+    {
+      "id": 4,
+      "link": "https://www.flickr.com/photos/fossasia",
+      "name": "Flickr"
+    },
+    {
+      "id": 5,
+      "link": "https://plus.google.com/108920596016838318216",
+      "name": "Google Plus"
+    },
+    {
+      "id": 6,
+      "link": "https://www.youtube.com/channel/UCQprMsG-raCIMlBudm20iLQ",
+      "name": "YouTube"
+    },
+    {
+      "id": 7,
+      "link": "https://www.linkedin.com/groups/FOSSASIA-3762811",
+      "name": "Linkedin"
+    },
+    {
+      "id": 8,
+      "link": "http://2016.fossasia.org/",
+      "name": "External Event URL"
+    }
+  ],
+  "original-image-url": null,
+  "logo-url": "img/fossasia-long.png",
+  "organizer-name": "FOSSASIA",
+  "organizer-description": "FOSSASIA is the premier Free and Open Source technology event in Asia for developers, start-ups, and contributors. Projects at FOSSASIA range from open hardware, to design, graphics and software. FOSSASIA was established in 2009. Previous events took place in Cambodia and Vietnam.",
+  "ticket-url": "http://www.eventnook.com/event/fossasia",
+  "privacy": "public",
+  "type": "Conference",
+  "topic": "Science & Technology",
+  "sub-topic": null,
+  "code-of-conduct": "",
+  "event-copyright": {
+    "holder": "FOSSASIA",
+    "holder-url": "http://fossasia.org/contact/",
+    "licence": "Creative Commons Attribution License",
+    "licence-url": "http://creativecommons.org/licenses/by/4.0/",
+    "logo-url": "https://i.creativecommons.org/l/by/4.0/80x15.png",
+    "year": 2015
+  },
+  "speakers-call": {
+    "announcement": "<p>Wanna speak at our prestigious event. Send us a proposal</p>",
+    "ends-at": "2015-03-08T20:30:00+00:00",
+    "privacy": "public",
+    "starts-at": "2015-03-04T19:30:00+00:00",
+    "timezone": "UTC"
+  },
+  "email": "contact@fossasia.org",
+  "is-session-speakers-enabled": true,
+  "schedule-published-on": "2015-03-12T00:00:00+08:00",
+  "searchable-location-name": null,
+  "state": "Completed",
+  "version": {
+    "event_ver": 1,
+    "microlocations_ver": 2,
+    "sessions_ver": 3,
+    "speakers_ver": 2,
+    "sponsors_ver": 3,
+    "tracks_ver": 4
+  }
+}
