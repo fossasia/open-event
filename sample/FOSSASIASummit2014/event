@@ -47,13 +47,13 @@
 	"speakers-call": {
 		"announcement": "<p>Wanna speak at our prestigious event. Send us a proposal</p>",
 		"starts-at": "2014-02-14T19:30:00+07:00",
-		"timezone": "Asia/Phnom_Penh",
+		"timezone": "SG",
 		"privacy": "public",
 		"ends-at": "2014-02-27T20:30:00+07:00"
 
 	},
 	"logo-url": "/images/fossasia-dark.png",
-	"timezone": "Asia/Phnom_Penh",
+	"timezone": "SG",
 	"searchable-location-name": null,
 	"description": "3 Days of Pure Knowledge Sharing, 71 International Speakers, 15 Presenters from Cambodia, 121 Talks, Workshops and Panels, 8 tracks per day, Hands-on Labs and Hacking practice for everyone.",
 	"is-sessions-speakers-enabled": true,
