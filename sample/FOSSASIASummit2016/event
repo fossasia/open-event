@@ -48,7 +48,7 @@
   "speakers-call": {
     "announcement": "<p>Wanna speak at our prestigious event. Send us a proposal</p>",
     "starts-at": "2016-03-10T19:30:00+00:00",
-    "timezone": "UTC",
+    "timezone": "SG",
     "privacy": "public",
     "ends-at": "2016-03-16T20:30:00+00:00"
   },

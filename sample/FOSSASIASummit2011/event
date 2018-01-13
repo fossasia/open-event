@@ -47,12 +47,12 @@
 	"speakers-call": {
         	"announcement": "<p>Wanna speak at our prestigious event. Send us a proposal</p>",
 		"starts_at": "2011-10-14T19:30:00+07:00",
-		"timezone": "Asia/Ho_Chi_Minh",
+		"timezone": "SG",
 		"privacy": "public",
         	"ends-at": "2011-10-27T20:30:00+07:00"
         },
 	"logo-url": "/images/fossasia-dark.png",
-	"timezone": "Asia/Ho_Chi_Minh",
+	"timezone": "SG",
 	"searchable_location_name": null,
 	"description": "The main topics of FOSSASIA 2011 are all related to Free and Open Source Software with a track for Mobile Solutions, Web Technologies, Operating Systems and Applications, and Women in IT.",
 	"is-sessions-speakers-enabled": true,
