@@ -6,7 +6,7 @@ build:
   theme:
     name: sphinx_fossasia_theme
   subproject:
-    - url: https://github.com/fossasia/open-event-orga-server
+    - url: https://github.com/fossasia/open-event-server
     - url: https://github.com/fossasia/open-event-frontend
     - url: https://github.com/fossasia/open-event-android
     - url: https://github.com/fossasia/open-event-webapp

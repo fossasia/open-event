@@ -10,13 +10,13 @@ The components support organizers in all stages from event planning to publishin
 
 **1. The Open Event Format Definition [[JSON Schema Sample](/sample/)]**
 
-**2. The Open Event Orga Server [[Repository](https://github.com/fossasia/open-event-orga-server)]**
+**2. The Open Event Server [[Repository](https://github.com/fossasia/open-event-server)]**
 
 **3. The Open Event Android App Generator [[Repository](https://github.com/fossasia/open-event-android)]**
 
 **4. The Open Event Web App Generator [[Repository](https://github.com/fossasia/open-event-webapp)]**
 
-The source code of each component has its Own Repository and Technology Stack. The software applications can be hosted as stand alone solutions or they can be integrated as microservices into the **Open Event Orga Server** through APIs. 
+The source code of each component has its Own Repository and Technology Stack. The software applications can be hosted as stand alone solutions or they can be integrated as microservices into the **Open Event Server** through APIs. 
 
 The **Open Event Project** was originally started to support the organization of the **[FOSSASIA OpenTechSummit](http://fossasia.org)** and is maintained by the **FOSSASIA** community.
 
@@ -47,13 +47,13 @@ This repository holds the **JSON Schema** sample implementation in the [/sample]
 
 #### Chat Channel: https://gitter.im/fossasia/open-event
 
-### Open Event Organizer Server
+### Open Event Server
 
-> The **Open Event Orga Server** enables organizers to manage events from concerts to conferences and meetups. It offers features for events with several tracks and venues. Event managers can create invitation forms for speakers and build schedules in a Drag & Drop interface. The event information is stored in a database, which can be a `sqlite-db` file or saved in `json` itself. The system provides API endpoints to fetch the data, and to modify and update it. Organizers can import and export event data in a standard compressed file format that includes the event data in `JSON` and binary media files like images and audio.
+> The **Open Event Server** enables organizers to manage events from concerts to conferences and meetups. It offers features for events with several tracks and venues. Event managers can create invitation forms for speakers and build schedules in a Drag & Drop interface. The event information is stored in a database, which can be a `sqlite-db` file or saved in `json` itself. The system provides API endpoints to fetch the data, and to modify and update it. Organizers can import and export event data in a standard compressed file format that includes the event data in `JSON` and binary media files like images and audio.
 
-#### Repository: https://github.com/fossasia/open-event-orga-server   
+#### Repository: https://github.com/fossasia/open-event-server   
 
-#### Chat Channel: https://gitter.im/fossasia/open-event-orga-server
+#### Chat Channel: https://gitter.im/fossasia/open-event-server
 
 ### Open Event Android App
  
