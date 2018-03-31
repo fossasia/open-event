@@ -1,5 +1,6 @@
 {
-  "Email": "spark@gmail.com",
-  "App_Name": "Spark Summit 2017",
-  "Api_Link": "https://raw.githubusercontent.com/fossasia/open-event/master/sample/SparkSummit17"
+  "email": "spark@gmail.com",
+  "app-name": "Spark Summit 2017",
+  "api-link": "",
+  "is-auth-enabled": false
 }
