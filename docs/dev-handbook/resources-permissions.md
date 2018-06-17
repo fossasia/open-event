@@ -390,8 +390,8 @@ Ever user has the ability to control the types of notifications they recieve fro
 
  Two different forms of discount code can exist. (Both use the same model/resource/api)
  
-1. Created by the super admin and can be applied to whole events when creating an event. (this discount is on the total ticket sales service fee that goes to Open Event) - `user-for=event`
-2. Created by an event's organizer to be used on a specific event's tickets - `user-for=ticket`
+1. Created by the super admin and can be applied to whole events when creating an event. (this discount is on the total ticket sales service fee that goes to Open Event) - `used-for=event`
+2. Created by an event's organizer to be used on a specific event's tickets - `used-for=ticket`
 
 
 |   | List | View | Create | Update | Delete |
