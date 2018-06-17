@@ -13,7 +13,7 @@
 ##### Server level roles
 - **Superadmin** - The super admin user of the API Server instance. (There will only be one)
 - **Admin** - An admin user of the API Server instance. (There can be multiple.)
-- **Sales Admin** - Sales adminitrator for the Open Event application. Can view/create/delete marketers, event creation discount codes (discount codes applied while creating an event. This will be the discount on the service fee the event organizer pays to eventyay from ticket sales), view sales data.
+- **Sales Admin** - Sales administrator for the Open Event application. Can view/create/delete marketers, event creation discount codes (discount codes applied while creating an event. This will be the discount on the service fee the event organizer pays to eventyay from ticket sales), view sales data.
 - **Marketer** - A marketer will go and sell eventyay and try to bring more users into the site using assigned discount codes. View sales info. Will be assigned discount codes and can view them.
 
 ##### Event level roles
