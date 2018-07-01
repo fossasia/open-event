@@ -314,7 +314,7 @@ Each purchase request starts with the creation of an order resource. It holds th
 
 #### Attendees - Eg. `/v1/attendees`
 
-Attendee (aka Ticket Holder) is part of every order. An order would have atleast one attendee attached to it. An attendee can be linked to only one ticket. A pdf with a single ticket will be available her on successful order completion. 
+Attendee (aka Ticket Holder) is part of every order. An order would have atleast one attendee attached to it. An attendee can be linked to only one ticket. A pdf with a single ticket will be available here on successful order completion. 
 
 |   | List | View | Create | Update | Delete |
 |---|------|------|--------|--------|--------|
