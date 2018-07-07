@@ -1644,7 +1644,7 @@
         "position": null, 
         "country": "herrnelles", 
         "short_biography": "", 
-        "long_biography": "Jan Nikolai Nelles is a multi-disciplinary artist based in Berlin. He graduated from Offenbach University of Art and Design in 2011.   His work oscillates between visual and media art. In the past he founded an independent art gallery in Offenbach, Germany, and co-founded a photography magazine. Since 2009, he also collaborates with Nora Al-Badri on several artistic interventions.", 
+        "long_biography": "Jan Nikolai Nelles is a multi-disciplinary artist based in Berlin. He graduated from Offenbach University of Art and Design in 2011.His work oscillates between visual and media art. In the past he founded an independent art gallery in Offenbach, Germany, and co-founded a photography magazine. Since 2009, he also collaborates with Nora Al-Badri on several artistic interventions.", 
         "website": "http://oszilat.com", 
         "twitter": "https://twitter.com/nextnikolai", 
         "facebook": null, 
@@ -1881,3 +1881,4 @@
         ]
     }
 ]
+
