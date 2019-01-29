@@ -29,10 +29,13 @@ The app also offers other modern features such as easy check-in using QR codes. 
 [![Repository](https://img.shields.io/badge/Repository-Visit-blue.svg)](https://github.com/fossasia/open-event-ios) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fossasia/open-event-ios)
 The **Open Event iOS App** is the iOS counterpart of the Open Event Android app, currently in development. The app will eventually achieve the same functionalities as the Open Event Android app, and alloww users to discover event, book tickets, and will use the Open Event Server as the backend.
 
-### The Open Event Organiser App
+### The Open Event Organiser Android App
 [![Repository](https://img.shields.io/badge/Repository-Visit-blue.svg)](https://github.com/fossasia/open-event-orga-app) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fossasia/open-event-orga-app)
 The Open Event Organiser app is intended for the organizers and entry managers who intend for their event to be available in the Open Event Ecosystem. While the Open Event Android and iOS apps allow the users to browse the events happening around them, the organiser app allows creation and management of those events from an organzer's perspective with intuitive features like push notifications, ticket management, and check in using QR codes.
 
+### The Open Event Organiser iOS App
+[![Repository](https://img.shields.io/badge/Repository-Visit-blue.svg)](https://github.com/fossasia/open-event-orga-iOS) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fossasia/open-event-ios)
+The **Open Event Organiser iOS App** is the iOS counterpart of the Open Event Organiser Android app, currently in development. The app will eventually achieve the same functionalities as the Open Event Organiser Android app, and allow the users to browse the events happening around them, the organiser app allows creation and management of those events from an organzer's perspective with intuitive features like push notifications, ticket management, and check in using QR codes.
 
 ### Open Event Web App Generator
 [![Repository](https://img.shields.io/badge/Repository-Visit-blue.svg)](https://github.com/fossasia/open-event-webapp) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fossasia/open-event-web-app)
