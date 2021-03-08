@@ -1,5 +1,4 @@
 # Open Event
-![Open Event](https://storage.googleapis.com/eventyay.com/assets/branding/base_branding.png)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fossasia/open-event?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Mailing List](https://img.shields.io/badge/Mailing%20List-FOSSASIA-blue.svg)](https://groups.google.com/forum/#!forum/open-event)
 
 The Open Event Project offers event managers a platform to help users organize events including concerts, conferences, summits and regular meetups . The components support organizers through all stages from event planning to publishing, marketing and ticket sales. Automated web and mobile apps help attendees to get information easily. The Open Event Project was originally started to support the organization of the [FOSSASIA OpenTechSummit](http://fossasia.org) and is maintained by the **FOSSASIA** community.The Open Event boasts a diverse ecosystem and is composed of several components:
