@@ -18,7 +18,7 @@ The **Open Event Server** is the centralised backend powering most of the compon
 
 ### The Open Event Frontend
 [![Repository](https://img.shields.io/badge/Repository-Visit-blue.svg)](https://github.com/fossasia/open-event-frontend) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fossasia/open-event-frontend)
-The **Open Event Frontend** as the name suggests, is a web app written in Ember.js which consumes the Open Event Server API to give the users a medium to interact with the several functionalities and features which the open event server offers, in an intuitive manner, with a moder UI/UX. It's responsive design allows effecient browsing on mobile web browswers along with large screen devices. While the open event server serves as the backend, all the users including administrators need to interact only with the frontend.
+The **Open Event Frontend** as the name suggests, is a web app written in Ember.js which consumes the Open Event Server API to give the users a medium to interact with the several functionalities and features which the open event server offers, in an intuitive manner, with a moder UI/UX. It's responsive design allows effecient browsing on mobile web browsers along with large screen devices. While the open event server serves as the backend, all the users including administrators need to interact only with the frontend.
 
 ### The Open Event Android App
 [![Repository](https://img.shields.io/badge/Repository-Visit-blue.svg)](https://github.com/fossasia/open-event-android) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fossasia/open-event-android)
